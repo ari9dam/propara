@@ -1,0 +1,16 @@
+p1,p2,p3
+organism,"crystals, crystalized minerals, minerals",fossil
+SENTENCE,PHRASE,REFERENCE
+An organism dies.,an organism,p1
+Water seeps into the remains.,water,
+Water seeps into the remains.,into the remains,
+Water seeps into the remains.,the remains,
+Minerals dissolved in the water form crystals.,minerals,p2
+Minerals dissolved in the water form crystals.,in the water,
+Minerals dissolved in the water form crystals.,the water,
+Crystalized minerals cause the remains to harden.,minerals,p2
+Crystalized minerals cause the remains to harden.,crystalized minerals,p2
+Crystalized minerals cause the remains to harden.,the remains to harden,
+Crystalized minerals cause the remains to harden.,the remains,
+The minerals form a fossil.,the minerals,p2
+The minerals form a fossil.,a fossil,p3

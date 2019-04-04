@@ -1,0 +1,27 @@
+p1,p2,p3,p4
+embryo,fetus,infancy and childhood,adult
+SENTENCE,PHRASE,REFERENCE
+A man and woman mate.,a man and woman,
+Embryo is created.,embryo,p1
+Embryo grows and develops into a fetus inside the woman's womb.,embryo,p1
+Embryo grows and develops into a fetus inside the woman's womb.,inside the woman 's womb,
+Embryo grows and develops into a fetus inside the woman's womb.,embryo,p1
+Embryo grows and develops into a fetus inside the woman's womb.,into a fetus,p2
+Embryo grows and develops into a fetus inside the woman's womb.,inside the woman 's womb,
+The fetus is born.,the fetus,p2
+Begins to grow and develop through infancy and childhood.,to grow and develop through infancy and childhood,p3
+Begins to grow and develop through infancy and childhood.,through infancy and childhood,p3
+Begins to grow and develop through infancy and childhood.,through infancy and childhood,p3
+Begins to grow and develop through infancy and childhood.,through infancy and childhood,p3
+Begins to grow and develop through infancy and childhood.,infancy and childhood,p3
+In the teenage years the human experiences puberty.,in the teenage years,
+In the teenage years the human experiences puberty.,the human,
+In the teenage years the human experiences puberty.,puberty,
+Reaches sexual maturity.,sexual maturity,
+At 18 the human becomes an adult.,at 18,
+At 18 the human becomes an adult.,the human,
+At 18 the human becomes an adult.,an adult,p4
+Adult may procreate continuing the cycle.,adult,p4
+Adult may procreate continuing the cycle.,continuing the cycle,
+Adult may procreate continuing the cycle.,adult,p4
+Adult may procreate continuing the cycle.,the cycle,

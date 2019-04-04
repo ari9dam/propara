@@ -1,0 +1,24 @@
+p1,,
+"seedlings, seed, seeds",,
+SENTENCE,PHRASE,REFERENCE
+Plants produce seedlings.,plants,
+Plants produce seedlings.,seedlings,p1
+The animal passes by the plant.,the animal,
+The animal passes by the plant.,by the plant,
+The animal passes by the plant.,the plant,
+Eats from the plant or brushes the plant with the animal's fur.,from the plant,
+Eats from the plant or brushes the plant with the animal's fur.,the plant,
+The seeds are eaten by the animal or become attached to the fur.,the seeds,p1
+The seeds are eaten by the animal or become attached to the fur.,the animal,
+The seeds are eaten by the animal or become attached to the fur.,the seeds,p1
+The seeds are eaten by the animal or become attached to the fur.,attached to the fur,
+The seeds are eaten by the animal or become attached to the fur.,the seeds,p1
+The seeds are eaten by the animal or become attached to the fur.,to the fur,
+The seed is digested by the animal and excreted into a new area.,the seed,p1
+The seed is digested by the animal and excreted into a new area.,the animal,
+The seed is digested by the animal and excreted into a new area.,the seed,p1
+The seed is digested by the animal and excreted into a new area.,into a new area,
+The seed is digested by the animal and excreted into a new area.,a new area,
+The seeds attached to the animal's fur fall off into a new area.,the seeds,p1
+The seeds attached to the animal's fur fall off into a new area.,to the animal 's fur,
+The seeds attached to the animal's fur fall off into a new area.,the animal 's fur,

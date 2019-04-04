@@ -1,0 +1,42 @@
+p1,p2,p3,p4,p5,p6,p7
+sperm,egg,zygote,fetus,baby,person,other people
+SENTENCE,PHRASE,REFERENCE
+A sperm meets an egg in the uterus of a woman.,a sperm,p1
+A sperm meets an egg in the uterus of a woman.,an egg,p2
+A sperm meets an egg in the uterus of a woman.,in the uterus of a woman,
+The person retires and eventually passes away.,the person,p6
+The person retires and eventually passes away.,the person,p6
+The person retires and eventually passes away.,eventually,
+The person retires and eventually passes away.,away,
+The sperm implants itself into the egg.,the sperm,p1
+The sperm implants itself into the egg.,sperm,p1
+The sperm implants itself into the egg.,itself,
+The sperm implants itself into the egg.,into the egg,p2
+The sperm implants itself into the egg.,the egg,p2
+The sperm and egg form a zygote on the wall of the uterus.,the sperm and egg,"p1,p2"
+The sperm and egg form a zygote on the wall of the uterus.,a zygote,p3
+The sperm and egg form a zygote on the wall of the uterus.,on the wall of the uterus,
+The fetus grows and develops.,the fetus,p4
+The fetus grows and develops.,the fetus,p4
+The woman gives birth to a baby.,the woman,
+The woman gives birth to a baby.,birth to a baby,p5
+The woman gives birth to a baby.,a baby,p5
+The baby is raised by parents until it is able to take care of itself.,the baby,p5
+The baby is raised by parents until it is able to take care of itself.,parents,
+The baby is raised by parents until it is able to take care of itself.,until it is able to take care of itself,
+The baby is raised by parents until it is able to take care of itself.,the baby,p5
+The baby is raised by parents until it is able to take care of itself.,able to take care of itself,
+The baby is raised by parents until it is able to take care of itself.,the baby,p5
+The baby is raised by parents until it is able to take care of itself.,it,
+The baby is raised by parents until it is able to take care of itself.,care of itself,
+The person goes out into the world and finds a job.,the person,p6
+The person goes out into the world and finds a job.,out into the world,
+The person goes out into the world and finds a job.,the person,p6
+The person goes out into the world and finds a job.,a job,
+The person meets other people and has a life.,the person,p6
+The person meets other people and has a life.,other people,p7
+The person meets other people and has a life.,the person,p6
+The person meets other people and has a life.,a life,
+"The person gets a career, and gets married.",the person,p6
+"The person gets a career, and gets married.",a career,
+"The person gets a career, and gets married.",the person,p6

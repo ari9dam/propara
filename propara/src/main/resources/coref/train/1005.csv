@@ -1,0 +1,19 @@
+p1,p2
+water,ice
+SENTENCE,PHRASE,REFERENCE
+You take a tray.,you,
+You take a tray.,a tray,
+Add water into the tray.,water,p1
+Add water into the tray.,into the tray,
+Add water into the tray.,the tray,
+You insert the tray into a freezer.,you,
+You insert the tray into a freezer.,the tray,
+You insert the tray into a freezer.,into a freezer,
+You insert the tray into a freezer.,a freezer,
+The water molecules begin to slow down.,the water molecules,p1
+The water molecules begin to slow down.,to slow down,
+The water molecules begin to slow down.,the water molecules,p1
+The water becomes ice.,the water,p1
+The water becomes ice.,ice,p2
+The ice cubes are ready.,the ice cubes,p2
+The ice cubes are ready.,ready,

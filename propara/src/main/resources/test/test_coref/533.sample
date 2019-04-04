@@ -1,0 +1,43 @@
+observedAt("come","what v from something ?","a seed",1).
+observedAt("come","what does something v from ?","an adult tree",1).
+lvalue("an adult tree","adult tree").
+observedAt("sprout","what v from something ?","it",2).
+observedAt("sprout","where does something v ?","from the soil",2).
+lvalue("from the soil","soil").
+observedAt("sprout","what does something v from ?","the soil",2).
+lvalue("the soil","soil").
+observedAt("grow","what v into something ?","it",3).
+observedAt("grow","what does something v into ?","into a small seedling",3).
+observedAt("grow","what v ?","it",4).
+observedAt("grow","how does something v ?","bigger",4).
+observedAt("become","what v something ?","it",4).
+observedAt("become","what does something v ?","a sapling , a juvenile tree",4).
+lvalue("a sapling , a juvenile tree","tree").
+observedAt("reach","what v something ?","it",5).
+observedAt("reach","what does something v ?","maturity",5).
+observedAt("make","what v something ?","this",5).
+observedAt("make","what does something v ?","take",5).
+observedAt("make","how long does something v ?","many years",5).
+observedAt("take","what v something ?","this",5).
+observedAt("take","what does something v ?","many years",5).
+observedAt("depend","what v on something ?","many years",5).
+observedAt("depend","what does something v on ?","the type of tree",5).
+lvalue("the type of tree","tree").
+observedAt("begin","what will v to do something ?","the tree",6).
+lvalue("the tree","tree").
+observedAt("begin","what will something v to do ?","to age and decline",6).
+observedAt("die","what v ?","it",7).
+time(1..7).
+participant(p1;p2;p3;p4;p5).
+description(p1,"seed").
+description(p2,"sprouts").
+description(p3,"seedling").
+description(p4,"sapling").
+description(p5,"tree").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a seed").
+refers(1,p5,"an adult tree").
+refers(3,p3,"into a small seedling").
+refers(4,p4,"a sapling , a juvenile tree").
+refers(5,p5,"the type of tree").
+refers(6,p5,"the tree").

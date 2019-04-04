@@ -1,0 +1,16 @@
+p1,p2,p3,p4
+pressure,tectonic plates,cracks,earth's crust
+SENTENCE,PHRASE,REFERENCE,
+Pressure happens underground.,pressure,p1,
+Pressure happens underground.,underground,,
+Tectonic plates underground pull and stretch.,tectonic plates,p2,
+Tectonic plates underground pull and stretch.,tectonic plates,p2,
+Small cracks are formed in the earth's crust.,small cracks,p3,
+Small cracks are formed in the earth's crust.,in the earth 's crust,p4,
+Small cracks are formed in the earth's crust.,the earth 's crust,p4,
+The tectonic plates push hard against each other.,the tectonic plates,p2,
+The tectonic plates push hard against each other.,against each other,p2,
+The tectonic plates push hard against each other.,each other,p2,
+Some parts of the earth's crust move up high above the ground.,some parts of the earth 's crust,p4,
+Some parts of the earth's crust move up high above the ground.,up high above the ground,,
+Some parts of the earth's crust move up high above the ground.,high above the ground,,

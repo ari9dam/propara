@@ -1,0 +1,15 @@
+p1,p2
+magma,igneous rock
+SENTENCE,PHRASE,REFERENCE
+Magma rises to the surface during a volcano.,magma,p1
+Magma rises to the surface during a volcano.,to the surface,
+Magma rises to the surface during a volcano.,the surface,
+Magma rises to the surface during a volcano.,during a volcano,
+The magma undergoes changes in temperature.,the magma,p1
+The magma undergoes changes in temperature.,changes in temperature,
+The magma undergoes changes in pressure.,the magma,p1
+The magma undergoes changes in pressure.,changes in pressure,
+The magma cools.,the magma,p1
+The magma solidifies.,the magma,p1
+The magma crystallizes.,the magma,p1
+Igneous rock is formed.,igneous rock,p2

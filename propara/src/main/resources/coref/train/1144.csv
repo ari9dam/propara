@@ -1,0 +1,18 @@
+p1,p2
+forests,places to hide for animals
+SENTENCE,PHRASE,REFERENCE
+Forest fires burn forests.,forest fires,p1
+Forest fires burn forests.,forests,p1
+The animals living in the forest have fewer places to hide.,the animals,
+The animals living in the forest have fewer places to hide.,in the forest,p1
+The animals living in the forest have fewer places to hide.,the animals living in the forest,p1
+The animals living in the forest have fewer places to hide.,fewer places to hide,
+The animals living in the forest have fewer places to hide.,the animals,
+The animals living in the forest have fewer places to hide.,fewer places,
+Predators can now find their prey eaiser.,predators,
+Predators can now find their prey eaiser.,now,
+Predators can now find their prey eaiser.,their prey eaiser,
+Birds will fly away from the area.,birds,
+Birds will fly away from the area.,away from the area,
+Waters warm up which hurts the fish swimming in them.,waters warm up,
+Waters warm up which hurts the fish swimming in them.,the fish swimming in them,

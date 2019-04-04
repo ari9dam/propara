@@ -1,0 +1,22 @@
+p1,p2,p3
+"warm water, water",clouds,rain
+SENTENCE,PHRASE,REFERENCE
+Warm water rises off the seas.,warm water,p1
+Warm water rises off the seas.,off the seas,
+Warm water rises off the seas.,the seas,
+The water condenses as it cools and gets higher in the air.,the water,p1
+The water condenses as it cools and gets higher in the air.,as it cools,
+The water condenses as it cools and gets higher in the air.,as it cools and gets higher in the air,
+The water condenses as it cools and gets higher in the air.,the water,p1
+The water condenses as it cools and gets higher in the air.,the water,p1
+The water condenses as it cools and gets higher in the air.,higher in the air,
+The water condenses as it cools and gets higher in the air.,in the air,
+Then the condensation forms into clouds.,the condensation,
+Then the condensation forms into clouds.,clouds,p2
+The clouds travel over areas on land.,the clouds,p2
+The clouds travel over areas on land.,over areas on land,
+The clouds reach a saturation point.,the clouds,p2
+The clouds reach a saturation point.,a saturation point,
+The water falls from the clouds.,the water,p1
+The water falls from the clouds.,from the clouds,p2
+The water falls from the clouds.,the clouds,p2

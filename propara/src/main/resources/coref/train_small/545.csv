@@ -1,0 +1,17 @@
+p1,p2,p3
+fluid,"waste, larger molecules, bad waste",urine
+SENTENCE,PHRASE,REFERENCE
+Fluid.,Fluid.,p1
+Waste enters the kidneys.,waste,p2
+Waste enters the kidneys.,the kidneys,
+A processing moment in the kidneys let waste and fluid pass.,a processing moment,
+A processing moment in the kidneys let waste and fluid pass.,waste and fluid pass,"p1,p2"
+Prevents larger molecules to pass.,larger molecules,p2
+Prevents larger molecules to pass.,to pass,
+Prevents larger molecules to pass.,pass,
+Prevents larger molecules to pass.,larger molecules,p2
+Fluid goes back to the bloodstream.,fluid,p1
+Fluid goes back to the bloodstream.,back to the bloodstream,
+Bad waste is removed.,bad waste,p2
+The final product is turned into urine.,the final product,
+The final product is turned into urine.,urine,p3

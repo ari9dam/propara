@@ -1,0 +1,21 @@
+p1,p2
+oil,warm air
+SENTENCE,PHRASE,REFERENCE
+Oil is gathered through mining operations.,oil,p1
+Oil is gathered through mining operations.,through mining operations,
+Oil is gathered through mining operations.,mining operations,
+The oil is transported to stores.,the oil,p1
+The oil is transported to stores.,oil,p1
+The oil is transported to stores.,to stores,
+The oil is transported to stores.,stores,
+Oil is purchased by homeowners.,oil,p1
+Oil is purchased by homeowners.,homeowners,
+Oil is placed into a stove in the house.,oil,p1
+Oil is placed into a stove in the house.,into a stove in the house,
+Oil is placed into a stove in the house.,a stove,
+"The oil is lit on fire, and burns for a long time.",the oil,p1
+"The oil is lit on fire, and burns for a long time.",on fire,
+"The oil is lit on fire, and burns for a long time.",fire,
+The warm air off of the oil travels through the house.,the warm air off of the oil,"p1,p2"
+The warm air off of the oil travels through the house.,through the house,
+The warm air off of the oil travels through the house.,the house,

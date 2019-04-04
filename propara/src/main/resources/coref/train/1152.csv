@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+atoms,neutron,proton,electron
+SENTENCE,PHRASE,REFERENCE
+The nuclei of some atoms have too few or too many neutrons.,the nuclei of some atoms,p1
+The nuclei of some atoms have too few or too many neutrons.,too few or too many neutrons,p2
+The atoms become unstable.,the atoms,p1
+The atoms become unstable.,unstable,
+The atoms split.,the atoms,p1
+"In alpha decay, two protons and two neutrons are released from the atom.",in alpha decay,
+"In alpha decay, two protons and two neutrons are released from the atom.",two protons and two neutrons,"p2,p3"
+"In alpha decay, two protons and two neutrons are released from the atom.",from the atom,p1
+"In alpha decay, two protons and two neutrons are released from the atom.",the atom,p1
+"In beta decay, a neutron changes into a proton and an electron.",in beta decay,
+"In beta decay, a neutron changes into a proton and an electron.",a neutron,p2
+"In beta decay, a neutron changes into a proton and an electron.",into a proton and an electron,"p3,p4"
+"In beta decay, a neutron changes into a proton and an electron.",a proton and an electron,"p3,p4"
+The proton joins the nucleus of the atom.,the proton,p3
+The proton joins the nucleus of the atom.,the nucleus of the atom,p1
+The electron is released.,the electron,p4

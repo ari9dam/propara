@@ -1,0 +1,29 @@
+p1,p2,p3
+sediment,river,convection currents
+SENTENCE,PHRASE,REFERENCE
+Sediment becomes loose from the rest of the soil.,sediment,p1
+Sediment becomes loose from the rest of the soil.,loose,
+Sediment becomes loose from the rest of the soil.,from the rest of the soil,
+Sediment becomes loose from the rest of the soil.,the rest of the soil,
+The sediment rolls down hill towards a river.,the sediment,p1
+The sediment rolls down hill towards a river.,sediment,p1
+The sediment rolls down hill towards a river.,towards a river,p2
+The heavy items sink to the bottom.,the heavy items,
+The heavy items sink to the bottom.,to the bottom,
+The heavy items sink to the bottom.,the bottom,
+The lighter items float on the top and in convection cycles.,the lighter items,
+The lighter items float on the top and in convection cycles.,lighter items,
+The lighter items float on the top and in convection cycles.,on the top and in convection cycles,
+As the river flows the sediment is moved.,the river,p2
+As the river flows the sediment is moved.,the sediment,p1
+As the river flows the sediment is moved.,as the river flows,p2
+As the river flows the sediment is moved.,the sediment,p1
+The sediment gets dumped through tributaries into lakes and the ocean.,the sediment,p1
+The sediment gets dumped through tributaries into lakes and the ocean.,through tributaries into lakes and the ocean,
+The sediment gets dumped through tributaries into lakes and the ocean.,tributaries,
+The sediment keeps moving around the world in convection currents.,the sediment,p1
+The sediment keeps moving around the world in convection currents.,moving around the world,
+The sediment keeps moving around the world in convection currents.,in convection currents,p3
+The sediment keeps moving around the world in convection currents.,the sediment,p1
+The sediment keeps moving around the world in convection currents.,around the world,
+The sediment keeps moving around the world in convection currents.,in convection currents,p3

@@ -1,0 +1,12 @@
+p1,p2,p3,p4
+iron,oxygen,chemical reaction,rust
+SENTENCE,PHRASE,REFERENCE,
+Iron is exposed to oxygen.,iron,p1,
+Iron is exposed to oxygen.,oxygen,p2,
+Is exposed to air.,air,,
+A chemical reaction occurs.,a chemical reaction,p3,
+The iron starts to oxidize.,the iron,p1,
+The iron starts to oxidize.,to oxidize,,
+The iron starts to oxidize.,the iron,p1,
+The iron starts to rust.,the iron,p1,
+The iron starts to rust.,to rust,p4,

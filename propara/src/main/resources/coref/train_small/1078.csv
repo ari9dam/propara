@@ -1,0 +1,18 @@
+p1,p2,
+hydrogen bonds,DNA strand,
+SENTENCE,PHRASE,REFERENCE
+DNA replication is initiated by proteins.,dna replication,
+DNA replication is initiated by proteins.,proteins,
+The hydrogen bonds that hold together a strand of DNA are broken.,the hydrogen bonds,p1
+The hydrogen bonds that hold together a strand of DNA are broken.,a strand of dna,
+The hydrogen bonds that hold together a strand of DNA are broken.,the hydrogen bonds that hold together a strand of dna,p1
+A polymerase reads each side of the strand.,a polymerase,
+A polymerase reads each side of the strand.,each side of the strand,
+Adds complimentary nucleotides.,complimentary nucleotides,
+"Once all the bases are matched, the new DNA strand is formed.",all the bases,
+"Once all the bases are matched, the new DNA strand is formed.",once all the bases are matched,
+"Once all the bases are matched, the new DNA strand is formed.",the new dna strand,p2
+DNA ligase seals the new pieces into two new strands.,dna ligase,
+DNA ligase seals the new pieces into two new strands.,the new pieces,
+DNA ligase seals the new pieces into two new strands.,into two new strands,p2
+DNA ligase seals the new pieces into two new strands.,two new strands,p2

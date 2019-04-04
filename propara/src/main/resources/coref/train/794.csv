@@ -1,0 +1,25 @@
+p1,p2,p3
+air,oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+Air enters the lungs through bronchial tubes.,air,p1
+Air enters the lungs through bronchial tubes.,the lungs,
+Air enters the lungs through bronchial tubes.,through bronchial tubes,
+Air enters bronchioles.,air,p1
+Air enters bronchioles.,bronchioles,
+Bronchioles have tiny air sacs called alveoli.,bronchioles,
+Bronchioles have tiny air sacs called alveoli.,tiny air sacs called alveoli,p1
+Bronchioles have tiny air sacs called alveoli.,tiny air sacs,p1
+Bronchioles have tiny air sacs called alveoli.,alveoli,
+Alveoli surrounded by small blood vessels.,alveoli,
+Alveoli surrounded by small blood vessels.,small blood vessels,
+Oxygen absorbed by small blood vessels.,oxygen,p2
+Oxygen absorbed by small blood vessels.,small blood vessels,
+Vessels deliver oxygen to every cell in the body.,vessels,
+Vessels deliver oxygen to every cell in the body.,oxygen,p2
+Vessels deliver oxygen to every cell in the body.,to every cell in the body,
+Blood brings carbon dioxide back to lungs.,blood,
+Blood brings carbon dioxide back to lungs.,carbon dioxide,p3
+Blood brings carbon dioxide back to lungs.,back to lungs,
+Carbon dioxide released when you exhale.,carbon dioxide,p3
+Carbon dioxide released when you exhale.,when you exhale,
+Carbon dioxide released when you exhale.,you,

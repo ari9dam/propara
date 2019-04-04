@@ -1,0 +1,31 @@
+p1,p2,p3
+air,oxygen,"carbon dioxide, waste gas"
+SENTENCE,PHRASE,REFERENCE
+He air we breathe contains oxygen and other gases.,he,
+He air we breathe contains oxygen and other gases.,he air we breathe,p1
+He air we breathe contains oxygen and other gases.,oxygen and other gases,p2
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",once in the lungs,
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",in the lungs,
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",oxygen,p2
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",into the bloodstream,
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",the bloodstream,
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",through your body,
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",oxygen,p2
+"Once in the lungs, oxygen is moved into the bloodstream and carried through your body.",your body,
+"At each cell in your body, oxygen is exchanged for a waste gas called carbon dioxide.",at each cell in your body,
+"At each cell in your body, oxygen is exchanged for a waste gas called carbon dioxide.",oxygen,p2
+"At each cell in your body, oxygen is exchanged for a waste gas called carbon dioxide.",a waste gas called carbon dioxide,p3
+"At each cell in your body, oxygen is exchanged for a waste gas called carbon dioxide.",a waste gas,p3
+"At each cell in your body, oxygen is exchanged for a waste gas called carbon dioxide.",carbon dioxide,p3
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,your bloodstream,
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,this waste gas,p3
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,back to the lungs,
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,waste gas,p3
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,from the blood stream,
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,the blood stream,
+Your bloodstream then carries this waste gas back to the lungs where it is removed from the blood stream and then exhaled.,your bloodstream,
+"Your lungs and respiratory system automatically perform this vital process, called gas exchange.",your lungs and respiratory system,
+"Your lungs and respiratory system automatically perform this vital process, called gas exchange.",automatically,
+"Your lungs and respiratory system automatically perform this vital process, called gas exchange.","this vital process , called gas exchange",
+"Your lungs and respiratory system automatically perform this vital process, called gas exchange.",this vital process,
+"Your lungs and respiratory system automatically perform this vital process, called gas exchange.",gas exchange,

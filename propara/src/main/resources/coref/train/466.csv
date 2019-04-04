@@ -1,0 +1,20 @@
+p1,p2,p3
+salt water,salt,water
+SENTENCE,PHRASE,REFERENCE
+Salt water is contained in a factory or plant.,salt water,"p1,p2,p3"
+Salt water is contained in a factory or plant.,in a factory or plant,
+Salt water is contained in a factory or plant.,a factory or plant,
+The water is boiled to a very high tempature.,the water,p3
+The water is boiled to a very high tempature.,to a very high tempature,
+The water is boiled to a very high tempature.,a very high tempature,
+The salt becomes seperated from the water.,the salt,p2
+The salt becomes seperated from the water.,seperated from the water,p3
+The salt becomes seperated from the water.,the salt,p2
+The salt becomes seperated from the water.,from the water,p3
+The salt becomes seperated from the water.,the water,p3
+The sale is removed.,the sale,
+The water is able to be drank at this point.,the water,p3
+The water is able to be drank at this point.,able to be drank,
+The water is able to be drank at this point.,at this point,
+The water is able to be drank at this point.,the water,p3
+The water is able to be drank at this point.,at this point,

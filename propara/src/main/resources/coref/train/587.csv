@@ -1,0 +1,22 @@
+p1,p2,p3,p4
+"egg, eggs",larva,pupa,adult butterfly
+SENTENCE,PHRASE,REFERENCE
+A butterfly starts as an egg.,a butterfly,
+A butterfly starts as an egg.,as an egg,p1
+A butterfly starts as an egg.,an egg,p1
+The adult butterfly lays more eggs.,the adult butterfly,p4
+The adult butterfly lays more eggs.,more eggs,p1
+The egg hatches.,the egg,p1
+A larva emerges.,a larva,p2
+The larva eats and grows.,the larva,p2
+The larva eats and grows.,the larva,p2
+The larva sheds its skin.,the larva,p2
+The larva sheds its skin.,its skin,
+The larva enters a chrysalis.,the larva,p2
+The larva enters a chrysalis.,a chrysalis,
+The pupa grows inside the chrysalis.,the pupa,p3
+The pupa grows inside the chrysalis.,inside the chrysalis,
+The adult butterfly exits the chrysalis.,the adult butterfly,p4
+The adult butterfly exits the chrysalis.,the chrysalis,
+The adult butterfly is now fully grown.,the adult butterfly,p4
+The adult butterfly is now fully grown.,fully,

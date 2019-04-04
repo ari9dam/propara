@@ -1,0 +1,24 @@
+p1,p2,p3
+Adult mushroom,spores,mushroom
+SENTENCE,PHRASE,REFERENCE
+Adult mushrooms produce spores.,adult mushrooms,"p1,p3"
+Adult mushrooms produce spores.,spores,p2
+Release them into the air by process of sporulation.,them,
+Release them into the air by process of sporulation.,into the air,
+Release them into the air by process of sporulation.,by process of sporulation,
+Spores are carried by the wind.,spores,p2
+Spores are carried by the wind.,by the wind,
+Spores are carried by the wind.,the wind,
+Land in a hospitable growing environment.,hospitable,
+Land in a hospitable growing environment.,environment,
+The spores germinate into the soil.,the spores,p2
+The spores germinate into the soil.,into the soil,
+The spores germinate into the soil.,the soil,
+The mushroom starts growing.,the mushroom,p3
+The mushroom starts growing.,growing,
+The mushroom starts growing.,the mushroom,p3
+The adult mushroom produce spores of its own to repeat the process.,the adult mushroom,"p1,p3"
+The adult mushroom produce spores of its own to repeat the process.,spores of its own,p2
+The adult mushroom produce spores of its own to repeat the process.,to repeat the process,
+The adult mushroom produce spores of its own to repeat the process.,the adult mushroom,"p1,p3"
+The adult mushroom produce spores of its own to repeat the process.,the process,

@@ -1,0 +1,19 @@
+p1,p2
+"water vapor, lifted vapor, vapor","solid, cloud droplets"
+SENTENCE,PHRASE,REFERENCE
+Water vapor is in the atmosphere.,water vapor,p1
+Water vapor is in the atmosphere.,in the atmosphere,
+Water vapor is lifted up.,water vapor,p1
+Water vapor is lifted up.,up,
+Lifted vapor cools below dew point.,vapor,p1
+Lifted vapor cools below dew point.,below dew point,
+Lifted vapor cools below dew point.,lifted vapor,p1
+Lifted vapor cools below dew point.,below dew point,
+Vapor turns into a solid.,vapor,p1
+Vapor turns into a solid.,into a solid,p2
+Cloud droplets aggregate into larger sizes.,cloud droplets,p2
+Cloud droplets aggregate into larger sizes.,into larger sizes,
+Cloud droplets aggregate into larger sizes.,larger sizes,
+Cloud droplets drop from the sky.,cloud droplets,p2
+Cloud droplets drop from the sky.,from the sky,
+Cloud droplets drop from the sky.,the sky,

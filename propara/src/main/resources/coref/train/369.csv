@@ -1,0 +1,17 @@
+p1,p2,p3
+roots,fibers,water
+SENTENCE,PHRASE,REFERENCE
+PLants have roots.,plants,
+PLants have roots.,roots,p1
+The roots grow out.,the roots,p1
+The roots grow out.,out,
+Roots have fibers that are attached to them.,roots,p1
+Roots have fibers that are attached to them.,fibers that are attached to them,p2
+Roots have fibers that are attached to them.,fibers,p2
+Roots have fibers that are attached to them.,them,
+They attract water.,they,
+They attract water.,water,p3
+They suck up water.,they,
+They suck up water.,water,p3
+They absorb the water.,they,
+They absorb the water.,the water,p3

@@ -1,0 +1,16 @@
+p1,p2,p3
+water,rocks,cracks
+SENTENCE,PHRASE,REFERENCE
+Water seeps into rocks.,water,p1
+Water seeps into rocks.,into rocks,p2
+Water seeps into rocks.,rocks,p2
+The water freezes and thaws.,the water,p1
+The water freezes and thaws.,the water,p1
+Cracks form in the rocks.,cracks,p3
+Cracks form in the rocks.,in the rocks,p2
+Cracks form in the rocks.,the rocks,p2
+Cracks also form when rocks heat up.,cracks,p3
+Cracks also form when rocks heat up.,when rocks heat up,p2
+Cracks also form when rocks heat up.,rocks,p2
+The rocks slowly break down.,the rocks,p2
+The rocks slowly break down.,slowly,

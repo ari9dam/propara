@@ -1,0 +1,21 @@
+p1,p2
+oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+You breathe oxygen into your body through the nose or mouth.,you,
+You breathe oxygen into your body through the nose or mouth.,oxygen,p1
+You breathe oxygen into your body through the nose or mouth.,into your body,
+You breathe oxygen into your body through the nose or mouth.,through the nose or mouth,
+The oxygen travels to the lungs through the windpipe.,the oxygen,p1
+The oxygen travels to the lungs through the windpipe.,to the lungs,
+The oxygen travels to the lungs through the windpipe.,the lungs,
+The oxygen travels to the lungs through the windpipe.,through the windpipe,
+The air sacs in the lungs send the oxygen into the blood stream.,the air sacs in the lungs,
+The air sacs in the lungs send the oxygen into the blood stream.,the oxygen,p1
+The air sacs in the lungs send the oxygen into the blood stream.,into the blood stream,
+The air sacs in the lungs send the oxygen into the blood stream.,the blood stream,
+The carbon dioxide in the blood stream is transferred to the air sacs.,the carbon dioxide in the blood stream,p2
+The carbon dioxide in the blood stream is transferred to the air sacs.,to the air sacs,
+The carbon dioxide in the blood stream is transferred to the air sacs.,the air sacs,
+The lungs expel through the nose or mouth back into the environment.,the lungs,
+The lungs expel through the nose or mouth back into the environment.,through the nose or mouth,
+The lungs expel through the nose or mouth back into the environment.,the nose or mouth,

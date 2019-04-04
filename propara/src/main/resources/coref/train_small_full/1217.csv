@@ -1,0 +1,16 @@
+p1,p2,
+Tree,Seeds,
+SENTENCE,PHRASE,REFERENCE
+A tree produces seeds.,a tree,
+A tree produces seeds.,seeds,p2
+"The seeds are dispersed by wind, animals, etc.",the seeds,p2
+"The seeds are dispersed by wind, animals, etc.","by wind , animals , etc",
+"The seeds are dispersed by wind, animals, etc.","wind , animals , etc",
+The seeds reach the ground.,the seeds,p2
+The seeds reach the ground.,the ground,
+Grow into new trees.,new trees,p1
+These new trees produce seeds.,these new trees,p1
+These new trees produce seeds.,seeds,p2
+The process repeats itself over and over.,the process,
+The process repeats itself over and over.,itself,
+The process repeats itself over and over.,over and over,

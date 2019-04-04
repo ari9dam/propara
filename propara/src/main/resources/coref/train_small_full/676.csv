@@ -1,0 +1,16 @@
+p1,p2,p3,p4,p5,p6,p7
+plant,soft parts of the plant,hard parts of the plant,minerals,sediment,rock,fossil
+SENTENCE,PHRASE,REFERENCE,,,,
+A plant dies.,a plant,p1,,,,
+The remains of the plant are buried very fast in sediment.,the remains of the plant,p1,,,,
+The remains of the plant are buried very fast in sediment.,very fast in sediment,p5,,,,
+The remains of the plant are buried very fast in sediment.,in sediment,p5,,,,
+The soft parts of the plant decay.,decay,,,,,
+The soft parts of the plant decay.,the soft parts of the plant,p2,,,,
+The hard parts of the plant are replaced with minerals.,the hard parts of the plant,p3,,,,
+The hard parts of the plant are replaced with minerals.,minerals,p4,,,,
+The sediment turns into rock.,the sediment,p5,,,,
+The sediment turns into rock.,rock,p6,,,,
+The rock erodes.,the rock,p6,,,,
+The fossil appears on the surface of the ground.,the fossil,p7,,,,
+The fossil appears on the surface of the ground.,on the surface of the ground,,,,,

@@ -1,0 +1,11 @@
+p1,p2,p3,p4
+"seed, seeds",plant,flowers,fruit
+SENTENCE,PHRASE,REFERENCE,
+The seed germinates.,the seed,p1,
+The plant grows.,the plant,p2,
+The plant flowers.,flower,p3,
+The plant flowers.,the plant,p2,
+Produces fruit.,fruit,p4,
+The fruit releases seeds.,the fruit,p4,
+The fruit releases seeds.,seeds,p1,
+The plant dies.,the plant,p2,

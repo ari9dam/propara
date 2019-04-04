@@ -1,0 +1,33 @@
+p1,p2
+satellite,rocket
+SENTENCE,PHRASE,REFERENCE
+You must decide the purpose of the satellite.,you,
+You must decide the purpose of the satellite.,the purpose of the satellite,p1
+You must draw up a plan to what kind of orbit the satellite will travel.,you,
+You must draw up a plan to what kind of orbit the satellite will travel.,a plan,
+You must draw up a plan to what kind of orbit the satellite will travel.,to what kind of orbit the satellite will travel,p1
+You must draw up a plan to what kind of orbit the satellite will travel.,the satellite,p1
+You make preparations for the rocket that will travel into space.,you,
+You make preparations for the rocket that will travel into space.,preparations for the rocket that will travel into space,p2
+You make preparations for the rocket that will travel into space.,the rocket,p2
+You make preparations for the rocket that will travel into space.,into space,
+You make preparations for the rocket that will travel into space.,space,
+Prepare the crew that will send it there.,the crew,
+Prepare the crew that will send it there.,the crew,
+Prepare the crew that will send it there.,it,
+Prepare the crew that will send it there.,there,
+You begin the countdown date for the rocket.,you,
+You begin the countdown date for the rocket.,the countdown date for the rocket,p2
+And then you send the rocket carrying the satellite into space.,you,
+And then you send the rocket carrying the satellite into space.,the rocket,p2
+And then you send the rocket carrying the satellite into space.,into space,
+And then you send the rocket carrying the satellite into space.,the rocket,p2
+And then you send the rocket carrying the satellite into space.,the satellite,p1
+And then you send the rocket carrying the satellite into space.,into space,
+And then you send the rocket carrying the satellite into space.,space,
+Once in orbit the satellite will be placed where it was planned.,once in orbit,
+Once in orbit the satellite will be placed where it was planned.,in orbit,
+Once in orbit the satellite will be placed where it was planned.,the satellite,p1
+Once in orbit the satellite will be placed where it was planned.,where it was planned,
+Once in orbit the satellite will be placed where it was planned.,once in orbit,
+Once in orbit the satellite will be placed where it was planned.,the satellite,p1

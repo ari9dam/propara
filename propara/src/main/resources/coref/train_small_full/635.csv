@@ -1,0 +1,37 @@
+p1,p2,p3
+egg,"baby bird, bird",wings
+SENTENCE,PHRASE,REFERENCE
+An egg is laid by a mother bird.,an egg,p1
+An egg is laid by a mother bird.,a mother bird,
+A baby bird forms within the egg if it is fertilized.,a baby bird,p2
+A baby bird forms within the egg if it is fertilized.,the egg,p1
+The baby bird begins pecking out of the egg.,the baby bird,p2
+The baby bird begins pecking out of the egg.,pecking out of the egg,p1
+The baby bird begins pecking out of the egg.,the baby bird,p2
+The baby bird begins pecking out of the egg.,out of the egg,p1
+The baby bird begins pecking out of the egg.,the egg,p1
+The baby bird is unable to fly to get food.,the baby bird,p2
+The baby bird is unable to fly to get food.,unable to fly,
+The baby bird is unable to fly to get food.,to get food,
+The baby bird is unable to fly to get food.,the baby bird,p2
+The baby bird is unable to fly to get food.,to get food,
+The baby bird is unable to fly to get food.,the baby bird,p2
+The baby bird is unable to fly to get food.,food,
+The mother bird must feed the baby bird food.,the mother bird,
+The mother bird must feed the baby bird food.,the baby bird food,p2
+The bird grows stronger and grows wings.,the bird,p2
+The bird grows stronger and grows wings.,stronger,
+The bird grows stronger and grows wings.,the bird,p2
+The bird grows stronger and grows wings.,wings,p3
+The bird is able to fly.,the bird,p2
+The bird is able to fly.,able to fly,
+The bird is able to fly.,the bird,p2
+The bird is able to leave the nest and find food.,the bird,p2
+The bird is able to leave the nest and find food.,able to leave the nest and find food,
+The bird is able to leave the nest and find food.,the bird,p2
+The bird is able to leave the nest and find food.,the nest,
+The bird is able to leave the nest and find food.,the bird,p2
+The bird is able to leave the nest and find food.,food,
+The bird is able to reproduce.,the bird,p2
+The bird is able to reproduce.,able to reproduce,
+The bird is able to reproduce.,the bird,p2

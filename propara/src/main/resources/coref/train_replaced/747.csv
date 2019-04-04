@@ -1,0 +1,22 @@
+p1,p2,p3,p4
+water,space,cave,cavern
+SENTENCE,PHRASE,REFERENCE
+Water from the surface seeps below the soil.,water from the surface,p1
+Water from the surface seeps below the soil.,below the soil,
+The water comes into contact with the rock below.,the water,p1
+The water comes into contact with the rock below.,contact with the rock below,
+The rock over the years carves through the rock.,the rock,
+The rock over the years carves through the rock.,over the years,
+The rock over the years carves through the rock.,through the rock,
+The rock over the years carves through the rock.,the rock,
+The space in the rock becomes larger and forms into a cave.,the space in the rock,p2
+The space in the rock becomes larger and forms into a cave.,larger,
+The space in the rock becomes larger and forms into a cave.,the space in the rock,p2
+The space in the rock becomes larger and forms into a cave.,into a cave,p3
+The space in the rock becomes larger and forms into a cave.,a cave,p3
+As more rather rushes through the cave becomes a cavern.,more rather,
+As more rather rushes through the cave becomes a cavern.,through the cave,p3
+As more rather rushes through the cave becomes a cavern.,the cave,p3
+As more rather rushes through the cave becomes a cavern.,as more rather rushes through the cave,p3
+As more rather rushes through the cave becomes a cavern.,the cave,p3
+As more rather rushes through the cave becomes a cavern.,a cavern,p4

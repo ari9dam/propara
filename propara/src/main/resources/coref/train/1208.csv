@@ -1,0 +1,26 @@
+p1,p2,p3,p4,p5,p6
+Fuel,Air,Mix,Spark,Gases,Energy
+SENTENCE,PHRASE,REFERENCE
+Fuel mixes with air.,fuel,p1
+Fuel mixes with air.,air,p2
+Mix gets inducted into cylinder.,mix,p3
+Mix gets inducted into cylinder.,into cylinder,
+Mix gets inducted into cylinder.,cylinder,
+Piston compresses the mix.,piston,
+Piston compresses the mix.,the mix,p3
+Spark plug emits a spark that ignites it causing combustion.,plug,
+Spark plug emits a spark that ignites it causing combustion.,spark plug,p4
+Spark plug emits a spark that ignites it causing combustion.,a spark,p4
+Spark plug emits a spark that ignites it causing combustion.,a spark,p4
+Spark plug emits a spark that ignites it causing combustion.,it,
+Spark plug emits a spark that ignites it causing combustion.,a spark,p4
+Spark plug emits a spark that ignites it causing combustion.,combustion,
+Combustion gases expand.,combustion gases,p5
+Pushes piston during power stroke.,piston,
+Pushes piston during power stroke.,during power stroke,
+Exhaust valve opens to vent exhaust out tail pipe.,exhaust valve,
+Exhaust valve opens to vent exhaust out tail pipe.,to vent exhaust out tail pipe,
+Exhaust valve opens to vent exhaust out tail pipe.,vent exhaust out tail pipe,
+Exhaust valve opens to vent exhaust out tail pipe.,exhaust valve,
+Exhaust valve opens to vent exhaust out tail pipe.,exhaust,
+Exhaust valve opens to vent exhaust out tail pipe.,tail pipe,

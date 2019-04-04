@@ -1,0 +1,21 @@
+p1,p2,p3,p4
+sweat,molecules,gas,heat from the body
+SENTENCE,PHRASE,REFERENCE
+As the sweat evaporates the sweat sheds molecules into the air.,the sweat,p1
+As the sweat evaporates the sweat sheds molecules into the air.,the sweat,p1
+As the sweat evaporates the sweat sheds molecules into the air.,molecules,p2
+As the sweat evaporates the sweat sheds molecules into the air.,into the air,
+The sweat changes into a gas.,the sweat,p1
+The sweat changes into a gas.,a gas,p3
+Heat is drawn from the sweat.,heat,
+Heat is drawn from the sweat.,from the sweat,p1
+Heat is drawn from the sweat.,the sweat,p1
+This process draws heat from the body.,this process,
+This process draws heat from the body.,heat,
+This process draws heat from the body.,from the body,
+This process draws heat from the body.,the body,
+The evaporation also cools the remaining sweat on the body.,the evaporation,
+The evaporation also cools the remaining sweat on the body.,the remaining sweat,p1
+The evaporation also cools the remaining sweat on the body.,on the body,
+The evaporation also cools the remaining sweat on the body.,sweat,p1
+The evaporation also cools the remaining sweat on the body.,on the body,

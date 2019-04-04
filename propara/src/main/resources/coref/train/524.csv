@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5,p6
+fetus,baby,child,adolescent,adult,elderly person
+SENTENCE,PHRASE,REFERENCE
+There is a fetus in the womb.,a fetus,p1
+There is a fetus in the womb.,in the womb,
+They are born and are a baby.,they,
+They are born and are a baby.,they,
+They are born and are a baby.,a baby,p2
+The baby grows into a child.,the baby,p2
+The baby grows into a child.,into a child,p3
+The baby grows into a child.,a child,p3
+Puberty turns the child into an adolescent.,puberty,
+Puberty turns the child into an adolescent.,the child,p3
+Puberty turns the child into an adolescent.,into an adolescent,p4
+Puberty turns the child into an adolescent.,an adolescent,p4
+The adolescent becomes an adult.,the adolescent,p4
+The adolescent becomes an adult.,an adult,p5
+An adult becomes an elderly person.,an adult,p5
+An adult becomes an elderly person.,an elderly person,p6
+The elderly person dies.,the elderly person,p6

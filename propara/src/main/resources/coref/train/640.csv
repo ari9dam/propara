@@ -1,0 +1,14 @@
+p1,p2,p3,p4
+egg,"tiny fish, fry",adult fish,more eggs
+SENTENCE,PHRASE,REFERENCE
+Fish lays eggs.,fish,
+Fish lays eggs.,eggs,p1
+Eggs hatch.,eggs,p1
+Tiny fish called fry emerge.,tiny fish,p2
+Tiny fish called fry emerge.,fry,p2
+Tiny fish called fry emerge.,tiny fish called fry,p2
+Fry eat and grow.,fry,p2
+Fry eat and grow.,fry,p2
+Fry become adult fish.,fry,p2
+Fry become adult fish.,adult fish,p3
+Fish mate and more eggs are produced.,fish mate and more eggs,"p1,p4"

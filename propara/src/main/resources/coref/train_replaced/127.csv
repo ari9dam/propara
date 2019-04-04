@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+water,sunlight,molecules,vapor
+SENTENCE,PHRASE,REFERENCE
+"Water is exposed to heat energy, like sunlight.",water,p1
+"Water is exposed to heat energy, like sunlight.",to heat energy,
+"Water is exposed to heat energy, like sunlight.",heat energy,
+The water temperature is raised above 212 degrees fahrenheit.,the water temperature,p1
+The water temperature is raised above 212 degrees fahrenheit.,above 212 degrees fahrenheit,
+The heat breaks down the molecules in the water.,the heat,
+The heat breaks down the molecules in the water.,the molecules in the water,"p1,p3"
+The heat breaks down the molecules in the water.,in the water,p1
+These molecules escape from the water.,these molecules,p3
+These molecules escape from the water.,from the water,p1
+These molecules escape from the water.,the water,p1
+The water becomes vapor.,the water,p1
+The water becomes vapor.,vapor,p4
+The vapor evaporates into the atmosphere.,the vapor,p4
+The vapor evaporates into the atmosphere.,into the atmosphere,
+The vapor evaporates into the atmosphere.,the atmosphere,

@@ -1,0 +1,48 @@
+observedAt("enter","what v something ?","blood",1).
+lvalue("blood","blood").
+observedAt("enter","what does something v ?","the right side of your heart",1).
+lvalue("the right side of your heart","right side of you heart").
+observedAt("travel","what v somewhere ?","blood",2).
+lvalue("blood","blood").
+observedAt("travel","where does something v ?","to the lungs",2).
+lvalue("to the lungs","lung").
+observedAt("travel","what does something v to ?","the lungs",2).
+lvalue("the lungs","lung").
+observedAt("remove","what is v ?","carbon dioxide",3).
+observedAt("remove","where is something v ?","from the blood",3).
+lvalue("from the blood","blood").
+observedAt("remove","what is something v from ?","the blood",3).
+lvalue("the blood","blood").
+observedAt("add","what is v to something ?","oxygen",4).
+observedAt("add","where is something v ?","to your blood",4).
+lvalue("to your blood","blood").
+observedAt("add","what is something v to ?","your blood",4).
+lvalue("your blood","blood").
+observedAt("return","what v somewhere ?","blood",5).
+lvalue("blood","blood").
+observedAt("return","where does something v ?","to left side of your heart",5).
+lvalue("to left side of your heart","left side of you heart").
+observedAt("return","what does something v to ?","left side of your heart",5).
+lvalue("left side of your heart","left side of you heart").
+observedAt("travel","what v ?","the blood",6).
+lvalue("the blood","blood").
+observedAt("travel","where does something v ?","through the body",6).
+lvalue("through the body","body").
+observedAt("travel","what does something v into ?","the body",6).
+lvalue("the body","body").
+time(1..6).
+participant(p1;p2;p3).
+description(p1,"blood").
+description(p2,"carbon dioxide").
+description(p3,"oxygen").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"blood").
+refers(2,p1,"blood").
+refers(3,p2,"carbon dioxide").
+refers(3,p1,"from the blood").
+refers(3,p1,"the blood").
+refers(4,p3,"oxygen").
+refers(4,p1,"to your blood").
+refers(4,p1,"your blood").
+refers(5,p1,"blood").
+refers(6,p1,"the blood").

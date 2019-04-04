@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5,p6
+bees,nectar,honey,wax,cylinders,hive
+SENTENCE,PHRASE,REFERENCE
+"Bees find a place for the hive, such as a rock crevice or tree branch.",bees,p1
+"Bees find a place for the hive, such as a rock crevice or tree branch.",a place for the hive,p6
+Bees gather nectar from flowers.,bees,p1
+Bees gather nectar from flowers.,nectar,p2
+Bees gather nectar from flowers.,from flowers,
+Bees gather nectar from flowers.,flowers,
+The bees evaporate the nectar by passing it back and forth to each other.,the bees,p1
+The bees evaporate the nectar by passing it back and forth to each other.,the nectar,p2
+The bees evaporate the nectar by passing it back and forth to each other.,by passing it back and forth to each other,
+The bees evaporate the nectar by passing it back and forth to each other.,the bees,p1
+The bees evaporate the nectar by passing it back and forth to each other.,it,
+The bees evaporate the nectar by passing it back and forth to each other.,back and forth to each other,
+The evaporation turns the nectar into sugary honey.,the evaporation,
+The evaporation turns the nectar into sugary honey.,the nectar,p2
+The evaporation turns the nectar into sugary honey.,sugary honey,p3
+The bees chew the honey until it turns into moldable wax.,the bees,p1
+The bees chew the honey until it turns into moldable wax.,the honey,p3
+The bees chew the honey until it turns into moldable wax.,until it turns into moldable wax,p4
+The bees chew the honey until it turns into moldable wax.,the honey,p3
+The bees chew the honey until it turns into moldable wax.,moldable wax,p4
+The bees mold the wax into hexagonal (six sided) cylinders.,cylinders,p5
+Thousands of these hexagonal cylinders put together form the hive.,thousands of these hexagonal cylinders,p5
+Thousands of these hexagonal cylinders put together form the hive.,together,
+Thousands of these hexagonal cylinders put together form the hive.,thousands of these hexagonal cylinders put together,p5
+Thousands of these hexagonal cylinders put together form the hive.,the hive,p6

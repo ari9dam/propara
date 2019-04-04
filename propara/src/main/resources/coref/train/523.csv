@@ -1,0 +1,23 @@
+p1,p2,p3,p4
+eggs,baby birds,young birds,adult birds
+SENTENCE,PHRASE,REFERENCE
+A bird lays eggs in a nest.,a bird,
+A bird lays eggs in a nest.,eggs,p1
+A bird lays eggs in a nest.,in a nest,
+The parent(s) incubate the eggs.,the parent ( s ),
+The parent(s) incubate the eggs.,the eggs,p1
+The eggs hatch.,the eggs,p1
+The mother (and sometimes the father) bird take care of the baby birds.,the mother ( and sometimes the father ) bird,
+The mother (and sometimes the father) bird take care of the baby birds.,care of the baby birds,p2
+The baby birds grow up and get their flight feathers.,the baby birds,p2
+The baby birds grow up and get their flight feathers.,up,
+The baby birds grow up and get their flight feathers.,the baby birds,p2
+The baby birds grow up and get their flight feathers.,their flight feathers,
+The young birds learn to fly and leave the nest.,the young birds,p3
+The young birds learn to fly and leave the nest.,to fly and leave the nest,
+The young birds learn to fly and leave the nest.,the young birds,p3
+The young birds learn to fly and leave the nest.,the young birds,p3
+The young birds learn to fly and leave the nest.,young birds,p3
+The young birds learn to fly and leave the nest.,the nest,
+The adult birds find mates and mate.,the adult birds,p4
+The adult birds find mates and mate.,mates and mate,

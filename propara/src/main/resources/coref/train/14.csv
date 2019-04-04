@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5
+water,water vapor,droplets,rain,snow
+SENTENCE,PHRASE,REFERENCE,,
+"Water from oceans, lakes, rivers, swamps, and plants turns into water vapor.","water from oceans , lakes , rivers , swamps , and plants",p1,,
+"Water from oceans, lakes, rivers, swamps, and plants turns into water vapor.",water vapor,p2,,
+Water vapor forms droplets in clouds.,water vapor,p2,,
+Water vapor forms droplets in clouds.,droplets,p3,,
+Water vapor forms droplets in clouds.,in clouds,,,
+Water droplets in clouds become rain or snow and fall.,water droplets in clouds,p3,,
+Water droplets in clouds become rain or snow and fall.,in clouds,,,
+Water droplets in clouds become rain or snow and fall.,rain or snow and fall,"p4,p5",,
+Some water goes into the ground.,some water,p1,,
+Some water goes into the ground.,into the ground,,,
+Some water goes into the ground.,the ground,,,
+Some water flows down streams into rivers and oceans.,some water,p1,,
+Some water flows down streams into rivers and oceans.,down streams into rivers and oceans,,,
+"Water from oceans, lakes, rivers, swamps, and plants turns into water vapor.","oceans , lakes , rivers , swamps , and plants",,,

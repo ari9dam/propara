@@ -1,0 +1,20 @@
+p1,p2,p3
+Glacier,Chunk,iceberg
+SENTENCE,PHRASE,REFERENCE
+You start with a glacier.,you,
+You start with a glacier.,with a glacier,p1
+You start with a glacier.,a glacier,p1
+Through warming or other methods a chunk is taken off the glacier.,a chunk,p2
+Through warming or other methods a chunk is taken off the glacier.,through warming or other methods,
+Through warming or other methods a chunk is taken off the glacier.,a chunk,p2
+Through warming or other methods a chunk is taken off the glacier.,off the glacier,p1
+Through warming or other methods a chunk is taken off the glacier.,the glacier,p1
+The chunk drifts into the sea.,the chunk,p2
+The chunk drifts into the sea.,into the sea,
+The chunk drifts into the sea.,the sea,
+And it settles where it can remain in its state.,it,
+And it settles where it can remain in its state.,where it can remain in its state,
+And it settles where it can remain in its state.,it,
+And it settles where it can remain in its state.,in its state,
+It is considered an iceberg.,it,
+It is considered an iceberg.,an iceberg,p3

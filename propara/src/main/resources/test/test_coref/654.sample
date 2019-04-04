@@ -1,0 +1,58 @@
+observedAt("grow","what is v ?","a seedling",1).
+observedAt("grow","where is something v ?","in the ground",1).
+lvalue("in the ground","ground").
+observedAt("grow","what v ?","the seedling",2).
+observedAt("grow","how does something v ?","bigger",2).
+observedAt("form","what v something ?","the seedling",2).
+observedAt("form","what does something v ?","its root system",2).
+observedAt("start","what v to do something ?","the roots",3).
+observedAt("start","what does something v to do ?","to gain more nourishment",3).
+lvalue("to gain more nourishment","nourishment").
+observedAt("start","when does something v to do something ?","as the tree grows",3).
+lvalue("as the tree grows","grow").
+observedAt("gain","what v something ?","the roots",3).
+observedAt("gain","what does something v ?","more nourishment",3).
+lvalue("more nourishment","nourishment").
+observedAt("gain","when does something v something ?","as the tree grows",3).
+lvalue("as the tree grows","grow").
+observedAt("grow","what v ?","the tree",3).
+observedAt("start","what v to do something ?","the tree",4).
+observedAt("start","what does something v to do ?","to attract animals and plants",4).
+observedAt("attract","what v something ?","the tree",4).
+observedAt("attract","what does something v ?","animals and plants",4).
+observedAt("grant","what will v something ?","animals and plants",4).
+observedAt("grant","who will something v ?","it",4).
+observedAt("grant","what will something v ?","more nourishment",4).
+lvalue("more nourishment","nourishment").
+observedAt("mature","what v ?","the tree",5).
+observedAt("grow","when will something v ?","after a number of years",6).
+observedAt("grow","what will v ?","the tree",6).
+observedAt("grow","how will something v ?","old",6).
+observedAt("die","when does something v ?","after a number of years",6).
+observedAt("die","what v ?","the tree",6).
+observedAt("become","when does something v something ?","after a number of years",6).
+observedAt("become","what v something ?","the tree",6).
+observedAt("become","what is being v ?","material",6).
+observedAt("become","what does something v ?","material for new growth",6).
+lvalue("material for new growth","grow").
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"seedling").
+description(p2,"root system").
+description(p3,"tree").
+description(p4,"material for new growth").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a seedling").
+refers(2,p1,"the seedling").
+refers(2,p1,"the seedling").
+refers(2,p2,"its root system").
+refers(3,p3,"as the tree grows").
+refers(3,p3,"as the tree grows").
+refers(3,p3,"the tree").
+refers(4,p3,"the tree").
+refers(4,p3,"the tree").
+refers(5,p3,"the tree").
+refers(6,p3,"the tree").
+refers(6,p3,"the tree").
+refers(6,p3,"the tree").
+refers(6,p4,"material for new growth").

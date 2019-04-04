@@ -1,0 +1,13 @@
+p1,p2,p3,p4
+water,"water vapor, vapor",clouds,precipitation
+SENTENCE,PHRASE,REFERENCE,
+Water from a lake or ocean evaporates.,water from a lake or ocean,p1,
+The water vapor enters the atmosphere.,the water vapor,p2,
+The water vapor enters the atmosphere.,the atmosphere,,
+The water vapor accumulates.,the water vapor,p2,
+The vapor becomes clouds.,the vapor,p2,
+The vapor becomes clouds.,clouds,p3,
+The clouds become too heaavy.,the clouds,p3,
+The clouds become too heaavy.,too heaavy,,
+Precipitation occurs.,precipitation,p4,
+Water from a lake or ocean evaporates.,lake or ocean,,

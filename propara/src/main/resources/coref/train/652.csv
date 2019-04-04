@@ -1,0 +1,14 @@
+p1,p2,p3,p4
+adult rabits,rabbit babies,new adults,more rabbits
+SENTENCE,PHRASE,REFERENCE
+Adult rabbits mate.,adult rabbits,
+The female becomes pregnant.,the female,
+The female becomes pregnant.,pregnant,
+The female gives birth to rabbit babies.,the female,
+The female gives birth to rabbit babies.,birth to rabbit babies,p2
+The female gives birth to rabbit babies.,rabbit babies,p2
+The rabbit babies grow into adult rabbits.,the rabbit babies,p2
+The rabbit babies grow into adult rabbits.,adult rabbits,
+The new adults mate with other rabbits.,the new adults,p3
+The new adults mate with other rabbits.,other rabbits,
+Produce more rabbits.,more rabbits,p4

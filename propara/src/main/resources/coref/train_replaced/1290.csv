@@ -1,0 +1,15 @@
+p1,p2,p3
+pancake,water,batter
+SENTENCE,PHRASE,REFERENCE
+Mix pancake mix with water.,pancake mix,p1
+Mix pancake mix with water.,water,p2
+Heat a griddle.,a griddle,
+Pour a circle of batter in the griddle.,a circle of batter,p3
+Pour a circle of batter in the griddle.,in the griddle,
+"When most of the bubbles pop on the surface, flip.",most of the bubbles,
+"When most of the bubbles pop on the surface, flip.",on the surface,
+"When most of the bubbles pop on the surface, flip.",the surface,
+"When most of the bubbles pop on the surface, flip.",most of the bubbles,
+Cook to desired color.,to desired color,
+Cook to desired color.,desired color,
+Cook to desired color.,color,

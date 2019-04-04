@@ -1,0 +1,9 @@
+Answer: 1
+description(p1,"Air") description(p2,"Heat") description(p3,"Refrigerent Liquid") description(p4,"Refrigerent Gas") description(p5,"Liquid") initiate(locationOf(p5,"gas"),6) initiate(locationOf(p2,"refrigerant"),2) initiate(locationOf(p5,"air"),6) initiate(locationOf(p5,"evaporator"),8) create(p5,6) prediction(p1,"?",9) prediction(p3,"?",9) prediction(p4,"?",9) prediction(p1,"?",8) prediction(p3,"?",8) prediction(p4,"?",8) prediction(p1,"?",7) prediction(p3,"?",7) prediction(p4,"?",7) prediction(p1,"?",6) prediction(p3,"?",6) prediction(p4,"?",6) prediction(p1,"?",5) prediction(p3,"?",5) prediction(p4,"?",5) prediction(p1,"?",4) prediction(p3,"?",4) prediction(p4,"?",4) prediction(p1,"?",3) prediction(p3,"?",3) prediction(p4,"?",3) prediction(p1,"?",2) prediction(p2,"?",2) prediction(p3,"?",2) prediction(p4,"?",2) prediction(p1,"?",1) prediction(p2,"?",1) prediction(p3,"?",1) prediction(p4,"?",1) prediction(p2,"refrigerant",9) prediction(p5,"-",6) prediction(p2,"refrigerant",8) prediction(p5,"-",5) prediction(p2,"refrigerant",7) prediction(p5,"-",4) prediction(p2,"refrigerant",6) prediction(p5,"-",3) prediction(p2,"refrigerant",5) prediction(p5,"-",2) prediction(p2,"refrigerant",4) prediction(p5,"-",1) prediction(p5,"air",8) prediction(p5,"gas",8) prediction(p5,"gas",7) prediction(p2,"refrigerant",3) prediction(p5,"air",7) prediction(p5,"evaporator",9) 
+SATISFIABLE
+
+Models      : 1     
+Time        : 0.109
+  Prepare   : 0.109
+  Prepro.   : 0.000
+  Solving   : 0.000

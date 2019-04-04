@@ -1,0 +1,68 @@
+observedAt("die","when did something v ?","300 millions years ago",1).
+observedAt("die","what v ?","plants and trees",1).
+observedAt("remain","what v ?","the plant and tree",2).
+observedAt("remain","how does something v ?","sank",2).
+observedAt("remain","where does something v ?","to the bottom of steamy , swampy areas",2).
+lvalue("to the bottom of steamy , swampy areas","bottom of steamy , swampy area").
+observedAt("sink","what was v ?","the plant and tree remains",2).
+lvalue("the plant and tree remains","plant and tree remain").
+observedAt("sink","where was something v ?","to the bottom of steamy , swampy areas",2).
+lvalue("to the bottom of steamy , swampy areas","bottom of steamy , swampy area").
+observedAt("sink","what is something v on ?","the bottom of steamy , swampy areas",2).
+lvalue("the bottom of steamy , swampy areas","bottom of steamy , swampy area").
+observedAt("accumulate","what was v ?","layer upon layer of remains",3).
+lvalue("layer upon layer of remains","layer").
+observedAt("form","when is something being v ?","eventually",4).
+observedAt("form","what is being v ?","a soggy , dense material called peat",4).
+lvalue("a soggy , dense material called peat","peat").
+observedAt("call","what is v something ?","a soggy , dense material",4).
+observedAt("call","what is something v ?","peat",4).
+lvalue("peat","peat").
+observedAt("bury","what was v ?","the peat",5).
+lvalue("the peat","peat").
+observedAt("bury","when was something v ?","over millions of years",5).
+observedAt("bury","how was something v ?","by sand , clay , and other mineral material",5).
+lvalue("by sand , clay , and other mineral material","sand , clay , and other mineral material").
+observedAt("bury","what was something v by ?","sand , clay , and other mineral material",5).
+lvalue("sand , clay , and other mineral material","sand , clay , and other mineral material").
+observedAt("cause","what is v ?","pressure",6).
+observedAt("cause","what was something v by ?","the wait of the materials",6).
+observedAt("squeeze","what v something ?","the materials",6).
+observedAt("squeeze","what is v ?","water",6).
+observedAt("squeeze","where was something v ?","from the peat",6).
+lvalue("from the peat","peat").
+observedAt("squeeze","where was something v from ?","the peat",6).
+lvalue("the peat","peat").
+observedAt("cause","what is v ?","the heat",7).
+observedAt("cause","what is something v by ?","increased burial peat",7).
+lvalue("increased burial peat","burial peat").
+observedAt("increase","what is v ?","burial peat",7).
+lvalue("burial peat","burial peat").
+observedAt("become","how did something v something ?","slowly",7).
+observedAt("become","what did something v ?","coal",7).
+lvalue("coal","coal").
+time(1..7).
+participant(p1;p2;p3;p4;p5;p6).
+description(p1,"plants").
+description(p1,"trees").
+description(p2,"plant and tree remains").
+description(p3,"peat").
+description(p3,"burial peat").
+description(p4,"water").
+description(p5,"heat").
+description(p6,"coal").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"plants and trees").
+refers(2,p1,"the plant and tree").
+refers(2,p1,"the plant and tree remains").
+refers(2,p2,"the plant and tree remains").
+refers(4,p3,"a soggy , dense material called peat").
+refers(4,p3,"peat").
+refers(5,p3,"the peat").
+refers(6,p4,"water").
+refers(6,p3,"from the peat").
+refers(6,p3,"the peat").
+refers(7,p5,"the heat").
+refers(7,p3,"increased burial peat").
+refers(7,p3,"burial peat").
+refers(7,p6,"coal").

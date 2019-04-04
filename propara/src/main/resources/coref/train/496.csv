@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5
+body,brain,blood vessels,sweat glands,moisture
+SENTENCE,PHRASE,REFERENCE
+Body temperature rises.,body temperature,p1
+The brain tells blood vessels to dilate.,the brain,p2
+The brain tells blood vessels to dilate.,blood vessels,p3
+The brain tells blood vessels to dilate.,to dilate,
+The brain tells blood vessels to dilate.,blood vessels,p3
+The sweat glands become active.,the sweat glands,p4
+The sweat glands become active.,active,
+Moisture is released from the pores.,moisture,p5
+Moisture is released from the pores.,from the pores,
+Moisture is released from the pores.,the pores,
+Moisture is released from the pores.,moisture,p5
+The moisture evaporates.,the moisture,p5
+The evaporation causes cooling.,the evaporation,
+The evaporation causes cooling.,cooling,

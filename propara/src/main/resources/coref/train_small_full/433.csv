@@ -1,0 +1,18 @@
+p1,p2,p3,p4
+seed,hole,water,vegetables
+SENTENCE,PHRASE,REFERENCE,
+Get some seeds.,some seeds,p1,
+Pick a spot to plant them.,a spot,,
+Pick a spot to plant them.,to plant them,,
+Pick a spot to plant them.,a spot,,
+Dig a hole in the dirt.,a hole,p2,
+Dig a hole in the dirt.,in the dirt,,
+Put the seed in the hole.,the seed,p1,
+Put the seed in the hole.,in the hole,p2,
+Pour some water on the seed and hold.,some water,p3,
+Pour some water on the seed and hold.,on the seed and hold,p1,
+Cover up the hole.,the hole,p2,
+Press down on it.,down,,
+Press down on it.,it,,
+Spray some plant food on it.,some plant food,,
+Spray some plant food on it.,it,,

@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+plants,"rocks, rock",roots,smaller pieces
+SENTENCE,PHRASE,REFERENCE
+Plants start growing on or near the rocks.,plants,p1
+Plants start growing on or near the rocks.,growing,
+Plants start growing on or near the rocks.,on or near the rocks,p2
+Plants start growing on or near the rocks.,plants,p1
+Plants start growing on or near the rocks.,on or near the rocks,p2
+The roots of the growing plants start to break up the rock.,plants,p1
+The roots of the growing plants start to break up the rock.,the roots of the growing plants,"p1,p3"
+The roots of the growing plants start to break up the rock.,to break up the rock,p2
+The roots of the growing plants start to break up the rock.,the roots of the growing plants,"p1,p3"
+The roots of the growing plants start to break up the rock.,the rock,p2
+The plant acids dissolve the rock.,the plant acids,p1
+The plant acids dissolve the rock.,the rock,p2
+The rock is broken down into smaller pieces.,the rock,p2
+The rock is broken down into smaller pieces.,into smaller pieces,p4
+The rock is broken down into smaller pieces.,smaller pieces,p4
+Erosion begins.,erosion,

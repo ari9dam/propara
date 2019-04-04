@@ -1,0 +1,46 @@
+observedAt("be","what v something ?","photovoltaic cells",1).
+lvalue("photovoltaic cells","photovoltaic cell").
+observedAt("be","what does something v ?","solar cells",1).
+lvalue("solar cells","solar cell").
+observedAt("make","what is v ?","photovoltaic cell",2).
+lvalue("photovoltaic cell","photovoltaic cell").
+observedAt("make","what is something v from ?","silicon",2).
+observedAt("shine","what v on something ?","sun",3).
+observedAt("shine","what does something v on ?","the solar cells",3).
+lvalue("the solar cells","solar cell").
+observedAt("generate","what v something ?","the solar cells",3).
+lvalue("the solar cells","solar cell").
+observedAt("generate","what does something v ?","dc electricity",3).
+observedAt("feed","what is v into something ?","electricity",4).
+observedAt("feed","where is something v ?","into an inverter",4).
+lvalue("into an inverter","inverter").
+observedAt("feed","what is something v into ?","an inverter",4).
+lvalue("an inverter","inverter").
+observedAt("feed","why is something v somewhere ?","to change it to ac electricity",4).
+observedAt("change","what v something ?","electricity",4).
+observedAt("change","what is v ?","it",4).
+observedAt("change","where is something being v ?","to ac electricity",4).
+observedAt("change","what is something v to ?","ac electricity",4).
+observedAt("send","what is v into something ?","electricity",5).
+observedAt("send","where is something v ?","into the home",5).
+lvalue("into the home","home").
+observedAt("send","what is something v into ?","the home",5).
+lvalue("the home","home").
+observedAt("send","why is something v somewhere ?","to be used",5).
+observedAt("use","what is v ?","electricity",5).
+observedAt("send","what can be v ?","extra electricity",6).
+observedAt("send","where can something be v ?","to the main power grid",6).
+lvalue("to the main power grid","main power grid").
+observedAt("send","what can something be v to ?","the main power grid",6).
+lvalue("the main power grid","main power grid").
+observedAt("send","why can something be v ?","for others",6).
+observedAt("send","who can something be v to ?","others",6).
+time(1..6).
+participant(p1;p2).
+description(p1,"DC electricity").
+description(p2,"AC electricity").
+annotator(a1;a2;a3;a4;a5).
+refers(3,p1,"dc electricity").
+refers(4,p2,"to change it to ac electricity").
+refers(4,p2,"to ac electricity").
+refers(4,p2,"ac electricity").

@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+eggs,larvae,juvenile fish,adult fish
+SENTENCE,PHRASE,REFERENCE
+A female fish lays eggs.,a female fish,
+A female fish lays eggs.,eggs,p1
+Larvae hatch from the eggs.,larvae,p2
+Larvae hatch from the eggs.,from the eggs,p1
+Larvae hatch from the eggs.,the eggs,p1
+The larvae eat and grow.,the larvae,p2
+The larvae eat and grow.,the larvae,p2
+The larvae form into juvenile fish.,the larvae,p2
+The larvae form into juvenile fish.,juvenile fish,p3
+The juvenile fish grow into adult fish.,the juvenile fish,p3
+The juvenile fish grow into adult fish.,adult fish,p4
+The adult fish mate.,the adult fish,p4
+The female fish lays eggs.,the female fish,
+The female fish lays eggs.,eggs,p1

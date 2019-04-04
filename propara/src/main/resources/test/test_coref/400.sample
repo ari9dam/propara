@@ -1,0 +1,22 @@
+observedAt("set","who was something v with ?","conductors",1).
+lvalue("conductors","conductor").
+observedAt("set","what is v up ?","they",2).
+observedAt("set","why is something v somewhere ?","to take the sun rays",2).
+observedAt("take","who v something ?","they",2).
+observedAt("take","what is being v ?","the sun rays",2).
+observedAt("heat","what v up something ?","the sun",3).
+observedAt("heat","what does something v up ?","the elements",3).
+lvalue("the elements","element").
+observedAt("create","what v something ?","the elements",4).
+lvalue("the elements","element").
+observedAt("create","what does something v ?","energy",4).
+observedAt("turn","what is v into something ?","the energy",5).
+observedAt("turn","what is something v into ?","electricity",5).
+time(1..5).
+participant(p1;p2).
+description(p1,"energy").
+description(p2,"electricity").
+annotator(a1;a2;a3;a4;a5).
+refers(4,p1,"energy").
+refers(5,p1,"the energy").
+refers(5,p2,"electricity").

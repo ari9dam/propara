@@ -1,0 +1,20 @@
+p1,p2,p3
+water,evaporated water,water drops
+SENTENCE,PHRASE,REFERENCE
+Water evaporates from the earth.,water,p1
+Water evaporates from the earth.,from the earth,
+Water evaporates from the earth.,the earth,
+The evaporated water condenses into water drops.,water,p1
+The evaporated water condenses into water drops.,the evaporated water,p2
+The evaporated water condenses into water drops.,water drops,p3
+The water drops fall back to earth.,the water,p3
+The water drops fall back to earth.,the water drops,p3
+The water drops fall back to earth.,back to earth,
+The water accumulates on the earth.,the water,p1
+The water accumulates on the earth.,on the earth,
+The water accumulates on the earth.,the earth,
+The water collects into bodies of water.,the water,p1
+The water collects into bodies of water.,into bodies of water,p1
+The water soaks into the earth.,the water,p1
+The water soaks into the earth.,into the earth,
+The water soaks into the earth.,the earth,

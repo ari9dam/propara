@@ -1,0 +1,85 @@
+observedAt("live","what is v ?","things",1).
+observedAt("have","what v something ?","living things",1).
+observedAt("have","what does something v ?","carbon",1).
+observedAt("have","where does something v something ?","in them",1).
+observedAt("use","what can be v ?","the energy",10).
+observedAt("use","why can something be v ?","to generate power",10).
+observedAt("use","what can something be v to do ?","generate power",10).
+observedAt("generate","what can v something ?","the energy",10).
+observedAt("generate","what is being v ?","power",10).
+observedAt("live","what is v ?","things",2).
+observedAt("die","what v ?","living things",2).
+observedAt("live","what is v ?","things",3).
+observedAt("become","what v something ?","the remains of living things",3).
+lvalue("the remains of living things","remains").
+observedAt("become","when does something v something ?","eventually",3).
+observedAt("become","what does something v ?","buried underground",3).
+lvalue("buried underground","underground").
+observedAt("bury","what is v ?","the remains of living things",3).
+lvalue("the remains of living things","remains").
+observedAt("bury","where is something v ?","underground",3).
+lvalue("underground","underground").
+observedAt("put","what is v on something ?","more physical pressure",4).
+observedAt("put","what is something v on ?","the remains of living things",4).
+lvalue("the remains of living things","remains").
+observedAt("put","when is something v on something ?","as they become further underground",4).
+lvalue("as they become further underground","underground").
+observedAt("live","what is v ?","things",4).
+observedAt("become","what v something ?","living things",4).
+observedAt("become","what does something v ?","further underground",4).
+lvalue("further underground","underground").
+observedAt("stay","what v somewhere ?","this carbon-based mixture",5).
+observedAt("stay","where does something v ?","underground",5).
+lvalue("underground","underground").
+observedAt("stay","how long does something v somewhere ?","for a long time",5).
+observedAt("discover","who v something ?","humans",6).
+observedAt("discover","what does someone v ?","this carbon-based mixture",6).
+observedAt("bring","what is v ?","this carbon-based mixture",7).
+observedAt("bring","where is something v ?","up to the earth 's surface",7).
+lvalue("up to the earth 's surface","earth 's surface").
+observedAt("bring","what is something v on ?","the earth 's surface",7).
+lvalue("the earth 's surface","earth 's surface").
+observedAt("discover","what was v ?","fossil fuel",8).
+lvalue("fossil fuel","fossil fuel").
+observedAt("burn","what is v ?","fossil fuel",8).
+lvalue("fossil fuel","fossil fuel").
+observedAt("release","what v something ?","burning",9).
+observedAt("release","what does something v ?","the energy that has been stored in the fossil fuel",9).
+lvalue("the energy that has been stored in the fossil fuel","fossil fuel").
+observedAt("store","what have been v ?","the energy",9).
+observedAt("store","where have something been v ?","in the fossil fuel",9).
+lvalue("in the fossil fuel","fossil fuel").
+observedAt("store","what have something been v in ?","the fossil fuel",9).
+lvalue("the fossil fuel","fossil fuel").
+time(1..9).
+participant(p1;p2;p3;p4;p5;p6).
+description(p1,"living things").
+description(p1,"remains of living things").
+description(p2,"carbon").
+description(p3,"carbon-based mixture").
+description(p4,"fossil fuel").
+description(p5,"energy").
+description(p6,"power").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"living things").
+refers(1,p2,"carbon").
+refers(10,p5,"the energy").
+refers(10,p6,"to generate power").
+refers(10,p6,"generate power").
+refers(10,p5,"the energy").
+refers(10,p6,"power").
+refers(2,p1,"living things").
+refers(3,p1,"the remains of living things").
+refers(3,p1,"the remains of living things").
+refers(4,p1,"the remains of living things").
+refers(4,p1,"living things").
+refers(5,p3,"this carbon-based mixture").
+refers(6,p3,"this carbon-based mixture").
+refers(7,p3,"this carbon-based mixture").
+refers(8,p4,"fossil fuel").
+refers(8,p4,"fossil fuel").
+refers(9,p4,"the energy that has been stored in the fossil fuel").
+refers(9,p5,"the energy that has been stored in the fossil fuel").
+refers(9,p5,"the energy").
+refers(9,p4,"in the fossil fuel").
+refers(9,p4,"the fossil fuel").

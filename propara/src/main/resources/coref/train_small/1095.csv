@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+star,hydrogen,red giant,white dwarf
+SENTENCE,PHRASE,REFERENCE,
+A star burns in space.,a star,p1,
+A star burns in space.,in space,,
+Eventually it burns all its hydrogen.,eventually,,
+Eventually it burns all its hydrogen.,it,p1,
+Eventually it burns all its hydrogen.,all its hydrogen,p2,
+Becomes a red giant.,a red giant,p3,
+Once the red giant burns itself out.,the red giant,p3,
+Once the red giant burns itself out.,itself,p3,
+The core of the star collapses.,the core of the star,p1,
+The gasses will start to disperse.,the gasses,,
+The gasses will start to disperse.,to disperse,,
+The gasses will start to disperse.,the gasses,,
+Only the core is left.,the core,,
+A white dwarf has been formed.,a white dwarf,p4,

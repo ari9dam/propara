@@ -1,0 +1,28 @@
+p1,p2,p3
+water,detergent dispenser,air
+SENTENCE,PHRASE,REFERENCE
+Water flows into the dishwasher.,water,p1
+Water flows into the dishwasher.,into the dishwasher,
+Water flows into the dishwasher.,the dishwasher,
+The dishwasher heats the water.,the dishwasher,
+The dishwasher heats the water.,the water,p1
+The detergent dispenser opens at the right time.,the detergent dispenser,p2
+The detergent dispenser opens at the right time.,at the right time,
+Water is shot through the jets to clean the dishes.,water,p1
+Water is shot through the jets to clean the dishes.,through the jets,
+Water is shot through the jets to clean the dishes.,the jets,
+Water is shot through the jets to clean the dishes.,to clean the dishes,
+Water is shot through the jets to clean the dishes.,water,p1
+Water is shot through the jets to clean the dishes.,the dishes,
+The dirty water is drained.,the dirty water,p1
+More water is sprayed to rinse the dishes.,more water,p1
+More water is sprayed to rinse the dishes.,to rinse the dishes,
+More water is sprayed to rinse the dishes.,rinse the dishes,
+More water is sprayed to rinse the dishes.,more water,p1
+More water is sprayed to rinse the dishes.,the dishes,
+The water is drained again.,the water,p1
+The air is heated in the dishwasher to dry the dishes.,the air,p3
+The air is heated in the dishwasher to dry the dishes.,in the dishwasher,
+The air is heated in the dishwasher to dry the dishes.,to dry the dishes,
+The air is heated in the dishwasher to dry the dishes.,the air,p3
+The air is heated in the dishwasher to dry the dishes.,the dishes,

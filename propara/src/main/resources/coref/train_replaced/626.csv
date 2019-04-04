@@ -1,0 +1,28 @@
+p1,p2,p3
+"juices, trypsin, chymotrypsin",insulin,glucose
+SENTENCE,PHRASE,REFERENCE
+The pancreas detects chemical changes in the stomach.,the pancreas,
+The pancreas detects chemical changes in the stomach.,chemical changes,
+The pancreas detects chemical changes in the stomach.,in the stomach,
+The pancreas creates juices that help digest food.,the pancreas,
+The pancreas creates juices that help digest food.,juices that help digest food,p1
+The pancreas creates juices that help digest food.,juices,p1
+The pancreas creates juices that help digest food.,digest food,
+The pancreas creates juices that help digest food.,juices,p1
+The pancreas creates juices that help digest food.,food,
+The pancreas releases the juices into the stomach.,the pancreas,
+The pancreas releases the juices into the stomach.,the juices,p1
+The pancreas releases the juices into the stomach.,into the stomach,
+The pancreas releases the juices into the stomach.,the stomach,
+Trypsin and chymotrypsin digest protein.,trypsin and chymotrypsin,p1
+Trypsin and chymotrypsin digest protein.,protein,
+Insulin is produced to move glucose from the blood.,insulin,p2
+Insulin is produced to move glucose from the blood.,to move glucose from the blood,p3
+Insulin is produced to move glucose from the blood.,move glucose from the blood,p3
+Insulin is produced to move glucose from the blood.,insulin,p2
+Insulin is produced to move glucose from the blood.,glucose,p3
+Insulin is produced to move glucose from the blood.,from the blood,
+Insulin is produced to move glucose from the blood.,the blood,
+The enzymes begin producing again.,the enzymes,
+The enzymes begin producing again.,producing again,
+The enzymes begin producing again.,the enzymes,

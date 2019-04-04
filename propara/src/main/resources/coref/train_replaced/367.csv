@@ -1,0 +1,34 @@
+p1,p2,
+water,glucose,
+SENTENCE,PHRASE,REFERENCE
+Plants obtain water through the soil they are growing in.,plants,
+Plants obtain water through the soil they are growing in.,water,p1
+Plants obtain water through the soil they are growing in.,through the soil they are growing in,
+Plants obtain water through the soil they are growing in.,the soil,
+The plants roots absorb the water from the soil.,the plants roots,
+The plants roots absorb the water from the soil.,the water,p1
+The plants roots absorb the water from the soil.,from the soil,
+The plants roots absorb the water from the soil.,the soil,
+Transport the water to the parts of the plant where the water is needed.,the water,p1
+Transport the water to the parts of the plant where the water is needed.,to the parts of the plant,
+Transport the water to the parts of the plant where the water is needed.,the water,p1
+The plant uses the water as part of the photosynthesis process.,the plant,
+The plant uses the water as part of the photosynthesis process.,the water,p1
+The plant uses the water as part of the photosynthesis process.,as part of the photosynthesis process,
+"The plant creates food, called glucose, for itself.",the plant,
+"The plant creates food, called glucose, for itself.",food,
+"The plant creates food, called glucose, for itself.",for itself,
+"The plant creates food, called glucose, for itself.",food,
+"The plant creates food, called glucose, for itself.",glucose,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,the plant,
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,water,p1
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,to deliver the glucose to where it 's needed,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,water,p1
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,the glucose,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,around the plant,
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,to deliver the glucose to where it 's needed,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,the plant,
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,the glucose,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,glucose,p2
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,to where it 's needed,
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.,the glucose,p2

@@ -1,0 +1,21 @@
+p1,p2,p3
+air,oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+You breathe in.,you,
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.",air,p1
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.",through all the little branches in your lungs,
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.",all the little branches in your lungs,
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.","to fill up the air sacs , or alveoli",
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.",air,p1
+"Air goes through all the little branches in your lungs to fill up the air sacs, or alveoli.","the air sacs , or alveoli",
+Oxygen goes through the walls of the alveoli and into the capillaries.,oxygen,p2
+Oxygen goes through the walls of the alveoli and into the capillaries.,through the walls of the alveoli and into the capillaries,
+Oxygen goes through the walls of the alveoli and into the capillaries.,the walls of the alveoli and into the capillaries,
+The oxygen goes into the bloodstream.,the oxygen,p2
+The oxygen goes into the bloodstream.,into the bloodstream,
+The oxygen goes into the bloodstream.,the bloodstream,
+Oxygen is left and carbon dioxide is picked up.,oxygen,p2
+Oxygen is left and carbon dioxide is picked up.,carbon dioxide,p3
+You breathe it out through your lungs.,you,
+You breathe it out through your lungs.,it,p1
+You breathe it out through your lungs.,through your lungs,

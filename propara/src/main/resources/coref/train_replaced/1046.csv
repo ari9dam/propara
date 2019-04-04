@@ -1,0 +1,15 @@
+p1,p2
+bottom rack,"plate, dish"
+SENTENCE,PHRASE,REFERENCE
+Open the Dishwasher.,the dishwasher,
+Slide out the bottom rack.,out the bottom rack,p1
+Slide out the bottom rack.,the bottom rack,p1
+Take a dirty plate.,a dirty plate,p2
+Rinse the plate.,the plate,p2
+Place the dish in the rack.,the dish,p2
+Place the dish in the rack.,in the rack,
+Repeat leaving enough space for water to reach all items.,enough space,
+Repeat leaving enough space for water to reach all items.,water,
+Repeat leaving enough space for water to reach all items.,all items,
+Fill the soap cup.,the soap cup,
+Turn on the dishwasher.,the dishwasher,

@@ -1,0 +1,19 @@
+p1,p2,p3,p4,p5
+twigs and other refuse,flat base,sides,softer material,nest
+SENTENCE,PHRASE,REFERENCE
+The bird picks a tree.,the bird,
+The bird picks a tree.,a tree,
+The bird collects twigs and other refuse.,the bird,
+The bird collects twigs and other refuse.,twigs and other refuse,p1
+The bird makes a flat base with twigs.,the bird,
+The bird makes a flat base with twigs.,a flat base,p2
+The bird makes a flat base with twigs.,with twigs,
+The bird makes a flat base with twigs.,twigs,
+The bird makes sides with twigs and other things.,the bird,
+The bird makes sides with twigs and other things.,sides with twigs and other things,p3
+The bird makes sides with twigs and other things.,twigs and other things,
+The bird adds softer material to the inside.,the bird,
+The bird adds softer material to the inside.,softer material,p4
+The bird adds softer material to the inside.,to the inside,p3
+The bird adds softer material to the inside.,the inside,p3
+The nest is done.,the nest,p5

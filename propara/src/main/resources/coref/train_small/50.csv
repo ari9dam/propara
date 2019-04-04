@@ -1,0 +1,14 @@
+p1,p2
+magma,crystals
+SENTENCE,PHRASE,REFERENCE
+Magma comes up to the surface of the earth.,magma,p1
+Magma comes up to the surface of the earth.,up,
+Magma comes up to the surface of the earth.,up to the surface of the earth,
+Magma comes up to the surface of the earth.,the surface of the earth,
+The magma cools.,the magma,p1
+Particles inside the magma move closer together.,particles inside the magma,p1
+Particles inside the magma move closer together.,inside the magma,p1
+Particles inside the magma move closer together.,closer together,
+Crystals are formed.,crystals,p2
+The crystals contain minerals.,the crystals,p2
+The crystals contain minerals.,minerals,

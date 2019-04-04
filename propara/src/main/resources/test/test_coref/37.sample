@@ -1,0 +1,48 @@
+observedAt("die","what v somewhere ?","a plant of animal",1).
+lvalue("a plant of animal","plant ; animal").
+observedAt("die","where does something v ?","in a watery environment",1).
+lvalue("in a watery environment","watery environment").
+observedAt("bury","where is something v ?","in mud and silt",2).
+lvalue("in mud and silt","mud and silt").
+observedAt("bury","what is something v in ?","mud and silt",2).
+lvalue("mud and silt","mud and silt").
+observedAt("decompose","what v ?","soft tissues",3).
+observedAt("decompose","how does something v ?","leaving behind hard bones or shells",3).
+lvalue("leaving behind hard bones or shells","bone").
+observedAt("leave","what v ?","soft tissues",3).
+observedAt("leave","what does something v through ?","hard bones or shells",3).
+lvalue("hard bones or shells","bone").
+observedAt("build","when does something v somewhere ?","over time",4).
+observedAt("build","what v ?","sediment",4).
+lvalue("sediment","sediment").
+observedAt("build","where does something v ?","over the top",4).
+observedAt("harden","what v into something ?","sediment",4).
+lvalue("sediment","sediment").
+observedAt("harden","what does something v into ?","rock",4).
+lvalue("rock","rock").
+observedAt("decay","what v something ?","the bone",5).
+lvalue("the bone","bone").
+observedAt("decay","what does something v ?","mineral seeps",5).
+observedAt("decay","where does something v something ?","in replacing it",5).
+observedAt("replace","what v something ?","mineral seeps",5).
+observedAt("replace","what is being v ?","it",5).
+observedAt("form","what is v ?","fossils",6).
+lvalue("fossils","fossil").
+time(1..6).
+participant(p1;p2;p3;p4;p5).
+description(p1,"plant").
+description(p1,"animal").
+description(p2,"soft tissues").
+description(p3,"bones").
+description(p4,"mineral").
+description(p5,"fossils").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a plant of animal").
+refers(3,p2,"soft tissues").
+refers(3,p3,"leaving behind hard bones or shells").
+refers(3,p2,"soft tissues").
+refers(3,p3,"hard bones or shells").
+refers(5,p3,"the bone").
+refers(5,p4,"mineral seeps").
+refers(5,p4,"mineral seeps").
+refers(6,p5,"fossils").

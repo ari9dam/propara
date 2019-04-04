@@ -1,0 +1,32 @@
+observedAt("die","what v ?","an animal",1).
+observedAt("bury","what is v ?","the animal",2).
+observedAt("bury","how is something v ?","fast under mud",2).
+lvalue("fast under mud","mud").
+observedAt("rot","what v somewhere ?","the soft parts of the animal 's body",3).
+observedAt("rot","how does something v ?","away",3).
+observedAt("turn","what v into something ?","the mud around the skeleton",4).
+lvalue("the mud around the skeleton","around the skeleton").
+observedAt("turn","what does something v into ?","rock",4).
+lvalue("rock","rock").
+observedAt("dissolve","what v ?","the skeleton",5).
+observedAt("left","what is v ?","a mold",6).
+observedAt("left","where is something v ?","in the mud",6).
+lvalue("in the mud","mud").
+observedAt("be","where did something v something ?","in the mud",6).
+lvalue("in the mud","mud").
+observedAt("be","what v something ?","the skeleton",6).
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"animal").
+description(p2,"skeleton").
+description(p3,"rock").
+description(p4,"mold").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"an animal").
+refers(2,p1,"the animal").
+refers(3,p1,"the soft parts of the animal 's body").
+refers(4,p2,"the mud around the skeleton").
+refers(4,p3,"rock").
+refers(5,p2,"the skeleton").
+refers(6,p4,"a mold").
+refers(6,p2,"the skeleton").

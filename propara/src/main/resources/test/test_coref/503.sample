@@ -1,0 +1,77 @@
+observedAt("fill","what is v with something ?","a car",1).
+lvalue("a car","car").
+observedAt("fill","what is something v with ?","gasoline ( gas )",1).
+lvalue("gasoline ( gas )","gasoline").
+observedAt("turn","who v something ?","someone",2).
+observedAt("turn","what does someone v ?","the car",2).
+lvalue("the car","car").
+observedAt("turn","how does someone v up something ?","with a key",2).
+observedAt("turn","what does someone v something on ?","a key",2).
+observedAt("produce","what v something ?","the car 's battery",3).
+lvalue("the car 's battery","battery").
+observedAt("produce","what does something v ?","a spark ( electricity )",3).
+observedAt("spark","what is v ?","the gas",4).
+lvalue("the gas","gas").
+observedAt("ignite","what v something ?","the spark",4).
+observedAt("ignite","what does something v ?","the gas",4).
+lvalue("the gas","gas").
+observedAt("expand","what v ?","the burning gas",5).
+lvalue("the burning gas","gas").
+observedAt("expand","when does something v ?","when it encounters air",5).
+observedAt("encounter","what v something ?","the burning gas",5).
+lvalue("the burning gas","gas").
+observedAt("encounter","what does something v ?","air",5).
+observedAt("expand","what is v ?","air and gas",6).
+lvalue("air and gas","gas").
+observedAt("push","what v something ?","the expanding air and gas",6).
+lvalue("the expanding air and gas","gas").
+observedAt("push","what does something v ?","a piston",6).
+observedAt("push","how does something v something ?","out",6).
+observedAt("move","what v something ?","the motion of several pistons",7).
+observedAt("move","what does something v ?","the crankshaft",7).
+lvalue("the crankshaft","crankshaft").
+observedAt("cause","what v something ?","different parts of the car",8).
+lvalue("different parts of the car","car").
+observedAt("cause","what does something v ?","the motion in the crankshaft",8).
+lvalue("the motion in the crankshaft","crankshaft").
+observedAt("cause","why does something v something ?","to cause the wheels to move",8).
+observedAt("cause","what v something ?","the motion in the crankshaft",8).
+lvalue("the motion in the crankshaft","crankshaft").
+observedAt("cause","what does something v ?","the wheels to move",8).
+observedAt("move","what v ?","the wheels",8).
+observedAt("move","what can v ?","the wheels and the car 's body",9).
+lvalue("the wheels and the car 's body","car").
+time(1..9).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"car").
+description(p2,"gasoline").
+description(p2,"gas").
+description(p3,"battery").
+description(p4,"spark").
+description(p5,"piston").
+description(p6,"crankshaft").
+description(p7,"wheel").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a car").
+refers(1,p2,"gasoline ( gas )").
+refers(2,p1,"the car").
+refers(3,p3,"the car 's battery").
+refers(3,p4,"a spark ( electricity )").
+refers(4,p2,"the gas").
+refers(4,p4,"the spark").
+refers(4,p2,"the gas").
+refers(5,p2,"the burning gas").
+refers(5,p2,"the burning gas").
+refers(6,p2,"air and gas").
+refers(6,p2,"the expanding air and gas").
+refers(6,p5,"a piston").
+refers(7,p5,"the motion of several pistons").
+refers(7,p6,"the crankshaft").
+refers(8,p1,"different parts of the car").
+refers(8,p6,"the motion in the crankshaft").
+refers(8,p7,"to cause the wheels to move").
+refers(8,p6,"the motion in the crankshaft").
+refers(8,p7,"the wheels to move").
+refers(8,p7,"the wheels").
+refers(9,p1,"the wheels and the car 's body").
+refers(9,p7,"the wheels and the car 's body").

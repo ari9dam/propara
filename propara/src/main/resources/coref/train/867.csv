@@ -1,0 +1,19 @@
+p1,p2
+"mold spore, spore, mold","colony, sporangiophores"
+SENTENCE,PHRASE,REFERENCE
+A mold spore floats through the air.,a mold spore,p1
+A mold spore floats through the air.,through the air,
+A mold spore floats through the air.,the air,
+The spore lands on a piece of bread.,the spore,p1
+The spore lands on a piece of bread.,on a piece of bread,
+The spore lands on a piece of bread.,a piece of bread,
+The spore grows hyphae into the bread.,the spore,p1
+The spore grows hyphae into the bread.,hyphae,
+The spore grows hyphae into the bread.,into the bread,
+The spore grows hyphae into the bread.,the bread,
+The mold forms a colony.,the mold,p1
+The mold forms a colony.,a colony,p2
+Sporangiophores grow upward.,sporangiophores,p2
+Sporangiophores grow upward.,upward,
+The mold sends out spores.,the mold,p1
+The mold sends out spores.,spores,p1

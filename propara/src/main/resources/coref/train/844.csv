@@ -1,0 +1,20 @@
+p1,p2,p3,p4
+conducting metal,electrical source,electrical current,magnetic field
+SENTENCE,PHRASE,REFERENCE
+"A conducting metal, like copper, is wrapped around a piece of metal.",metal,
+"A conducting metal, like copper, is wrapped around a piece of metal.","a conducting metal , like copper",p1
+"A conducting metal, like copper, is wrapped around a piece of metal.",around a piece of metal,
+"A conducting metal, like copper, is wrapped around a piece of metal.",a piece of metal,
+"An electrical source, like a battery, produces an electrical current.",an electrical source,p2
+"An electrical source, like a battery, produces an electrical current.",an electrical current,p3
+The electrical current flows through the wire.,the electrical current,p3
+The electrical current flows through the wire.,through the wire,
+The electrical current flows through the wire.,the wire,
+"The electrical current creates a magnetic field around the wire, magnetizing the metal.",the electrical current,p3
+"The electrical current creates a magnetic field around the wire, magnetizing the metal.",a magnetic field,p4
+"The electrical current creates a magnetic field around the wire, magnetizing the metal.",around the wire,
+"The electrical current creates a magnetic field around the wire, magnetizing the metal.",the metal,
+The magnetic field can be turned on and off by starting or stopping the electricity source.,the magnetic field,p4
+The magnetic field can be turned on and off by starting or stopping the electricity source.,by starting or stopping the electricity source,
+The magnetic field can be turned on and off by starting or stopping the electricity source.,the electricity source,
+The magnetic field can be turned on and off by starting or stopping the electricity source.,the electricity source,

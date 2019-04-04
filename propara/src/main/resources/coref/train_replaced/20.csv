@@ -1,0 +1,26 @@
+p1
+"sediment, small particles"
+SENTENCE,PHRASE,REFERENCE
+Sediment settles in a place due to gravity.,sediment,p1
+Sediment settles in a place due to gravity.,in a place,
+Sediment settles in a place due to gravity.,due to gravity,
+The sediment breaks down into small particles.,the sediment,p1
+The sediment breaks down into small particles.,into small particles,p1
+The sediment breaks down into small particles.,small particles,p1
+Wind or water picks up the sediment.,wind or water,
+Wind or water picks up the sediment.,the sediment,p1
+The sediment travels along the same route as the wind or water.,the sediment,p1
+The sediment travels along the same route as the wind or water.,along the same route as the wind or water,
+The sediment is deposited at new locations by the wind or water.,the sediment,p1
+The sediment is deposited at new locations by the wind or water.,at new locations,
+The sediment is deposited at new locations by the wind or water.,new locations,
+The sediment is deposited at new locations by the wind or water.,by the wind or water,
+The sediment is deposited at new locations by the wind or water.,the wind or water,
+The sediment is picked up again by new wind or water.,the sediment,p1
+The sediment is picked up again by new wind or water.,by new wind or water,
+The sediment is picked up again by new wind or water.,new wind or water,
+The sediment travels further.,the sediment,p1
+The sediment travels further.,further,
+The sediment is deposited again in a new place.,the sediment,p1
+The sediment is deposited again in a new place.,again,
+The sediment is deposited again in a new place.,in a new place,

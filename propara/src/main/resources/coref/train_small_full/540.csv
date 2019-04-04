@@ -1,0 +1,26 @@
+p1,p2,p3
+air,oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+You breathe in.,you,
+The carbon dioxide is exhaled out of the body.,the carbon dioxide,p3
+The carbon dioxide is exhaled out of the body.,out of the body,
+The carbon dioxide is exhaled out of the body.,the body,
+Diaphragm and other muscles expand to allow room for your lungs to fill.,diaphragm and other muscles,
+Diaphragm and other muscles expand to allow room for your lungs to fill.,to allow room for your lungs to fill,
+Diaphragm and other muscles expand to allow room for your lungs to fill.,diaphragm and other muscles,
+Diaphragm and other muscles expand to allow room for your lungs to fill.,room for your lungs to fill,
+Diaphragm and other muscles expand to allow room for your lungs to fill.,your lungs,
+The air flows into the narrow bronchioles in the lungs.,the air,p1
+The air flows into the narrow bronchioles in the lungs.,into the narrow bronchioles in the lungs,
+The air flows into the narrow bronchioles in the lungs.,the narrow bronchioles in the lungs,
+From the bronchioles to the alveoli.,From the bronchioles to the alveoli.,
+The oxygen enters into the bloodstream.,the oxygen,p2
+The oxygen enters into the bloodstream.,into the bloodstream,
+The oxygen enters into the bloodstream.,the bloodstream,
+Is switched with the carbon dioxide in the bloodstream.,the carbon dioxide,p3
+Is switched with the carbon dioxide in the bloodstream.,in the bloodstream,
+The carbon dioxide enters through the alveoli.,the carbon dioxide,p3
+The carbon dioxide enters through the alveoli.,through the alveoli,
+The carbon dioxide enters through the alveoli.,the alveoli,
+Through the narrow bronchioles.,Through the narrow bronchioles.,
+Into the lungs.,Into the lungs.,

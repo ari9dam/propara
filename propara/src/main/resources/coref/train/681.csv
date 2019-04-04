@@ -1,0 +1,22 @@
+p1,p2
+food,fat
+SENTENCE,PHRASE,REFERENCE
+The animal eats large quantities of food that will be stored as fat.,the animal,
+The animal eats large quantities of food that will be stored as fat.,large quantities of food that will be stored as fat,"p1,p2"
+The animal eats large quantities of food that will be stored as fat.,large quantities of food,p1
+The animal eats large quantities of food that will be stored as fat.,as fat,p2
+The animal eats large quantities of food that will be stored as fat.,fat,p2
+Winter comes and the animal finds a place to hibernate.,winter,
+Winter comes and the animal finds a place to hibernate.,the animal,
+Winter comes and the animal finds a place to hibernate.,a place to hibernate,
+Winter comes and the animal finds a place to hibernate.,the animal,
+"Over a period of days, the animal's heart rate and breathing rate drop slowly.",over a period of days,
+"Over a period of days, the animal's heart rate and breathing rate drop slowly.",the animal 's heart rate and breathing rate,
+"Over a period of days, the animal's heart rate and breathing rate drop slowly.",slowly,
+"Electrical activity in the brain almost ceases completely, though some areas remain active.",electrical activity,
+"Electrical activity in the brain almost ceases completely, though some areas remain active.",in the brain,
+"Electrical activity in the brain almost ceases completely, though some areas remain active.",completely,
+"Electrical activity in the brain almost ceases completely, though some areas remain active.",some areas,
+"Electrical activity in the brain almost ceases completely, though some areas remain active.",active,
+The animal has entered hibernation mode.,the animal,
+The animal has entered hibernation mode.,hibernation mode,

@@ -1,0 +1,38 @@
+p1,p2,p3,p4,p5
+food,sugars,blood sugar,glucagon,insulin
+SENTENCE,PHRASE,REFERENCE
+Food enters the body.,food,p1
+Food enters the body.,the body,
+The food is broken down.,the food,p1
+Sugars from the food enter the bloodstream.,sugars from the food,"p1,p2"
+Sugars from the food enter the bloodstream.,the bloodstream,
+Blood sugar must be within a particular range to avoid damaging many organs.,blood sugar,"p2,p3"
+Blood sugar must be within a particular range to avoid damaging many organs.,within a particular range,
+Blood sugar must be within a particular range to avoid damaging many organs.,to avoid damaging many organs,
+Blood sugar must be within a particular range to avoid damaging many organs.,blood sugar,"p2,p3"
+Blood sugar must be within a particular range to avoid damaging many organs.,damaging many organs,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too low.,sometimes,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too low.,the brain,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too low.,the blood sugar ( glucose ) is too low,"p2,p3"
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too low.,the blood sugar ( glucose ),"p2,p3"
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too low.,too low,
+The pancreas releases glucagon to change the blood sugar to a better level.,the pancreas,
+The pancreas releases glucagon to change the blood sugar to a better level.,glucagon,p4
+The pancreas releases glucagon to change the blood sugar to a better level.,to change the blood sugar to a better level,"p2,p3"
+The pancreas releases glucagon to change the blood sugar to a better level.,the pancreas,
+The pancreas releases glucagon to change the blood sugar to a better level.,the blood sugar,"p2,p3"
+The pancreas releases glucagon to change the blood sugar to a better level.,to a better level,
+The pancreas releases glucagon to change the blood sugar to a better level.,a better level,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,sometimes,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,the brain,
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,the blood sugar ( glucose ) is too high,"p2,p3"
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,the blood sugar ( glucose ),"p2,p3"
+Sometimes the brain tells the pancreas the blood sugar (glucose) is too high.,too high,
+The pancreas releases insulin to change the blood sugar to a better level.,the pancreas,
+The pancreas releases insulin to change the blood sugar to a better level.,insulin,p5
+The pancreas releases insulin to change the blood sugar to a better level.,to change the blood sugar to a better level,"p2,p3"
+The pancreas releases insulin to change the blood sugar to a better level.,the pancreas,
+The pancreas releases insulin to change the blood sugar to a better level.,the blood sugar,"p2,p3"
+The pancreas releases insulin to change the blood sugar to a better level.,to a better level,
+The pancreas releases insulin to change the blood sugar to a better level.,a better level,
+Sugars from the food enter the bloodstream.,food,p1

@@ -1,0 +1,23 @@
+p1,p2,p3,p4
+animal,seeds,fruit,eaten seeds
+SENTENCE,PHRASE,REFERENCE
+An animal walk s by a plant.,an animal,p1
+An animal walk s by a plant.,by a plant,
+An animal walk s by a plant.,a plant,
+The animal gets seeds stuck in their fur.,the animal,p1
+The animal gets seeds stuck in their fur.,seeds,p2
+The animal gets seeds stuck in their fur.,stuck in their fur,
+The animal gets seeds stuck in their fur.,seeds,p2
+The animal gets seeds stuck in their fur.,in their fur,
+The animal gets seeds stuck in their fur.,their fur,
+The animal eats some fruit of the tree containing seeds.,the animal,p1
+The animal eats some fruit of the tree containing seeds.,some fruit of the tree containing seeds,"p2,p3"
+The animal eats some fruit of the tree containing seeds.,the tree,
+The animal eats some fruit of the tree containing seeds.,seeds,p2
+The animal loses seeds from the fur in other locations.,the animal,p1
+The animal loses seeds from the fur in other locations.,seeds,p2
+The animal loses seeds from the fur in other locations.,in other locations,
+The animal loses seeds from the fur in other locations.,the fur,
+Then eaten seeds are defecated out in other locations.,seeds,p2
+Then eaten seeds are defecated out in other locations.,eaten seeds,"p2,p4"
+Then eaten seeds are defecated out in other locations.,in other locations,

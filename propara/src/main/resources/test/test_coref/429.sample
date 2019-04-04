@@ -1,0 +1,60 @@
+observedAt("exist","what v ?","nitrogen",1).
+observedAt("exist","how does something v ?","naturally",1).
+observedAt("exist","where does something v ?","in the atmosphere",1).
+lvalue("in the atmosphere","atmosphere").
+observedAt("re-enter","what v something ?","gas-based nitrogen",10).
+observedAt("re-enter","what does something v ?","the atmosphere",10).
+lvalue("the atmosphere","atmosphere").
+observedAt("fix","what v something ?","bacteria in soil",2).
+lvalue("bacteria in soil","bacterium").
+observedAt("fix","where does something v something ?","in soil",2).
+lvalue("in soil","soil").
+observedAt("fix","what is v ?","the nitrogen",2).
+observedAt("fix","what is being v ?","nitrogen",2).
+observedAt("be","what v something ?","nitrogen",3).
+observedAt("be","what does something v ?","now usable by living things",3).
+observedAt("live","what is v ?","things",3).
+observedAt("absorb","what v something ?","plants",4).
+lvalue("plants","plant").
+observedAt("absorb","what does something v ?","this usable nitrogen",4).
+observedAt("absorb","where does something v something ?","through their roots",4).
+observedAt("eat","what v something ?","animals",5).
+lvalue("animals","animal").
+observedAt("eat","what does something v ?","the plants",5).
+lvalue("the plants","plant").
+observedAt("make","what v something ?","animals",6).
+lvalue("animals","animal").
+observedAt("make","what does something v ?","waste",6).
+lvalue("waste","waste").
+observedAt("die","what v ?","uneaten plants",7).
+lvalue("uneaten plants","plant").
+observedAt("re-enter","what v something ?","nitrogen",8).
+observedAt("re-enter","what does something v ?","the soil",8).
+lvalue("the soil","soil").
+observedAt("turn","what v something ?","different bacteria",9).
+lvalue("different bacteria","bacterium").
+observedAt("turn","what does something v ?","nitrogen",9).
+observedAt("turn","how does something v something ?","back into a gas-based form",9).
+time(1..9).
+participant(p1;p2;p3;p4;p5).
+description(p1,"nitrogen").
+description(p2,"fixed nitrogen").
+description(p2,"usable nitrogen").
+description(p3,"plants").
+description(p4,"waste").
+description(p5,"gas-based form").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"nitrogen").
+refers(10,p1,"gas-based nitrogen").
+refers(2,p1,"the nitrogen").
+refers(2,p1,"nitrogen").
+refers(3,p1,"nitrogen").
+refers(4,p3,"plants").
+refers(4,p1,"this usable nitrogen").
+refers(4,p2,"this usable nitrogen").
+refers(5,p3,"the plants").
+refers(6,p4,"waste").
+refers(7,p3,"uneaten plants").
+refers(8,p1,"nitrogen").
+refers(9,p1,"nitrogen").
+refers(9,p5,"back into a gas-based form").

@@ -1,0 +1,20 @@
+p1,p2,p3
+blood,carbon dioxide,oxygen
+SENTENCE,PHRASE,REFERENCE
+Blood enters the right side of your heart.,blood,p1
+Blood enters the right side of your heart.,the right side of your heart,
+Blood travels to the lungs.,blood,p1
+Blood travels to the lungs.,to the lungs,
+Blood travels to the lungs.,the lungs,
+Carbon dioxide is removed from the blood.,carbon dioxide,p2
+Carbon dioxide is removed from the blood.,from the blood,p1
+Carbon dioxide is removed from the blood.,the blood,p1
+Oxygen is added to your blood.,oxygen,p3
+Oxygen is added to your blood.,to your blood,p1
+Oxygen is added to your blood.,your blood,p1
+Blood returns to left side of your heart.,blood,p1
+Blood returns to left side of your heart.,to left side of your heart,
+Blood returns to left side of your heart.,left side of your heart,
+The blood travels through the body.,the blood,p1
+The blood travels through the body.,through the body,
+The blood travels through the body.,the body,

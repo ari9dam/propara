@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5
+salt water,gas,gaseous water,salt particles,fresh water
+SENTENCE,PHRASE,REFERENCE
+The salt water is heated.,the salt water,p1
+As the saltwater is heated the water becomes a gas.,the saltwater,
+As the saltwater is heated the water becomes a gas.,as the saltwater is heated,
+As the saltwater is heated the water becomes a gas.,the water,
+As the saltwater is heated the water becomes a gas.,a gas,p2
+The salt particles sink to the bottom of the container.,the salt particles,p4
+The salt particles sink to the bottom of the container.,to the bottom of the container,
+The salt particles sink to the bottom of the container.,the bottom of the container,
+Gaseous water is piped into another container.,gaseous water,p3
+Gaseous water is piped into another container.,into another container,
+Gaseous water is piped into another container.,another container,
+Allowed to cool.,to cool,
+The salt particles are left behind in the first container.,the salt particles,p4
+The salt particles are left behind in the first container.,salt particles,p4
+The salt particles are left behind in the first container.,in the first container,
+The second container contains fresh water.,the second container,
+The second container contains fresh water.,fresh water,p5

@@ -1,0 +1,98 @@
+observedAt("heat","when does something v up something ?","during evaporation",1).
+observedAt("heat","what v up something ?","the sun",1).
+observedAt("heat","what does something v up ?","water",1).
+observedAt("heat","where does something v up something ?","in rivers or lakes or the ocean",1).
+lvalue("in rivers or lakes or the ocean","river or lake or the ocean").
+observedAt("turn","when does something v something ?","during evaporation",1).
+observedAt("turn","what v something ?","the sun",1).
+observedAt("turn","what does something v ?","it",1).
+observedAt("turn","what is something v into ?","into vapor or steam",1).
+observedAt("leave","what v something ?","the water vapor or steam",2).
+observedAt("leave","what does something v ?","the river , lake or ocean",2).
+lvalue("the river , lake or ocean","ocean , lake , or river").
+observedAt("go","what v into something ?","the water vapor or steam",2).
+observedAt("go","where is something v ?","into the air",2).
+lvalue("into the air","air").
+observedAt("go","what does something v into ?","the air",2).
+lvalue("the air","air").
+observedAt("get","what v something ?","water vapor in the air",3).
+lvalue("water vapor in the air","air").
+observedAt("get","where does something v something ?","in the air",3).
+lvalue("in the air","air").
+observedAt("get","what does something v ?","cold",3).
+observedAt("form","what v something ?","water vapor",3).
+observedAt("form","what is being v ?","clouds",3).
+observedAt("call","what is something v ?","condensation",3).
+observedAt("occur","what v ?","precipitation",4).
+observedAt("occur","when does something v ?","when so much water has condensed that the air can not hold it anymore",4).
+lvalue("when so much water has condensed that the air can not hold it anymore","air").
+observedAt("have","what v something ?","water",4).
+observedAt("have","what does something v ?","condensed",4).
+observedAt("hold","when can not something v something ?","when so much water has condensed",4).
+observedAt("hold","what can not v something ?","the air",4).
+lvalue("the air","air").
+observedAt("hold","what can not something v ?","it",4).
+observedAt("hold","when can not something be v ?","anymore",4).
+observedAt("fall","what v somewhere ?","water",5).
+observedAt("fall","where does something v ?","back to the earth",5).
+lvalue("back to the earth","earth").
+observedAt("fall","how does something v somewhere ?","in the form of rain , hail , sleet or snow",5).
+observedAt("water","what v up ?","water",6).
+observedAt("water","where does something v up ?","on land",6).
+lvalue("on land","land").
+observedAt("end","what v ?","water",6).
+observedAt("land","when will something v into something ?","when water ends up on land",6).
+lvalue("when water ends up on land","land").
+observedAt("land","what will v into something ?","water",6).
+observedAt("land","what might v into something ?","it",6).
+observedAt("land","where is something v ?","into the earth",6).
+lvalue("into the earth","earth").
+observedAt("land","what will something v into ?","the earth",6).
+lvalue("the earth","earth").
+observedAt("soak","when does something v something ?","when water ends up on land",6).
+lvalue("when water ends up on land","land").
+observedAt("soak","what v something ?","water",6).
+observedAt("soak","what does something v ?","part of the ground water",6).
+observedAt("soak","why is something being v ?","for animals or plants to drink",6).
+observedAt("become","what is v ?","ground",6).
+observedAt("water","what is being v ?","animals or plants",6).
+observedAt("run","what might v into something ?","it",7).
+observedAt("run","where might something v ?","into the oceans , lakes , or rivers",7).
+lvalue("into the oceans , lakes , or rivers","river or lake or the ocean").
+observedAt("run","what might something v into ?","the oceans , lakes , or rivers",7).
+lvalue("the oceans , lakes , or rivers","river or lake or the ocean").
+observedAt("start","what v ?","the cycle",7).
+time(1..7).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"water").
+description(p2,"vapor").
+description(p2,"steam").
+description(p2,"water vapor").
+description(p3,"clouds").
+description(p4,"rain").
+description(p5,"hail").
+description(p6,"sleet").
+description(p7,"snow").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"water").
+refers(1,p2,"into vapor or steam").
+refers(2,p2,"the water vapor or steam").
+refers(2,p2,"the water vapor or steam").
+refers(3,p2,"water vapor in the air").
+refers(3,p2,"water vapor").
+refers(3,p3,"clouds").
+refers(4,p1,"when so much water has condensed that the air can not hold it anymore").
+refers(4,p1,"water").
+refers(4,p1,"when so much water has condensed").
+refers(5,p1,"water").
+refers(5,p4,"in the form of rain , hail , sleet or snow").
+refers(5,p5,"in the form of rain , hail , sleet or snow").
+refers(5,p6,"in the form of rain , hail , sleet or snow").
+refers(5,p7,"in the form of rain , hail , sleet or snow").
+refers(6,p1,"water").
+refers(6,p1,"water").
+refers(6,p1,"when water ends up on land").
+refers(6,p1,"water").
+refers(6,p1,"when water ends up on land").
+refers(6,p1,"water").
+refers(6,p1,"part of the ground water").

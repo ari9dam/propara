@@ -1,0 +1,14 @@
+p1,p2,p3
+forest fire,animals,habitat
+SENTENCE,PHRASE,REFERENCE
+A forest fire starts.,a forest fire,p1
+The fire surrounds the vicinity.,the fire,p1
+The fire surrounds the vicinity.,the vicinity,
+The animals are trapped.,the animals,p2
+Those that survive have their habitat destroyed.,those,p2
+Those that survive have their habitat destroyed.,those that survive,p2
+Those that survive have their habitat destroyed.,their habitat destroyed,p3
+Those that survive have their habitat destroyed.,those that survive,p2
+The survivors must find a new habitat.,the survivors,p2
+The survivors must find a new habitat.,a new habitat,
+Conflict with other animals occur.,conflict with other animals,

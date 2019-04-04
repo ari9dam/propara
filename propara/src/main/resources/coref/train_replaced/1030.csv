@@ -1,0 +1,33 @@
+p1,p2,p3
+signal,"heating oil, oil, fuel","air, warm air"
+SENTENCE,PHRASE,REFERENCE
+Your thermostat senses that the room temperature has fallen below your thermostat setting.,the room temperature,
+Your thermostat senses that the room temperature has fallen below your thermostat setting.,below your thermostat setting,
+Your thermostat sends a signal to your heating system to provide heat for your home.,your thermostat,
+Your thermostat sends a signal to your heating system to provide heat for your home.,a signal,p1
+Your thermostat sends a signal to your heating system to provide heat for your home.,to your heating system,
+Your thermostat sends a signal to your heating system to provide heat for your home.,your heating system,
+Your thermostat sends a signal to your heating system to provide heat for your home.,to provide heat for your home,
+Your thermostat sends a signal to your heating system to provide heat for your home.,heating system,
+Your thermostat sends a signal to your heating system to provide heat for your home.,heat,
+Your thermostat sends a signal to your heating system to provide heat for your home.,for your home,
+Your thermostat sends a signal to your heating system to provide heat for your home.,your home,
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",your oil burner,p2
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",when your oil burner is engaged,p2
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",heating oil,p2
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",from the tank to the burner,
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",the tank,
+"When your oil burner is engaged, heating oil travels from the tank to the burner by way of a pump.",by way of a pump,
+Here the oil becomes a fine mist mixed with air.,here,
+Here the oil becomes a fine mist mixed with air.,the oil,p2
+Here the oil becomes a fine mist mixed with air.,a fine mist mixed with air,p3
+Here the oil becomes a fine mist mixed with air.,a fine mist,
+Here the oil becomes a fine mist mixed with air.,air,p3
+The fuel/air mixture is then injected into the burner where it is ignited in the combustion chamber.,the fuel/air mixture,p3
+The fuel/air mixture is then injected into the burner where it is ignited in the combustion chamber.,into the burner,
+The fuel/air mixture is then injected into the burner where it is ignited in the combustion chamber.,the burner,
+The fuel/air mixture is then injected into the burner where it is ignited in the combustion chamber.,the fuel/air mixture,p3
+The fuel/air mixture is then injected into the burner where it is ignited in the combustion chamber.,in the combustion chamber,
+"The warm air is disbursed through vents, hot water through baseboards, or by steam radiators.",the warm air,p3
+"The warm air is disbursed through vents, hot water through baseboards, or by steam radiators.","through vents , hot water through baseboards , or by steam radiators",
+"The warm air is disbursed through vents, hot water through baseboards, or by steam radiators.","vents , hot water through baseboards , or by steam radiators",

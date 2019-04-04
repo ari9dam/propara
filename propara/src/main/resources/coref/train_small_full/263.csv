@@ -1,0 +1,36 @@
+p1,p2,p3
+"recyclable materials, the materials",bales,bales
+SENTENCE,PHRASE,REFERENCE
+People separate different materials to be recycled.,different materials,
+The recyclable materials go to a recycling center.,the recyclable materials,p1
+The recyclable materials go to a recycling center.,to a recycling center,
+The recyclable materials go to a recycling center.,a recycling center,
+The recyclable materials go to a recycling center.,center,
+The recycling center further separates the materials.,center,
+The recycling center further separates the materials.,the recycling center,
+The recycling center further separates the materials.,further,
+The recycling center further separates the materials.,the materials,p1
+Large equipment compacts the materials into bales.,large equipment,
+Large equipment compacts the materials into bales.,the materials,p1
+Large equipment compacts the materials into bales.,into bales,p2
+Large equipment compacts the materials into bales.,bales,p2
+The recyclable materials are shipped to other recycling centers.,the recyclable materials,p1
+The recyclable materials are shipped to other recycling centers.,to other recycling centers,
+The recyclable materials are shipped to other recycling centers.,other recycling centers,
+The recyclable materials are shipped to other recycling centers.,centers,
+The other recycling centers further process the materials that center specializes in.,centers,
+The other recycling centers further process the materials that center specializes in.,the other recycling centers,
+The other recycling centers further process the materials that center specializes in.,the materials that center specializes in,p1
+The other recycling centers further process the materials that center specializes in.,the materials,p1
+The other recycling centers further process the materials that center specializes in.,the materials,p1
+The materials are purchased by manufacturers.,the materials,p1
+The materials are purchased by manufacturers.,manufacturers,
+The manufacturers process the recycled materials the same way they would use new materials.,the manufacturers,
+The manufacturers process the recycled materials the same way they would use new materials.,the recycled materials,
+The manufacturers process the recycled materials the same way they would use new materials.,the same way they would use new materials,
+The manufacturers process the recycled materials the same way they would use new materials.,the manufacturers,
+The manufacturers process the recycled materials the same way they would use new materials.,they,
+The manufacturers process the recycled materials the same way they would use new materials.,new materials,
+The recycled materials are incorporated into new products.,the recycled materials,
+The recycled materials are incorporated into new products.,into new products,p3
+The recycled materials are incorporated into new products.,new products,p3

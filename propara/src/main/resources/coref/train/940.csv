@@ -1,0 +1,29 @@
+p1,p2,p3,p4,p5,p6,p7
+carbon dioxide,water,energy,ATP,sugar,oxygen,water vapor
+SENTENCE,PHRASE,REFERENCE
+Carbon dioxide enters the leaves through the stomates by diffusion.,carbon dioxide,p1
+Carbon dioxide enters the leaves through the stomates by diffusion.,the leaves,
+Carbon dioxide enters the leaves through the stomates by diffusion.,through the stomates,
+Water is transported to the leaves in the xylem.,water,p2
+Water is transported to the leaves in the xylem.,to the leaves in the xylem,
+Water is transported to the leaves in the xylem.,the leaves,
+Energy harvested through light reaction is stored by forming ATP.,energy,p3
+Energy harvested through light reaction is stored by forming ATP.,through light reaction,
+Energy harvested through light reaction is stored by forming ATP.,light reaction,
+Energy harvested through light reaction is stored by forming ATP.,energy harvested through light reaction,p3
+Energy harvested through light reaction is stored by forming ATP.,by forming atp,p4
+Energy harvested through light reaction is stored by forming ATP.,forming atp,p4
+Energy harvested through light reaction is stored by forming ATP.,atp,p4
+Carbon dioxide and energy from ATP are used to create sugar.,carbon dioxide and energy from atp,"p1,p3,p4"
+Carbon dioxide and energy from ATP are used to create sugar.,to create sugar,p5
+Carbon dioxide and energy from ATP are used to create sugar.,create sugar,p5
+Carbon dioxide and energy from ATP are used to create sugar.,carbon dioxide and energy from atp,"p1,p3,p4"
+Carbon dioxide and energy from ATP are used to create sugar.,sugar,p5
+Oxygen exits the leaves through the stomata by diffusion.,oxygen,p6
+Oxygen exits the leaves through the stomata by diffusion.,the leaves,
+Oxygen exits the leaves through the stomata by diffusion.,through the stomata,
+Oxygen exits the leaves through the stomata by diffusion.,by diffusion,
+The plant reuses the water or the water exits through the stomata as water vapor.,the plant,
+The plant reuses the water or the water exits through the stomata as water vapor.,the water,p2
+Carbon dioxide and energy from ATP are used to create sugar.,atp,p4
+Carbon dioxide and energy from ATP are used to create sugar.,atp,p4

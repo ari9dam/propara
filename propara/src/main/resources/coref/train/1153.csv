@@ -1,0 +1,19 @@
+p1,p2
+isotope,a different element
+SENTENCE,PHRASE,REFERENCE
+An isotope has too many protons.,an isotope,p1
+An isotope has too many protons.,too many protons,
+The isotope is unstable.,the isotope,p1
+The isotope is unstable.,unstable,
+The isotope emits radiation.,the isotope,p1
+The isotope emits radiation.,radiation,
+The isotope decays.,the isotope,p1
+The isotope loses some atomic particles.,the isotope,p1
+The isotope loses some atomic particles.,some atomic particles,
+The isotope turns into a different element.,the isotope,p1
+The isotope turns into a different element.,into a different element,p2
+The isotope is finished decaying and emitting radiation.,the isotope,p1
+The isotope is finished decaying and emitting radiation.,decaying and emitting radiation,
+The isotope is finished decaying and emitting radiation.,the isotope,p1
+The isotope is finished decaying and emitting radiation.,the isotope,p1
+The isotope is finished decaying and emitting radiation.,radiation,

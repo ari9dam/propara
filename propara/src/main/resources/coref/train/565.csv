@@ -1,0 +1,36 @@
+p1,p2
+coal,steam
+SENTENCE,PHRASE,REFERENCE
+Coal is loaded into the firebox.,coal,p1
+Coal is loaded into the firebox.,into the firebox,
+Coal is loaded into the firebox.,the firebox,
+The boiler produces steam under high pressure.,the boiler,
+The boiler produces steam under high pressure.,steam,p2
+The boiler produces steam under high pressure.,under high pressure,
+The steam generated in the boiler flows down into a cylinder.,the steam,p2
+The steam generated in the boiler flows down into a cylinder.,in the boiler,
+The steam generated in the boiler flows down into a cylinder.,the steam generated in the boiler,p2
+The steam generated in the boiler flows down into a cylinder.,down,
+The steam generated in the boiler flows down into a cylinder.,down into a cylinder,
+The steam generated in the boiler flows down into a cylinder.,a cylinder,
+"Just ahead of the wheels, pushing a tight-fitting plunger, the piston.",just ahead of the wheels,
+"Just ahead of the wheels, pushing a tight-fitting plunger, the piston.",a tight-fitting plunger,
+"Just ahead of the wheels, pushing a tight-fitting plunger, the piston.",the piston,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,the piston,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,to one or more of the locomotive 's wheels,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,through a kind of arm-elbow-shoulder joint called a crank and connecting rod,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,a kind of arm-elbow-shoulder joint,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,a crank and connecting rod,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,rod,
+The piston is connected to one or more of the locomotive's wheels through a kind of arm-elbow-shoulder joint called a crank and connecting rod.,rod,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",the piston,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",as the piston pushes,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",rod,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",rod,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",as the piston pushes,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",the crank and connecting rod,
+"As the piston pushes, the crank and connecting rod turn the locomotive's wheels and power the train along.",the locomotive 's wheels,
+An outlet valve opens and the piston pushes the steam back through the cylinder and out up the locomotive's chimney.,an outlet valve,
+An outlet valve opens and the piston pushes the steam back through the cylinder and out up the locomotive's chimney.,the piston,
+An outlet valve opens and the piston pushes the steam back through the cylinder and out up the locomotive's chimney.,the steam,p2
+An outlet valve opens and the piston pushes the steam back through the cylinder and out up the locomotive's chimney.,back through the cylinder and out up the locomotive 's chimney,

@@ -1,0 +1,15 @@
+p1,p2
+helix,cell
+SENTENCE,PHRASE,REFERENCE
+The dna strand of a cell decides to replicate.,the dna strand of a cell,p2
+The dna strand of a cell decides to replicate.,to replicate,
+The dna strand of a cell decides to replicate.,the dna strand of a cell,p2
+Chemicals in the strand break up the helix.,chemicals in the strand,
+Chemicals in the strand break up the helix.,the helix,p1
+The helix is split into two.,the helix,p1
+The helix is split into two.,into two,
+The helix is split into two.,two,
+The helix forms as the basis of a new dna strand.,the helix,p1
+The helix forms as the basis of a new dna strand.,as the basis of a new dna strand,
+The helix forms as the basis of a new dna strand.,the basis of a new dna strand,
+The cell replicates.,the cell,p2

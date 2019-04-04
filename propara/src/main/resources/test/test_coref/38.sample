@@ -1,0 +1,42 @@
+observedAt("die","what v ?","the animal",1).
+observedAt("fall","what v ?","the body",1).
+lvalue("the body","body").
+observedAt("fall","how does something v ?","down",1).
+observedAt("eat","what is not be v ?","it",2).
+observedAt("eat","what is not v something ?","anything",2).
+observedAt("fall","what v somewhere ?","the body",3).
+lvalue("the body","body").
+observedAt("fall","where does something v ?","in a sandy or wet place",3).
+lvalue("in a sandy or wet place","sandy or wet place").
+observedAt("form","what v somewhere ?","the soil",4).
+lvalue("the soil","soil").
+observedAt("form","where does something v ?","around the body",4).
+lvalue("around the body","around the body").
+observedAt("form","what does something v through ?","the body",4).
+lvalue("the body","body").
+observedAt("pass","what v on something ?","time",5).
+observedAt("form","what v ?","rock",5).
+lvalue("rock","rock").
+observedAt("form","when did something v ?","millions years later",6).
+observedAt("form","what v ?","the fossil",6).
+lvalue("the fossil","fossil").
+observedAt("find","who v something ?","a person",7).
+observedAt("find","when does someone v something ?","now",7).
+observedAt("find","what does someone v ?","the fossil",7).
+lvalue("the fossil","fossil").
+time(1..7).
+participant(p1;p2;p3;p4).
+description(p1,"animal").
+description(p1,"body").
+description(p2,"soil").
+description(p3,"rock").
+description(p4,"fossil").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"the animal").
+refers(1,p1,"the body").
+refers(3,p1,"the body").
+refers(4,p2,"the soil").
+refers(4,p1,"around the body").
+refers(4,p1,"the body").
+refers(6,p4,"the fossil").
+refers(7,p4,"the fossil").

@@ -1,0 +1,34 @@
+p1,p2
+water,particles of food
+SENTENCE,PHRASE,REFERENCE
+Cold water taken in through a hose to the bottom.,cold water,p1
+Cold water taken in through a hose to the bottom.,in through a hose to the bottom,
+Heating element heats water.,heating element,
+Heating element heats water.,water,p1
+Pump forces water up in pipes connected to spinning paddles.,pipes,
+Pump forces water up in pipes connected to spinning paddles.,spinning paddles,
+Pump forces water up in pipes connected to spinning paddles.,paddles,
+The forced water makes paddles spin like a sprinkler.,the forced water,p1
+The forced water makes paddles spin like a sprinkler.,paddles spin like a sprinkler,
+The forced water makes paddles spin like a sprinkler.,paddles,
+The forced water makes paddles spin like a sprinkler.,like a sprinkler,
+Water comes out of small holes in paddles.,water,p1
+Water comes out of small holes in paddles.,out of small holes,
+Water comes out of small holes in paddles.,small holes,
+Water comes out of small holes in paddles.,in paddles,
+Water is collected and used again until dishes are clean.,water,p1
+Water is collected and used again until dishes are clean.,until dishes are clean,
+Water is collected and used again until dishes are clean.,water,p1
+Water is collected and used again until dishes are clean.,until dishes are clean,
+Water is collected and used again until dishes are clean.,dishes,
+Water is collected and used again until dishes are clean.,clean,
+Water is drained through a filter.,water,p1
+Water is drained through a filter.,through a filter,
+Water is drained through a filter.,a filter,
+Filter collects particles of food.,filter,
+Filter collects particles of food.,particles of food,p2
+Water was so hot that it evaporates for dry dishes.,water,p1
+Water was so hot that it evaporates for dry dishes.,so hot,
+Water was so hot that it evaporates for dry dishes.,water,p1
+Water was so hot that it evaporates for dry dishes.,for dry dishes,
+Water was so hot that it evaporates for dry dishes.,dry dishes,

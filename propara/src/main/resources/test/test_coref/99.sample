@@ -1,0 +1,73 @@
+observedAt("travel","what v ?","rain clouds",1).
+lvalue("rain clouds","cloud").
+observedAt("travel","where does something v ?","across the sky",1).
+lvalue("across the sky","sky").
+observedAt("stop","what is v ?","rain clouds",2).
+lvalue("rain clouds","cloud").
+observedAt("stop","what is something v by ?","mountains or wind",2).
+lvalue("mountains or wind","mountain").
+observedAt("slow","what is v ?","rain clouds",2).
+lvalue("rain clouds","cloud").
+observedAt("slow","how is something v ?","by mountains or wind",2).
+lvalue("by mountains or wind","mountain").
+observedAt("slow","what is something v by ?","mountains or wind",2).
+lvalue("mountains or wind","mountain").
+observedAt("drop","what v something ?","the rain clouds",3).
+lvalue("the rain clouds","cloud").
+observedAt("drop","what does something v ?","the rain",3).
+observedAt("rain","what is not v ?","the clouds",4).
+lvalue("the clouds","cloud").
+observedAt("rain","when is not something v ?","when or if they reach the other side of the obstacle",4).
+lvalue("when or if they reach the other side of the obstacle","obstacle").
+observedAt("reach","what v something ?","the clouds",4).
+lvalue("the clouds","cloud").
+observedAt("reach","where does something v ?","the other side of the obstacle",4).
+lvalue("the other side of the obstacle","obstacle").
+observedAt("be","where does something v something ?","on the other side of the mountains or rain",5).
+lvalue("on the other side of the mountains or rain","side of the mountain").
+observedAt("be","what v something ?","there",5).
+observedAt("be","what does something v ?","n't much rain",5).
+observedAt("receive","what v something ?","the area",6).
+lvalue("the area","area").
+observedAt("receive","what does something v ?","little rain",6).
+observedAt("develop","what v something ?","the area that receives little rain",6).
+lvalue("the area that receives little rain","area that receive little rain").
+observedAt("develop","what does something v ?","a very different ecosystem",6).
+observedAt("receive","what v something ?","the area",7).
+lvalue("the area","area").
+observedAt("receive","what does something v ?","little rain",7).
+observedAt("become","what v something ?","the area that receives little rain",7).
+lvalue("the area that receives little rain","area that receive little rain").
+observedAt("become","what does something v ?","a desert",7).
+lvalue("a desert","desert").
+time(1..7).
+participant(p1;p2;p3;p4;p5).
+description(p1,"rain clouds").
+description(p2,"rain").
+description(p3,"clouds").
+description(p4,"a very different ecosystem").
+description(p5,"desert").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"rain clouds").
+refers(1,p2,"rain clouds").
+refers(1,p3,"rain clouds").
+refers(2,p1,"rain clouds").
+refers(2,p2,"rain clouds").
+refers(2,p3,"rain clouds").
+refers(2,p1,"rain clouds").
+refers(2,p2,"rain clouds").
+refers(2,p3,"rain clouds").
+refers(3,p1,"the rain clouds").
+refers(3,p2,"the rain clouds").
+refers(3,p3,"the rain clouds").
+refers(3,p2,"the rain").
+refers(4,p3,"the clouds").
+refers(4,p3,"the clouds").
+refers(5,p2,"on the other side of the mountains or rain").
+refers(5,p2,"n't much rain").
+refers(6,p2,"little rain").
+refers(6,p2,"the area that receives little rain").
+refers(6,p4,"a very different ecosystem").
+refers(7,p2,"little rain").
+refers(7,p2,"the area that receives little rain").
+refers(7,p5,"a desert").

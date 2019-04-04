@@ -1,0 +1,12 @@
+p1,p2,p3,p4
+coal,steam,turbine,electricity
+SENTENCE,PHRASE,REFERENCE
+Coal is burned in a boiler.,coal,p1
+Coal is burned in a boiler.,in a boiler,
+Coal is burned in a boiler.,a boiler,
+Steam is produced under pressure.,steam,p2
+Steam is produced under pressure.,under pressure,
+Flows into a turbine.,into a turbine,p3
+Flows into a turbine.,a turbine,p3
+The turbine spins.,the turbine,p3
+Creates electricity.,electricity,p4

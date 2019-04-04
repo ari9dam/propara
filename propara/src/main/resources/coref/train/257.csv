@@ -1,0 +1,24 @@
+p1,p2,p3
+air,oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+You inhale air through your nose and mouth.,you,
+You inhale air through your nose and mouth.,air,p1
+You inhale air through your nose and mouth.,through your nose and mouth,
+The air travels down into your lungs.,the air,p1
+The air travels down into your lungs.,down into your lungs,
+Oxygen from the air goes into your bloodstream.,oxygen from the air,"p1,p2"
+Oxygen from the air goes into your bloodstream.,into your bloodstream,
+Oxygen from the air goes into your bloodstream.,your bloodstream,
+Oxygen circulates throughout the body due to the heart's pumping.,oxygen,p2
+Oxygen circulates throughout the body due to the heart's pumping.,throughout the body,
+Oxygen circulates throughout the body due to the heart's pumping.,due to the heart 's pumping,
+Oxygen circulates throughout the body due to the heart's pumping.,the heart,
+Carbon dioxide travels from the blood into the lungs.,carbon dioxide,p3
+Carbon dioxide travels from the blood into the lungs.,from the blood into the lungs,
+Carbon dioxide travels from the blood into the lungs.,the blood,
+Carbon dioxide travels from the blood into the lungs.,into the lungs,
+Carbon dioxide travels from the lungs up the windpipe.,carbon dioxide,p3
+Carbon dioxide travels from the lungs up the windpipe.,from the lungs up the windpipe,
+Carbon dioxide travels from the lungs up the windpipe.,the lungs,
+Carbon dioxide is exhaled.,carbon dioxide,p3
+Oxygen from the air goes into your bloodstream.,the air,p1

@@ -1,0 +1,32 @@
+p1,p2,p3,p4,p5,p6,p7
+Uranium 235,energy,neutrons,heat,water,steam,electricity
+SENTENCE,PHRASE,REFERENCE
+"Nuclear plants use uranium-235, which is unstable.",nuclear plants,
+"Nuclear plants use uranium-235, which is unstable.",uranium-235,
+"Nuclear plants use uranium-235, which is unstable.",uranium-235,
+"Nuclear plants use uranium-235, which is unstable.",unstable,
+The generator creates electricity.,the generator,
+The generator creates electricity.,electricity,p7
+"Uranium-235 splits, releasing energy and neutrons.",uranium-235,
+"Uranium-235 splits, releasing energy and neutrons.",uranium-235,
+"Uranium-235 splits, releasing energy and neutrons.",energy and neutrons,"p2,p3"
+"The neutrons hit other atoms, splitting them.",the neutrons,p3
+"The neutrons hit other atoms, splitting them.",other atoms,
+This continues until the reaction is self-sustaining.,this,
+This continues until the reaction is self-sustaining.,until the reaction is self-sustaining,
+This continues until the reaction is self-sustaining.,the reaction,
+This continues until the reaction is self-sustaining.,self-sustaining,
+Rods containing uranium are used in the power plant.,rods,
+Rods containing uranium are used in the power plant.,uranium,
+Rods containing uranium are used in the power plant.,rods containing uranium,
+Rods containing uranium are used in the power plant.,in the power plant,
+Rods containing uranium are used in the power plant.,the power plant,
+Control rods slow or accelerate the reaction.,control rods,
+Control rods slow or accelerate the reaction.,the reaction,
+Heat from the fission turns water into steam.,heat from the fission,p4
+Heat from the fission turns water into steam.,water,p5
+Heat from the fission turns water into steam.,into steam,p6
+The steam drives a turbine.,the steam,p6
+The steam drives a turbine.,a turbine,
+The turbine drives a generator.,the turbine,
+The turbine drives a generator.,a generator,

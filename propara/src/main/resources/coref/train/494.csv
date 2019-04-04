@@ -1,0 +1,30 @@
+p1,p2
+animals,place to hibernate
+SENTENCE,PHRASE,REFERENCE
+"Animals eat a lot during good (warm, clear) weather.",animals,p1
+"Animals eat a lot during good (warm, clear) weather.",a lot,
+"Animals eat a lot during good (warm, clear) weather.","during good ( warm , clear ) weather",
+Animals gain weight.,animals,p1
+Animals gain weight.,weight,
+"The season changes to one with bad (cold, snowy) weather.",the season,
+"The season changes to one with bad (cold, snowy) weather.","to one with bad ( cold , snowy ) weather",
+"The season changes to one with bad (cold, snowy) weather.","one with bad ( cold , snowy ) weather",
+Animals find a place to hibernate.,animals,p1
+Animals find a place to hibernate.,a place to hibernate,p2
+Animals find a place to hibernate.,animals,p1
+"Animals enter a type of ""sleep"" (hibernation).",animals,p1
+"Animals enter a type of ""sleep"" (hibernation).","a type of "" sleep "" ( hibernation )",
+Body processes slow down.,body processes,
+The animal's heart rate and breathing rate slow.,the animal 's heart rate and breathing rate,p1
+The animal loses weight more slowly than usual.,the animal,p1
+The animal loses weight more slowly than usual.,weight,
+The animal loses weight more slowly than usual.,more slowly than usual,
+The animal is able to survive not eating or drinking without hurting itself.,the animal,p1
+The animal is able to survive not eating or drinking without hurting itself.,able to survive not eating or drinking without hurting itself,
+The animal is able to survive not eating or drinking without hurting itself.,the animal,p1
+The animal is able to survive not eating or drinking without hurting itself.,not eating or drinking without hurting itself,
+The animal is able to survive not eating or drinking without hurting itself.,the animal,p1
+The animal is able to survive not eating or drinking without hurting itself.,the animal,p1
+The animal is able to survive not eating or drinking without hurting itself.,without hurting itself,
+The animal is able to survive not eating or drinking without hurting itself.,the animal,p1
+The animal is able to survive not eating or drinking without hurting itself.,itself,

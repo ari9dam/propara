@@ -1,0 +1,16 @@
+p1,p2,p3,p4,p5
+sunlight,water,carbon dioxide,glucose,oxygen
+SENTENCE,PHRASE,REFERENCE
+Sunlight strikes the chlorophyll molecules in the plant.,sunlight,p1
+Sunlight strikes the chlorophyll molecules in the plant.,the chlorophyll molecules,
+Sunlight strikes the chlorophyll molecules in the plant.,in the plant,
+Plant also takes in water and carbon dioxide from the environment.,plant,
+Plant also takes in water and carbon dioxide from the environment.,water and carbon dioxide,"p2,p3"
+Plant also takes in water and carbon dioxide from the environment.,from the environment,
+Plant also takes in water and carbon dioxide from the environment.,the environment,
+The plant forms glucose.,the plant,
+The plant forms glucose.,glucose,p4
+The plant releases oxygen into the atmosphere.,the plant,
+The plant releases oxygen into the atmosphere.,oxygen,p5
+The plant releases oxygen into the atmosphere.,into the atmosphere,
+The plant releases oxygen into the atmosphere.,the atmosphere,

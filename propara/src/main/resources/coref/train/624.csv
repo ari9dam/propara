@@ -1,0 +1,24 @@
+p1,p2,p3,p4,p5,p6
+blood,cleaned blood,items filtered,bile,energy,glycogen
+SENTENCE,PHRASE,REFERENCE
+The liver takes in blood from the rest of the body.,the liver,
+The liver takes in blood from the rest of the body.,blood,p1
+The liver takes in blood from the rest of the body.,from the rest of the body,
+The liver takes in blood from the rest of the body.,the rest of the body,
+The liver uses enzymes to clean the blood.,the liver,
+The liver uses enzymes to clean the blood.,enzymes,
+The liver uses enzymes to clean the blood.,to clean the blood,p1
+The liver uses enzymes to clean the blood.,enzymes,
+The liver uses enzymes to clean the blood.,the blood,p1
+The cleaned blood is expelled.,blood,p1
+The cleaned blood is expelled.,the cleaned blood,"p1,p2"
+The liver creates bile from the items filtered.,the liver,
+The liver creates bile from the items filtered.,bile,p4
+The liver creates bile from the items filtered.,from the items filtered,p3
+The liver creates bile from the items filtered.,the items filtered,p3
+The liver creates bile from the items filtered.,the items,
+The liver takes energy and stores it as glycogen.,the liver,
+The liver takes energy and stores it as glycogen.,energy,p5
+The bile is sent to the intestines.,the bile,p4
+The bile is sent to the intestines.,to the intestines,
+The bile is sent to the intestines.,the intestines,

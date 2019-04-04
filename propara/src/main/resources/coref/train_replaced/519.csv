@@ -1,0 +1,22 @@
+p1,p2,p3
+eggs,larvae,fish
+SENTENCE,PHRASE,REFERENCE
+Fish start as eggs.,fish,
+Fish start as eggs.,as eggs,p1
+Fish start as eggs.,eggs,p1
+The eggs hatch.,the eggs,p1
+A larvae emerges.,a larvae,p2
+The larvae matures and grows.,the larvae,p2
+The larvae matures and grows.,the larvae,p2
+"The larvae becomes an ""adolescent"" fish (or fry).",the larvae,p2
+"The larvae becomes an ""adolescent"" fish (or fry).",an adolescent fish ( or fry ),p3
+The adolescent fish grows.,the adolescent fish,p3
+"The fish might go through several sub-stages, depend on its species or type.",the fish,p3
+"The fish might go through several sub-stages, depend on its species or type.",through several sub-stages,
+"The fish might go through several sub-stages, depend on its species or type.",several sub-stages,
+"The fish might go through several sub-stages, depend on its species or type.",the fish,p3
+"The fish might go through several sub-stages, depend on its species or type.",its species or type,
+The fish is now a mature adult.,the fish,p3
+The fish is now a mature adult.,a mature adult,p3
+The adult fish can lay more eggs.,the adult fish,p3
+The adult fish can lay more eggs.,more eggs,

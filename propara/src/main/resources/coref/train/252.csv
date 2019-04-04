@@ -1,0 +1,21 @@
+p1,p2
+bark,inner portion of the ring
+SENTENCE,PHRASE,REFERENCE
+The inner portion of the ring is formed during rapid spring growth.,the inner portion of the ring,p2
+The inner portion of the ring is formed during rapid spring growth.,during rapid spring growth,
+The tree's growth slows as the seasons change.,the tree 's growth,
+The tree's growth slows as the seasons change.,as the seasons change,
+The tree's growth slows as the seasons change.,the seasons,
+The ring's outer growth is more dense.,the ring 's outer growth,
+The ring's outer growth is more dense.,more dense,
+The growth of the tree pushes out the bark of the tree.,the growth of the tree,
+The growth of the tree pushes out the bark of the tree.,the bark of the tree,p1
+The tree stops growing quickly in the winter.,the tree,
+The tree stops growing quickly in the winter.,growing quickly,
+The tree stops growing quickly in the winter.,quickly,
+The tree stops growing quickly in the winter.,in the winter,
+The tree stops growing quickly in the winter.,the tree,
+The tree stops growing quickly in the winter.,quickly,
+The tree stops growing quickly in the winter.,in the winter,
+"This seasonal ""pause"" in growth results in distinct rings in certain tree types.","this seasonal "" pause "" in growth",
+"This seasonal ""pause"" in growth results in distinct rings in certain tree types.",distinct rings in certain tree types,

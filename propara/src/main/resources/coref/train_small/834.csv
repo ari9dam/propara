@@ -1,0 +1,25 @@
+p1,p2,
+virus,new copies of the virus,
+SENTENCE,PHRASE,REFERENCE
+A virus enters a host body.,a virus,p1
+A virus enters a host body.,a host body,
+The virus has receptors that lock onto a target cell.,the virus,p1
+The virus has receptors that lock onto a target cell.,receptors that lock onto a target cell,
+The virus has receptors that lock onto a target cell.,receptors,
+The virus has receptors that lock onto a target cell.,onto a target cell,
+The virus has receptors that lock onto a target cell.,a target cell,
+The virus enters the cell.,the virus,p1
+The virus enters the cell.,the cell,
+The virus uses the cell like a factory to make new copies of the virus.,the virus,p1
+The virus uses the cell like a factory to make new copies of the virus.,the cell,
+The virus uses the cell like a factory to make new copies of the virus.,like a factory,
+The virus uses the cell like a factory to make new copies of the virus.,to make new copies of the virus,p2
+The virus uses the cell like a factory to make new copies of the virus.,the virus,p1
+The virus uses the cell like a factory to make new copies of the virus.,new copies of the virus,p2
+The new copies of the virus leave the cell.,the new copies of the virus,p2
+The new copies of the virus leave the cell.,the cell,
+Infect other cells.,other cells,
+The host gets sick as its cells are damaged.,the host,
+The host gets sick as its cells are damaged.,sick,
+The host gets sick as its cells are damaged.,as its cells are damaged,
+The host gets sick as its cells are damaged.,its cells,

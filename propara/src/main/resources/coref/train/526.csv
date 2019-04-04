@@ -1,0 +1,23 @@
+p1,p2,p3,p4,p5,p6
+babies,infants,children,teenagers,adults,elderly
+SENTENCE,PHRASE,REFERENCE
+Humans are born as babies.,humans,
+Humans are born as babies.,as babies,p1
+Humans are born as babies.,babies,p1
+Elderly humans die.,elderly humans,p6
+Babies become infants.,babies,p1
+Babies become infants.,infants,p2
+Infants become children.,infants,p2
+Infants become children.,children,p3
+Children learn skills.,children,p3
+Children learn skills.,skills,
+Children become teenagers.,children,p3
+Children become teenagers.,teenagers,p4
+Teenagers undergo puberty.,teenagers,p4
+Teenagers undergo puberty.,puberty,
+Teenagers become adults.,teenagers,p4
+Teenagers become adults.,adults,p5
+Adults have children.,adults,p5
+Adults have children.,children,p3
+Adults become elderly.,adults,p5
+Adults become elderly.,elderly,p6

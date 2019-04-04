@@ -1,0 +1,33 @@
+p1,p2,p3
+fuel,water,steam
+SENTENCE,PHRASE,REFERENCE
+A fuel is heated in an oven.,a fuel,p1
+A fuel is heated in an oven.,in an oven,
+A fuel is heated in an oven.,an oven,
+"The steam fills the next piston, driving it up, and the other one down.",the steam,p3
+"The steam fills the next piston, driving it up, and the other one down.",the next piston,
+"The steam fills the next piston, driving it up, and the other one down.",the steam,p3
+"The steam fills the next piston, driving it up, and the other one down.",the next piston,
+"The steam fills the next piston, driving it up, and the other one down.",it,
+Above the oven is a tank of water that is sealed.,above the oven,
+Above the oven is a tank of water that is sealed.,a tank of water that is sealed,p2
+Above the oven is a tank of water that is sealed.,above the oven,
+Above the oven is a tank of water that is sealed.,a tank of water,p2
+The tank of water begins to boil above the oven.,the tank of water,p2
+The tank of water begins to boil above the oven.,to boil above the oven,
+The tank of water begins to boil above the oven.,the tank of water,p2
+The tank of water begins to boil above the oven.,above the oven,
+A the water boils steam is created.,steam,p3
+The steam is denser than air so it needs a place to go.,the steam,p3
+The steam is denser than air so it needs a place to go.,denser than air,
+The steam is denser than air so it needs a place to go.,so it needs a place to go,
+The steam is denser than air so it needs a place to go.,the steam,p3
+The steam is denser than air so it needs a place to go.,a place to go,
+The steam is denser than air so it needs a place to go.,the steam,p3
+The steam is forced out of the tank and into a piston.,the steam,p3
+The steam is forced out of the tank and into a piston.,out of the tank and into a piston,
+The steam is forced out of the tank and into a piston.,the tank,
+The piston moves up.,the piston,
+The piston moves up.,up,
+The valve of the piston closes.,the valve of the piston,
+The valve on the next piston opens.,the valve on the next piston,

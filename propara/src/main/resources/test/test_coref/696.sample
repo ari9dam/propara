@@ -1,0 +1,44 @@
+observedAt("contain","what v something ?","air",1).
+lvalue("air","air").
+observedAt("contain","what does something v ?","invisible moisture called water vapor",1).
+observedAt("call","what is v something ?","invisible moisture",1).
+observedAt("call","what is something v ?","water vapor",1).
+observedAt("be","what v something ?","excess water vapor",2).
+observedAt("be","what does something v ?","condensed out",2).
+observedAt("carry","what is v ?","water droplets",3).
+lvalue("water droplets","water droplet").
+observedAt("carry","how is something v ?","up",3).
+lvalue("up","up").
+observedAt("carry","where is something v ?","up into the clouds",3).
+lvalue("up into the clouds","cloud").
+observedAt("carry","what is something v into ?","the clouds",3).
+lvalue("the clouds","cloud").
+observedAt("become","what v something ?","the clouds",4).
+lvalue("the clouds","cloud").
+observedAt("become","what does something v ?","heavy",4).
+observedAt("become","how does something v something ?","with water droplets",4).
+lvalue("with water droplets","water droplet").
+observedAt("become","what does something v something with ?","water droplets",4).
+lvalue("water droplets","water droplet").
+observedAt("saturate","what is v ?","the cloud",5).
+lvalue("the cloud","cloud").
+observedAt("fall","what will v ?","rain",6).
+lvalue("rain","rain").
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"water vapor").
+description(p2,"water droplets").
+description(p3,"cloud").
+description(p4,"rain").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"invisible moisture called water vapor").
+refers(1,p1,"water vapor").
+refers(2,p1,"excess water vapor").
+refers(3,p2,"water droplets").
+refers(3,p3,"up into the clouds").
+refers(3,p3,"the clouds").
+refers(4,p3,"the clouds").
+refers(4,p2,"with water droplets").
+refers(4,p2,"water droplets").
+refers(5,p3,"the cloud").
+refers(6,p4,"rain").

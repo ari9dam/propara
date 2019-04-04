@@ -1,0 +1,51 @@
+observedAt("die","what v ?","an animal",1).
+lvalue("an animal","animal").
+observedAt("have","who v something ?","you",10).
+observedAt("have","what does someone v ?","a fossil",10).
+lvalue("a fossil","fossil").
+observedAt("bury","where is something v ?","in a watery environment",2).
+lvalue("in a watery environment","watery environment").
+observedAt("decompose","what v ?","the soft tissues",3).
+observedAt("decompose","how does something v ?","quickly",3).
+observedAt("left","what is v ?","the bones",4).
+lvalue("the bones","bone").
+observedAt("left","where is something v ?","behind",4).
+observedAt("accumulate","when does something v somewhere ?","over time",5).
+observedAt("accumulate","what v ?","mud and silt",5).
+lvalue("mud and silt","mud and silt").
+observedAt("accumulate","where does something v ?","over the bones",5).
+lvalue("over the bones","bone").
+observedAt("accumulate","what does something v into ?","the bones",5).
+lvalue("the bones","bone").
+observedAt("harden","what v into something ?","mud and silt",6).
+lvalue("mud and silt","mud and silt").
+observedAt("harden","what does something v into ?","rock",6).
+lvalue("rock","rock").
+observedAt("decay","what v ?","the bones",7).
+lvalue("the bones","bone").
+observedAt("decay","how does something v ?","slowly",7).
+observedAt("seep","what v ?","minerals",8).
+observedAt("seep","how does something v ?","in",8).
+observedAt("replace","what is being v ?","the organic materials",9).
+time(1..9).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"animal").
+description(p2,"soft tissues").
+description(p3,"bones").
+description(p4,"mud").
+description(p4,"silt").
+description(p5,"rock").
+description(p6,"minerals").
+description(p7,"fossil").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"an animal").
+refers(10,p7,"a fossil").
+refers(3,p2,"the soft tissues").
+refers(4,p3,"the bones").
+refers(5,p4,"mud and silt").
+refers(5,p3,"over the bones").
+refers(5,p3,"the bones").
+refers(6,p4,"mud and silt").
+refers(6,p5,"rock").
+refers(7,p3,"the bones").
+refers(8,p6,"minerals").

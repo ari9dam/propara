@@ -1,0 +1,21 @@
+p1,p2,p3,p4
+current,magnetic field,"particles, piece of metal",magnetism
+SENTENCE,PHRASE,REFERENCE
+Wire is wrapped around a piece of metal.,wire,
+Wire is wrapped around a piece of metal.,around a piece of metal,p3
+Wire is wrapped around a piece of metal.,a piece of metal,p3
+Current is sent through the wire.,current,p1
+Current is sent through the wire.,through the wire,
+Current is sent through the wire.,the wire,
+A magnetic field is produced by the current.,a magnetic field,p2
+A magnetic field is produced by the current.,by the current,p1
+A magnetic field is produced by the current.,the current,p1
+This magnetic field in the wire interacts with certain particles in the central metal part.,this magnetic field in the wire,p2
+This magnetic field in the wire interacts with certain particles in the central metal part.,certain particles in the central metal part,p3
+This magnetic field in the wire interacts with certain particles in the central metal part.,in the central metal part,
+The piece of metal becomes magnetized.,the piece of metal,p3
+The piece of metal becomes magnetized.,magnetized,
+The piece of metal becomes magnetized.,the piece of metal,p3
+The magnetism remains until the current is shut off.,the magnetism,p4
+The magnetism remains until the current is shut off.,until the current is shut off,p1
+The magnetism remains until the current is shut off.,the current,p1

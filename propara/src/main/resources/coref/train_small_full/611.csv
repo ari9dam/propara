@@ -1,0 +1,14 @@
+p1,p2,
+bacteria,disease,
+SENTENCE,PHRASE,REFERENCE
+Skin is cut or damaged.,skin,
+Skin is cut or damaged.,skin,
+Bacteria enters through the wound.,bacteria,p1
+Bacteria enters through the wound.,through the wound,
+Bacteria enters through the wound.,the wound,
+The bacteria reproduces and spreads.,the bacteria,p1
+The bacteria reproduces and spreads.,the bacteria,p1
+Causes symptoms.,symptoms,
+The bacteria is either fought off or becomes a disease.,the bacteria,p1
+The bacteria is either fought off or becomes a disease.,the bacteria,p1
+The bacteria is either fought off or becomes a disease.,a disease,p2

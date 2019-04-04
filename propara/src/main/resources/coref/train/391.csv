@@ -1,0 +1,23 @@
+p1,p2,p3,p4,p5,p6,p7
+coal,heat,water,stream,propeller blades,coils,electricity
+SENTENCE,PHRASE,REFERENCE
+Coal is crushed.,coal,p1
+The coal is burned at high temperatures inside a boiler.,the coal,p1
+The coal is burned at high temperatures inside a boiler.,at high temperatures,
+The coal is burned at high temperatures inside a boiler.,high temperatures,
+The coal is burned at high temperatures inside a boiler.,inside a boiler,
+The heat generated converts water to steam.,the heat,p2
+The heat generated converts water to steam.,heat,p2
+The steam spins propeller blades in the turbine.,the steam,
+The steam spins propeller blades in the turbine.,propeller blades,p5
+The steam spins propeller blades in the turbine.,in the turbine,
+The spinning turbine rotates coils in the generator.,turbine,
+The spinning turbine rotates coils in the generator.,the spinning turbine,
+The spinning turbine rotates coils in the generator.,coils,p6
+The spinning turbine rotates coils in the generator.,in the generator,
+The rotating coils produce electricity.,coils,p6
+The rotating coils produce electricity.,the rotating coils,p6
+The rotating coils produce electricity.,electricity,p7
+The electricity can be sent through the power grid.,the electricity,p7
+The electricity can be sent through the power grid.,through the power grid,
+The electricity can be sent through the power grid.,the power grid,

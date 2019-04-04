@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+underwear/socks,appropriate clothing,jacket,one semi-formal outfit
+SENTENCE,PHRASE,REFERENCE
+Determine the weather where you are going.,the weather,
+Determine the weather where you are going.,where you are going,
+Determine the weather where you are going.,you,
+Pack essential items in your suitcase such as underwear/socks.,essential items,
+Pack essential items in your suitcase such as underwear/socks.,in your suitcase such as underwear/socks,p1
+Pack weather appropriate clothing in the suitcase.,appropriate clothing,p2
+Pack weather appropriate clothing in the suitcase.,in the suitcase,
+Always bring a jacket or two.,always,
+Always bring a jacket or two.,a jacket or two,p3
+Always bring one semi-formal outfit for a nice dinner.,always,
+Always bring one semi-formal outfit for a nice dinner.,one semi-formal outfit,p4
+Always bring one semi-formal outfit for a nice dinner.,for a nice dinner,
+Always bring one semi-formal outfit for a nice dinner.,a nice dinner,
+Zip up the bag and be ready to go.,ready to go,

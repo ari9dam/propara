@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5
+air,oxygen,hemoglobin,red blood cells,blood
+SENTENCE,PHRASE,REFERENCE
+Air travels into the body.,air,p1
+Air travels into the body.,into the body,
+Air travels into the body.,the body,
+Air reaches the lungs.,air,p1
+Air reaches the lungs.,the lungs,
+The lungs absorb the oxygen from the air.,the lungs,
+The lungs absorb the oxygen from the air.,the oxygen,p2
+The lungs absorb the oxygen from the air.,from the air,p1
+The lungs absorb the oxygen from the air.,the air,p1
+The oxygen is transported by hemoglobin.,the oxygen,p2
+The oxygen is transported by hemoglobin.,oxygen,p2
+The oxygen is transported by hemoglobin.,by hemoglobin,p3
+The oxygen is transported by hemoglobin.,hemoglobin,p3
+Red blood cells are made of hemoglobin.,red blood cells,"p4,p5"
+Red blood cells are made of hemoglobin.,hemoglobin,p3
+Blood has a lot of red blood cells.,blood,p5
+Blood has a lot of red blood cells.,a lot of red blood cells,"p4,p5"
+The heart moves the blood throughout the body.,the heart,
+The heart moves the blood throughout the body.,the blood,p5
+The heart moves the blood throughout the body.,throughout the body,
+Blood can bring the oxygen to different cells in the body.,blood,p5
+Blood can bring the oxygen to different cells in the body.,the oxygen,p2
+Blood can bring the oxygen to different cells in the body.,to different cells in the body,
+Blood can bring the oxygen to different cells in the body.,different cells in the body,
+Blood can bring the oxygen to different cells in the body.,in the body,

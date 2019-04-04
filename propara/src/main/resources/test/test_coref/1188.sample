@@ -1,0 +1,29 @@
+observedAt("fly","what v somewhere ?","comets",1).
+observedAt("fly","where does something v ?","around in outer space",1).
+lvalue("around in outer space","outer space").
+observedAt("fly","what v somewhere ?","a comet",2).
+observedAt("fly","where does something v ?","close to a planet",2).
+lvalue("close to a planet","close to a planet").
+observedAt("enter","what v something ?","the comet",3).
+observedAt("enter","what does something v ?","the planet 's atmosphere",3).
+lvalue("the planet 's atmosphere","planet 's atmosphere").
+observedAt("crash","what v into something ?","the comet",4).
+observedAt("crash","where was something v ?","into the planet",4).
+lvalue("into the planet","planet").
+observedAt("crash","what did something v into ?","the planet",4).
+lvalue("the planet","planet").
+observedAt("create","what v something ?","the energy of the impact",5).
+observedAt("create","what does something v ?","a hole",5).
+observedAt("create","where does something v something ?","on the planet",5).
+lvalue("on the planet","planet").
+time(1..5).
+participant(p1;p2).
+description(p1,"comet").
+description(p2,"hole").
+description(p2,"crater").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"comets").
+refers(2,p1,"a comet").
+refers(3,p1,"the comet").
+refers(4,p1,"the comet").
+refers(5,p2,"a hole").

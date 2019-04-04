@@ -1,0 +1,28 @@
+p1,p2,p3
+air,oxygen,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+You breathe in through your nose or mouth.,you,
+You breathe in through your nose or mouth.,in through your nose or mouth,
+The air travels through your windpipe.,the air,p1
+The air travels through your windpipe.,through your windpipe,
+The air travels through your windpipe.,your windpipe,
+Into your lungs.,Into your lungs.,
+Inside your lungs are tiny air sacs.,inside your lungs,
+Inside your lungs are tiny air sacs.,tiny air sacs,
+The air sacs transfer the oxygen into your blood.,the air sacs,
+The air sacs transfer the oxygen into your blood.,the oxygen,p2
+The air sacs transfer the oxygen into your blood.,into your blood,
+The air sacs transfer the oxygen into your blood.,your blood,
+The oxygen travels through your blood stream.,the oxygen,p2
+The oxygen travels through your blood stream.,through your blood stream,
+The oxygen travels through your blood stream.,your blood stream,
+The carbon dioxide from your blood stream is transferred to your air sacs.,the carbon dioxide from your blood stream,p3
+The carbon dioxide from your blood stream is transferred to your air sacs.,to your air sacs,
+The carbon dioxide from your blood stream is transferred to your air sacs.,your air sacs,
+You breathe out and expel the carbon dioxide from your lungs.,you,
+You breathe out and expel the carbon dioxide from your lungs.,out,
+You breathe out and expel the carbon dioxide from your lungs.,you,
+You breathe out and expel the carbon dioxide from your lungs.,the carbon dioxide,p3
+You breathe out and expel the carbon dioxide from your lungs.,from your lungs,
+You breathe out and expel the carbon dioxide from your lungs.,your lungs,
+The carbon dioxide from your blood stream is transferred to your air sacs.,your blood stream,

@@ -1,0 +1,11 @@
+p1,p2,p3,p4
+acid rain,fish,soils,leaves
+SENTENCE,PHRASE,REFERENCE,
+Acid rain enters the atmosphere and lands.,acid rain,p1,
+Acid rain enters the atmosphere and lands.,the atmosphere and lands,,
+Makes water acidic.,water,,
+Makes water acidic.,acidic,,
+Kills fish.,fish,p2,
+Kills the soils in trees.,the soils,p3,
+Kills the soils in trees.,in trees,,
+Leaves are also harmed.,leaves,p4,

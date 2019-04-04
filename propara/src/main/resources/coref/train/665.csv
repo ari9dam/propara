@@ -1,0 +1,16 @@
+p1,p2,p3
+"salt water, water",vapor,liquid water
+SENTENCE,PHRASE,REFERENCE
+Boil salt water.,salt water,p1
+The water will turn into water vapor.,the water,p1
+The water will turn into water vapor.,water vapor,"p1,p2"
+Collect the water vapor.,the water vapor,"p1,p2"
+Allow the water vapor to cool.,the water vapor,"p1,p2"
+Allow the water vapor to cool.,to cool,
+Allow the water vapor to cool.,cool,
+Allow the water vapor to cool.,the water vapor,"p1,p2"
+The water vapor will turn into liquid water.,the water vapor,"p1,p2"
+The water vapor will turn into liquid water.,liquid water,"p1,p3"
+The salt will be separated from the water.,the salt,
+The salt will be separated from the water.,from the water,p1
+The salt will be separated from the water.,the water,p1

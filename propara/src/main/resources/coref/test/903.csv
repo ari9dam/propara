@@ -1,0 +1,18 @@
+p1,p2,p3
+"visible light, light",chemical energy,image
+SENTENCE,PHRASE,REFERENCE
+Visible light enters through the lens.,visible light,p1
+Visible light enters through the lens.,through the lens,
+Visible light enters through the lens.,the lens,
+The light enters into the retina.,the light,p1
+The light enters into the retina.,into the retina,
+The light enters into the retina.,the retina,
+The light is absorbed by photoreceptor cells.,the light,p1
+The light is absorbed by photoreceptor cells.,light,p1
+The light is absorbed by photoreceptor cells.,by photoreceptor cells,
+The light is absorbed by photoreceptor cells.,photoreceptor cells,
+Which is turned into chemical energy.,chemical energy,p2
+The resulting information is interpreted by the brain as an image.,information,
+The resulting information is interpreted by the brain as an image.,the resulting information,
+The resulting information is interpreted by the brain as an image.,by the brain,
+The resulting information is interpreted by the brain as an image.,the brain,

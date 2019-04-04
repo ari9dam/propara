@@ -1,0 +1,37 @@
+p1,p2,p3,p4,p5,p6
+hurricane,thunderstorm,low-pressure center,"tropical cyclone, tropical depression",tropical storm,eye
+SENTENCE,PHRASE,REFERENCE
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,a hurricane,p1
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,as an organized thunderstorm activity,p2
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,an organized thunderstorm activity,p2
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,thunderstorm activity,p2
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,an organized thunderstorm activity,p2
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,at least 100 miles across,
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,an organized thunderstorm activity,p2
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,its identity,
+A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.,for more than 24 hours,
+Under the right conditions it can develop further and start to spin around a low-pressure center.,under the right conditions,
+Under the right conditions it can develop further and start to spin around a low-pressure center.,it,
+Under the right conditions it can develop further and start to spin around a low-pressure center.,it,
+Under the right conditions it can develop further and start to spin around a low-pressure center.,to spin around a low-pressure center,p3
+Under the right conditions it can develop further and start to spin around a low-pressure center.,it,
+Under the right conditions it can develop further and start to spin around a low-pressure center.,around a low-pressure center,p3
+Under the right conditions it can develop further and start to spin around a low-pressure center.,a low-pressure center,p3
+"If it develops it's classified as a ""tropical cyclone"" or ""tropical depression"".",it,
+"If it develops it's classified as a ""tropical cyclone"" or ""tropical depression"".",it,
+"If it develops it's classified as a ""tropical cyclone"" or ""tropical depression"".",as a tropical cyclone or tropical depression,p4
+"If it develops it's classified as a ""tropical cyclone"" or ""tropical depression"".",a tropical cyclone or tropical depression,p4
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",the system,
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",wind speeds,
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",past 39 mph,
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",if the system strengthens and wind speeds rise past 39 mph,
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",the system,
+"If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".",a tropical storm,p5
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",the pressure in the center,
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",even further,
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",the winds,
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",the winds,
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",a clearly defined eye,p6
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",clearly,
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",eye,p6
+"If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.",a hurricane,p1

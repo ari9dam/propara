@@ -1,0 +1,23 @@
+p1,p2,p3
+thicker coat,body fat,food stores
+SENTENCE,PHRASE,REFERENCE
+Squirrels try to eat as much as possible.,squirrels,
+Squirrels try to eat as much as possible.,to eat as much as possible,
+Squirrels try to eat as much as possible.,squirrels,
+Squirrels try to eat as much as possible.,as much as possible,
+Squirrel gains weight and fat.,squirrel,
+Squirrel gains weight and fat.,weight and fat,p2
+Squirrel also hides food in or near its den.,squirrel,
+Squirrel also hides food in or near its den.,food,
+Squirrel also hides food in or near its den.,in or near its den,
+Squirrels also grow a thicker coat as the weather gets colder.,squirrels,
+Squirrels also grow a thicker coat as the weather gets colder.,a thicker coat,p1
+Squirrels also grow a thicker coat as the weather gets colder.,as the weather gets colder,
+Squirrels also grow a thicker coat as the weather gets colder.,the weather,
+Squirrels also grow a thicker coat as the weather gets colder.,colder,
+Squirrel lives off of its excess body fat.,squirrel,
+Squirrel lives off of its excess body fat.,off of its excess body fat,p2
+Squirrel lives off of its excess body fat.,its excess body fat,p2
+Squirrel uses its food stores in the winter.,squirrel,
+Squirrel uses its food stores in the winter.,its food stores,p3
+Squirrel uses its food stores in the winter.,in the winter,

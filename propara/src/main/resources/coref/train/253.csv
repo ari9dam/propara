@@ -1,0 +1,28 @@
+p1,p2
+seeds,seeds(2)
+SENTENCE,PHRASE,REFERENCE
+"Plants make the seeds smell good, be attractive looking, and taste good.",plants,
+"Plants make the seeds smell good, be attractive looking, and taste good.",the seeds,p1
+"Plants make the seeds smell good, be attractive looking, and taste good.","smell good , be attractive looking , and taste good",
+"Plants make the seeds smell good, be attractive looking, and taste good.",the seeds,p1
+"Plants make the seeds smell good, be attractive looking, and taste good.",good,
+"Plants make the seeds smell good, be attractive looking, and taste good.",the seeds,p1
+"Plants make the seeds smell good, be attractive looking, and taste good.",attractive looking,
+"Plants make the seeds smell good, be attractive looking, and taste good.",the seeds,p1
+"Plants make the seeds smell good, be attractive looking, and taste good.",attractive,
+"Plants make the seeds smell good, be attractive looking, and taste good.",the seeds,p1
+"Plants make the seeds smell good, be attractive looking, and taste good.",good,
+Animals are attracted to the seeds on the plants.,animals,
+Animals are attracted to the seeds on the plants.,the seeds on the plants,p1
+Animals are attracted to the seeds on the plants.,on the plants,
+The animals eat the seeds.,the animals,
+The animals eat the seeds.,the seeds,p1
+The animals go far away from the plants.,the animals,
+The animals go far away from the plants.,far away from the plants,
+The animals defecate the seeds or drop them off their fur.,the animals,
+The animals defecate the seeds or drop them off their fur.,the seeds,p1
+The animals defecate the seeds or drop them off their fur.,the animals,
+The animals defecate the seeds or drop them off their fur.,them,
+The animals defecate the seeds or drop them off their fur.,their fur,
+The seeds grow in the new place.,the seeds,p1
+The seeds grow in the new place.,in the new place,

@@ -1,0 +1,45 @@
+p1,p2
+liquid,gas
+SENTENCE,PHRASE,REFERENCE
+A liquid is heated from an external source.,a liquid,p1
+A liquid is heated from an external source.,from an external source,
+A liquid is heated from an external source.,an external source,
+The heat causes the molecules in the liquid to increase in energy.,the heat,
+The heat causes the molecules in the liquid to increase in energy.,the molecules in the liquid to increase in energy,p1
+The heat causes the molecules in the liquid to increase in energy.,increase in energy,
+The heat causes the molecules in the liquid to increase in energy.,the molecules in the liquid,p1
+The heat causes the molecules in the liquid to increase in energy.,in energy,
+The heat causes the molecules in the liquid to increase in energy.,energy,
+"As the molecules absorb more energy, they start to move faster.",the molecules,
+"As the molecules absorb more energy, they start to move faster.",more energy,
+"As the molecules absorb more energy, they start to move faster.",as the molecules absorb more energy,
+"As the molecules absorb more energy, they start to move faster.",the molecules,
+"As the molecules absorb more energy, they start to move faster.",absorb more energy,
+"As the molecules absorb more energy, they start to move faster.",to move faster,
+"As the molecules absorb more energy, they start to move faster.",as the molecules absorb more energy,
+"As the molecules absorb more energy, they start to move faster.",the molecules,
+"As the molecules absorb more energy, they start to move faster.",absorb more energy,
+As the molecules are moving faster they are increasing in temperature.,the molecules,
+As the molecules are moving faster they are increasing in temperature.,faster,
+As the molecules are moving faster they are increasing in temperature.,the molecules,
+As the molecules are moving faster they are increasing in temperature.,in temperature,
+As the molecules are moving faster they are increasing in temperature.,temperature,
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.",the molecules,
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.",a certain temperature,
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.","when the molecules reach a certain temperature , the boiling point",
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.",the boiling point,
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.",from liquid to gas state,"p1,p2"
+"When the molecules reach a certain temperature, the boiling point, they change from liquid to gas state.",liquid to gas state,"p1,p2"
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",the liquid molecules,p1
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",into a gaseous state,
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",a gaseous state,
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",the liquid molecules,p1
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",liquid molecules,p1
+"As the liquid molecules go into a gaseous state, they float out into the atmosphere.",out into the atmosphere,
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",all the liquid,p1
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",to gas,p2
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",when all the liquid has turned to gas,"p1,p2"
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",the liquid,p1
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",completely,
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",when all the liquid has turned to gas,"p1,p2"
+"When all the liquid has turned to gas, it has evaporated completely, leaving no liquid behind.",no liquid behind,p1

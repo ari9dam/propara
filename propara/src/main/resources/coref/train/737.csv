@@ -1,0 +1,23 @@
+p1,p2
+animals,seeds
+SENTENCE,PHRASE,REFERENCE
+Animals may come across vegetation.,animals,p1
+Animals may come across vegetation.,across vegetation,
+The animal may consume or get seeds stuck in their fur.,the animal,p1
+The animal may consume or get seeds stuck in their fur.,seeds,p2
+The animal may consume or get seeds stuck in their fur.,the animal,p1
+The animal may consume or get seeds stuck in their fur.,seeds,p2
+The animal may consume or get seeds stuck in their fur.,stuck in their fur,
+The animal may consume or get seeds stuck in their fur.,in their fur,
+The animal may consume or get seeds stuck in their fur.,seeds,p2
+The animal may consume or get seeds stuck in their fur.,in their fur,
+The animal may consume or get seeds stuck in their fur.,their fur,
+The animal travels some distance someplace else.,the animal,p1
+The animal travels some distance someplace else.,some distance,
+The animal travels some distance someplace else.,someplace else,
+The seeds are dropped or deposited off.,the seeds,p2
+The seeds are dropped or deposited off.,the seeds,p2
+The seeds have a new place to proliferate and grow.,the seeds,p2
+The seeds have a new place to proliferate and grow.,a new place to proliferate and grow,
+The seeds have a new place to proliferate and grow.,a new place,
+The seeds have a new place to proliferate and grow.,the seeds,p2

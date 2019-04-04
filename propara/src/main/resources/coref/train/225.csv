@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5
+electricity,"machine needle, needle",thread,hook,another thread
+SENTENCE,PHRASE,REFERENCE
+Electricity from the battery makes the machine needle move.,electricity from the battery,p1
+Electricity from the battery makes the machine needle move.,the machine needle move,p2
+A needle with thread goes down from the machine.,a needle with thread,"p2,p3"
+A needle with thread goes down from the machine.,down,
+A needle with thread goes down from the machine.,down from the machine,
+A needle with thread goes down from the machine.,the machine,
+Goes through a piece of cloth.,through a piece of cloth,
+Goes through a piece of cloth.,a piece of cloth,
+A hook rotates underneath.,a hook,p4
+A hook rotates underneath.,underneath,
+The hook captures the thread.,the hook,p4
+The hook captures the thread.,the thread,p3
+The hook loops the thread around another thread.,the hook,p4
+The hook loops the thread around another thread.,the thread,p3
+The hook loops the thread around another thread.,around another thread,"p3,p5"
+Two threads interlock around the fabric.,two threads,p3
+Two threads interlock around the fabric.,around the fabric,
+Two threads interlock around the fabric.,the fabric,
+Electricity from the battery makes the machine needle move.,battery,

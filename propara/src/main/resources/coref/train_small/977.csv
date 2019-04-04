@@ -1,0 +1,22 @@
+p1,p2,p3
+coal,heat or electricity,pollution
+SENTENCE,PHRASE,REFERENCE
+People dig up coal from the ground.,people,
+People dig up coal from the ground.,coal,p1
+People dig up coal from the ground.,from the ground,
+People dig up coal from the ground.,the ground,
+People burn coal for heat or electricity.,people,
+People burn coal for heat or electricity.,coal,p1
+People burn coal for heat or electricity.,for heat or electricity,p2
+People burn coal for heat or electricity.,heat or electricity,p2
+Pollution from the coal goes into the sky.,pollution from the coal,p3
+Pollution from the coal goes into the sky.,into the sky,
+Pollution from the coal goes into the sky.,the sky,
+Coal pollution enters clouds.,coal pollution,p3
+Coal pollution enters clouds.,clouds,
+Clouds rain over an area.,clouds,
+Clouds rain over an area.,over an area,
+Clouds rain over an area.,an area,
+The polluted rain becomes acid rain.,the polluted rain,p3
+The polluted rain becomes acid rain.,acid rain,
+Pollution from the coal goes into the sky.,coal,p1

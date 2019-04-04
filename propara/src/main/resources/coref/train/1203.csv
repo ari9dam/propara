@@ -1,0 +1,25 @@
+p1,p2,p3,p4
+Proteins,DNA,Cytoplasm,Ribosomes
+SENTENCE,PHRASE,REFERENCE
+Proteins are entered into a phase called transcription.,proteins,p1
+Proteins are entered into a phase called transcription.,into a phase called transcription,
+Proteins are entered into a phase called transcription.,a phase called transcription,
+Proteins are entered into a phase called transcription.,a phase,
+Proteins are entered into a phase called transcription.,transcription,
+DNA is unwound partially so that it can be transcribed.,dna,p2
+DNA is unwound partially so that it can be transcribed.,unwound partially,
+DNA is unwound partially so that it can be transcribed.,partially,
+DNA is unwound partially so that it can be transcribed.,so that it can be transcribed,
+DNA is unwound partially so that it can be transcribed.,dna,p2
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,dna,p2
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,to be translated in cytoplasm,p3
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,where it forms with ribosomes,p4
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,dna,p2
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,where it forms with ribosomes,p4
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,cytoplasm,p3
+DNA is sent to be translated in cytoplasm where it forms with ribosomes.,ribosomes,p4
+Ribosomes bind the new DNA molecules.,ribosomes,p4
+Ribosomes bind the new DNA molecules.,the new dna molecules,p2
+The transcription and translation continue until the DNA is copied.,the transcription and translation,
+The transcription and translation continue until the DNA is copied.,until the dna is copied,p2
+The transcription and translation continue until the DNA is copied.,the dna,p2

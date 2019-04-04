@@ -1,0 +1,15 @@
+p1,p2,p3,p4,p5
+egg,baby bird,adult bird,nest,eggs
+SENTENCE,PHRASE,REFERENCE,,
+A bird lays an egg.,a bird,,,
+A bird lays an egg.,an egg,p1,,
+The egg hatches into a baby bird.,the egg,p1,,
+The egg hatches into a baby bird.,a baby bird,p2,,
+Baby bird eats.,baby bird,p2,,
+Grows into an adult bird.,an adult bird,p3,,
+The bird finds a mate.,the bird,p3,,
+The bird finds a mate.,a mate,,,
+The pair build a nest.,the pair,p3,,
+The pair build a nest.,a nest,p4,,
+The birds lay eggs.,the birds,,,
+The birds lay eggs.,eggs,p5,,

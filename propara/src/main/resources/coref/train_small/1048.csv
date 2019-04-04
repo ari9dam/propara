@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5,p6
+dishes,glasses,plastic wear,"plates, bowls, pots, and pans",utensils,detergent
+SENTENCE,PHRASE,REFERENCE
+Rinse the dishes before placing them in a dishwasher.,the dishes,p1
+Rinse the dishes before placing them in a dishwasher.,before placing them in a dishwasher,
+Rinse the dishes before placing them in a dishwasher.,the dishes,p1
+Rinse the dishes before placing them in a dishwasher.,in a dishwasher,
+Load glasses and plastic wear on the top rack.,glasses and plastic wear,"p2,p3"
+Load glasses and plastic wear on the top rack.,on the top rack,
+"Put plates, bowls, pots, and pans on the bottom rack.","plates , bowls , pots , and pans",p4
+"Put plates, bowls, pots, and pans on the bottom rack.",on the bottom rack,
+"Put plates, bowls, pots, and pans on the bottom rack.",pots,p4
+"Put plates, bowls, pots, and pans on the bottom rack.",on the bottom rack,
+Place all the utensils in the utensil basket.,all the utensils,p5
+Place all the utensils in the utensil basket.,in the utensil basket,p5
+Put detergent into the detergent holder.,detergent,p6
+Put detergent into the detergent holder.,into the detergent holder,p6
+Put detergent into the detergent holder.,the detergent holder,p6
+Close the door and push the start button.,the door,
+Close the door and push the start button.,the start button,

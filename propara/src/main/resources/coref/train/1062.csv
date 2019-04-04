@@ -1,0 +1,10 @@
+p1,p2,p3
+satellite,rocket,rocket fuel
+SENTENCE,PHRASE,REFERENCE
+Build a satellite.,a satellite,p1
+Attach a rocket.,a rocket,p2
+Add rocket fuel.,rocket fuel,"p2,p3"
+Launch rocket.,rocket,p2
+Satellite goes into orbit.,satellite,p1
+Satellite goes into orbit.,into orbit,
+Satellite goes into orbit.,orbit,

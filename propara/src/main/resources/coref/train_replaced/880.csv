@@ -1,0 +1,20 @@
+p1,p2,p3,p4
+water,vapor,clouds,rain
+SENTENCE,PHRASE,REFERENCE
+Water evaporates and becomes gaseous.,water,p1
+Water evaporates and becomes gaseous.,water,p1
+Water evaporates and becomes gaseous.,gaseous,
+The vapor goes into the air.,the vapor,p2
+The vapor goes into the air.,into the air,
+The vapor goes into the air.,the air,
+And the rain becomes clouds in the atmosphere.,the rain,p4
+And the rain becomes clouds in the atmosphere.,clouds,p3
+And the rain becomes clouds in the atmosphere.,in the atmosphere,
+The clouds become too heavy and it starts to fall.,the clouds,p3
+The clouds become too heavy and it starts to fall.,too heavy,
+The clouds become too heavy and it starts to fall.,the clouds,p3
+The clouds become too heavy and it starts to fall.,to fall,
+The clouds become too heavy and it starts to fall.,the clouds,p3
+The clouds become too heavy and it starts to fall.,become too heavy,
+It becomes rain.,it,
+It becomes rain.,rain,p4

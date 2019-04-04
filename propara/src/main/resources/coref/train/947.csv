@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5
+"water at a surface, surface water",water vapors,tiny particles of water/ice,clouds or fog,"rain, snow"
+SENTENCE,PHRASE,REFERENCE
+Evaporation of water at a surface turns into water vapors.,evaporation of water at a surface,p1
+Evaporation of water at a surface turns into water vapors.,water vapors,p2
+Rises into the Earth's atmosphere.,into the earth 's atmosphere,
+Rises into the Earth's atmosphere.,the earth 's atmosphere,
+Condensation occurs when water vapor turns into tiny particles of water/ice.,condensation,
+Condensation occurs when water vapor turns into tiny particles of water/ice.,when water vapor turns into tiny particles of water/ice,"p2,p3"
+Condensation occurs when water vapor turns into tiny particles of water/ice.,water vapor,p2
+Condensation occurs when water vapor turns into tiny particles of water/ice.,tiny particles of water/ice,p3
+And form together into clouds or fog.,together,
+And form together into clouds or fog.,into clouds or fog,p4
+And form together into clouds or fog.,clouds or fog,p4
+Precipitation of rain/snow occurs when wind/temperatures change.,precipitation of rain/snow,p5
+Precipitation of rain/snow occurs when wind/temperatures change.,when wind/temperatures change,
+Precipitation of rain/snow occurs when wind/temperatures change.,wind/temperatures,
+Fallen rain or snow collects into surface water which will evaporate into water vapor again.,fallen rain or snow,p5
+Fallen rain or snow collects into surface water which will evaporate into water vapor again.,surface water,p1
+Fallen rain or snow collects into surface water which will evaporate into water vapor again.,surface water,p1
+Fallen rain or snow collects into surface water which will evaporate into water vapor again.,into water vapor,p2
+Fallen rain or snow collects into surface water which will evaporate into water vapor again.,water vapor,p2

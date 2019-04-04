@@ -1,0 +1,83 @@
+observedAt("form","what is v ?","most fossils",1).
+observedAt("form","when is something v ?","when a plant or animal dies in a watery environment and is buried in mud and silt",1).
+lvalue("when a plant or animal dies in a watery environment and is buried in mud and silt","watery environment").
+observedAt("die","what v somewhere ?","a plant or animal",1).
+observedAt("die","where does something v ?","in a watery environment",1).
+lvalue("in a watery environment","watery environment").
+observedAt("bury","what is v in something ?","a plant or animal",1).
+observedAt("bury","how is something v ?","in mud and silt",1).
+lvalue("in mud and silt","mud and silt").
+observedAt("bury","what is something v in ?","mud and silt",1).
+lvalue("mud and silt","mud and silt").
+observedAt("decompose","what v ?","soft tissues",2).
+observedAt("decompose","how does something v ?","leaving the hard bones or shells behind",2).
+lvalue("leaving the hard bones or shells behind","bone or shell").
+observedAt("leave","what v something ?","soft tissues",2).
+observedAt("leave","what does something v ?","the hard bones or shells behind",2).
+lvalue("the hard bones or shells behind","bone or shell").
+observedAt("build","when does something v somewhere ?","over time",3).
+observedAt("build","what v ?","sediment",3).
+lvalue("sediment","sediment").
+observedAt("build","where does something v ?","over the top",3).
+lvalue("over the top","top").
+observedAt("harden","what v into something ?","sediment",3).
+lvalue("sediment","sediment").
+observedAt("harden","what does something v into ?","rock",3).
+lvalue("rock","rock").
+observedAt("decay","what v ?","the encased bones",4).
+lvalue("the encased bones","encased bone").
+observedAt("seep","when does something v ?","as the encased bones decay",4).
+lvalue("as the encased bones decay","encased bone").
+observedAt("seep","what v ?","minerals",4).
+observedAt("seep","how does something v ?","in replacing the organic material cell by cell in a process called petrification",4).
+observedAt("replace","when is something v ?","as the encased bones decay",4).
+lvalue("as the encased bones decay","encased bone").
+observedAt("replace","what v something ?","minerals",4).
+observedAt("replace","what is being v ?","the organic material cell",4).
+observedAt("replace","how is something v ?","in a process called petrification",4).
+observedAt("call","what is v something ?","a process",4).
+observedAt("call","what is something v ?","petrification",4).
+observedAt("leave","what v something ?","the bones",5).
+observedAt("leave","what is being v ?","a cast of the organism",5).
+observedAt("void","who v something ?","he",6).
+observedAt("void","where is something v ?","left behind",6).
+observedAt("left","what is v ?","he void",6).
+lvalue("he void","void").
+observedAt("left","where is something v ?","behind",6).
+observedAt("fill","what might v with something ?","he void left behind",6).
+lvalue("he void left behind","void leave behind").
+observedAt("fill","what might something v with ?","minerals",6).
+observedAt("make","what v something ?","minerals",6).
+observedAt("make","what is being v ?","a stone replica of the organism",6).
+time(1..6).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"plant").
+description(p1,"animal").
+description(p2,"soft tissues").
+description(p3,"sediment").
+description(p4,"rock").
+description(p5,"bones").
+description(p6,"minerals").
+description(p7,"stone replica").
+description(p7,"fossil").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p7,"most fossils").
+refers(1,p1,"when a plant or animal dies in a watery environment and is buried in mud and silt").
+refers(1,p1,"a plant or animal").
+refers(1,p1,"a plant or animal").
+refers(2,p2,"soft tissues").
+refers(2,p5,"leaving the hard bones or shells behind").
+refers(2,p2,"soft tissues").
+refers(2,p5,"the hard bones or shells behind").
+refers(3,p3,"sediment").
+refers(3,p3,"sediment").
+refers(3,p4,"rock").
+refers(4,p5,"the encased bones").
+refers(4,p5,"as the encased bones decay").
+refers(4,p6,"minerals").
+refers(4,p5,"as the encased bones decay").
+refers(4,p6,"minerals").
+refers(5,p5,"the bones").
+refers(6,p6,"minerals").
+refers(6,p6,"minerals").
+refers(6,p7,"a stone replica of the organism").

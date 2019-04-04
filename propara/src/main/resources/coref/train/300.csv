@@ -1,0 +1,29 @@
+p1,p2,p3
+bacteria,resources,toxins
+SENTENCE,PHRASE,REFERENCE
+Bacteria enter the body.,bacteria,p1
+Bacteria enter the body.,the body,
+Bacteria start to divide and grow.,bacteria,p1
+Bacteria start to divide and grow.,to divide and grow,
+Bacteria start to divide and grow.,bacteria,p1
+Bacteria start to divide and grow.,bacteria,p1
+The uncontrolled growth takes away resources from other cells.,the uncontrolled growth,
+The uncontrolled growth takes away resources from other cells.,resources from other cells,p2
+Other cells cannot function properly.,other cells,
+Other cells cannot function properly.,properly,
+We feel unwell.,we,
+We feel unwell.,unwell,
+The growth and division of bacteria produce toxins.,the growth and division of bacteria,p1
+The growth and division of bacteria produce toxins.,toxins,p3
+Toxins harm the body.,toxins,p3
+Toxins harm the body.,the body,
+The body tries to react to the toxins.,the body,
+The body tries to react to the toxins.,to react to the toxins,p3
+The body tries to react to the toxins.,the body,
+The body tries to react to the toxins.,the toxins,p3
+The body's natural defenses can sometimes cause us to feel unwell.,the body 's natural defenses,
+The body's natural defenses can sometimes cause us to feel unwell.,us to feel unwell,
+The body's natural defenses can sometimes cause us to feel unwell.,to feel unwell,
+The body's natural defenses can sometimes cause us to feel unwell.,us,
+The body's natural defenses can sometimes cause us to feel unwell.,unwell,
+The uncontrolled growth takes away resources from other cells.,other cells,

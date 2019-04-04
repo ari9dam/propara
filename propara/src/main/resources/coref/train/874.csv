@@ -1,0 +1,27 @@
+p1,p2
+oil,fuel
+SENTENCE,PHRASE,REFERENCE
+The oil needs to be pumped from the ground.,the oil,p1
+The oil needs to be pumped from the ground.,to be pumped from the ground,
+The oil needs to be pumped from the ground.,the oil,p1
+The oil needs to be pumped from the ground.,from the ground,
+The oil needs to be pumped from the ground.,the ground,
+After it is pumped it then is transported to a factory.,it,
+After it is pumped it then is transported to a factory.,after it is pumped,
+After it is pumped it then is transported to a factory.,it,
+After it is pumped it then is transported to a factory.,to a factory,
+After it is pumped it then is transported to a factory.,a factory,
+In the factory the oil is processed and turned into fuel.,in the factory,
+In the factory the oil is processed and turned into fuel.,the oil,p1
+In the factory the oil is processed and turned into fuel.,in the factory,
+In the factory the oil is processed and turned into fuel.,the oil,p1
+In the factory the oil is processed and turned into fuel.,fuel,p2
+Once the fuel is refined it is then sent to a truck.,the fuel,p2
+Once the fuel is refined it is then sent to a truck.,the fuel,p2
+Once the fuel is refined it is then sent to a truck.,to a truck,
+Once the fuel is refined it is then sent to a truck.,a truck,
+By truck the fuel is sent to the gas station.,by truck,
+By truck the fuel is sent to the gas station.,the fuel,p2
+By truck the fuel is sent to the gas station.,fuel,p2
+By truck the fuel is sent to the gas station.,to the gas station,
+By truck the fuel is sent to the gas station.,the gas station,

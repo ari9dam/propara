@@ -1,0 +1,36 @@
+observedAt("plant","what is v ?","a seed",1).
+observedAt("become","what v something ?","it",2).
+observedAt("become","what does something v ?","a seedling",2).
+observedAt("grow","what v into something ?","it",3).
+observedAt("grow","what does something v into ?","into a tree",3).
+lvalue("into a tree","tree").
+observedAt("grow","what v something ?","the tree",4).
+lvalue("the tree","tree").
+observedAt("grow","what does something v ?","flowers",4).
+observedAt("become","what v something ?","the flowers",5).
+observedAt("become","what does something v ?","fruit",5).
+lvalue("fruit","fruit").
+observedAt("contain","what v something ?","the fruits",6).
+lvalue("the fruits","fruit").
+observedAt("contain","what does something v ?","seeds for new trees",6).
+lvalue("seeds for new trees","tree").
+observedAt("contain","what does something v something for ?","new trees",6).
+lvalue("new trees","tree").
+time(1..6).
+participant(p1;p2;p3;p4;p5).
+description(p1,"seed").
+description(p2,"seedling").
+description(p3,"tree").
+description(p4,"flower").
+description(p5,"fruit").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a seed").
+refers(3,p3,"into a tree").
+refers(4,p3,"the tree").
+refers(4,p4,"flowers").
+refers(5,p4,"the flowers").
+refers(5,p5,"fruit").
+refers(6,p5,"the fruits").
+refers(6,p1,"seeds for new trees").
+refers(6,p3,"seeds for new trees").
+refers(6,p3,"new trees").

@@ -1,0 +1,24 @@
+p1,p2,p3
+air,oxygen,bad air
+SENTENCE,PHRASE,REFERENCE
+They expand to take the air in .,they,
+They expand to take the air in .,to take the air in,p1
+They expand to take the air in .,take the air in,p1
+They expand to take the air in .,they,
+They expand to take the air in .,the air,p1
+They expand to take the air in .,in,
+The cells of the lung hold the air.,the cells of the lung,
+The cells of the lung hold the air.,the air,p1
+They take in the air and remove the Oxygen.,they,
+They take in the air and remove the Oxygen.,in the air,p1
+They take in the air and remove the Oxygen.,the air,p1
+They take in the air and remove the Oxygen.,they,
+They take in the air and remove the Oxygen.,the oxygen,p2
+They inflate and all the bad air leaves through the mouth.,they,
+They inflate and all the bad air leaves through the mouth.,through the mouth,
+They inflate and all the bad air leaves through the mouth.,bad air,"p1,p3"
+They inflate and all the bad air leaves through the mouth.,through the mouth,
+They inflate and all the bad air leaves through the mouth.,the mouth,
+They do it all over again.,they,
+They do it all over again.,it,
+They do it all over again.,all over again,

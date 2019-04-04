@@ -1,0 +1,14 @@
+p1,p2,
+food,thick liquid,
+SENTENCE,PHRASE,REFERENCE
+Food leaves the esophagus and enters the stomach.,food,p1
+Food leaves the esophagus and enters the stomach.,the esophagus,
+Food leaves the esophagus and enters the stomach.,food,p1
+Food leaves the esophagus and enters the stomach.,the stomach,
+The stomach churns the food.,the stomach,
+The stomach churns the food.,the food,p1
+With the aid of stomach acids.,With the aid of stomach acids.,
+The food becomes a thick liquid.,the food,p1
+The food becomes a thick liquid.,a thick liquid,p2
+Is then passed to the small intestine.,to the small intestine,
+Is then passed to the small intestine.,the small intestine,

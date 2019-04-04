@@ -1,0 +1,32 @@
+p1,p2,p3
+"rock, melted rock, magma",lava,minerals
+SENTENCE,PHRASE,REFERENCE
+There are places inside Earth where rock will melt.,places,
+There are places inside Earth where rock will melt.,where rock will melt,p1
+There are places inside Earth where rock will melt.,places,
+There are places inside Earth where rock will melt.,places inside earth,
+There are places inside Earth where rock will melt.,rock,p1
+"Melted rock inside the Earth is also called molten rock, or magma.",rock,p1
+"Melted rock inside the Earth is also called molten rock, or magma.",inside the earth,
+"Melted rock inside the Earth is also called molten rock, or magma.",melted rock inside the earth,p1
+"Melted rock inside the Earth is also called molten rock, or magma.","molten rock , or magma",p1
+"Magma moves up through Earth's crust, but it does not always reach the surface.",magma,p1
+"Magma moves up through Earth's crust, but it does not always reach the surface.",up through earth 's crust,
+"Magma moves up through Earth's crust, but it does not always reach the surface.",magma,p1
+"Magma moves up through Earth's crust, but it does not always reach the surface.",it,p1
+"Magma moves up through Earth's crust, but it does not always reach the surface.",the surface,
+"When magma erupts onto Earth's surface, it is known as lava.",magma,p1
+"When magma erupts onto Earth's surface, it is known as lava.",onto earth 's surface,
+"When magma erupts onto Earth's surface, it is known as lava.",earth 's surface,
+"When magma erupts onto Earth's surface, it is known as lava.",when magma erupts onto earth 's surface,p1
+"When magma erupts onto Earth's surface, it is known as lava.",magma,p1
+"When magma erupts onto Earth's surface, it is known as lava.",it,p1
+"When magma erupts onto Earth's surface, it is known as lava.",lava,p2
+As lava flows from volcanoes it starts to cool.,lava,p2
+As lava flows from volcanoes it starts to cool.,from volcanoes,
+As lava flows from volcanoes it starts to cool.,volcanoes,
+As lava flows from volcanoes it starts to cool.,lava,p2
+As lava flows from volcanoes it starts to cool.,to cool,
+As lava flows from volcanoes it starts to cool.,lava,p2
+Minerals form when magma and lava cool.,minerals,p3
+Minerals form when magma and lava cool.,when magma and lava cool,"p1,p2"

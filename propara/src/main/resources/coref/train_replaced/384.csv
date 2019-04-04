@@ -1,0 +1,26 @@
+p1,p2,
+virus,symptoms,
+SENTENCE,PHRASE,REFERENCE
+Contact is made with a virus.,contact,
+Contact is made with a virus.,a virus,p1
+The virus enters the human or animal body.,the virus,p1
+The virus enters the human or animal body.,the human or animal body,
+The virus goes to the part of the body that contains its food.,the virus,p1
+The virus goes to the part of the body that contains its food.,to the part of the body that contains its food,
+The virus goes to the part of the body that contains its food.,the part of the body that contains its food,
+The virus goes to the part of the body that contains its food.,the body,
+The virus goes to the part of the body that contains its food.,its food,p1
+The virus consumes part of the body or materials that the body uses.,the virus,p1
+The virus consumes part of the body or materials that the body uses.,part of the body or materials that the body uses,
+The virus consumes part of the body or materials that the body uses.,part of the body or materials,
+The virus consumes part of the body or materials that the body uses.,the body,
+The virus replicates and spreads.,the virus,p1
+The virus replicates and spreads.,the virus,p1
+The virus causes symptoms in the body as the immune system tries to expel the virus.,the virus,p1
+The virus causes symptoms in the body as the immune system tries to expel the virus.,symptoms,p2
+The virus causes symptoms in the body as the immune system tries to expel the virus.,in the body,
+The virus causes symptoms in the body as the immune system tries to expel the virus.,as the immune system tries to expel the virus,p1
+The virus causes symptoms in the body as the immune system tries to expel the virus.,the immune system,
+The virus causes symptoms in the body as the immune system tries to expel the virus.,to expel the virus,p1
+The virus causes symptoms in the body as the immune system tries to expel the virus.,the immune system,
+The virus causes symptoms in the body as the immune system tries to expel the virus.,the virus,p1

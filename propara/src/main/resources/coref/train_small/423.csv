@@ -1,0 +1,23 @@
+p1,p2,p3
+coal,mine,miners
+SENTENCE,PHRASE,REFERENCE
+A mine is excavated in the side of a mountain.,a mine,p2
+A mine is excavated in the side of a mountain.,in the side of a mountain,
+Miners enter the mine.,miners,p3
+Miners enter the mine.,the mine,p2
+Miners remove the coal from the mine.,miners,p3
+Miners remove the coal from the mine.,the coal,p1
+Miners remove the coal from the mine.,from the mine,p2
+Miners remove the coal from the mine.,the mine,p2
+The coal is placed into carts or on a conveyor belt.,the coal,p1
+The coal is placed into carts or on a conveyor belt.,into carts or on a conveyor belt,
+The coal is placed into carts or on a conveyor belt.,carts,
+The coal is moved up to the surface.,the coal,p1
+The coal is moved up to the surface.,up to the surface,
+The coal is loaded onto a truck.,the coal,p1
+The coal is loaded onto a truck.,onto a truck,
+The coal is loaded onto a truck.,a truck,
+The truck takes the coal to a power station.,the truck,
+The truck takes the coal to a power station.,the coal,p1
+The truck takes the coal to a power station.,to a power station,
+The truck takes the coal to a power station.,a power station,

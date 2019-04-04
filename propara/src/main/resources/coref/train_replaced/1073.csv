@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5,p6
+cloud,ice,electrical charge,positively charged particles,negatively charged particles,lightning
+SENTENCE,PHRASE,REFERENCE
+There is a rain cloud in the sky.,a rain cloud,p1
+There is a rain cloud in the sky.,in the sky,
+Small bits of ice within the cloud bump each other.,small bits of ice within the cloud,"p1,p2"
+Small bits of ice within the cloud bump each other.,each other,
+The collisions create electrical charge.,the collisions,
+The collisions create electrical charge.,electrical charge,p3
+"Lighter, positively charged particles sink to the bottom of the cloud.",positively,
+"Lighter, positively charged particles sink to the bottom of the cloud.",particles,
+"Lighter, positively charged particles sink to the bottom of the cloud.","lighter , positively charged particles",p4
+"Lighter, positively charged particles sink to the bottom of the cloud.",to the bottom of the cloud,p1
+"Lighter, positively charged particles sink to the bottom of the cloud.",the bottom of the cloud,p1
+"Heavier, negatively charges particles rise to the top.",negatively,
+"Heavier, negatively charges particles rise to the top.",particles,
+"Heavier, negatively charges particles rise to the top.","heavier , negatively charges particles",p5
+"Heavier, negatively charges particles rise to the top.",to the top,
+"Heavier, negatively charges particles rise to the top.",the top,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",the positive and negative charges,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",large enough,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",when the positive and negative charges grow large enough,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",a giant,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",when the positive and negative charges grow large enough,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",a giant spark,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",lightning,p6
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.",when the positive and negative charges grow large enough,
+"When the positive and negative charges grow large enough, a giant spark, called lightning occurs.","a giant spark , called lightning",p6

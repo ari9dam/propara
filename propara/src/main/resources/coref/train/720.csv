@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5
+sunlight,water,water vapor,condensed water,clouds
+SENTENCE,PHRASE,REFERENCE
+Sunlight enters the atmosphere.,sunlight,p1
+Sunlight enters the atmosphere.,the atmosphere,
+The light reaches the oceans.,the light,
+The light reaches the oceans.,the oceans,
+The oceans are warmed.,the oceans,
+Water evaporates.,water,p2
+Water vapor accumulates in the air.,water vapor,"p2,p3"
+Water vapor accumulates in the air.,in the air,
+Water vapor accumulates in the air.,the air,
+"As it cools, water condenses onto particles of dust in the air.",it,
+"As it cools, water condenses onto particles of dust in the air.",as it cools,
+"As it cools, water condenses onto particles of dust in the air.",water,p2
+"As it cools, water condenses onto particles of dust in the air.",particles of dust in the air,
+"As it cools, water condenses onto particles of dust in the air.",in the air,
+"As enough water condenses, clouds are formed.",enough water,p2
+"As enough water condenses, clouds are formed.",as enough water condenses,p2
+"As enough water condenses, clouds are formed.",clouds,p5

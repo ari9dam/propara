@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5,p6
+bile,proteins,glucose,glycogen,ammonia,urea
+SENTENCE,PHRASE,REFERENCE
+The liver filters blood from the digestive tract.,the liver,
+The liver filters blood from the digestive tract.,blood,
+The liver filters blood from the digestive tract.,from the digestive tract,
+The liver produces bile.,the liver,
+The liver produces bile.,bile,p1
+The liver produces proteins for blood plasma.,the liver,
+The liver produces proteins for blood plasma.,proteins,p2
+The liver produces proteins for blood plasma.,for blood plasma,
+The liver produces proteins for blood plasma.,blood plasma,
+The liver converts excess glucose into glycogen for storage.,the liver,
+The liver converts excess glucose into glycogen for storage.,excess glucose,p3
+The liver converts excess glucose into glycogen for storage.,glycogen,p4
+The liver converts excess glucose into glycogen for storage.,for storage,
+The liver converts ammonia to urea.,the liver,
+The liver converts ammonia to urea.,ammonia,p5
+The liver converts ammonia to urea.,to urea,p6
+The liver regulates blood clotting.,the liver,
+The liver regulates blood clotting.,blood clotting,

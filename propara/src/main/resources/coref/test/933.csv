@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+water,carbon dioxide,mineral based material,rock
+SENTENCE,PHRASE,REFERENCE,
+Water is introduced to carbon dioxide.,water,p1,
+Water is introduced to carbon dioxide.,carbon dioxide,p2,
+The water becomes acidic.,the water,p1,
+The water becomes acidic.,acidic,,
+The water seeps down to a mineral based material.,the water,p1,
+The water seeps down to a mineral based material.,down,,
+The water seeps down to a mineral based material.,down to a mineral based material,p3,
+The water seeps down to a mineral based material.,a mineral based material,p3,
+The water seeps down to a mineral based material.,material,,
+The acidity of the water carves and shapes the rock.,the acidity of the water,p1,
+The acidity of the water carves and shapes the rock.,the rock,p4,
+The acidity of the water carves and shapes the rock.,the acidity of the water,p1,
+The acidity of the water carves and shapes the rock.,the rock,p4,
+And may form geological phenomenon.,geological phenomenon,,

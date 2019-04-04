@@ -1,0 +1,24 @@
+p1,p2
+eggs,"young fish, fish"
+SENTENCE,PHRASE,REFERENCE
+An adult fish lays eggs.,an adult fish,p2
+An adult fish lays eggs.,eggs,p1
+The eggs incubate for a few weeks or months before hatching.,the eggs,p1
+The eggs incubate for a few weeks or months before hatching.,for a few weeks or months before hatching,
+The eggs incubate for a few weeks or months before hatching.,the eggs,p1
+The young fish remain where they hatched until they are big enough to venture into the open water.,the young fish,p2
+The young fish remain where they hatched until they are big enough to venture into the open water.,where they hatched,
+The young fish remain where they hatched until they are big enough to venture into the open water.,until they are big enough to venture into the open water,
+The young fish remain where they hatched until they are big enough to venture into the open water.,the young fish,p2
+The young fish remain where they hatched until they are big enough to venture into the open water.,they,
+The young fish remain where they hatched until they are big enough to venture into the open water.,until they are big enough to venture into the open water,
+The young fish remain where they hatched until they are big enough to venture into the open water.,the young fish,p2
+The young fish remain where they hatched until they are big enough to venture into the open water.,big enough to venture into the open water,
+The fish continue to grow.,the fish,p2
+The fish continue to grow.,to grow,
+The fish continue to grow.,the fish,p2
+The fish reach adulthood.,the fish,p2
+The fish reach adulthood.,adulthood,
+Reproduce continuing the cycle.,continuing the cycle,
+Reproduce continuing the cycle.,reproduce,
+Reproduce continuing the cycle.,the cycle,

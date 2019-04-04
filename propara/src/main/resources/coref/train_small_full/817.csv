@@ -1,0 +1,29 @@
+p1,p2,
+energy,electrical current,
+SENTENCE,PHRASE,REFERENCE
+Energy is stored in a battery.,energy,p1
+Energy is stored in a battery.,in a battery,
+Energy is stored in a battery.,a battery,
+The energy is released from the battery as electrical current.,the energy,p1
+The energy is released from the battery as electrical current.,from the battery,
+The energy is released from the battery as electrical current.,the battery,
+The energy is released from the battery as electrical current.,as electrical current,p2
+The electrical current goes to a motor.,the electrical current,p2
+The electrical current goes to a motor.,to a motor,
+The electrical current goes to a motor.,a motor,
+The motor makes the needle of the sewing machine go up and down.,the motor,
+The motor makes the needle of the sewing machine go up and down.,the needle of the sewing machine go up and down,
+The motor makes the needle of the sewing machine go up and down.,machine,
+The motor makes the needle of the sewing machine go up and down.,the needle of the sewing machine,
+The motor makes the needle of the sewing machine go up and down.,up and down,
+The needle is pressed through the piece of clothing at a constant rate.,the needle,
+The needle is pressed through the piece of clothing at a constant rate.,through the piece of clothing,
+The needle is pressed through the piece of clothing at a constant rate.,the piece of clothing,
+The needle is pressed through the piece of clothing at a constant rate.,at a constant rate,
+Thread is attached and used to stitch the clothing.,thread,
+Thread is attached and used to stitch the clothing.,to stitch the clothing,
+Thread is attached and used to stitch the clothing.,thread,
+Thread is attached and used to stitch the clothing.,to stitch the clothing,
+Thread is attached and used to stitch the clothing.,stitch the clothing,
+Thread is attached and used to stitch the clothing.,thread,
+Thread is attached and used to stitch the clothing.,the clothing,

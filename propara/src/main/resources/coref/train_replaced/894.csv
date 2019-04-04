@@ -1,0 +1,16 @@
+p1,p2,
+glucagon,glucose,
+SENTENCE,PHRASE,REFERENCE
+The blood sugar drops in a body.,the blood sugar,
+The blood sugar drops in a body.,in a body,
+The blood sugar drops in a body.,a body,
+Cells in the pancrease release glucagon.,cells in the pancrease,
+Cells in the pancrease release glucagon.,in the pancrease,
+Cells in the pancrease release glucagon.,glucagon,p1
+The liver in response turns the glucagon into glucose.,the liver in response,
+The liver in response turns the glucagon into glucose.,the glucagon,p1
+The liver in response turns the glucagon into glucose.,glucose,p2
+And releases it into the blood.,it,p2
+And releases it into the blood.,into the blood,
+And releases it into the blood.,the blood,
+The blood sugar levels are restored.,the blood sugar levels,

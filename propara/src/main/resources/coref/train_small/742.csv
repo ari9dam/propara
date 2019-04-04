@@ -1,0 +1,18 @@
+p1,p2
+sound waves,echo
+SENTENCE,PHRASE,REFERENCE
+The bat sends out sound waves from their mouth or nose.,the bat,
+The bat sends out sound waves from their mouth or nose.,sound waves,p1
+The bat sends out sound waves from their mouth or nose.,from their mouth or nose,
+The bat sends out sound waves from their mouth or nose.,their mouth or nose,
+The sound waves hit an object.,the sound waves,p1
+The sound waves hit an object.,an object,
+Echoes are produced.,echoes,p2
+The echo returns to the bat's ears.,to the bat 's ears,
+The echo returns to the bat's ears.,the bat 's ears,
+The bat hears the echo.,the bat,
+The bat hears the echo.,the echo,p2
+The bat can figure out where the object is located.,the bat,
+The bat can figure out where the object is located.,where the object is located,
+The bat can figure out where the object is located.,the object,
+The bat can figure out where the object is located.,located,

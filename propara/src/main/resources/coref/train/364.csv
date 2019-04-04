@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5,p6
+"acid rain, acid rainwater",chemicals,plants and trees,fish,animals,nitrogen
+SENTENCE,PHRASE,REFERENCE
+Acid rain flows through soil.,acid rain,p1
+Acid rain flows through soil.,through soil,
+Acid rain flows through soil.,soil,
+Chemicals from the acid rain kill plants and trees.,chemicals from the acid rain,"p1,p2"
+Chemicals from the acid rain kill plants and trees.,plants and trees,p3
+The acid rainwater flows into rivers and streams.,the acid rainwater,p1
+The acid rainwater flows into rivers and streams.,into rivers and streams,
+The acid rainwater flows into rivers and streams.,rivers and streams,
+The chemicals kill fish.,the chemicals,p2
+The chemicals kill fish.,fish,p4
+The chemicals kill animals that drink the water.,the chemicals,p2
+The chemicals kill animals that drink the water.,animals,p5
+The chemicals kill animals that drink the water.,animals,p5
+The chemicals kill animals that drink the water.,the water,
+Nitrogen builds up.,nitrogen,p6
+Nitrogen destroys fish and shellfish populations.,nitrogen,p6
+Nitrogen destroys fish and shellfish populations.,fish and shellfish populations,p4
+Chemicals from the acid rain kill plants and trees.,acid rain,p1

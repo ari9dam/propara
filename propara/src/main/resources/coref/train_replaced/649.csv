@@ -1,0 +1,17 @@
+p1,p2,p3
+seed,root system,plant
+SENTENCE,PHRASE,REFERENCE
+A seed must find its way to the earth.,a seed,p1
+A seed must find its way to the earth.,its way to the earth,
+The seed when given nutrients will sprout.,nutrients,
+The seed when given nutrients will sprout.,given nutrients,
+The sprouting will develop a root system.,the sprouting,
+The sprouting will develop a root system.,a root system,p2
+The plant will grow larger until it matures.,the plant,p3
+The plant will grow larger until it matures.,larger,
+The plant will grow larger until it matures.,until it matures,p3
+The plant will grow larger until it matures.,the plant,p3
+The plant will thrive.,the plant,p3
+The plant will die.,the plant,p3
+Become nourishment for other plants.,nourishment,
+Become nourishment for other plants.,other plants,

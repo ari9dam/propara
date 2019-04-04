@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5,p6
+waves,coast,water,sediment,land,sand
+SENTENCE,PHRASE,REFERENCE
+Waves hit the coast.,waves,p1
+Waves hit the coast.,the coast,p2
+Waves have energy that pushes the water and sediment.,waves,p1
+Waves have energy that pushes the water and sediment.,energy that pushes the water and sediment,"p3,p4"
+Waves have energy that pushes the water and sediment.,energy,
+Waves have energy that pushes the water and sediment.,the water and sediment,"p3,p4"
+The sediment can help erode land like sandpaper.,the sediment,p4
+The sediment can help erode land like sandpaper.,erode land like sandpaper,p5
+The sediment can help erode land like sandpaper.,the sediment,p4
+The sediment can help erode land like sandpaper.,land,p5
+The sediment can help erode land like sandpaper.,like sandpaper,
+Water washes the sediment back.,water,p3
+Water washes the sediment back.,the sediment,p4
+Water washes the sediment back.,back,
+Some sediment is left as sand.,some sediment,p4
+Some sediment is left as sand.,as sand,p6
+Some sediment is left as sand.,sand,p6

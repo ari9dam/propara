@@ -1,0 +1,14 @@
+p1,p2
+mouse,meal
+SENTENCE,PHRASE,REFERENCE
+An eagle flys along.,an eagle,
+An eagle flys along.,along,
+The eagle spots a mouse on the ground.,the eagle,
+The eagle spots a mouse on the ground.,a mouse,p1
+The eagle spots a mouse on the ground.,on the ground,
+The eagle swoops down.,the eagle,
+The eagle swoops down.,down,
+Catches the mouse in its talons.,the mouse,p1
+Catches the mouse in its talons.,in its talons,
+The eagle has a meal.,the eagle,
+The eagle has a meal.,a meal,p2

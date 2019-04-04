@@ -1,0 +1,33 @@
+p1,p2,p3
+raindrops,ice particle,hailstone
+SENTENCE,PHRASE,REFERENCE
+Updrafts in a thunderstorm carry raindrops upwards.,updrafts in a thunderstorm,
+Updrafts in a thunderstorm carry raindrops upwards.,in a thunderstorm,
+Updrafts in a thunderstorm carry raindrops upwards.,raindrops,p1
+Updrafts in a thunderstorm carry raindrops upwards.,upwards,
+The raindrops condense onto dust or other small parti.,the raindrops,p1
+The raindrops condense onto dust or other small parti.,onto dust or other small parti,
+The raindrops condense onto dust or other small parti.,dust or other small parti,
+The supercooled water molecules condense onto the condensation nucleus and freeze.,the supercooled water molecules,
+The supercooled water molecules condense onto the condensation nucleus and freeze.,onto the condensation nucleus,
+The supercooled water molecules condense onto the condensation nucleus and freeze.,onto the condensation nucleus and freeze,
+The supercooled water molecules condense onto the condensation nucleus and freeze.,the condensation nucleus,
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",the tiny ice particle,p2
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",moving up and down,
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",the tiny ice particle,p2
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",up and down,
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",the tiny ice particle,p2
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",more ice,
+"The tiny ice particle keeps moving up and down, gathering more ice on the surface.",on the surface,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,eventually,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,the hailstone,p3
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,to earth,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,earth,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,either because it 's too heavy to remain aloft or because a drowndraft pushes it down,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,the hailstone,p3
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,too heavy to remain aloft,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,the hailstone,p3
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,aloft,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,a drowndraft,
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,it,p3
+Eventually the hailstone falls to earth either because it's too heavy to remain aloft or because a drowndraft pushes it down.,down,

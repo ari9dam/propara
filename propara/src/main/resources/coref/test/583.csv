@@ -1,0 +1,14 @@
+p1,p2,p3,p4,p5
+"warm, humd low-presure air",updraft,"dry, cold high-pressure air",rotation,"funnel, tornado"
+SENTENCE,PHRASE,REFERENCE
+"Warm, humid low-pressure air rises.","warm , humid low-pressure air",p1
+Creates a strong updraft.,a strong updraft,p2
+"Dry, cold high-pressure air is punched through.","dry , cold high-pressure air",p3
+"Dry, cold high-pressure air is punched through.",through,
+The opposing winds create rotation.,the opposing winds,
+The opposing winds create rotation.,rotation,p4
+When the rotation is violent enough a funnel forms.,the rotation,p4
+When the rotation is violent enough a funnel forms.,violent,
+When the rotation is violent enough a funnel forms.,the rotation,p4
+Drops to the ground.,to the ground,
+Drops to the ground.,the ground,

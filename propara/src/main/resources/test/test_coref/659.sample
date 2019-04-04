@@ -1,0 +1,65 @@
+observedAt("change","what v something ?","bacteria",1).
+lvalue("bacteria","bacterium").
+observedAt("change","what does something v ?","nitrogen",1).
+observedAt("change","what does something v something into ?","ammonium",1).
+observedAt("change","how does something v something ?","through fixation",1).
+observedAt("be","what v something ?","the nitrification process",2).
+observedAt("be","what does something v ?","where ammonium gets changed into nitrates by bacteria",2).
+lvalue("where ammonium gets changed into nitrates by bacteria","bacterium").
+observedAt("change","what is v into something ?","ammonium",2).
+observedAt("change","what is something v into ?","nitrates",2).
+lvalue("nitrates","nitrate").
+observedAt("change","how is something v ?","by bacteria",2).
+lvalue("by bacteria","bacterium").
+observedAt("change","what is something v by ?","bacteria",2).
+lvalue("bacteria","bacterium").
+observedAt("absorb","what v something ?","plants",3).
+lvalue("plants","plant").
+observedAt("absorb","what does something v ?","the nitrates",3).
+lvalue("the nitrates","nitrate").
+observedAt("absorb","where does something v something ?","into their roots",3).
+lvalue("into their roots","root").
+observedAt("absorb","what does something v something from ?","soil",3).
+lvalue("soil","soil").
+observedAt("absorb","how does something v something ?","through assimilation",3).
+observedAt("die","what v ?","plants",4).
+lvalue("plants","plant").
+observedAt("turn","when does something v ?","when plants die",4).
+lvalue("when plants die","plant").
+observedAt("turn","what v something ?","fungi and bacteria",4).
+lvalue("fungi and bacteria","fungus and bacterium").
+observedAt("turn","what does something v ?","nitrogen",4).
+observedAt("turn","where does something v something ?","back into ammonium",4).
+observedAt("turn","how does something v something ?","through ammonification",4).
+observedAt("push","what v something ?","the denitrification process",5).
+observedAt("push","what does something v ?","extra nitrogen",5).
+observedAt("push","where does something v something ?","into the air",5).
+lvalue("into the air","air").
+observedAt("push","what does something v something from ?","soil",5).
+lvalue("soil","soil").
+observedAt("push","where does something v something from ?","the air",5).
+lvalue("the air","air").
+observedAt("repeat","what v ?","the cycle",6).
+observedAt("repeat","where does something v ?","from step 1",6).
+observedAt("repeat","what does something v from ?","step 1",6).
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"nitrogen").
+description(p1,"nitrates").
+description(p2,"ammonium").
+description(p3,"plant").
+description(p4,"extra nitrogen").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"nitrogen").
+refers(1,p2,"ammonium").
+refers(2,p1,"where ammonium gets changed into nitrates by bacteria").
+refers(2,p2,"where ammonium gets changed into nitrates by bacteria").
+refers(2,p2,"ammonium").
+refers(2,p1,"nitrates").
+refers(3,p3,"plants").
+refers(3,p1,"the nitrates").
+refers(4,p3,"plants").
+refers(4,p3,"when plants die").
+refers(4,p1,"nitrogen").
+refers(4,p2,"back into ammonium").
+refers(5,p4,"extra nitrogen").

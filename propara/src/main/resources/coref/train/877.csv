@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5,p6,p7,p8
+warm air,water vapor,condensed water,dust,cloud,"water droplets, droplets",moisture,rain
+SENTENCE,PHRASE,REFERENCE
+Warm air from the surface rises into the higher cold air.,warm air from the surface,p1
+Warm air from the surface rises into the higher cold air.,into the higher cold air,
+Warm air from the surface rises into the higher cold air.,the higher cold air,
+Rain falls.,rain,p8
+The water vapor in the air is condensed.,the water vapor in the air,p2
+The water vapor in the air is condensed.,condensed,
+The condensed water and dust forms a cloud.,the condensed water and dust,"p3,p4"
+The condensed water and dust forms a cloud.,a cloud,p5
+Wind in the cloud bounces the water droplets around.,wind in the cloud,p5
+Wind in the cloud bounces the water droplets around.,in the cloud,p5
+Wind in the cloud bounces the water droplets around.,the water droplets,p6
+The bouncing droplets join together.,droplets,p6
+The bouncing droplets join together.,the bouncing droplets,p6
+The bouncing droplets join together.,together,
+The bigger droplets get heavy.,the bigger droplets,p6
+The bigger droplets get heavy.,heavy,
+The heavy droplets fall.,the heavy droplets,p6
+"As they fall, they join with more moisture in the air.",they,
+"As they fall, they join with more moisture in the air.",as they fall,
+"As they fall, they join with more moisture in the air.",they,
+"As they fall, they join with more moisture in the air.",more moisture in the air,p7
+"As they fall, they join with more moisture in the air.",in the air,
+The droplets get larger.,the droplets,p6
+The droplets get larger.,larger,
+Warm air from the surface rises into the higher cold air.,the surface,

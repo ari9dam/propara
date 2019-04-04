@@ -1,0 +1,29 @@
+p1,p2,
+"oxygen-depleted blood, blood","oxygenated blood, blood",
+SENTENCE,PHRASE,REFERENCE
+Oxygen-depleted blood enters the heart on the right atrium.,oxygen-depleted blood,p1
+Oxygen-depleted blood enters the heart on the right atrium.,the heart,
+Oxygen-depleted blood enters the heart on the right atrium.,on the right atrium,
+The atrium contracts.,the atrium,
+The atrium contracts.,atrium,
+Blood flows from your right atrium into your right ventricle through the open tricuspid valve.,blood,"p1,p2"
+Blood flows from your right atrium into your right ventricle through the open tricuspid valve.,from your right atrium into your right ventricle,
+Blood flows from your right atrium into your right ventricle through the open tricuspid valve.,your right atrium,
+Blood flows from your right atrium into your right ventricle through the open tricuspid valve.,into your right ventricle,
+Blood flows from your right atrium into your right ventricle through the open tricuspid valve.,through the open tricuspid valve,
+"When the ventricle is full, the tricuspid valve shuts.",the ventricle,
+"When the ventricle is full, the tricuspid valve shuts.",full,
+The ventricle contracts.,the ventricle,
+"Blood leaves the heart through the pulmonic valve, into the pulmonary artery and to the lungs.",blood,"p1,p2"
+"Blood leaves the heart through the pulmonic valve, into the pulmonary artery and to the lungs.",the heart,
+"Blood leaves the heart through the pulmonic valve, into the pulmonary artery and to the lungs.",through the pulmonic valve,
+"Blood leaves the heart through the pulmonic valve, into the pulmonary artery and to the lungs.","through the pulmonic valve , into the pulmonary artery and to the lungs",
+The lungs oxygenate the blood.,the lungs,
+The lungs oxygenate the blood.,the blood,"p1,p2"
+The oxygenated blood goes into the left atrium.,blood,p2
+The oxygenated blood goes into the left atrium.,the oxygenated blood,p2
+The oxygenated blood goes into the left atrium.,into the left atrium,
+The oxygenated blood goes into the left atrium.,the left atrium,
+The left atrium sends the blood throughout the body.,the left atrium,
+The left atrium sends the blood throughout the body.,the blood,"p1,p2"
+The left atrium sends the blood throughout the body.,throughout the body,

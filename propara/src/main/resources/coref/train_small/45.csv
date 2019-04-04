@@ -1,0 +1,21 @@
+p1,p2
+water,"droplets, drops, rain"
+SENTENCE,PHRASE,REFERENCE
+Water evaporates from the ground up to the sky.,water,p1
+Water evaporates from the ground up to the sky.,from the ground up to the sky,
+Water evaporates from the ground up to the sky.,the ground,
+Water evaporates from the ground up to the sky.,up to the sky,
+Water droplets are in clouds.,water droplets,"p1,p2"
+Water droplets are in clouds.,in clouds,
+Droplets combine to form bigger drops in the clouds.,droplets,p2
+Droplets combine to form bigger drops in the clouds.,to form bigger drops in the clouds,p2
+Droplets combine to form bigger drops in the clouds.,form bigger drops in the clouds,p2
+Droplets combine to form bigger drops in the clouds.,in the clouds,
+Droplets combine to form bigger drops in the clouds.,droplets,p2
+Droplets combine to form bigger drops in the clouds.,bigger drops,p2
+Droplets combine to form bigger drops in the clouds.,in the clouds,
+The drops get heavy.,the drops,p2
+The drops get heavy.,heavy,
+Gravity makes the drops fall.,gravity,
+Gravity makes the drops fall.,the drops fall,p2
+Gravity makes the drops fall.,the drops,p2

@@ -1,0 +1,18 @@
+p1,p2,p3,p4,p5
+animals,plants,"bones and hard tissues, remains",sediment,rock
+SENTENCE,PHRASE,REFERENCE,,
+Most fossils formed when animals or plants die in wet environment.,most fossils,,,
+Most fossils formed when animals or plants die in wet environment.,when animals or plants die in wet environment,"p1,p2",,
+Most fossils formed when animals or plants die in wet environment.,animals or plants,"p1,p2",,
+Most fossils formed when animals or plants die in wet environment.,in wet environment,,,
+Most fossils formed when animals or plants die in wet environment.,wet environment,,,
+The animals and plants are then buried in mud.,the animals and plants,"p1,p2",,
+The animals and plants are then buried in mud.,in mud,,,
+The animals and plants are then buried in mud.,mud,,,
+Soft tissues decompose.,soft tissues,,,
+Bones and hard tissues remain.,bones and hard tissues,p3,,
+Sediment builds up over the remains over a period of time.,sediment,p4,,
+Sediment builds up over the remains over a period of time.,over the remains,p3,,
+Sediment builds up over the remains over a period of time.,over a period of time,,,
+The sediment hardens into rock.,the sediment,p4,,
+The sediment hardens into rock.,rock,p5,,

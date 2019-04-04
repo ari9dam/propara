@@ -1,0 +1,23 @@
+p1,p2,p3
+electricity,electrons at the anode,electrons at the cathode
+SENTENCE,PHRASE,REFERENCE
+Chemical reactions in the battery causes a build up of electrons at the anode.,chemical reactions in the battery,
+Chemical reactions in the battery causes a build up of electrons at the anode.,in the battery,
+Chemical reactions in the battery causes a build up of electrons at the anode.,a build up of electrons at the anode,p2
+Chemical reactions in the battery causes a build up of electrons at the anode.,electrons,
+Chemical reactions in the battery causes a build up of electrons at the anode.,at the anode,
+This results in an electrical difference between the anode and the cathode.,this,
+This results in an electrical difference between the anode and the cathode.,an electrical difference between the anode and the cathode,
+The electrons wants to rearrange themselves to get rid of this difference.,the electrons,
+The electrons wants to rearrange themselves to get rid of this difference.,to rearrange themselves,
+The electrons wants to rearrange themselves to get rid of this difference.,to get rid of this difference,
+The electrons wants to rearrange themselves to get rid of this difference.,the electrons,
+The electrons wants to rearrange themselves to get rid of this difference.,themselves,
+The electrons wants to rearrange themselves to get rid of this difference.,to get rid of this difference,
+The electrons wants to rearrange themselves to get rid of this difference.,the electrons,
+The electrons wants to rearrange themselves to get rid of this difference.,rid of this difference,
+The electrons go to the cathode.,the electrons,
+The electrons go to the cathode.,electrons,
+The electrons go to the cathode.,to the cathode,
+The electrons go to the cathode.,the cathode,
+Electricty is created.,electricty,

@@ -1,0 +1,44 @@
+p1,p2
+"aluminum cans, aluminum can, aluminum",ingots
+SENTENCE,PHRASE,REFERENCE
+You place aluminum cans and other products into recycling bins.,you,
+You place aluminum cans and other products into recycling bins.,aluminum cans and other products,p1
+You place aluminum cans and other products into recycling bins.,into recycling bins,
+You place aluminum cans and other products into recycling bins.,recycling bins,
+You place aluminum cans and other products into recycling bins.,bins,
+Your town or a private company collect and transport the aluminum to a recycling facility.,your town or a private company,
+Your town or a private company collect and transport the aluminum to a recycling facility.,the aluminum,p1
+Your town or a private company collect and transport the aluminum to a recycling facility.,to a recycling facility,
+Your town or a private company collect and transport the aluminum to a recycling facility.,a recycling facility,
+Your town or a private company collect and transport the aluminum to a recycling facility.,your town or a private company,
+Your town or a private company collect and transport the aluminum to a recycling facility.,the aluminum,p1
+Your town or a private company collect and transport the aluminum to a recycling facility.,to a recycling facility,
+Your town or a private company collect and transport the aluminum to a recycling facility.,a recycling facility,
+Your town or a private company collect and transport the aluminum to a recycling facility.,facility,
+The aluminum is sorted and cleaned at the central recycling facility.,the aluminum,p1
+The aluminum is sorted and cleaned at the central recycling facility.,at the central recycling facility,
+The aluminum is sorted and cleaned at the central recycling facility.,the aluminum,p1
+The aluminum is sorted and cleaned at the central recycling facility.,at the central recycling facility,
+The aluminum is melted down to remove coatings and inks.,the aluminum,p1
+The aluminum is melted down to remove coatings and inks.,down,
+The aluminum is melted down to remove coatings and inks.,to remove coatings and inks,
+The aluminum is melted down to remove coatings and inks.,the aluminum,p1
+The aluminum is melted down to remove coatings and inks.,coatings and inks,
+The melted aluminum is formed into large formations called ingots.,aluminum,p1
+The melted aluminum is formed into large formations called ingots.,the melted aluminum,p1
+The melted aluminum is formed into large formations called ingots.,into large formations called ingots,p2
+The melted aluminum is formed into large formations called ingots.,large formations called ingots,p2
+The melted aluminum is formed into large formations called ingots.,large formations,
+The melted aluminum is formed into large formations called ingots.,ingots,p2
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,the ingots,p2
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,to another facility,
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,another facility,
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,the ingots,p2
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,to make them easier to manipulate,
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,the ingots,p2
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,them easier to manipulate,
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,easier to manipulate,
+The ingots are transported to another facility and rolled out to make them easier to manipulate.,the ingots,p2
+The ingots can now be turned into new aluminum products.,the ingots,p2
+The ingots can now be turned into new aluminum products.,now,
+The ingots can now be turned into new aluminum products.,new aluminum products,p1

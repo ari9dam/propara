@@ -1,0 +1,68 @@
+time(T):-observedAt(V,Q,A,T).
+time(T+1):-observedAt(V,Q,A,T).
+
+entity(E):-participant(E).
+location(L):-lvalue(P,L).
+location("?").
+location("-").
+answer(L):-observedAt(V,Q,L,T).
+event(V):-observedAt(V,Q,L,T).
+question(Q):-observedAt(V,Q,L,T).
+groundObservation(V,Q,L,T):-observedAt(V,Q,L,T).
+entityObservation(V,Q,L,T):-observedAt(V,Q,L,T), refers(T,P,L).
+
+name(X):-description(N,X).
+value(L,L):-location(L).
+value(L,L):-answer(L).
+
+%% observedAt
+eobservedAt(V,Q,P,T):-observedAt(V,Q,L,T), refers(T,P,L).
+lobservedAt(V,Q,L,T):-observedAt(V,Q,P,T), lvalue(P,L).
+
+
+%colocation
+cosituation(E,P,T):- create(E,T), mayDestroy(P,T1), T1<=T, eobservedAt(V,Q,P,T), E!=P, 
+not create(P,T),holdsAt(locationOf(P,L),T),L!="-".
+colocation_helper(E,L,T):- holdsAt(locationOf(P,L),T),cosituation(E,P,T), not destroy(E1,T):entity(E1):P!=E1.
+colocation(E,L,T):- colocation_helper(E,L,T), L!="?".%not colocation_helper(E,L1,T):location(L1):L1!=L.
+
+
+initiate(locationOf(V1,V2),V3):-colocation(V1,V2,V3), not initiate(locationOf(V1,L),V3):answer(L):L!=V2.
+
+
+
+transformation(E,V1,P,V2,T):-doesNotexistsHelper(P,T), mayDestroy(P,T), create(E,T), description(E,V1),description(P,V2).
+%exception to destroy
+hasAppearedAfter(E,T):-eobservedAt(V,Q,E,T1),time(T), time(T1), T<T1, participant(E).
+hasBeenReferredAfter(E,T):-eobservedAt(V,Q,E,T1),time(T), time(T1), T=T1-2..T1-1, participant(E).
+destroy(E,T):-exists(E,T),mayDestroy(E,T), not hasBeenUsedAfter(E,T),not exception(E,T), not undestroyble(E,T).
+hasBeenUsedAfter(E,T):-hasBeenReferredAfter(E,T), not ab(E).
+hasBeenUsedAfter(E,T):-hasBeenReferredAfter(E,T), initiatedAt(locationOf(E,L),T1), T1<T+3.
+
+
+
+%attached
+attached(E,P,T):- holdsAt(locationOf(E,P),T), P!=E, participant(P), participant(E).
+initiate(locationOf(E,L),T):- initiate(locationOf(P,L),T),attached(E,P,T).
+destroy(E,T):- destroy(P,T),attached(E,P,T).
+
+somethingGotCreated(T):-create(E,T), participant(E).
+
+doesNotexistsHelper(E,T):- terminate(locationOf(E),T1), T1<T, time(T), not destroy(E,T2):T2>T1:T2<T:time(T2).
+doesNotexistsHelper(E,T):- initiate(locationOf(E,L),T1), T1<T, time(T), not destroy(E,T2):T2>T1:T2<T:time(T2).
+doesNotexistsHelper(E,T):- before(locationOf(E,L),T1), T1<T, time(T), not destroy(E,T2):T2>T1:T2<T:time(T2).
+doesNotexistsHelper(E,T):- create(E,T1), T1<T, time(T), not destroy(E,T2):T2>T1:T2<T:time(T2).
+doesNotexists(E,T):- time(T), participant(E), not doesNotexistsHelper(E,T).
+
+exists(E,T):-time(T), participant(E).
+%prediction(E,L,T):- holdsAt(locationOf(E,L),T), time(T).
+#show prediction/3.
+
+#hide.
+
+#show create/2.
+#show initiate/2.
+#show terminate/2.
+#show before/2.
+#show destroy/2.
+#show cosituation/3.

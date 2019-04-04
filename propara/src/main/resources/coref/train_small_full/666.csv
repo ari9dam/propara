@@ -1,0 +1,17 @@
+p1,p2,
+water,evaporated water,
+SENTENCE,PHRASE,REFERENCE
+Water is heated.,water,p1
+The heated water evaporates.,the heated water,p1
+The salt is left behind.,the salt,
+The salt is left behind.,behind,
+The evaporated water condenses on a cold surface.,water,p2
+The evaporated water condenses on a cold surface.,the evaporated water,p2
+The evaporated water condenses on a cold surface.,on a cold surface,
+The evaporated water condenses on a cold surface.,a cold surface,
+The evaporated water is collected.,water,p2
+The evaporated water is collected.,the evaporated water,p2
+The process is repeated.,the process,
+More salt is removed from the water.,more salt,
+More salt is removed from the water.,from the water,p2
+More salt is removed from the water.,the water,p2

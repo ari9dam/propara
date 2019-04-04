@@ -1,0 +1,57 @@
+observedAt("enter","what v something ?","oxygen-depleted blood",1).
+observedAt("enter","what does something v ?","the heart",1).
+lvalue("the heart","heart").
+observedAt("enter","where does something v something ?","on the right atrium",1).
+lvalue("on the right atrium","right atrium").
+observedAt("contract","what v something ?","the atrium",2).
+observedAt("contract","what v ?","atrium",2).
+observedAt("flow","what v ?","blood",3).
+observedAt("flow","where does something v ?","from your right atrium into your right ventricle",3).
+lvalue("from your right atrium into your right ventricle","right ventricle").
+observedAt("flow","what does something v from ?","your right atrium",3).
+lvalue("your right atrium","right atrium").
+observedAt("flow","where does something v from something ?","into your right ventricle",3).
+lvalue("into your right ventricle","right ventricle").
+observedAt("flow","how does something v somewhere ?","through the open tricuspid valve",3).
+observedAt("be","what v something ?","the ventricle",4).
+observedAt("be","what does something v ?","full",4).
+observedAt("contract","what v ?","the ventricle",5).
+observedAt("leave","what v something ?","blood",6).
+observedAt("leave","what does something v ?","the heart",6).
+lvalue("the heart","heart").
+observedAt("leave","how does something v something ?","through the pulmonic valve",6).
+lvalue("through the pulmonic valve","pulmonic valve").
+observedAt("leave","where does something v something ?","through the pulmonic valve , into the pulmonary artery and to the lungs",6).
+lvalue("through the pulmonic valve , into the pulmonary artery and to the lungs","pulmonary artery").
+observedAt("oxygenate","what v something ?","the lungs",7).
+lvalue("the lungs","lung").
+observedAt("oxygenate","what does something v ?","the blood",7).
+observedAt("oxygenate","what is v ?","blood",8).
+observedAt("go","what v into something ?","the oxygenated blood",8).
+observedAt("go","where does something v ?","into the left atrium",8).
+lvalue("into the left atrium","left atrium").
+observedAt("go","what does something v into ?","the left atrium",8).
+lvalue("the left atrium","left atrium").
+observedAt("send","what v something ?","the left atrium",9).
+lvalue("the left atrium","left atrium").
+observedAt("send","what does something v ?","the blood",9).
+observedAt("send","where does something v something ?","throughout the body",9).
+lvalue("throughout the body","throughout the body").
+time(1..9).
+participant(p1;p2).
+description(p1,"oxygen-depleted blood").
+description(p1,"blood").
+description(p2,"oxygenated blood").
+description(p2,"blood").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"oxygen-depleted blood").
+refers(3,p1,"blood").
+refers(3,p2,"blood").
+refers(6,p1,"blood").
+refers(6,p2,"blood").
+refers(7,p1,"the blood").
+refers(7,p2,"the blood").
+refers(8,p2,"blood").
+refers(8,p2,"the oxygenated blood").
+refers(9,p1,"the blood").
+refers(9,p2,"the blood").

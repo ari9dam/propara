@@ -1,0 +1,22 @@
+p1,p2,p3
+virus,virus' rna,new viruses
+SENTENCE,PHRASE,REFERENCE
+The virus finds an animal cell.,the virus,p1
+The virus finds an animal cell.,an animal cell,
+The virus attaches to the cell's surface.,the virus,p1
+The virus attaches to the cell's surface.,to the cell 's surface,
+The virus attaches to the cell's surface.,the cell 's surface,
+The cell swallows the virus.,the cell,
+The cell swallows the virus.,the virus,p1
+The virus' RNA is released into the cell.,the virus ' rna,"p1,p2"
+The virus' RNA is released into the cell.,into the cell,
+The virus' RNA is released into the cell.,the cell,
+The cell mistakenly reads the virus' RNA instead of its own.,the cell,
+The cell mistakenly reads the virus' RNA instead of its own.,instead of its own,
+The cell mistakenly reads the virus' RNA instead of its own.,the virus ' rna,"p1,p2"
+The cell creates new viruses.,the cell,
+The cell creates new viruses.,new viruses,"p1,p3"
+The animal cell releases the new viruses.,the animal cell,
+The animal cell releases the new viruses.,the new viruses,"p1,p3"
+The new viruses can infect more cells.,the new viruses,"p1,p3"
+The new viruses can infect more cells.,more cells,

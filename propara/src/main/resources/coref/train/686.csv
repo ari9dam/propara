@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5,p6
+energy,water molecules,hydrogen,oxygen,carbon dioxide,glucose
+SENTENCE,PHRASE,REFERENCE
+Carbon dioxide passes through stomata in the leaves.,carbon dioxide,p5
+Carbon dioxide passes through stomata in the leaves.,through stomata in the leaves,
+Carbon dioxide passes through stomata in the leaves.,stomata,
+Water is absorbed through roots.,water,
+Water is absorbed through roots.,through roots,
+Water is absorbed through roots.,roots,
+Chloroplast cells in leaves contain chlorophyll.,chloroplast cells in leaves,
+Chloroplast cells in leaves contain chlorophyll.,in leaves,
+Chloroplast cells in leaves contain chlorophyll.,chlorophyll,
+Chlorophyll absorbs energy from sunlight.,chlorophyll,
+Chlorophyll absorbs energy from sunlight.,energy,p1
+Chlorophyll absorbs energy from sunlight.,sunlight,
+Energy splits water molecules into hydrogen and oxygen.,energy,p1
+Energy splits water molecules into hydrogen and oxygen.,water molecules,p2
+Energy splits water molecules into hydrogen and oxygen.,hydrogen and oxygen,"p3,p4"
+Oxygen gets released into atmosphere.,oxygen,p4
+Oxygen gets released into atmosphere.,into atmosphere,
+Oxygen gets released into atmosphere.,atmosphere,
+Hydrogen and carbon dioxide used to create glucose.,hydrogen and carbon dioxide,"p3,p5"
+Hydrogen and carbon dioxide used to create glucose.,to create glucose,p6
+Hydrogen and carbon dioxide used to create glucose.,create glucose,p6
+Hydrogen and carbon dioxide used to create glucose.,hydrogen and carbon dioxide,"p3,p5"
+Hydrogen and carbon dioxide used to create glucose.,glucose,p6
+Glucose is food for plants.,glucose,p6
+Glucose is food for plants.,food for plants,

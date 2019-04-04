@@ -1,0 +1,59 @@
+observedAt("die","what v ?","plants",1).
+lvalue("plants","plant").
+observedAt("end","what v up ?","the dead plants",2).
+lvalue("the dead plants","plant").
+observedAt("end","what v ?","dead plants",2).
+lvalue("dead plants","plant").
+observedAt("end","where does something v up ?","in swamps",2).
+lvalue("in swamps","swamp").
+observedAt("sink","what v somewhere ?","the dead plants",3).
+lvalue("the dead plants","plant").
+observedAt("sink","where does something v ?","to the bottom of the swamps",3).
+lvalue("to the bottom of the swamps","bottom of the swamp").
+observedAt("sink","what does something v to ?","the bottom of the swamps",3).
+lvalue("the bottom of the swamps","bottom of the swamp").
+observedAt("sink","what v somewhere ?","many more dead plants",4).
+lvalue("many more dead plants","plant").
+observedAt("sink","where does something v ?","in the same area",4).
+lvalue("in the same area","area").
+observedAt("join","what v ?","the dead plants",5).
+lvalue("the dead plants","plant").
+observedAt("join","how does something v ?","together forming peat",5).
+observedAt("join","what does something v in ?","forming peat",5).
+observedAt("form","what is being v ?","peat",5).
+observedAt("cover","what v something ?","sediment",6).
+observedAt("cover","what does something v ?","the peat",6).
+observedAt("continue","what v to do something ?","the peat",7).
+observedAt("continue","what does something v to do ?","to decompose",7).
+observedAt("decompose","what v ?","the peat",7).
+observedAt("keep","what v something ?","the peat",8).
+observedAt("keep","what does something v ?","carbon",8).
+observedAt("keep","when does something v something ?","while eliminating other elements",8).
+observedAt("eliminate","what v something ?","the peat",8).
+observedAt("eliminate","what is v ?","other elements",8).
+observedAt("turn","what v into something ?","the peat",9).
+observedAt("turn","what does something v into ?","coal",9).
+observedAt("turn","when does something v into something ?","after a long time",9).
+time(1..9).
+participant(p1;p2;p3).
+description(p1,"plants").
+description(p1,"dead plants").
+description(p2,"peat").
+description(p3,"coal").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"plants").
+refers(2,p1,"the dead plants").
+refers(2,p1,"dead plants").
+refers(3,p1,"the dead plants").
+refers(4,p1,"many more dead plants").
+refers(5,p1,"the dead plants").
+refers(5,p2,"together forming peat").
+refers(5,p2,"forming peat").
+refers(5,p2,"peat").
+refers(6,p2,"the peat").
+refers(7,p2,"the peat").
+refers(7,p2,"the peat").
+refers(8,p2,"the peat").
+refers(8,p2,"the peat").
+refers(9,p2,"the peat").
+refers(9,p3,"coal").

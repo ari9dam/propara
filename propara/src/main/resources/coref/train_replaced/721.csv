@@ -1,0 +1,12 @@
+p1,p2
+water vapor,"water droplets, ice crystals"
+SENTENCE,PHRASE,REFERENCE
+Water vapor is in warm air.,water vapor,p1
+Water vapor is in warm air.,in warm air,
+Water vapor is in warm air.,warm air,
+The warm air cools.,the warm air,
+The warm air expands.,the warm air,
+The water vapor in the air condenses.,the water vapor in the air,p1
+The water vapor in the air condenses.,in the air,
+The water vapor forms water droplets or ice crystals.,the water vapor,p1
+The water vapor forms water droplets or ice crystals.,water droplets or ice crystals,p2

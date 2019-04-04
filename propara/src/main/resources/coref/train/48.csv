@@ -1,0 +1,27 @@
+p1,p2,p3,p4
+"pressure, built up pressure",lava,ash clouds,rock
+SENTENCE,PHRASE,REFERENCE
+Pressure pushes up from inside the volcano.,pressure,p1
+Pressure pushes up from inside the volcano.,from inside the volcano,
+Pressure pushes up from inside the volcano.,inside the volcano,
+Lava comes out of the volcano.,lava,p2
+Lava comes out of the volcano.,out of the volcano,
+Lava comes out of the volcano.,the volcano,
+Ash clouds and rocks also come out of some volcanos.,ash clouds and rocks,"p3,p4"
+Ash clouds and rocks also come out of some volcanos.,out of some volcanos,
+Ash clouds and rocks also come out of some volcanos.,some volcanos,
+The things that come out of the volcano cause disturbances in the environment.,the things,
+The things that come out of the volcano cause disturbances in the environment.,out of the volcano,
+The things that come out of the volcano cause disturbances in the environment.,the volcano,
+The eruption lasts for a long time for some eruptions.,the eruption,
+The eruption lasts for a long time for some eruptions.,for a long time for some eruptions,
+The eruption lasts for a long time for some eruptions.,some eruptions,
+The volcano loses the built up pressure.,the volcano,
+The volcano loses the built up pressure.,the built up pressure,p1
+The volcano loses the built up pressure.,pressure,p1
+The lava and other debris stop coming out of the volcano.,the lava and other debris,p2
+The lava and other debris stop coming out of the volcano.,out of the volcano,
+The lava and other debris stop coming out of the volcano.,the volcano,
+Mudslides and ash clouds cause problems after some eruptions.,mudslides and ash clouds,p3
+Mudslides and ash clouds cause problems after some eruptions.,problems,
+Mudslides and ash clouds cause problems after some eruptions.,after some eruptions,

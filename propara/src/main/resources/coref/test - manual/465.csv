@@ -1,0 +1,30 @@
+p1,p2,
+water,hail,
+SENTENCE,PHRASE,REFERENCE
+Water gets caught in winds that are moving upward.,water,p1
+Water gets caught in winds that are moving upward.,in winds,
+Water gets caught in winds that are moving upward.,winds that are moving upward,
+Water gets caught in winds that are moving upward.,winds,
+Water gets caught in winds that are moving upward.,upward,
+The water freezes.,the water,p1
+The water starts to fall.,the water,p1
+The water starts to fall.,to fall,
+The water starts to fall.,the water,p1
+The winds are strong enough from keeping it from falling back to earth.,the winds,
+The winds are strong enough from keeping it from falling back to earth.,strong enough,
+The winds are strong enough from keeping it from falling back to earth.,the winds,
+The winds are strong enough from keeping it from falling back to earth.,it,p1
+The winds are strong enough from keeping it from falling back to earth.,from falling back to earth,
+The winds are strong enough from keeping it from falling back to earth.,falling back to earth,
+The winds are strong enough from keeping it from falling back to earth.,the winds,
+The winds are strong enough from keeping it from falling back to earth.,it,p1
+The winds are strong enough from keeping it from falling back to earth.,back to earth,
+This pattern of rising and falling continues.,this pattern of rising and falling,
+The hail becomes too large to be pushed up by the wind.,the hail,p2
+The hail becomes too large to be pushed up by the wind.,too large to be pushed up by the wind,
+The hail becomes too large to be pushed up by the wind.,the hail,p2
+The hail becomes too large to be pushed up by the wind.,by the wind,
+The hail becomes too large to be pushed up by the wind.,the wind,
+The hail finally falls to the ground.,the hail,p2
+The hail finally falls to the ground.,to the ground,
+The hail finally falls to the ground.,the ground,

@@ -1,0 +1,15 @@
+p1,p2,
+comet,"hole, crater",
+SENTENCE,PHRASE,REFERENCE
+Comets fly around in outer space.,comets,p1
+Comets fly around in outer space.,around in outer space,
+A comet flies close to a planet.,a comet,p1
+A comet flies close to a planet.,close to a planet,
+The comet enters the planet's atmosphere.,the comet,p1
+The comet enters the planet's atmosphere.,the planet 's atmosphere,
+The comet crashes into the planet.,the comet,p1
+The comet crashes into the planet.,into the planet,
+The comet crashes into the planet.,the planet,
+The energy of the impact creates a hole on the planet.,the energy of the impact,
+The energy of the impact creates a hole on the planet.,a hole,p2
+The energy of the impact creates a hole on the planet.,on the planet,

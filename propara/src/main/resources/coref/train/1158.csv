@@ -1,0 +1,36 @@
+p1,p2,p3,p4,p5,p6
+carbohydrates,food,nutrients,smallest molecules,unused materials,fecal matter
+SENTENCE,PHRASE,REFERENCE
+An enzyme in saliva begins to break down carbohydrates.,an enzyme in saliva,
+An enzyme in saliva begins to break down carbohydrates.,to break down carbohydrates,p1
+An enzyme in saliva begins to break down carbohydrates.,an enzyme in saliva,
+An enzyme in saliva begins to break down carbohydrates.,carbohydrates,p1
+Unused materials passed into large intestine to become fecal matter.,unused materials,p5
+Unused materials passed into large intestine to become fecal matter.,into large intestine,
+Unused materials passed into large intestine to become fecal matter.,large intestine,
+Unused materials passed into large intestine to become fecal matter.,to become fecal matter,p6
+Unused materials passed into large intestine to become fecal matter.,unused materials,p5
+Unused materials passed into large intestine to become fecal matter.,fecal matter,p6
+Food is squeezed down the esophagus when you swallow.,food,p2
+Food is squeezed down the esophagus when you swallow.,down the esophagus,
+Food is squeezed down the esophagus when you swallow.,the esophagus,
+Food is squeezed down the esophagus when you swallow.,when you swallow,
+Food is squeezed down the esophagus when you swallow.,you,
+Acid and enzyme in the stomach break the food down.,acid and enzyme in the stomach,
+Acid and enzyme in the stomach break the food down.,in the stomach,
+Acid and enzyme in the stomach break the food down.,the food,p2
+Releases nutrients.,nutrients,p3
+Food then pumped into small intestine.,food,p2
+Food then pumped into small intestine.,into small intestine,
+Food then pumped into small intestine.,small intestine,
+Fluid and enzymes from liver and pancreas pumped into small intestine.,fluid and enzymes from liver and pancreas,
+Fluid and enzymes from liver and pancreas pumped into small intestine.,into small intestine,
+Fluid and enzymes from liver and pancreas pumped into small intestine.,small intestine,
+Help break food into smallest molecules.,break food into smallest molecules,"p2,p4"
+Nutrients pass through wall of small intestine.,nutrients,p3
+Nutrients pass through wall of small intestine.,through wall of small intestine,
+Nutrients pass through wall of small intestine.,wall of small intestine,
+Nutrients absorbed into blood stream.,nutrients,p3
+Nutrients absorbed into blood stream.,into blood stream,
+Nutrients absorbed into blood stream.,blood stream,
+Fluid and enzymes from liver and pancreas pumped into small intestine.,liver and pancreas,

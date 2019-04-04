@@ -1,0 +1,25 @@
+p1,p2,p3,p4
+sound waves,vibrations,sound,nerve signals
+SENTENCE,PHRASE,REFERENCE
+The outer ear collects sound waves.,the outer ear,
+The outer ear collects sound waves.,sound waves,"p1,p3"
+The brain understands the nerve signals as sound.,the brain,
+The brain understands the nerve signals as sound.,the nerve signals,p4
+The brain understands the nerve signals as sound.,as sound,p3
+The brain understands the nerve signals as sound.,sound,p3
+The sound waves travel from the outer ear to the middle ear.,the sound waves,"p1,p3"
+The sound waves travel from the outer ear to the middle ear.,from the outer ear to the middle ear,
+The sound waves travel from the outer ear to the middle ear.,the outer ear,
+The eardrum changes the sound waves into vibrations.,the eardrum,
+The eardrum changes the sound waves into vibrations.,the sound waves,"p1,p3"
+The eardrum changes the sound waves into vibrations.,vibrations,p2
+"The hammer, anvil, and stirrup bones vibrate.","the hammer , anvil , and stirrup bones",
+The sound moves to the inner ear.,the sound,p3
+The sound moves to the inner ear.,to the inner ear,
+The sound moves to the inner ear.,the inner ear,
+The sound enters the liquid-filled cochlea.,the sound,p3
+The sound enters the liquid-filled cochlea.,the liquid-filled cochlea,
+The cochlea vibrates.,the cochlea,
+Small hairs in the cochlea move.,small hairs in the cochlea,
+Small hairs in the cochlea move.,in the cochlea,
+Nerve signals are created.,nerve signals,p4

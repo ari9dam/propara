@@ -1,0 +1,18 @@
+p1,p2,p3,p4,p5,p6
+animals,plants,sediment,remains,mineral,fossil
+SENTENCE,PHRASE,REFERENCE,,,
+Animals and plants die in soft soil or mud.,animals and plants,"p1,p2",,,
+Animals and plants die in soft soil or mud.,in soft soil or mud,,,,
+Animals and plants die in soft soil or mud.,soft soil or mud,,,,
+Sediment builds up over the remains.,sediment,p3,,,
+Sediment builds up over the remains.,over the remains,p4,,,
+Sediment builds up over the remains.,the remains,p4,,,
+"The remains decompose, leaving only trace amounts.",the remains,p4,,,
+"The remains decompose, leaving only trace amounts.",only trace amounts,,,,
+"The remains decompose, leaving only trace amounts.",trace amounts,,,,
+The remaining parts over the years are replaced with mineral.,parts,p4,,,
+The remaining parts over the years are replaced with mineral.,over the years,,,,
+The remaining parts over the years are replaced with mineral.,the remaining parts over the years,p4,,,
+The remaining parts over the years are replaced with mineral.,over the years,,,,
+The remaining parts over the years are replaced with mineral.,mineral,p5,,,
+A fossil is formed.,a fossil,p6,,,

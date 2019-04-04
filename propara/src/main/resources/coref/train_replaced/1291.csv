@@ -1,0 +1,12 @@
+p1,p2,p3
+"flour, baking powder, sugar, and salt","milk, eggs, and melted butter",batter
+SENTENCE,PHRASE,REFERENCE
+"Mix flour, baking powder, sugar, and salt into a bowl.","powder , sugar , and salt",p1
+"Mix flour, baking powder, sugar, and salt into a bowl.",into a bowl,
+"Mix in milk, eggs, and melted butter.",butter,
+Mix until smooth.,until smooth,
+Heat a griddle or frying pan to medium high.,a griddle or frying pan,
+Heat a griddle or frying pan to medium high.,to medium high,
+Heat a griddle or frying pan to medium high.,medium high,
+Pour batter onto the griddle.,batter,p3
+Pour batter onto the griddle.,onto the griddle,

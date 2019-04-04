@@ -1,0 +1,15 @@
+p1,p2,p3,p4,p5
+sulfur dioxide,nitrogen,acidic rain,water,oxygen
+SENTENCE,PHRASE,REFERENCE,,
+Chemicals like sulfur dioxide and nitrogen are released into the air.,chemicals like sulfur dioxide and nitrogen,"p1,p2",,
+Chemicals like sulfur dioxide and nitrogen are released into the air.,into the air,,,
+Chemicals like sulfur dioxide and nitrogen are released into the air.,the air,,,
+These substances rise into the high atmosphere.,these substances,"p1,p2",,
+These substances rise into the high atmosphere.,into the high atmosphere,,,
+These substances rise into the high atmosphere.,the high atmosphere,,,
+They react with water and oxygen.,they,"p1,p2",,
+They react with water and oxygen.,with water and oxygen,"p4,p5",,
+They react with water and oxygen.,water and oxygen,"p4,p5",,
+This creates a more acidic rain.,this,,,
+This creates a more acidic rain.,a more acidic rain,p3,,
+The rain with the high acid content falls.,the rain with the high acid content,p3,,

@@ -1,0 +1,20 @@
+p1,p2,
+cool water,ice cubes,
+SENTENCE,PHRASE,REFERENCE
+Get an ice cube tray.,an ice cube tray,
+Fill the tray with cool water.,the tray,
+Fill the tray with cool water.,with cool water,p1
+Fill the tray with cool water.,cool water,p1
+Place the tray in the freezer.,the tray,
+Place the tray in the freezer.,in the freezer,
+Leave the tray in the freezer for a few hours.,the tray,
+Leave the tray in the freezer for a few hours.,in the freezer,
+Leave the tray in the freezer for a few hours.,for a few hours,
+Take they tray out of the freezer.,they tray,
+Take they tray out of the freezer.,out of the freezer,
+Take they tray out of the freezer.,they,
+Take they tray out of the freezer.,out of the freezer,
+Take they tray out of the freezer.,the freezer,
+Pop the ice cubes out of tray.,ice,p2
+Pop the ice cubes out of tray.,out of tray,
+Pop the ice cubes out of tray.,tray,

@@ -1,0 +1,19 @@
+p1,p2,p3,p4,p5,p6
+flour,sugar,egg,water,batter,cake
+SENTENCE,PHRASE,REFERENCE
+Gather the ingredients for the cake.,the ingredients,
+Gather the ingredients for the cake.,for the cake,p6
+Gather the ingredients for the cake.,the cake,p6
+"Mix the flour, sugar, egg, and water to make batter.",batter,p5
+Pour the mixture into a cake pan.,the mixture,
+Pour the mixture into a cake pan.,into a cake pan,p6
+Pour the mixture into a cake pan.,a cake pan,p6
+Place the cake in the oven to cook.,the cake,p6
+Place the cake in the oven to cook.,in the oven,
+Take the cake out when it is cooked through.,the cake,p6
+Take the cake out when it is cooked through.,out,
+Take the cake out when it is cooked through.,when it is cooked through,
+Take the cake out when it is cooked through.,the cake,p6
+Let the cake cool.,the cake,p6
+Let the cake cool.,cool,
+Serve the cake.,the cake,p6

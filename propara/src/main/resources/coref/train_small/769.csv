@@ -1,0 +1,22 @@
+p1,p2,p3
+sunlight,glucose,energy
+SENTENCE,PHRASE,REFERENCE
+Green is a color that gathers sunlight easily.,green,
+Green is a color that gathers sunlight easily.,a color that gathers sunlight easily,p1
+Green is a color that gathers sunlight easily.,a color,
+Green is a color that gathers sunlight easily.,sunlight,p1
+Green is a color that gathers sunlight easily.,easily,
+Sunlight is gathered by the leaves of the plant.,sunlight,p1
+Sunlight is gathered by the leaves of the plant.,by the leaves of the plant,
+Sunlight is gathered by the leaves of the plant.,the leaves of the plant,
+The sunlight is broken down into glucose through photosynthesis.,the sunlight,p1
+The sunlight is broken down into glucose through photosynthesis.,through photosynthesis,
+The sunlight is broken down into glucose through photosynthesis.,glucose,p2
+The glucose travels the plant.,the glucose,p2
+The glucose travels the plant.,the plant,
+The plant uses that glucose as energy to grow.,the plant,
+The plant uses that glucose as energy to grow.,that glucose,p2
+The plant uses that glucose as energy to grow.,as energy to grow,p3
+The plant uses that glucose as energy to grow.,energy,p3
+The plant uses that glucose as energy to grow.,to grow,
+The plant uses that glucose as energy to grow.,the plant,

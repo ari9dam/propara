@@ -1,0 +1,16 @@
+p1,p2,p3,p4,p5
+coal,heat energy,water,steam,electricity
+SENTENCE,PHRASE,REFERENCE
+Coal is burned at a furnace.,coal,p1
+Coal is burned at a furnace.,at a furnace,
+Coal is burned at a furnace.,a furnace,
+The resulting heat energy is used to heat water.,heat energy,p2
+The resulting heat energy is used to heat water.,to heat water,p3
+The resulting heat energy is used to heat water.,the resulting heat energy,p2
+The resulting heat energy is used to heat water.,to heat water,p3
+The resulting heat energy is used to heat water.,heat water,p3
+The heated water is turned into steam.,the heated water,p3
+The heated water is turned into steam.,steam,p4
+The steam drives a generator.,the steam,p4
+The steam drives a generator.,a generator,
+Electricity is produced.,electricity,p5

@@ -1,0 +1,35 @@
+observedAt("enter","what v ?","visible light",1).
+observedAt("enter","where does something v ?","through the lens",1).
+lvalue("through the lens","lens").
+observedAt("enter","what does something v through ?","the lens",1).
+lvalue("the lens","lens").
+observedAt("enter","what v into something ?","the light",2).
+observedAt("enter","where does something v ?","into the retina",2).
+lvalue("into the retina","retina").
+observedAt("enter","what does something v into ?","the retina",2).
+lvalue("the retina","retina").
+observedAt("absorb","what is v by something ?","the light",3).
+observedAt("absorb","what is v ?","light",3).
+observedAt("absorb","how is something v ?","by photoreceptor cells",3).
+lvalue("by photoreceptor cells","photoreceptor cell").
+observedAt("absorb","what is something v by ?","photoreceptor cells",3).
+lvalue("photoreceptor cells","photoreceptor cell").
+observedAt("turn","what is something v into ?","chemical energy",4).
+observedAt("result","what is v ?","information",5).
+observedAt("interpret","what is v by something ?","the resulting information",5).
+observedAt("interpret","how is something v ?","by the brain",5).
+lvalue("by the brain","brain").
+observedAt("interpret","what is something v by ?","the brain",5).
+lvalue("the brain","brain").
+time(1..5).
+participant(p1;p2;p3).
+description(p1,"visible light").
+description(p1,"light").
+description(p2,"chemical energy").
+description(p3,"image").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"visible light").
+refers(2,p1,"the light").
+refers(3,p1,"the light").
+refers(3,p1,"light").
+refers(4,p2,"chemical energy").

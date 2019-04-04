@@ -1,0 +1,15 @@
+p1,p2,p3,p4
+radiation,earth,atmosphere,global warming
+SENTENCE,PHRASE,REFERENCE
+The sun gives off radiation.,the sun,
+The sun gives off radiation.,radiation,p1
+The radiation is aborbed by the Earth.,the radiation,p1
+The radiation is aborbed by the Earth.,the earth,p2
+Some of the radiation goes back into space.,some of the radiation,p1
+Some of the radiation goes back into space.,radiation,p1
+Some of the radiation goes back into space.,back into space,
+Some is trapped by the atmosphere.,some,
+Some is trapped by the atmosphere.,by the atmosphere,p3
+Some is trapped by the atmosphere.,the atmosphere,p3
+If too much heat is trapped.,too much heat,
+Global warming occurs.,global warming,p4

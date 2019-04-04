@@ -1,0 +1,28 @@
+p1,p2,p3
+water,ice crystals,"snow flakes, snowflakes, snow"
+SENTENCE,PHRASE,REFERENCE
+The air is cold.,the air,
+The air is cold.,cold,
+Water is in the air.,water,p1
+Water is in the air.,in the air,
+The water forms tiny ice crystals.,the water,p1
+The water forms tiny ice crystals.,tiny ice crystals,p2
+The ice crystals collide with each other.,the ice crystals,p2
+The ice crystals collide with each other.,with each other,
+The ice crystals collide with each other.,each other,
+The ice crystals stick to each other.,the ice crystals,p2
+The ice crystals stick to each other.,to each other,
+The ice crystals stick to each other.,each other,
+The ice crystals get bigger as more of them stick together.,the ice crystals,p2
+The ice crystals get bigger as more of them stick together.,bigger,
+The ice crystals get bigger as more of them stick together.,as more of them stick together,
+The ice crystals get bigger as more of them stick together.,the ice crystals,p2
+The ice crystals get bigger as more of them stick together.,together,
+The ice crystals get too heavy to be in the air.,the ice crystals,p2
+The ice crystals get too heavy to be in the air.,too heavy to be in the air,
+The ice crystals get too heavy to be in the air.,in the air,
+The ice crystals become snowflakes.,the ice crystals,p2
+The ice crystals become snowflakes.,snowflakes,p3
+The snow flakes fall to the ground as snow.,the snow,p3
+The snow flakes fall to the ground as snow.,to the ground,
+The snow flakes fall to the ground as snow.,as snow,p3

@@ -1,0 +1,29 @@
+p1,p2,p3
+neurochemical messengers,sound waves,vibrations
+SENTENCE,PHRASE,REFERENCE
+Sound waves enter your outer ear.,sound waves,p2
+Sound waves enter your outer ear.,your outer ear,
+The brain translates the message so you can understand.,the brain,
+The brain translates the message so you can understand.,the message,
+The brain translates the message so you can understand.,so you can understand,
+The brain translates the message so you can understand.,you,
+Travel through ear canal to your ear drum.,ear,
+Eardrum vibrates with the incoming sound.,eardrum,
+Eardrum vibrates with the incoming sound.,the incoming sound,
+Send the vibrations to three tiny bones in your middle ear.,the vibrations,p3
+Send the vibrations to three tiny bones in your middle ear.,to three tiny bones,
+Send the vibrations to three tiny bones in your middle ear.,three tiny bones,
+Bones in your middle ear amplify the vibrations.,bones in your middle ear,
+Bones in your middle ear amplify the vibrations.,in your middle ear,
+Bones in your middle ear amplify the vibrations.,the vibrations,p3
+Send them to your inner ear.,them,
+Send them to your inner ear.,to your inner ear,
+The vibrations activate tiny hair cells in your inner ear.,the vibrations,p3
+The vibrations activate tiny hair cells in your inner ear.,tiny hair cells,
+The vibrations activate tiny hair cells in your inner ear.,in your inner ear,
+The hair cells release neurochemical messengers.,the hair cells,
+The hair cells release neurochemical messengers.,neurochemical messengers,p1
+Your auditory nerve carries the message to your brain.,your auditory nerve,
+Your auditory nerve carries the message to your brain.,the message,
+Your auditory nerve carries the message to your brain.,to your brain,
+Your auditory nerve carries the message to your brain.,your brain,

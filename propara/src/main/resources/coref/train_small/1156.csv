@@ -1,0 +1,18 @@
+p1,p2,p3
+Living organisms in the sea,Layers of sediment,oil
+SENTENCE,PHRASE,REFERENCE
+Living organisms in the sea die.,organisms,p1
+Living organisms in the sea die.,in the sea,
+Living organisms in the sea die.,living organisms,p1
+Living organisms in the sea die.,in the sea,
+The matter forms on the sea floor.,the matter,
+The matter forms on the sea floor.,on the sea floor,
+The matter forms on the sea floor.,the sea floor,
+Layers of sediment form above the matter compressing it.,layers of sediment,p2
+Layers of sediment form above the matter compressing it.,it,
+After many years the matter is compressed and heated.,after many years,
+After many years the matter is compressed and heated.,the matter,
+After many years the matter is compressed and heated.,after many years,
+After many years the matter is compressed and heated.,the matter,
+The result is that crude oil forms.,the result,
+The result is that crude oil forms.,that crude oil forms,p3

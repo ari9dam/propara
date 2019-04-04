@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5,p6
+volcano,magma,pressure,lava,crust,rocks
+SENTENCE,PHRASE,REFERENCE
+Magma rises through cracks in the Earth's crust.,magma,p2
+Magma rises through cracks in the Earth's crust.,through cracks in the earth 's crust,p5
+Magma rises through cracks in the Earth's crust.,cracks in the earth 's crust,p5
+The pressure causes plates to move.,the pressure,p3
+The pressure causes plates to move.,plates to move,
+The pressure causes plates to move.,move,
+The pressure causes plates to move.,plates,
+Magma explodes to the surface.,magma,p2
+Magma explodes to the surface.,to the surface,
+Magma explodes to the surface.,the surface,
+The lava from the eruption cools to form new crust.,the lava from the eruption,p4
+The lava from the eruption cools to form new crust.,to form new crust,p5
+The lava from the eruption cools to form new crust.,form new crust,p5
+The lava from the eruption cools to form new crust.,the lava from the eruption,p4
+The lava from the eruption cools to form new crust.,new crust,p5
+"After several eruptions, the rock builds up and a volcano forms.",after several eruptions,
+"After several eruptions, the rock builds up and a volcano forms.",the rock,p6

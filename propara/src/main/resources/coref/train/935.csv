@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5,p6
+"ocean waves, ocean water",land,sand,beaches,rocks,cliffs
+SENTENCE,PHRASE,REFERENCE
+Ocean waves hit land.,ocean waves,p1
+Ocean waves hit land.,land,p2
+Ocean water pulls sand off of beaches.,ocean water,p1
+Ocean water pulls sand off of beaches.,sand,p3
+Ocean water pulls sand off of beaches.,off of beaches,p4
+Ocean water breaks rocks off of cliffs.,ocean water,p1
+Ocean water breaks rocks off of cliffs.,rocks,p5
+Ocean water breaks rocks off of cliffs.,off of cliffs,p6
+Ocean water carries sand and rocks into the ocean.,ocean water,p1
+Ocean water carries sand and rocks into the ocean.,sand and rocks,"p3,p5"
+Ocean water carries sand and rocks into the ocean.,into the ocean,
+Ocean water carries sand and rocks into the ocean.,the ocean,
+Sand and rocks go to other land or the bottom of the ocean.,sand and rocks,"p3,p5"
+Sand and rocks go to other land or the bottom of the ocean.,to other land or the bottom of the ocean,p2

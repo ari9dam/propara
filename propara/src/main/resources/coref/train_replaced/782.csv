@@ -1,0 +1,26 @@
+p1,p2,
+seeds,plants,
+SENTENCE,PHRASE,REFERENCE
+Plants create light weight seeds.,plants,
+Plants create light weight seeds.,light weight seeds,p1
+The wind is able to blow the seeds off of the plants.,the wind,
+The wind is able to blow the seeds off of the plants.,able to blow the seeds off of the plants,p1
+The wind is able to blow the seeds off of the plants.,the wind,
+The wind is able to blow the seeds off of the plants.,the seeds,p1
+The wind is able to blow the seeds off of the plants.,off of the plants,
+The wind is able to blow the seeds off of the plants.,the plants,
+The wind carries the seeds through the air to other areas.,the wind,
+The wind carries the seeds through the air to other areas.,the seeds,p1
+The wind carries the seeds through the air to other areas.,through the air to other areas,
+The seeds get caught in the fur of animals.,the seeds,p1
+The seeds get caught in the fur of animals.,in the fur of animals,
+The seeds get caught in the fur of animals.,the fur of animals,
+The animals move and lay down on the ground.,the animals,
+The animals move and lay down on the ground.,the animals,
+The animals move and lay down on the ground.,down,
+The animals move and lay down on the ground.,down on the ground,
+The seeds get deposited on the ground.,the seeds,p1
+The seeds get deposited on the ground.,on the ground,
+The seeds get deposited on the ground.,the ground,
+The seeds become plants.,the seeds,p1
+The seeds become plants.,plants,p2

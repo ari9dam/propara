@@ -1,0 +1,31 @@
+p1,p2,p3
+rocks,sediment,sedimentary rock
+SENTENCE,PHRASE,REFERENCE
+Wind and water erode rocks.,wind and water,
+Wind and water erode rocks.,rocks,p1
+The wind and water pick up sediment that came off the rocks.,the wind and water,
+The wind and water pick up sediment that came off the rocks.,sediment,p2
+The wind and water pick up sediment that came off the rocks.,sediment,p2
+The wind and water pick up sediment that came off the rocks.,off the rocks,p1
+The wind and water pick up sediment that came off the rocks.,the rocks,p1
+"Sediment is carried to an area by the wind, water, air, or ice.",sediment,p2
+"Sediment is carried to an area by the wind, water, air, or ice.",to an area,
+"Sediment is carried to an area by the wind, water, air, or ice.",an area,
+"Sediment is carried to an area by the wind, water, air, or ice.","by the wind , water , air , or ice",
+"Sediment is carried to an area by the wind, water, air, or ice.","the wind , water , air , or ice",
+Sediment is deposited on the same spot many times.,sediment,p2
+Sediment is deposited on the same spot many times.,on the same spot,
+Sediment is deposited on the same spot many times.,many times,
+The sediment piles on top of other sediment for a long time.,the sediment,p2
+The sediment piles on top of other sediment for a long time.,sediment,p2
+The sediment piles on top of other sediment for a long time.,on top of other sediment,p2
+The sediment piles on top of other sediment for a long time.,for a long time,
+The sediment near the bottom is compressed by the weight of newer sediment.,the sediment near the bottom,p2
+The sediment near the bottom is compressed by the weight of newer sediment.,by the weight of newer sediment,p2
+The sediment near the bottom is compressed by the weight of newer sediment.,the weight of newer sediment,p2
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,the sediment,p2
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,sedimentary rock,"p1,p3"
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,as it is pushed together by the heavy weight,
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,the sediment,p2
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,by the heavy weight,
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.,the heavy weight,

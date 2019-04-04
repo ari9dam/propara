@@ -1,0 +1,24 @@
+p1,p2,p3,p4
+coal,water,steam,electricity
+SENTENCE,PHRASE,REFERENCE
+Coal is put in a coal-fired steam station.,coal,p1
+Coal is put in a coal-fired steam station.,in a coal-fired steam station,p3
+Coal is put in a coal-fired steam station.,a coal-fired steam station,p3
+Water is put in pipes in the coal-fired steam station.,water,p2
+Water is put in pipes in the coal-fired steam station.,in the coal-fired steam station,p3
+Water is put in pipes in the coal-fired steam station.,pipes,
+The coal is crushed.,the coal,p1
+The coal is moved into a boiler along with hot air.,the coal,p1
+The coal is moved into a boiler along with hot air.,into a boiler,
+The coal is moved into a boiler along with hot air.,a boiler,
+The water is moving through pipes in the boiler.,the water,p2
+The water is moving through pipes in the boiler.,through pipes in the boiler,
+The water is moving through pipes in the boiler.,pipes,
+The steam from the water is blown against a turning mechanism.,the steam from the water,"p2,p3"
+The steam from the water is blown against a turning mechanism.,against a turning mechanism,
+The steam from the water is blown against a turning mechanism.,a turning mechanism,
+The steam from the water is blown against a turning mechanism.,mechanism,
+The force of the steam makes the mechanism turn.,the force of the steam,p3
+The force of the steam makes the mechanism turn.,the mechanism turn,
+The mechanism generates electricity.,the mechanism,
+The mechanism generates electricity.,electricity,p4

@@ -1,0 +1,72 @@
+observedAt("help","what v to do something ?","the cornea",1).
+lvalue("the cornea","cornea").
+observedAt("help","what does something v to do ?","to focus light",1).
+observedAt("focus","what v something ?","the cornea",1).
+lvalue("the cornea","cornea").
+observedAt("focus","what does something v ?","light",1).
+observedAt("pass","what v ?","light",2).
+observedAt("pass","where does something v ?","to the iris",2).
+lvalue("to the iris","iris").
+observedAt("pass","what does something v to ?","the iris",2).
+lvalue("the iris","iris").
+observedAt("expand","who v ?","the pupil",3).
+observedAt("expand","what v ?","the pupil within the iris",3).
+lvalue("the pupil within the iris","iris").
+observedAt("expand","where does something v ?","within the iris",3).
+lvalue("within the iris","iris").
+observedAt("expand","why does something v something ?","to control the amount of light entering the eye",3).
+lvalue("to control the amount of light entering the eye","eye").
+observedAt("contract","who v to do something ?","the pupil",3).
+observedAt("contract","what v to do something ?","the pupil within the iris",3).
+lvalue("the pupil within the iris","iris").
+observedAt("contract","why does something v ?","to control the amount of light entering the eye",3).
+lvalue("to control the amount of light entering the eye","eye").
+observedAt("contract","what does something v to do ?","control the amount of light entering the eye",3).
+lvalue("control the amount of light entering the eye","eye").
+observedAt("control","who v something ?","the pupil",3).
+observedAt("control","what v something ?","the pupil within the iris",3).
+lvalue("the pupil within the iris","iris").
+observedAt("control","what does something v ?","the amount of light entering the eye",3).
+lvalue("the amount of light entering the eye","eye").
+observedAt("enter","what is v something ?","light",3).
+observedAt("enter","what is something v ?","the eye",3).
+lvalue("the eye","eye").
+observedAt("convert","what v something ?","the retina",4).
+lvalue("the retina","retina").
+observedAt("convert","what does something v ?","the light that reaches the retina into an electric signal",4).
+lvalue("the light that reaches the retina into an electric signal","retina").
+observedAt("reach","what v something ?","the light",4).
+observedAt("reach","what does something v ?","the retina",4).
+lvalue("the retina","retina").
+observedAt("reach","how does something v something ?","into an electric signal",4).
+observedAt("reach","what does something v something into ?","an electric signal",4).
+observedAt("send","what is being v ?","the signal",5).
+observedAt("send","where is something being v ?","to the brain",5).
+lvalue("to the brain","brain").
+observedAt("send","what does something v something to ?","the brain",5).
+lvalue("the brain","brain").
+observedAt("translate","what v something ?","the brain",6).
+lvalue("the brain","brain").
+observedAt("translate","what does something v ?","the electrical signals",6).
+observedAt("translate","where does something v something ?","into the images a person sees",6).
+observedAt("translate","what does something v something into ?","the images a person sees",6).
+observedAt("see","what does someone v ?","the images",6).
+observedAt("see","who v something ?","a person",6).
+time(1..6).
+participant(p1;p2).
+description(p1,"electric signal").
+description(p2,"light").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p2,"to focus light").
+refers(1,p2,"light").
+refers(2,p2,"light").
+refers(3,p2,"to control the amount of light entering the eye").
+refers(3,p2,"to control the amount of light entering the eye").
+refers(3,p2,"control the amount of light entering the eye").
+refers(3,p2,"the amount of light entering the eye").
+refers(3,p2,"light").
+refers(4,p1,"the light that reaches the retina into an electric signal").
+refers(4,p2,"the light that reaches the retina into an electric signal").
+refers(4,p2,"the light").
+refers(4,p1,"into an electric signal").
+refers(4,p1,"an electric signal").

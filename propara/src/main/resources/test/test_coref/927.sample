@@ -1,0 +1,59 @@
+observedAt("be","what does something v ?","a lot of rain",1).
+observedAt("be","when does something v something ?","within a short period of time",1).
+observedAt("try","what v to do something ?","the ground",2).
+lvalue("the ground","ground").
+observedAt("try","what does something v to do ?","to absorb as much rain water as it can",2).
+observedAt("absorb","what v something ?","the ground",2).
+lvalue("the ground","ground").
+observedAt("absorb","what does something v ?","as much rain water",2).
+observedAt("become","what v something ?","the ground",3).
+lvalue("the ground","ground").
+observedAt("become","what does something v ?","saturated with rain water",3).
+observedAt("absorb","what can not v ?","the ground",3).
+lvalue("the ground","ground").
+observedAt("absorb","when can not something v ?","anymore",3).
+observedAt("begin","what v doing something ?","water",4).
+observedAt("begin","what does something v doing ?","flowing above the ground",4).
+lvalue("flowing above the ground","ground").
+observedAt("begin","where does something v doing something ?","above the ground",4).
+lvalue("above the ground","ground").
+observedAt("begin","how does something v doing something ?","instead of dropping into the soil",4).
+lvalue("instead of dropping into the soil","soil").
+observedAt("flow","what is v ?","water",4).
+observedAt("flow","where is something v ?","above the ground",4).
+lvalue("above the ground","ground").
+observedAt("flow","how does something v somewhere ?","instead of dropping into the soil",4).
+lvalue("instead of dropping into the soil","soil").
+observedAt("drop","what is v into something ?","water",4).
+observedAt("drop","where is something be v ?","into the soil",4).
+lvalue("into the soil","soil").
+observedAt("drop","what is something v into ?","the soil",4).
+lvalue("the soil","soil").
+observedAt("carve","what v something ?","the water",5).
+observedAt("carve","how does something v ?","away",5).
+observedAt("carve","what does something v ?","away land , plants , and trees",5).
+lvalue("away land , plants , and trees","land").
+observedAt("cause","what v something ?","it",6).
+observedAt("cause","what does something v ?","destruction",6).
+observedAt("cause","when does something v something ?","as it travels",6).
+observedAt("travel","what v ?","it",6).
+time(1..6).
+participant(p1;p2;p3;p4;p5).
+description(p1,"rain").
+description(p2,"rain water").
+description(p2,"water").
+description(p3,"land").
+description(p4,"plants").
+description(p5,"trees").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a lot of rain").
+refers(2,p2,"to absorb as much rain water as it can").
+refers(2,p2,"as much rain water").
+refers(3,p2,"saturated with rain water").
+refers(4,p2,"water").
+refers(4,p2,"water").
+refers(4,p2,"water").
+refers(5,p2,"the water").
+refers(5,p3,"away land , plants , and trees").
+refers(5,p4,"away land , plants , and trees").
+refers(5,p5,"away land , plants , and trees").

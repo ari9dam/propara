@@ -1,0 +1,20 @@
+p1,p2,p3
+nuts,wheel,tire
+SENTENCE,PHRASE,REFERENCE
+Turn the bicycle upside down.,the bicycle,
+Turn the bicycle upside down.,upside down,
+Remove the nuts that hold the wheel to the bike.,the nuts,p1
+Remove the nuts that hold the wheel to the bike.,the nuts,p1
+Remove the nuts that hold the wheel to the bike.,the wheel,p2
+Remove the nuts that hold the wheel to the bike.,to the bike,
+Remove the nuts that hold the wheel to the bike.,the bike,
+Take the tire off of the wheel.,the tire,p3
+Take the tire off of the wheel.,off of the wheel,p2
+Patch the hole in the tire or replace with a new tire on the wheel.,a new tire on the wheel,"p2,p3"
+Patch the hole in the tire or replace with a new tire on the wheel.,on the wheel,p2
+Replace the wheel on the bike.,the wheel,p2
+Replace the wheel on the bike.,on the bike,
+Replace the wheel on the bike.,the bike,
+Secure the wheel with nuts.,the wheel,p2
+Secure the wheel with nuts.,with nuts,p1
+Secure the wheel with nuts.,nuts,p1

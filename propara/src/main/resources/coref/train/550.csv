@@ -1,0 +1,17 @@
+p1,p2,p3
+blood,chemicals and proteins,energy
+SENTENCE,PHRASE,REFERENCE
+Blood is sent to the liver.,blood,p1
+Blood is sent to the liver.,to the liver,
+Blood is sent to the liver.,the liver,
+The liver uses chemicals and proteins to treat the blood.,the liver,
+The liver uses chemicals and proteins to treat the blood.,chemicals and proteins,p2
+The liver uses chemicals and proteins to treat the blood.,to treat the blood,p1
+The liver uses chemicals and proteins to treat the blood.,chemicals and proteins,p2
+The liver uses chemicals and proteins to treat the blood.,the blood,p1
+The blood is cleaned.,the blood,p1
+Energy is produced.,energy,p3
+The blood leaves the liver cleaned.,the blood,p1
+The blood leaves the liver cleaned.,the liver,
+The blood leaves the liver cleaned.,cleaned,
+The blood leaves the liver cleaned.,the liver,

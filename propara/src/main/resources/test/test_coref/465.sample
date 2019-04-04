@@ -1,0 +1,54 @@
+observedAt("catch","what is v ?","water",1).
+lvalue("water","water").
+observedAt("catch","where is something v ?","in winds",1).
+lvalue("in winds","wind").
+observedAt("catch","what is something v in ?","winds that are moving upward",1).
+lvalue("winds that are moving upward","wind").
+observedAt("move","what is v ?","winds",1).
+lvalue("winds","wind").
+observedAt("move","how is something v ?","upward",1).
+observedAt("freeze","what v ?","the water",2).
+lvalue("the water","water").
+observedAt("start","what v to do something ?","the water",3).
+lvalue("the water","water").
+observedAt("start","what does something v to do ?","to fall",3).
+observedAt("fall","what v ?","the water",3).
+lvalue("the water","water").
+observedAt("be","what v something ?","the winds",4).
+lvalue("the winds","wind").
+observedAt("be","what does something v ?","strong enough",4).
+observedAt("keep","what is v something ?","the winds",4).
+lvalue("the winds","wind").
+observedAt("keep","what is being v ?","it",4).
+observedAt("keep","where is something being v ?","from falling back to earth",4).
+observedAt("keep","what is something v from ?","falling back to earth",4).
+observedAt("fall","what is v somewhere ?","the winds",4).
+lvalue("the winds","wind").
+observedAt("fall","what is v ?","it",4).
+observedAt("fall","where is something be v ?","back to earth",4).
+observedAt("rise","what v ?","this pattern of rising and falling",5).
+observedAt("become","what v something ?","the hail",6).
+observedAt("become","what does something v ?","too large to be pushed up by the wind",6).
+lvalue("too large to be pushed up by the wind","wind").
+observedAt("push","what is be v ?","the hail",6).
+observedAt("push","how is something be v ?","by the wind",6).
+lvalue("by the wind","wind").
+observedAt("push","what is something be v by ?","the wind",6).
+lvalue("the wind","wind").
+observedAt("fall","what v somewhere ?","the hail",7).
+observedAt("fall","where does something v ?","to the ground",7).
+lvalue("to the ground","ground").
+observedAt("fall","what does something v to ?","the ground",7).
+lvalue("the ground","ground").
+time(1..7).
+participant(p1;p2).
+description(p1,"water").
+description(p2,"hail").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"water").
+refers(2,p1,"the water").
+refers(3,p1,"the water").
+refers(3,p1,"the water").
+refers(6,p2,"the hail").
+refers(6,p2,"the hail").
+refers(7,p2,"the hail").

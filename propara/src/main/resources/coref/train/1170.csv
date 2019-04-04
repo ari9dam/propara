@@ -1,0 +1,19 @@
+p1,p2,p3,p4,p5
+chromosome,centriole,spindle fiber,chromatid,nuclear membrane
+SENTENCE,PHRASE,REFERENCE
+"Prophase, the chromosomes become visible.",the chromosomes,p1
+"Prophase, the chromosomes become visible.",visible,
+Centrioles separate to move to opposite poles.,centrioles,p2
+Centrioles separate to move to opposite poles.,to opposite poles,
+Centrioles separate to move to opposite poles.,opposite poles,
+"Metaphase, the chromosomes line up in the center.",the chromosomes,p1
+"Metaphase, the chromosomes line up in the center.",in the center,
+"Anaphase, the chromatids separate.",the chromatids,p4
+Are pulled apart.,apart,
+"Telophase, the chromosomes gather at opposite poles.",the chromosomes,p1
+"Telophase, the chromosomes gather at opposite poles.",at opposite poles,
+"Telophase, the chromosomes gather at opposite poles.",opposite poles,
+Two new nuclear membranes form.,two new nuclear membranes,p5
+The cell membranes pinch.,the cell membranes,
+Divide into two individual cells.,into two individual cells,
+Divide into two individual cells.,two individual cells,

@@ -1,0 +1,42 @@
+p1,p2,p3,p4,p5,p6,p7
+organism,soft tissue,bones,proteins,soil,minerals,fossil
+SENTENCE,PHRASE,REFERENCE
+The organism must die to begin the process.,the organism,p1
+The organism must die to begin the process.,to begin the process,
+The organism must die to begin the process.,the organism,p1
+The organism must die to begin the process.,the process,
+This makes discovery of the fossil possible.,this,
+This makes discovery of the fossil possible.,discovery of the fossil possible,p7
+The soft tissue decomposes.,the soft tissue,p2
+The bones are left behind.,the bones,p3
+The bones are left behind.,behind,
+Scavengers tear the body apart and move the bones elsewhere.,scavengers,
+Scavengers tear the body apart and move the bones elsewhere.,the body,
+Scavengers tear the body apart and move the bones elsewhere.,apart,
+Scavengers tear the body apart and move the bones elsewhere.,scavengers,
+Scavengers tear the body apart and move the bones elsewhere.,the bones,p3
+Scavengers tear the body apart and move the bones elsewhere.,elsewhere,
+Wind and rain also scatter the bones further.,wind and rain,
+Wind and rain also scatter the bones further.,the bones,p3
+Wind and rain also scatter the bones further.,further,
+The bones left behind will weather and become buried by sand and soil.,the bones,p3
+The bones left behind will weather and become buried by sand and soil.,behind,
+The bones left behind will weather and become buried by sand and soil.,the bones left behind,p3
+The bones left behind will weather and become buried by sand and soil.,the bones,p3
+The bones left behind will weather and become buried by sand and soil.,buried,
+The bones left behind will weather and become buried by sand and soil.,by sand and soil,p5
+The bones left behind will weather and become buried by sand and soil.,the bones,p3
+The bones left behind will weather and become buried by sand and soil.,by sand and soil,p5
+The bones left behind will weather and become buried by sand and soil.,sand and soil,p5
+The proteins in the bone are replaced with minerals that are dissolved in the soil.,the proteins in the bone,"p3,p4"
+The proteins in the bone are replaced with minerals that are dissolved in the soil.,minerals that are dissolved in the soil,"p5,p6"
+The proteins in the bone are replaced with minerals that are dissolved in the soil.,minerals,p6
+The proteins in the bone are replaced with minerals that are dissolved in the soil.,in the soil,p5
+The proteins in the bone are replaced with minerals that are dissolved in the soil.,the soil,p5
+This creates a rock-like substance called a fossil.,this,
+This creates a rock-like substance called a fossil.,a rock-like substance called a fossil,p7
+This creates a rock-like substance called a fossil.,a rock-like substance,
+This creates a rock-like substance called a fossil.,a fossil,p7
+Water and wind erosion wear away the layers of soil on top of the fossil.,water and wind erosion,
+Water and wind erosion wear away the layers of soil on top of the fossil.,the layers of soil on top of the fossil,"p5,p7"
+Water and wind erosion wear away the layers of soil on top of the fossil.,on top of the fossil,p7

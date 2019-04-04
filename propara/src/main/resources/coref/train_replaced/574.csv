@@ -1,0 +1,31 @@
+p1,p2,p3
+plane,"passenger, person",luggage
+SENTENCE,PHRASE,REFERENCE
+An airline reservation is made.,an airline reservation,
+The passenger gets off the plane at their destination.,the passenger,p2
+The passenger gets off the plane at their destination.,off the plane,p1
+The passenger gets off the plane at their destination.,the plane,p1
+The passenger gets off the plane at their destination.,at their destination,
+The passenger arrives early at the airport.,the passenger,p2
+The passenger arrives early at the airport.,early,
+The passenger arrives early at the airport.,at the airport,
+The luggage is checked.,the luggage,p3
+The passenger waits in line.,the passenger,p2
+The passenger waits in line.,in line,
+The passenger shows their identification and gets a boarding pass.,the passenger,p2
+The passenger shows their identification and gets a boarding pass.,their identification,
+The passenger shows their identification and gets a boarding pass.,the passenger,p2
+The passenger shows their identification and gets a boarding pass.,a boarding pass,
+The passenger shows their identification and gets a boarding pass.,the passenger,p2
+The passenger goes to their gate.,the passenger,p2
+The passenger goes to their gate.,to their gate,
+The passenger gets in line when it's time to board.,the passenger,p2
+The passenger gets in line when it's time to board.,in line,
+The passenger gets in line when it's time to board.,when it 's time to board,
+The passenger gets in line when it's time to board.,the passenger,p2
+The passenger gets in line when it's time to board.,time to board,
+The person boards the plane.,the person,p2
+The person boards the plane.,the plane,p1
+The plane arrives at the destination.,the plane,p1
+The plane arrives at the destination.,at the destination,
+The plane arrives at the destination.,the destination,

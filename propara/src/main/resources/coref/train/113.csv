@@ -1,0 +1,29 @@
+p1,p2,p3,p4,p5,p6,p7
+carbon dioxide,"light, light from the sun",oxygen,sugar (glucose),water,minerals,mixture
+SENTENCE,PHRASE,REFERENCE
+Chloroplasts in the leaf of the plant traps light from the sun.,chloroplasts,
+Chloroplasts in the leaf of the plant traps light from the sun.,in the leaf of the plant,
+Chloroplasts in the leaf of the plant traps light from the sun.,light,p2
+Chloroplasts in the leaf of the plant traps light from the sun.,from the sun,
+Chloroplasts in the leaf of the plant traps light from the sun.,the sun,
+The roots absorb water and minerals from the soil.,the roots,
+The roots absorb water and minerals from the soil.,water and minerals,"p5,p6"
+The roots absorb water and minerals from the soil.,from the soil,
+The roots absorb water and minerals from the soil.,the soil,
+This combination of water and minerals flows from the stem into the leaf.,this combination of water and minerals,"p5,p6"
+This combination of water and minerals flows from the stem into the leaf.,from the stem into the leaf,
+This combination of water and minerals flows from the stem into the leaf.,the stem,
+This combination of water and minerals flows from the stem into the leaf.,into the leaf,
+Carbon dioxide enters the leaf.,carbon dioxide,p1
+Carbon dioxide enters the leaf.,the leaf,
+"Light, water and minerals, and the carbon dioxide all mix together.","light , water and minerals , and the carbon dioxide","p1,p2,p5,p6"
+"Light, water and minerals, and the carbon dioxide all mix together.",together,
+This mixture forms sugar (glucose) which is what the plant eats.,this mixture,p7
+This mixture forms sugar (glucose) which is what the plant eats.,sugar ( glucose ),p4
+This mixture forms sugar (glucose) which is what the plant eats.,sugar ( glucose ),p4
+This mixture forms sugar (glucose) which is what the plant eats.,what the plant eats,
+This mixture forms sugar (glucose) which is what the plant eats.,the plant,
+Oxygen goes out of the leaf through the stomata.,oxygen,p3
+Oxygen goes out of the leaf through the stomata.,out of the leaf,
+Oxygen goes out of the leaf through the stomata.,the leaf,
+Oxygen goes out of the leaf through the stomata.,through the stomata,

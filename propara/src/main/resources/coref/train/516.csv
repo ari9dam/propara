@@ -1,0 +1,40 @@
+p1,p2,p3,p4,p5,p6,p7,p8
+eggs,tadpoles,external gills,tail,food,hind legs,front legs,young frog
+SENTENCE,PHRASE,REFERENCE
+An adult frog spawns eggs in water.,an adult frog,
+An adult frog spawns eggs in water.,eggs,p1
+An adult frog spawns eggs in water.,in water,
+These eggs hatch into tadpoles and continue to live in the water.,these eggs,p1
+These eggs hatch into tadpoles and continue to live in the water.,tadpoles,p2
+These eggs hatch into tadpoles and continue to live in the water.,these eggs,p1
+These eggs hatch into tadpoles and continue to live in the water.,to live in the water,
+These eggs hatch into tadpoles and continue to live in the water.,these eggs,p1
+These eggs hatch into tadpoles and continue to live in the water.,eggs,p1
+These eggs hatch into tadpoles and continue to live in the water.,in the water,
+The tadpoles grow developing external gills and a longer tail.,the tadpoles,p2
+The tadpoles grow developing external gills and a longer tail.,developing external gills and a longer tail,"p3,p4"
+The tadpoles grow developing external gills and a longer tail.,the tadpoles,p2
+The tadpoles grow developing external gills and a longer tail.,external gills and a longer tail,"p3,p4"
+The tadpole begins storing food in the tail.,the tadpole,p2
+The tadpole begins storing food in the tail.,storing food in the tail,"p4,p5"
+The tadpole begins storing food in the tail.,the tadpole,p2
+The tadpole begins storing food in the tail.,food,p5
+The tadpole begins storing food in the tail.,in the tail,p4
+The tadpole develops hind legs and lives off food stored in the it's tail.,the tadpole,p2
+The tadpole develops hind legs and lives off food stored in the it's tail.,hind legs,p6
+The tadpole develops hind legs and lives off food stored in the it's tail.,the tadpole,p2
+The tadpole develops hind legs and lives off food stored in the it's tail.,food,p5
+The tadpole develops hind legs and lives off food stored in the it's tail.,food,p5
+The tadpole develops hind legs and lives off food stored in the it's tail.,in the it 's tail,p4
+The tadpole develops hind legs and lives off food stored in the it's tail.,it,
+The tadpole develops hind legs and lives off food stored in the it's tail.,tail,p4
+The front legs appear and the tadpole's tail shortens.,the front legs,p7
+The front legs appear and the tadpole's tail shortens.,the tadpole 's tail,"p2,p4"
+The tadpole now looks like a young frog.,the tadpole,p2
+The tadpole now looks like a young frog.,now,
+The tadpole now looks like a young frog.,like a young frog,p8
+The young frog continues to grow to adulthood.,the young frog,p8
+The young frog continues to grow to adulthood.,to grow to adulthood,
+The young frog continues to grow to adulthood.,the young frog,p8
+The young frog continues to grow to adulthood.,to adulthood,
+The young frog continues to grow to adulthood.,adulthood,

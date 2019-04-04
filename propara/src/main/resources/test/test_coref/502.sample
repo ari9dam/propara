@@ -1,0 +1,60 @@
+observedAt("create","what is v ?","energy",1).
+observedAt("create","how is something v ?","by burning either diesel or petrol in a combustion chamber",1).
+lvalue("by burning either diesel or petrol in a combustion chamber","combustion chamber").
+observedAt("create","what is something v by ?","burning either diesel or petrol in a combustion chamber",1).
+lvalue("burning either diesel or petrol in a combustion chamber","combustion chamber").
+observedAt("burn","what is being v ?","either diesel or petrol",1).
+observedAt("burn","where is something being v ?","in a combustion chamber",1).
+lvalue("in a combustion chamber","combustion chamber").
+observedAt("transfer","what is v ?","the energy",2).
+observedAt("transfer","where is something v ?","from the pistons",2).
+lvalue("from the pistons","piston").
+observedAt("transfer","how is something v ?","from the pistons moving up and down at high speeds",2).
+lvalue("from the pistons moving up and down at high speeds","piston").
+observedAt("transfer","what is something v from ?","the pistons",2).
+lvalue("the pistons","piston").
+observedAt("move","what is v ?","the pistons",2).
+lvalue("the pistons","piston").
+observedAt("move","how is something v ?","up and down at high speeds",2).
+observedAt("move","how is something v somewhere ?","at high speeds",2).
+observedAt("convert","what is v to something ?","this piston motion",3).
+lvalue("this piston motion","piston motion").
+observedAt("convert","how is something v ?","to a rotary motion",3).
+lvalue("to a rotary motion","rotary motion").
+observedAt("convert","what is something v to ?","a rotary motion",3).
+lvalue("a rotary motion","rotary motion").
+observedAt("convert","where is something v to something ?","through the crankshaft and axle",3).
+lvalue("through the crankshaft and axle","crankshaft and axle").
+observedAt("turn","what v something ?","the axle",4).
+lvalue("the axle","axle").
+observedAt("turn","what does something v ?","the wheels",4).
+lvalue("the wheels","wheel").
+observedAt("move","what v ?","the car",5).
+observedAt("move","how does something v ?","forward",5).
+lvalue("forward","forward").
+time(1..5).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"diesel").
+description(p2,"petrol").
+description(p3,"energy").
+description(p4,"pistons").
+description(p5,"piston motion").
+description(p6,"rotary motion").
+description(p7,"car").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p3,"energy").
+refers(1,p1,"by burning either diesel or petrol in a combustion chamber").
+refers(1,p2,"by burning either diesel or petrol in a combustion chamber").
+refers(1,p1,"burning either diesel or petrol in a combustion chamber").
+refers(1,p2,"burning either diesel or petrol in a combustion chamber").
+refers(1,p1,"either diesel or petrol").
+refers(1,p2,"either diesel or petrol").
+refers(2,p3,"the energy").
+refers(2,p4,"from the pistons").
+refers(2,p4,"from the pistons moving up and down at high speeds").
+refers(2,p4,"the pistons").
+refers(2,p4,"the pistons").
+refers(3,p5,"this piston motion").
+refers(3,p6,"to a rotary motion").
+refers(3,p6,"a rotary motion").
+refers(5,p7,"the car").

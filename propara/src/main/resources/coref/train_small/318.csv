@@ -1,0 +1,18 @@
+p1,p2,p3
+plant,plant roots,rock
+SENTENCE,PHRASE,REFERENCE
+A plant grows near or on a rock.,a plant,p1
+A plant grows near or on a rock.,near or on a rock,p3
+The plant roots begin to grow.,the plant roots,p2
+The plant roots begin to grow.,to grow,
+The plant roots begin to grow.,the plant roots,p2
+Break apart the rock.,apart,
+Break apart the rock.,the rock,p3
+The plant acids dissolve parts of the rock.,the plant acids,p1
+The plant acids dissolve parts of the rock.,parts of the rock,p3
+The rocks are broken into more and more pieces.,the rocks,p3
+The rocks are broken into more and more pieces.,into more and more pieces,
+The rocks are broken into more and more pieces.,more and more pieces,
+Erosion starts to occur.,erosion,
+Erosion starts to occur.,to occur,
+Erosion starts to occur.,erosion,

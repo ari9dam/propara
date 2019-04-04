@@ -1,0 +1,31 @@
+p1,p2,p3,p4,p5
+dishes,water,dirty water,detergent,warm air
+SENTENCE,PHRASE,REFERENCE
+Dirty dishes are placed in the dishwasher.,dirty dishes,p1
+Dirty dishes are placed in the dishwasher.,in the dishwasher,
+Dirty dishes are placed in the dishwasher.,the dishwasher,
+The dishes can be removed.,the dishes,p1
+The dishwasher is closed.,the dishwasher,
+The dishwasher heats water to a hotter temperature.,the dishwasher,
+The dishwasher heats water to a hotter temperature.,water,p2
+The dishwasher heats water to a hotter temperature.,to a hotter temperature,
+The dishwasher heats water to a hotter temperature.,a hotter temperature,
+The dishwasher directs water toward the dishes through jets.,the dishwasher,
+The dishwasher directs water toward the dishes through jets.,water,p2
+The dishwasher directs water toward the dishes through jets.,toward the dishes,p1
+The dishwasher directs water toward the dishes through jets.,through jets,
+The dishwasher adds detergent.,the dishwasher,
+The dishwasher adds detergent.,detergent,p4
+The dirty water drains out.,the dirty water,"p2,p3"
+The dirty water drains out.,out,
+The dishwasher sprays more water to rinse the dishes off.,the dishwasher,
+The dishwasher sprays more water to rinse the dishes off.,the dishes,p1
+The water drains out again.,the water,p2
+The water drains out again.,out,
+The dishwasher directs warm air toward the dishes to dry them.,the dishwasher,
+The dishwasher directs warm air toward the dishes to dry them.,warm air,p5
+The dishwasher directs warm air toward the dishes to dry them.,toward the dishes,p1
+The dishwasher directs warm air toward the dishes to dry them.,to dry them,
+The dishwasher directs warm air toward the dishes to dry them.,warm air,p5
+The dishwasher directs warm air toward the dishes to dry them.,the dishes,p1
+The dishwasher directs warm air toward the dishes to dry them.,them,

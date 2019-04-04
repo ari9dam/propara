@@ -1,0 +1,30 @@
+p1,p2,p3,p4,p5
+egg,"larva, caterpillar",skin,"pupa, chrysalis","butterfly, adult butterfly"
+SENTENCE,PHRASE,REFERENCE
+The butterfly starts as an egg.,the butterfly,p5
+The butterfly starts as an egg.,as an egg,p1
+The butterfly starts as an egg.,an egg,p1
+"The egg hatches to form a larva, also called a caterpillar.",the egg,p1
+"The egg hatches to form a larva, also called a caterpillar.",a larva,p2
+"The egg hatches to form a larva, also called a caterpillar.",a larva,p2
+"The egg hatches to form a larva, also called a caterpillar.",a caterpillar,p2
+The carterpillar molts (loses its skin) many times as it grows.,the carterpillar,
+The carterpillar molts (loses its skin) many times as it grows.,its skin,p3
+The carterpillar molts (loses its skin) many times as it grows.,many times,
+The carterpillar molts (loses its skin) many times as it grows.,the carterpillar,
+"The caterpillar then forms itself into a pupa, or chrysalis.",the caterpillar,p2
+"The caterpillar then forms itself into a pupa, or chrysalis.",itself,
+"The caterpillar then forms itself into a pupa, or chrysalis.","into a pupa , or chrysalis",p4
+"The caterpillar then forms itself into a pupa, or chrysalis.","a pupa , or chrysalis",p4
+"The caterpillar in the chrysalis begins change, a process called mmetaphorphosis.",the caterpillar in the chrysalis,"p2,p4"
+"The caterpillar in the chrysalis begins change, a process called mmetaphorphosis.",in the chrysalis,p4
+"The caterpillar in the chrysalis begins change, a process called mmetaphorphosis.",change,
+"The caterpillar in the chrysalis begins change, a process called mmetaphorphosis.",a process,
+"The caterpillar in the chrysalis begins change, a process called mmetaphorphosis.",mmetaphorphosis,
+The caterpillar completes its metamorphosis and has turned into a butterfly.,the caterpillar,p2
+The caterpillar completes its metamorphosis and has turned into a butterfly.,its metamorphosis,
+The caterpillar completes its metamorphosis and has turned into a butterfly.,the caterpillar,p2
+The caterpillar completes its metamorphosis and has turned into a butterfly.,a butterfly,p5
+The adult butterfly emerges out of the chrysalis and flys away!.,the adult butterfly,p5
+The adult butterfly emerges out of the chrysalis and flys away!.,out of the chrysalis,p4
+The adult butterfly emerges out of the chrysalis and flys away!.,the chrysalis,p4

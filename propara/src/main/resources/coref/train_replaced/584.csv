@@ -1,0 +1,22 @@
+p1,p2,p3
+water,clouds,"rain, storm"
+SENTENCE,PHRASE,REFERENCE
+Warm weather causes water to evaporate.,warm weather,
+Warm weather causes water to evaporate.,water to evaporate,p1
+Warm weather causes water to evaporate.,warm weather,
+Warm weather causes water to evaporate.,water,p1
+The water rises up in the air.,the water,p1
+The water rises up in the air.,up in the air,
+It starts to cools down.,it,p1
+It starts to cools down.,to cools down,
+It starts to cools down.,it,
+The water starts to condense.,the water,p1
+The water starts to condense.,to condense,
+The water starts to condense.,the water,p1
+It forms into clouds.,it,p1
+It forms into clouds.,clouds,p2
+When there is enough moisture in the clouds it starts to rain.,enough moisture,
+When there is enough moisture in the clouds it starts to rain.,in the clouds,p2
+When there is enough moisture in the clouds it starts to rain.,when there is enough moisture in the clouds,p2
+When there is enough moisture in the clouds it starts to rain.,it,
+When there is enough moisture in the clouds it starts to rain.,to rain,p3

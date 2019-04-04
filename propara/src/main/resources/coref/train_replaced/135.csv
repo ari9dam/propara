@@ -1,0 +1,32 @@
+p1,p2,
+bats,"sounds, sound waves",
+SENTENCE,PHRASE,REFERENCE
+Bats fly through an area.,bats,p1
+Bats fly through an area.,through an area,
+Bats fly through an area.,an area,
+The bat makes sounds with their mouth or nose.,the bat,p1
+The bat makes sounds with their mouth or nose.,sounds,p2
+The bat makes sounds with their mouth or nose.,with their mouth or nose,
+The sound waves travel away from the bat.,the sound waves,p2
+The sound waves travel away from the bat.,away from the bat,p1
+The sound waves hit objects.,the sound waves,p2
+The sound waves hit objects.,objects,
+The sound waves bounce off the objects back towards the bat.,the sound waves,p2
+The sound waves bounce off the objects back towards the bat.,back towards the bat,p1
+The sound waves bounce off the objects back towards the bat.,the objects,
+The bat hears the sound waves echoing off the objects.,the bat,p1
+The bat hears the sound waves echoing off the objects.,the sound waves echoing off the objects,p2
+The bat hears the sound waves echoing off the objects.,the sound waves,p2
+The bat hears the sound waves echoing off the objects.,off the objects,
+The bat hears the sound waves echoing off the objects.,the objects,
+The bat knows where the objects are because of where the sound echoed from.,the bat,p1
+The bat knows where the objects are because of where the sound echoed from.,where the objects are,
+The bat knows where the objects are because of where the sound echoed from.,because of where the sound echoed from,p2
+The bat knows where the objects are because of where the sound echoed from.,the objects,
+The bat knows where the objects are because of where the sound echoed from.,because of where the sound echoed from,p2
+The bat knows where the objects are because of where the sound echoed from.,the sound,p2
+The bat doesn't hurt itself by hitting the objects.,the bat,p1
+The bat doesn't hurt itself by hitting the objects.,itself,p1
+The bat doesn't hurt itself by hitting the objects.,by hitting the objects,
+The bat doesn't hurt itself by hitting the objects.,the bat,p1
+The bat doesn't hurt itself by hitting the objects.,the objects,

@@ -1,0 +1,41 @@
+p1,p2,p3,p4,p5,p6
+"living things, remains of living things",carbon,carbon-based mixture,fossil fuel,energy,power
+SENTENCE,PHRASE,REFERENCE
+Living things have carbon in them.,things,
+Living things have carbon in them.,living things,p1
+Living things have carbon in them.,carbon,p2
+Living things have carbon in them.,in them,
+The energy can be used to generate power.,the energy,p5
+The energy can be used to generate power.,to generate power,p6
+The energy can be used to generate power.,generate power,p6
+The energy can be used to generate power.,the energy,p5
+The energy can be used to generate power.,power,p6
+Living things die.,things,
+Living things die.,living things,p1
+The remains of living things eventually become buried underground.,things,
+The remains of living things eventually become buried underground.,the remains of living things,p1
+The remains of living things eventually become buried underground.,eventually,
+The remains of living things eventually become buried underground.,buried underground,
+The remains of living things eventually become buried underground.,the remains of living things,p1
+The remains of living things eventually become buried underground.,underground,
+More physical pressure is put on the remains of living things as they become further underground.,more physical pressure,
+More physical pressure is put on the remains of living things as they become further underground.,the remains of living things,p1
+More physical pressure is put on the remains of living things as they become further underground.,as they become further underground,
+More physical pressure is put on the remains of living things as they become further underground.,things,
+More physical pressure is put on the remains of living things as they become further underground.,living things,p1
+More physical pressure is put on the remains of living things as they become further underground.,further underground,
+This carbon-based mixture stays underground for a long time.,this carbon-based mixture,p3
+This carbon-based mixture stays underground for a long time.,underground,
+This carbon-based mixture stays underground for a long time.,for a long time,
+Humans discover this carbon-based mixture.,humans,
+Humans discover this carbon-based mixture.,this carbon-based mixture,p3
+This carbon-based mixture is brought up to the earth's surface.,this carbon-based mixture,p3
+This carbon-based mixture is brought up to the earth's surface.,up to the earth 's surface,
+This carbon-based mixture is brought up to the earth's surface.,the earth 's surface,
+The recently discovered fossil fuel is burned.,fossil fuel,p4
+The recently discovered fossil fuel is burned.,fossil fuel,p4
+Burning releases the energy that has been stored in the fossil fuel.,burning,
+Burning releases the energy that has been stored in the fossil fuel.,the energy that has been stored in the fossil fuel,"p4,p5"
+Burning releases the energy that has been stored in the fossil fuel.,the energy,p5
+Burning releases the energy that has been stored in the fossil fuel.,in the fossil fuel,p4
+Burning releases the energy that has been stored in the fossil fuel.,the fossil fuel,p4

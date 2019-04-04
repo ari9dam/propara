@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5
+frog's egg,tadpole,tail,limb,frog
+SENTENCE,PHRASE,REFERENCE
+The frog's egg hatches and a tadpole is born.,the frog 's egg,"p1,p5"
+The frog's egg hatches and a tadpole is born.,a tadpole,p2
+The tadpole swims with its siblings and tries to survive.,the tadpole,p2
+The tadpole swims with its siblings and tries to survive.,with its siblings,
+The tadpole swims with its siblings and tries to survive.,its siblings,
+The tadpole swims with its siblings and tries to survive.,the tadpole,p2
+The tadpole swims with its siblings and tries to survive.,to survive,
+The tadpole swims with its siblings and tries to survive.,survive,
+The tadpole swims with its siblings and tries to survive.,the tadpole,p2
+The tadpole grows larger.,the tadpole,p2
+The tadpole grows larger.,larger,
+The tadpole loses its tail.,the tadpole,p2
+The tadpole loses its tail.,its tail,p3
+The tadpole develops limbs.,the tadpole,p2
+The tadpole develops limbs.,limbs,p4
+And the tadpole now becomes a frog.,the tadpole,p2
+And the tadpole now becomes a frog.,now,
+And the tadpole now becomes a frog.,a frog,p5

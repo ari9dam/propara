@@ -1,0 +1,25 @@
+p1,p2,p3
+magma,lava,"hard rock, igneous rock"
+SENTENCE,PHRASE,REFERENCE
+Volcanos contain magma.,volcanos,
+Volcanos contain magma.,magma,p1
+The magma is very hot.,the magma,p1
+The magma is very hot.,very hot,
+The magma rises toward the surface of the volcano.,the magma,p1
+The magma rises toward the surface of the volcano.,toward the surface of the volcano,
+The magma cools.,the magma,p1
+The magma starts to harden as it cools.,the magma,p1
+The magma starts to harden as it cools.,to harden,
+The magma starts to harden as it cools.,as it cools,
+The magma starts to harden as it cools.,the magma,p1
+The magma starts to harden as it cools.,as it cools,
+The magma starts to harden as it cools.,the magma,p1
+The magma is sometimes released from the volcano as lava.,the magma,p1
+The magma is sometimes released from the volcano as lava.,sometimes,
+The magma is sometimes released from the volcano as lava.,from the volcano,
+The magma is sometimes released from the volcano as lava.,the volcano,
+The magma is sometimes released from the volcano as lava.,as lava,p2
+The magma or lava becomes a hard rock as it solidifies.,the magma or lava,"p1,p2"
+The magma or lava becomes a hard rock as it solidifies.,a hard rock,p3
+The magma or lava becomes a hard rock as it solidifies.,as it solidifies,
+The magma or lava becomes a hard rock as it solidifies.,the magma or lava,"p1,p2"

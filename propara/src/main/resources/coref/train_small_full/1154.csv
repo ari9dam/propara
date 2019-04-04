@@ -1,0 +1,16 @@
+p1,p2,p3,p4,p5
+plants,animals,the remains of plants and animals,carbon atoms,new substance
+SENTENCE,PHRASE,REFERENCE,,
+Plants and animals long ago died.,plants and animals,"p1,p2",,
+Plants and animals long ago died.,long ago,,,
+They are buried under layers of soil.,they,"p1,p2",,
+They are buried under layers of soil.,under layers of soil,,,
+They are buried under layers of soil.,layers of soil,,,
+Pressure builds over time.,pressure,,,
+Pressure builds over time.,over time,,,
+The remains liquefy.,the remains,p3,,
+The carbon atoms rearrange to become a new substance.,the carbon atoms,p4,,
+The carbon atoms rearrange to become a new substance.,to become a new substance,p5,,
+The carbon atoms rearrange to become a new substance.,become a new substance,p5,,
+The carbon atoms rearrange to become a new substance.,the carbon atoms,p4,,
+The carbon atoms rearrange to become a new substance.,a new substance,p5,,

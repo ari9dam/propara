@@ -1,0 +1,19 @@
+p1,p2,
+oxygen,"erythrocytes, red blood cells",
+SENTENCE,PHRASE,REFERENCE
+Oxygen enters the body through the mouth or nose.,oxygen,p1
+Oxygen enters the body through the mouth or nose.,the body,
+Oxygen enters the body through the mouth or nose.,through the mouth or nose,
+The oxygen travels into the lungs.,the oxygen,p1
+The oxygen travels into the lungs.,into the lungs,
+The oxygen travels into the lungs.,the lungs,
+The oxygen binds to hemoglobin proteins within erythrocytes (red blood cells).,the oxygen,p1
+The oxygen binds to hemoglobin proteins within erythrocytes (red blood cells).,hemoglobin proteins,
+The oxygen binds to hemoglobin proteins within erythrocytes (red blood cells).,within erythrocytes,p2
+The erythrocytes are pumped through the body by the heart.,the erythrocytes,p2
+The erythrocytes are pumped through the body by the heart.,through the body,
+The erythrocytes are pumped through the body by the heart.,the body,
+The erythrocytes are pumped through the body by the heart.,by the heart,
+The erythrocytes are pumped through the body by the heart.,the heart,
+All cells receive the oxygen.,all cells,
+All cells receive the oxygen.,the oxygen,p1

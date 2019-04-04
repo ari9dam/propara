@@ -1,0 +1,16 @@
+p1,p2
+bark,ring
+SENTENCE,PHRASE,REFERENCE
+The growing season starts.,season,
+Bark grows on a tree.,bark,p1
+Bark grows on a tree.,on a tree,
+Bark grows on a tree.,a tree,
+The inside of the tree grows.,the inside of the tree,
+The bark is pushed out around the tree trunk.,the bark,p1
+The bark is pushed out around the tree trunk.,out around the tree trunk,
+The bark leaves a ring.,the bark,p1
+The bark leaves a ring.,a ring,p2
+The growing season slows down and ends.,season,
+The growing season slows down and ends.,the growing season,
+The growing season slows down and ends.,down and ends,
+The growing season slows down and ends.,the growing season,

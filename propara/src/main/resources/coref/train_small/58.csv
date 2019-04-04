@@ -1,0 +1,23 @@
+p1,p2,
+rain,"water, floodwater",
+SENTENCE,PHRASE,REFERENCE
+There is a lot of rain or a dam breaks.,a lot of rain or a dam breaks,p1
+Water levels of a river or lake get higher.,water levels of a river or lake,p2
+Water levels of a river or lake get higher.,higher,
+Water builds up on the ground.,water,p2
+Water builds up on the ground.,on the ground,
+Water builds up on the ground.,the ground,
+Water covers streets.,water,p2
+Water covers streets.,streets,
+Water gets deep in some places.,water,p2
+Water gets deep in some places.,deep,
+Water gets deep in some places.,in some places,
+Water goes into houses and other buildings.,water,p2
+Water goes into houses and other buildings.,into houses and other buildings,
+Water goes into houses and other buildings.,houses and other buildings,
+The rain stops or the dam is repaired.,the rain,p1
+The rain stops or the dam is repaired.,the dam,
+Water flows into streams.,water,p2
+Water flows into streams.,into streams,
+Water flows into streams.,streams,
+The rest of the floodwater evaporates.,the rest of the floodwater,p2

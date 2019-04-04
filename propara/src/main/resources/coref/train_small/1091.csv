@@ -1,0 +1,10 @@
+p1,p2,
+cake,candles,
+SENTENCE,PHRASE,REFERENCE
+Begin the party.,the party,
+Partake in activities.,activities,
+Bring out the cake.,the cake,p1
+"Sing ""Happy Birthday!"".",happy birthday,
+Blow out the candles.,the candles,p2
+Eat the cake.,the cake,p1
+Open the presents.,the presents,

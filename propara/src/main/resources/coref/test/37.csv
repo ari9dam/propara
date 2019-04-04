@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5
+"plant, animal",soft tissues,bones,mineral,fossils
+SENTENCE,PHRASE,REFERENCE
+A plant of animal dies in a watery environment.,a plant of animal,p1
+A plant of animal dies in a watery environment.,in a watery environment,
+Is buried in mud and silt.,in mud and silt,
+Is buried in mud and silt.,mud and silt,
+Soft tissues quickly decompose leaving behind hard bones or shells.,soft tissues,p2
+Soft tissues quickly decompose leaving behind hard bones or shells.,leaving behind hard bones or shells,p3
+Soft tissues quickly decompose leaving behind hard bones or shells.,soft tissues,p2
+Soft tissues quickly decompose leaving behind hard bones or shells.,hard bones or shells,p3
+Over time sediment builds over the top and hardens into rock.,over time,
+Over time sediment builds over the top and hardens into rock.,sediment,
+Over time sediment builds over the top and hardens into rock.,over the top,
+Over time sediment builds over the top and hardens into rock.,sediment,
+Over time sediment builds over the top and hardens into rock.,rock,
+As the bone decays mineral seeps in replacing it.,the bone,p3
+As the bone decays mineral seeps in replacing it.,mineral seeps,p4
+As the bone decays mineral seeps in replacing it.,in replacing it,
+As the bone decays mineral seeps in replacing it.,mineral seeps,p4
+As the bone decays mineral seeps in replacing it.,it,
+Fossils are formed.,fossils,p5

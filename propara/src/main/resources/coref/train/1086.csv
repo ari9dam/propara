@@ -1,0 +1,19 @@
+p1,p2,p3,p4,p5
+tent,clothes,sleeping bag,firewood,fire
+SENTENCE,PHRASE,REFERENCE
+One goes to a wilderness area.,one,
+One goes to a wilderness area.,to a wilderness area,
+One goes to a wilderness area.,a wilderness area,
+One sets up a tent.,one,
+One sets up a tent.,a tent,p1
+"One puts their clothes, sleeping bag, etc. into the tent.",one,
+"One puts their clothes, sleeping bag, etc. into the tent.","their clothes , sleeping bag , etc.","p2,p3"
+"One puts their clothes, sleeping bag, etc. into the tent.",into the tent,p1
+"One puts their clothes, sleeping bag, etc. into the tent.",the tent,p1
+"One puts their clothes, sleeping bag, etc. into the tent.",bag,
+One gathers firewood.,one,
+One gathers firewood.,firewood,p4
+"One builds a fire for warmth, cooking, etc.",one,
+"One builds a fire for warmth, cooking, etc.",a fire,p5
+"One builds a fire for warmth, cooking, etc.","for warmth , cooking , etc",
+"One builds a fire for warmth, cooking, etc.","warmth , cooking , etc",

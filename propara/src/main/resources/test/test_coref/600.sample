@@ -1,0 +1,34 @@
+observedAt("convert","what is v to something ?","fuel",1).
+observedAt("convert","what is something v to ?","to energy",1).
+observedAt("convert","when is something v to something ?","when air and petrol mix",1).
+observedAt("burn","what v something ?","the car engine",2).
+lvalue("the car engine","car engine").
+observedAt("burn","what does something v ?","the mix of air and petrol",2).
+observedAt("push","what v something ?","hot gas from the burning",3).
+observedAt("push","what does something v ?","the pistons",3).
+lvalue("the pistons","piston").
+observedAt("result","what is v ?","energy",4).
+observedAt("power","what v something ?","crankshaft",5).
+lvalue("crankshaft","crankshaft").
+observedAt("power","what is v ?","the gears",5).
+lvalue("the gears","gear").
+observedAt("make","what v something ?","the gears",6).
+lvalue("the gears","gear").
+observedAt("make","what does something v ?","the wheels roll",6).
+lvalue("the wheels roll","wheel").
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"air").
+description(p2,"petrol").
+description(p2,"fuel").
+description(p3,"energy").
+description(p4,"hot gas").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p2,"fuel").
+refers(1,p3,"to energy").
+refers(1,p1,"when air and petrol mix").
+refers(1,p2,"when air and petrol mix").
+refers(2,p1,"the mix of air and petrol").
+refers(2,p2,"the mix of air and petrol").
+refers(3,p4,"hot gas from the burning").
+refers(4,p3,"energy").

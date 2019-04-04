@@ -1,0 +1,24 @@
+p1,p2
+fruit,seed
+SENTENCE,PHRASE,REFERENCE
+Plants produce fruit which contain seeds of the plant.,plants,
+Plants produce fruit which contain seeds of the plant.,fruit,p1
+Plants produce fruit which contain seeds of the plant.,fruit,p1
+Plants produce fruit which contain seeds of the plant.,seeds of the plant,p2
+An animal eats the fruit from a plant.,an animal,
+An animal eats the fruit from a plant.,the fruit,p1
+An animal eats the fruit from a plant.,from a plant,
+An animal eats the fruit from a plant.,a plant,
+The animal digests the fruit.,the animal,
+The animal digests the fruit.,the fruit,p1
+The seeds are not digested.,the seeds,p2
+The seeds pass through the animal's digestive system.,the seeds,p2
+The seeds pass through the animal's digestive system.,through the animal 's digestive system,
+The seeds pass through the animal's digestive system.,the animal 's digestive system,
+The seeds are in the animal's droppings.,the seeds,p2
+The seeds are in the animal's droppings.,in the animal 's droppings,
+The seeds are in the animal's droppings.,the animal 's droppings,
+The seeds are now in another location and can grow.,the seeds,p2
+The seeds are now in another location and can grow.,now,
+The seeds are now in another location and can grow.,in another location,
+The seeds are now in another location and can grow.,the seeds,p2

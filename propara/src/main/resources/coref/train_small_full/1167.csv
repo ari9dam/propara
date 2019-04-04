@@ -1,0 +1,19 @@
+p1,p2,
+atoms of hydrogen,"sunlight, light",
+SENTENCE,PHRASE,REFERENCE
+The gravity of the sun pulls its mass inward.,the gravity of the sun,
+The gravity of the sun pulls its mass inward.,its mass,
+The gravity of the sun pulls its mass inward.,inward,
+There is a lot of pressure on the Sun.,a lot of pressure on the sun,
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,the pressure,
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,atoms of hydrogen,p1
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,to fuse together in nuclear reactions,
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,atoms of hydrogen,p1
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,together,
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,in nuclear reactions,
+The pressure forces atoms of hydrogen to fuse together in nuclear reactions.,nuclear reactions,
+The energy from the reactions gives off different kinds of light.,the energy from the reactions,
+The energy from the reactions gives off different kinds of light.,different kinds of light,p2
+The light travels to the Earth.,the light,p2
+The light travels to the Earth.,to the earth,
+The light travels to the Earth.,the earth,

@@ -1,0 +1,18 @@
+p1,p2,p3,p4
+seed,"small tree, tree",fruit,flowers
+SENTENCE,PHRASE,REFERENCE
+A seed is planted.,a seed,p1
+The seed becomes a small tree.,the seed,p1
+The seed becomes a small tree.,a small tree,p2
+The small tree becomes larger and grows.,the small tree,p2
+The small tree becomes larger and grows.,larger and grows,
+The small tree becomes larger and grows.,the small tree,p2
+Some trees bear fruit.,some trees,p2
+Some trees bear fruit.,fruit,p3
+Flowers.,Flowers.,p4
+After awhile the tree will stop growing.,after awhile,
+After awhile the tree will stop growing.,the tree,p2
+After awhile the tree will stop growing.,growing,
+After awhile the tree will stop growing.,after awhile,
+After awhile the tree will stop growing.,the tree,p2
+Eventually die.,eventually,

@@ -1,0 +1,21 @@
+p1,p2,p3
+chlorine,heavy metals,other chemicals
+SENTENCE,PHRASE,REFERENCE
+Water comes through a filter.,water,
+Water comes through a filter.,through a filter,
+Water comes through a filter.,a filter,
+The filter has small pores to catch pollutants.,the filter,
+The filter has small pores to catch pollutants.,small pores,
+The filter has small pores to catch pollutants.,to catch pollutants,
+The filter has small pores to catch pollutants.,the filter,
+The filter has small pores to catch pollutants.,to catch pollutants,
+The filter has small pores to catch pollutants.,small pores,
+The filter has small pores to catch pollutants.,pollutants,
+"The filter will catch chlorine, heavy metals, and other chemicals.",the filter,
+"The filter will catch chlorine, heavy metals, and other chemicals.","chlorine , heavy metals , and other chemicals","p1,p2,p3"
+The filter allows water and mineral ions like fluoride to pass through.,the filter,
+The filter allows water and mineral ions like fluoride to pass through.,water and mineral ions like fluoride to pass through,
+The filter allows water and mineral ions like fluoride to pass through.,water and mineral ions like fluoride,
+The filter allows water and mineral ions like fluoride to pass through.,through,
+The water on the other side of the filter is much cleaner.,the water on the other side of the filter,
+The water on the other side of the filter is much cleaner.,much cleaner,

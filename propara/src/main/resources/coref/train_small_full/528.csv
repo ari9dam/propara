@@ -1,0 +1,19 @@
+p1,p2,p3
+baby rabbits,"litter, newborn rabbits",adults
+SENTENCE,PHRASE,REFERENCE
+A male and female rabbit mate.,a male and female rabbit,
+The female rabbit becomes pregnant.,the female rabbit,
+The female rabbit becomes pregnant.,pregnant,
+Baby rabbits form inside of the mother rabbit.,baby rabbits,p1
+Baby rabbits form inside of the mother rabbit.,inside of the mother rabbit,
+The female rabbit gives birth to a litter.,the female rabbit,
+The female rabbit gives birth to a litter.,birth to a litter,p2
+The female rabbit gives birth to a litter.,a litter,p2
+The newborn rabbits grow up to become adults.,the newborn rabbits,p2
+The newborn rabbits grow up to become adults.,up,
+The newborn rabbits grow up to become adults.,to become adults,p3
+The newborn rabbits grow up to become adults.,become adults,p3
+The newborn rabbits grow up to become adults.,the newborn rabbits,p2
+The newborn rabbits grow up to become adults.,adults,p3
+The adult rabbits find mates.,the adult rabbits,p3
+The adult rabbits find mates.,mates,

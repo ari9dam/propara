@@ -1,0 +1,14 @@
+p1,p2
+dishes,detergent
+SENTENCE,PHRASE,REFERENCE
+Dirty dishes are rinsed.,dirty dishes,p1
+Placed into the dishwasher.,into the dishwasher,
+Placed into the dishwasher.,the dishwasher,
+A detergent is added to the detergent dispenser.,a detergent,p2
+A detergent is added to the detergent dispenser.,to the detergent dispenser,p2
+A detergent is added to the detergent dispenser.,the detergent dispenser,p2
+The dishwasher is closed.,the dishwasher,
+The power is turned on.,the power,
+"In about 1.5-2 hours, the dishes are clean.",in about 1.5-2 hours,
+"In about 1.5-2 hours, the dishes are clean.",the dishes,p1
+"In about 1.5-2 hours, the dishes are clean.",clean,

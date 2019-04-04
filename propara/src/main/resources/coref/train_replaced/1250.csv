@@ -1,0 +1,26 @@
+p1,p2,p3,p4
+Speak,Sound Waves,Electricity,Sound
+SENTENCE,PHRASE,REFERENCE
+You speak into the receiver on your phone.,you,
+You speak into the receiver on your phone.,into the receiver on your phone,
+You speak into the receiver on your phone.,the receiver,
+You speak into the receiver on your phone.,on your phone,
+Sound waves move parts inside the receiver.,sound waves,"p2,p4"
+Sound waves move parts inside the receiver.,parts,
+Sound waves move parts inside the receiver.,inside the receiver,
+Movement causes the magnet inside to produce eletricity.,movement,
+Movement causes the magnet inside to produce eletricity.,the magnet inside,
+Movement causes the magnet inside to produce eletricity.,to produce eletricity,
+Movement causes the magnet inside to produce eletricity.,the magnet inside,
+Movement causes the magnet inside to produce eletricity.,eletricity,
+Electricity is transferred through  a wire or cable.,electricity,p3
+Electricity is transferred through  a wire or cable.,through a wire or cable,
+Electricity is transferred through  a wire or cable.,a wire or cable,
+A membrane in the other persons phone is vibrated by the magnet in their telephone.,a membrane,
+A membrane in the other persons phone is vibrated by the magnet in their telephone.,a membrane in the other persons phone,
+A membrane in the other persons phone is vibrated by the magnet in their telephone.,by the magnet in their telephone,
+A membrane in the other persons phone is vibrated by the magnet in their telephone.,the magnet,
+A membrane in the other persons phone is vibrated by the magnet in their telephone.,in their telephone,
+Sound is produced.,sound,p4
+They hear you.,they,
+They hear you.,you,

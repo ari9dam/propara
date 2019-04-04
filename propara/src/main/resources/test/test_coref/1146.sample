@@ -1,0 +1,68 @@
+observedAt("burn","what v somewhere ?","a star",1).
+lvalue("a star","star").
+observedAt("burn","where does something v ?","in space",1).
+lvalue("in space","space").
+observedAt("be","what v something ?","the star",10).
+lvalue("the star","star").
+observedAt("be","what does something v ?","a red giant",10).
+observedAt("run","what v into something ?","the star",2).
+lvalue("the star","star").
+observedAt("run","what does something v into ?","hydrogen fuel",2).
+observedAt("turn","what is v into something ?","all the hydrogen",3).
+observedAt("turn","what is something v into ?","helium",3).
+observedAt("be","what does something v ?","no longer energy",4).
+observedAt("be","why does something v something ?","to keep the star from collapsing",4).
+lvalue("to keep the star from collapsing","star").
+observedAt("keep","what v something ?","energy",4).
+observedAt("keep","what is being v ?","the star",4).
+lvalue("the star","star").
+observedAt("keep","where is something v ?","from collapsing",4).
+observedAt("keep","what is something v from ?","collapsing",4).
+observedAt("collapse","what is be v ?","the star",4).
+lvalue("the star","star").
+observedAt("take","what v ?","gravity",5).
+observedAt("pull","what is v into something ?","the star",6).
+lvalue("the star","star").
+observedAt("pull","how is something v ?","into itself",6).
+observedAt("pull","what is something v into ?","itself",6).
+observedAt("begin","what v to do something ?","the helium atoms",7).
+observedAt("begin","what does something v to do ?","to combine into carbon atoms",7).
+observedAt("combine","what v into something ?","the helium atoms",7).
+observedAt("combine","what does something v into ?","carbon atoms",7).
+observedAt("push","what is v ?","the outermost layers of the star",8).
+lvalue("the outermost layers of the star","star").
+observedAt("push","how is something v ?","out",8).
+observedAt("be","what v something ?","the star",9).
+lvalue("the star","star").
+observedAt("be","what does something v ?","much larger than it was",9).
+observedAt("be","what be v ?","the star",9).
+lvalue("the star","star").
+time(1..9).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"star").
+description(p2,"hydrogen fuel").
+description(p3,"hydrogen").
+description(p4,"helium").
+description(p5,"energy").
+description(p6,"carbon atoms").
+description(p7,"red giant star").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a star").
+refers(10,p1,"the star").
+refers(2,p1,"the star").
+refers(2,p2,"hydrogen fuel").
+refers(3,p3,"all the hydrogen").
+refers(3,p4,"helium").
+refers(4,p5,"no longer energy").
+refers(4,p1,"to keep the star from collapsing").
+refers(4,p5,"energy").
+refers(4,p1,"the star").
+refers(4,p1,"the star").
+refers(6,p1,"the star").
+refers(7,p4,"the helium atoms").
+refers(7,p6,"to combine into carbon atoms").
+refers(7,p4,"the helium atoms").
+refers(7,p6,"carbon atoms").
+refers(8,p1,"the outermost layers of the star").
+refers(9,p1,"the star").
+refers(9,p1,"the star").

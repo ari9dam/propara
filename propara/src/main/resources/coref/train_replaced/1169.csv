@@ -1,0 +1,35 @@
+p1,p2,p3,p4,p5,p6
+chromosome,centriole,spindle fiber,chromatid,nuclear membrane,individual chromosome
+SENTENCE,PHRASE,REFERENCE
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,prophase,
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,the first and longest stage of mitosis,
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,the chromosomes,p1
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,visible,
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,the centrioles,p2
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,to opposite poles of the cell,
+Prophase is the first and longest stage of mitosis. In this stage the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,opposite poles of the cell,
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,in prophase,
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,the chromosomes,p1
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,visible,
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,the centrioles,p2
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,to opposite poles of the cell,
+In prophase the chromosomes become visible and the centrioles separate and move to opposite poles of the cell.,opposite poles of the cell,
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,the chromosomes,p1
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,connected to the spindle fiber,p3
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,at their centromere,
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,the chromosomes,p1
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,to the spindle fiber,p3
+In metaphase the chromosomes line up across the center of the cell and become connected to the spindle fiber at their centromere.,at their centromere,
+In anaphase the sister chromatids separate into individual chromosomes and are pulled apart.,in anaphase,
+In anaphase the sister chromatids separate into individual chromosomes and are pulled apart.,the sister chromatids,p4
+In anaphase the sister chromatids separate into individual chromosomes and are pulled apart.,apart,
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,during telophase,
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,the chromosomes,p1
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,at opposite ends of the cell,
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,during telophase,
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,the chromosomes,p1
+During telophase the chromosomes gather at opposite ends of the cell and lose their distinct rod-like shapes.,their distinct rod-like shapes,
+Two new nuclear membranes then form around each of the two regions of DNA and the spindle fibers disappear.,two new nuclear membranes,p5
+Two new nuclear membranes then form around each of the two regions of DNA and the spindle fibers disappear.,around each of the two regions of dna,
+Two new nuclear membranes then form around each of the two regions of DNA and the spindle fibers disappear.,each of the two regions of dna,
+Two new nuclear membranes then form around each of the two regions of DNA and the spindle fibers disappear.,the spindle fibers,p3

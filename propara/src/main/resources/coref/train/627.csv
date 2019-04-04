@@ -1,0 +1,26 @@
+p1,p2,p3,p4
+food,hormones,enzymes,"insuline, glucagon"
+SENTENCE,PHRASE,REFERENCE
+Food enters the small intestine.,food,p1
+Food enters the small intestine.,the small intestine,
+The small intestine produces hormones.,the small intestine,
+The small intestine produces hormones.,hormones,p2
+The hormones cause the pancreas to produce enzymes for digestion.,the hormones,p2
+The hormones cause the pancreas to produce enzymes for digestion.,the pancreas to produce enzymes for digestion,p3
+The hormones cause the pancreas to produce enzymes for digestion.,the pancreas,
+The hormones cause the pancreas to produce enzymes for digestion.,enzymes,p3
+The hormones cause the pancreas to produce enzymes for digestion.,for digestion,
+The hormones cause the pancreas to produce enzymes for digestion.,digestion,
+The enzymes travel from the pancreas to the small intestine through tubes.,the enzymes,p3
+The enzymes travel from the pancreas to the small intestine through tubes.,from the pancreas to the small intestine,
+The enzymes travel from the pancreas to the small intestine through tubes.,the pancreas,
+The enzymes travel from the pancreas to the small intestine through tubes.,through tubes,
+The enzymes help the intestines digest the food.,the enzymes,p3
+The enzymes help the intestines digest the food.,the intestines,
+The enzymes help the intestines digest the food.,digest the food,p1
+The enzymes help the intestines digest the food.,the intestines,
+The enzymes help the intestines digest the food.,the food,p1
+The pancreas produces the hormones insuline and glucagon.,the pancreas,
+The pancreas produces the hormones insuline and glucagon.,the hormones insuline and glucagon,"p2,p4"
+The hormones control the amount of sugar in the blood.,the hormones,p2
+The hormones control the amount of sugar in the blood.,the amount of sugar in the blood,

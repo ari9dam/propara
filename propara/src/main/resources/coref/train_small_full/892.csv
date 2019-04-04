@@ -1,0 +1,17 @@
+p1,p2,p3
+water,ice crystals,snowflakes
+SENTENCE,PHRASE,REFERENCE
+Water in the clouds becomes very cold.,water in the clouds,p1
+Water in the clouds becomes very cold.,in the clouds,
+Water in the clouds becomes very cold.,very cold,
+The cold water forms ice crystals.,the cold water,p1
+The cold water forms ice crystals.,ice crystals,p2
+The ice crystals grow by absorbing surrounding water droplets.,the ice crystals,p2
+The ice crystals grow by absorbing surrounding water droplets.,by absorbing surrounding water droplets,
+The ice crystals grow by absorbing surrounding water droplets.,absorbing surrounding water droplets,
+The ice crystals grow by absorbing surrounding water droplets.,the ice crystals,p2
+The ice crystals grow by absorbing surrounding water droplets.,surrounding water droplets,
+Form snowflakes.,snowflakes,p3
+The snowflakes fall to the ground.,the snowflakes,p3
+The snowflakes fall to the ground.,to the ground,
+The snowflakes fall to the ground.,the ground,

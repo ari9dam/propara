@@ -1,0 +1,16 @@
+p1,p2,p3
+egg,bird,family
+SENTENCE,PHRASE,REFERENCE
+Two birds meet each other.,two birds,
+Two birds meet each other.,each other,
+Egg is produced after fertilziation.,egg,p1
+Egg is produced after fertilziation.,after fertilziation,
+Mother sits on egg until it hatches.,mother,
+Mother sits on egg until it hatches.,on egg,p1
+Mother sits on egg until it hatches.,egg,p1
+Mother sits on egg until it hatches.,until it hatches,p1
+Mother sits on egg until it hatches.,mother,
+Mother sits on egg until it hatches.,it,p1
+Bird Hatches.,bird,p2
+Flee the next.,the next,
+Starts family.,family,p3

@@ -1,0 +1,46 @@
+observedAt("flow","what v ?","water",1).
+lvalue("water","water").
+observedAt("flow","how does something v ?","by rocks",1).
+lvalue("by rocks","rock").
+observedAt("flow","what does something v by ?","rocks",1).
+lvalue("rocks","rock").
+observedAt("be","what v somewhere ?","chemicals",2).
+observedAt("be","where does something v ?","in the waters",2).
+lvalue("in the waters","water").
+observedAt("react","what v with something ?","chemicals",3).
+observedAt("react","what does something v with ?","rocks",3).
+lvalue("rocks","rock").
+observedAt("change","what v to something ?","rocks",4).
+lvalue("rocks","rock").
+observedAt("change","what does something v to ?","to a different kind of rock",4).
+lvalue("to a different kind of rock","rock").
+observedAt("react","what v with something ?","oxygen in the air",5).
+lvalue("oxygen in the air","air").
+observedAt("react","where does something v with something ?","in the air",5).
+lvalue("in the air","air").
+observedAt("react","what does something v with ?","rocks",5).
+lvalue("rocks","rock").
+observedAt("change","what v to something ?","rocks",6).
+lvalue("rocks","rock").
+observedAt("change","what does something v to ?","to a different kind of rock",6).
+lvalue("to a different kind of rock","rock").
+time(1..6).
+participant(p1;p2;p3;p4).
+description(p1,"water").
+description(p2,"rocks").
+description(p3,"chemicals").
+description(p4,"oxygen").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"water").
+refers(1,p2,"by rocks").
+refers(1,p2,"rocks").
+refers(2,p3,"chemicals").
+refers(2,p1,"in the waters").
+refers(3,p3,"chemicals").
+refers(3,p2,"rocks").
+refers(6,p2,"rocks").
+refers(6,p2,"to a different kind of rock").
+refers(5,p4,"oxygen in the air").
+refers(5,p2,"rocks").
+refers(6,p2,"rocks").
+refers(6,p2,"to a different kind of rock").

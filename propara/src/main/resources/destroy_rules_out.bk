@@ -1,0 +1,133 @@
+mayDestroy(V1,V2):-eobservedAt("remain","what v ?",V1,V2),filename("280.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("313.sample"),description(V1,"small pieces of the rock"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("158.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("433.sample"),eobservedAt("cover","what is being v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("form","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("cool","what is v ?",V1,V2),eobservedAt("become","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("become","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("melt","what v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("321.sample"),eobservedAt("harvest","what is v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("produce","what is something v by ?",V1,V2),eobservedAt("produce","how is something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("61.sample"),eobservedAt("continue","what v to do something ?",V1,V2),eobservedAt("erode","what v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("use","what can be v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-groundObservation("fill","what v ?","minerals",V2),description(V1,"eroded rock particles"),somethingGotCreated(V2),filename("448.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("convert","what does something v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("evaporate","what v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("reach","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("476.sample"),eobservedAt("cut","what does something v up ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("form","what v something ?",V1,V2),description(V1,"atp"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("159.sample"),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("break","what v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("fall","what v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("cause","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("mix","what v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"snow"),somethingGotCreated(V2),filename("13.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("480.sample"),eobservedAt("cause","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("turn","what is v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("433.sample"),description(V1,"seed"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("41.sample"),description(V1,"pressure"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("287.sample"),eobservedAt("remove","what is being v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("break","how does something v ?",V1,V2),eobservedAt("break","what does something v from ?",V1,V2),filename("52.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("burn","what is v ?",V1,V2),filename("422.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("366.sample"),eobservedAt("kill","what is being v ?",V1,V2),entity(V1),time(V2).
+ab(V1):-description(V1,"trees"),entity(V1).
+mayDestroy(V1,V2):-filename("365.sample"),eobservedAt("die","what v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("221.sample"),description(V1,"vapor"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("36.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("14.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("burn","what does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("448.sample"),description(V1,"metamorphic rock"),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("know","what is v ?",V1,V2),eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("break","what v ?",V1,V2),filename("317.sample"),entity(V1),time(V2).
+ab(V1):-description(V1,"fossil fuels"),entity(V1).
+mayDestroy(V1,V2):-eobservedAt("evaporate","what v from something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("kill","what does something v ?",V1,V2),filename("364.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"virus' rna"),somethingGotCreated(V2),filename("381.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("turn","what v into something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("make","what is something v from ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("convert","what v something ?",V1,V2),eobservedAt("energize","what is v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("turn","what v into something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+ab(V1):-description(V1,"sugars"),entity(V1).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("turn","what does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("48.sample"),eobservedAt("lose","what does something v ?",V1,V2),eobservedAt("build","what is v up ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("472.sample"),eobservedAt("wear","what does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"sound waves"),somethingGotCreated(V2),filename("412.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("50.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("replace","what is v with something ?",V1,V2),description(V1,"proteins"),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("form","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("turn","what v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("459.sample"),eobservedAt("react","what does something v with ?",V1,V2),eobservedAt("react","how does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("turn","what v into something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("mix","what does something v with ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("form","what v something ?",V1,V2),description(V1,"carbon dioxide"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("form","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("form","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"sediment"),somethingGotCreated(V2),filename("449.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("remove","what v something ?",V1,V2),eobservedAt("melt","what is v ?",V1,V2),filename("157.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("decompose","what v ?",V1,V2),filename("472.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("make","what is v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("expande","what v ?",V1,V2),eobservedAt("cool","what v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("form","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("create","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("remove","where is something v ?",V1,V2),eobservedAt("remove","what is something v from ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("take","what does something v in ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("294.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("416.sample"),eobservedAt("remove","what is v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("remove","what is v ?",V1,V2),filename("264.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("459.sample"),eobservedAt("react","who v with something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("211.sample"),groundObservation("become","what is being v ?","bigger drops",V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("activate","what v something ?",V1,V2),filename("412.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("416.sample"),eobservedAt("remove","what is v by something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"food"),somethingGotCreated(V2),filename("490.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("cause","what does something v ?",V1,V2),eobservedAt("push","what v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("form","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("cool","what v ?",V1,V2),eobservedAt("form","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("left","what is v ?",V1,V2),eobservedAt("left","what is v somewhere ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("push","what is v ?",V1,V2),eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("form","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("turn","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("cause","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("create","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("come","what v ?",V1,V2),eobservedAt("become","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("condense","what v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("382.sample"),eobservedAt("kill","what is v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"layer of sediment"),somethingGotCreated(V2),filename("448.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("begin","what v something ?",V1,V2),eobservedAt("die","what v ?",V1,V2),filename("472.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("stick","what v ?",V1,V2),eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("glue","what does something v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"rain"),filename("229.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("become","what v something ?",V1,V2),description(V1,"magma"),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("make","what v something ?",V1,V2),eobservedAt("use","what v to do something ?",V1,V2),eobservedAt("ship","what is v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("become","what v something ?",V1,V2),eobservedAt("heat","what is v ?",V1,V2),eobservedAt("become","when does something v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("melt","what v ?",V1,V2),description(V1,"metamorphic rocks"),filename("449.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("heat","what is v ?",V1,V2),eobservedAt("melt","what is being v ?",V1,V2),eobservedAt("melt","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("436.sample"),eobservedAt("turn","what is being v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("kill","what does something v ?",V1,V2),eobservedAt("drink","what v something ?",V1,V2),filename("364.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("run","what v into something ?",V1,V2),eobservedAt("absorb","what is v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("eat","what does something v ?",V1,V2),filename("253.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("break","what does something v ?",V1,V2),eobservedAt("cause","what does something v ?",V1,V2),eobservedAt("cause","why does something v something ?",V1,V2),filename("480.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("482.sample"),groundObservation("form","what does something v ?","glucose",V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("225.sample"),eobservedAt("make","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("58.sample"),eobservedAt("be","what does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("222.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("214.sample"),eobservedAt("eat","what does something v ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("convert","what does something v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("flow","what v from something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("become","what v something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-filename("263.sample"),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("break","what is v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-description(V1,"sedimentary rock"),somethingGotCreated(V2),filename("448.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("mix","what v with something ?",V1,V2),entity(V1),time(V2).
+ab(V1):-description(V1,"aluminum can"),entity(V1).
+mayDestroy(V1,V2):-eobservedAt("send","what is v ?",V1,V2),eobservedAt("roll","what is v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("112.sample"),groundObservation("reuse","what is v ?","water",V2),description(V1,"sugars"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("61.sample"),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("refine","what is v into something ?",V1,V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),eobservedAt("become","what v something ?",V1,V2),entity(V1),time(V2).
+ab(V1):-description(V1,"water"),entity(V1).
+mayDestroy(V1,V2):-eobservedAt("become","what v something ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-eobservedAt("plant","what is v ?",V1,V2),somethingGotCreated(V2),entity(V1),time(V2).
+mayDestroy(V1,V2):-somethingGotCreated(V2),filename("482.sample"),groundObservation("form","what v something ?","the plant",V2),entity(V1),time(V2).
+ab(V1):-description(V1,"heat"),entity(V1).

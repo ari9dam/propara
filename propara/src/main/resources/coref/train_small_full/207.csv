@@ -1,0 +1,20 @@
+p1,p2,p3
+electrical signals,proteins,filaments
+SENTENCE,PHRASE,REFERENCE
+Electrical signals in the brain travel through nerves to muscles.,electrical signals,p1
+Electrical signals in the brain travel through nerves to muscles.,through nerves,
+Electrical signals in the brain travel through nerves to muscles.,nerves,
+Electrical signals in the brain travel through nerves to muscles.,to muscles,
+Two types of proteins exist in filaments in the muscles.,two types of proteins,p2
+Two types of proteins exist in filaments in the muscles.,in filaments in the muscles,p3
+The filaments move when the brain instructs them to.,the filaments,p3
+The filaments move when the brain instructs them to.,when the brain instructs them to,
+The filaments move when the brain instructs them to.,the filaments,p3
+The filaments move when the brain instructs them to.,them,
+The motion of the filaments cause the muscle to shorten and contract.,the motion of the filaments,p3
+The motion of the filaments cause the muscle to shorten and contract.,the muscle to shorten and contract,
+The motion of the filaments cause the muscle to shorten and contract.,the motion of the filaments,p3
+Opposing pairs of muscles exist in order to provide the necessary range of motion.,opposing pairs of muscles,
+Opposing pairs of muscles exist in order to provide the necessary range of motion.,in order to provide the necessary range of motion,
+Opposing pairs of muscles exist in order to provide the necessary range of motion.,opposing pairs of muscles,
+Opposing pairs of muscles exist in order to provide the necessary range of motion.,the necessary range of motion,

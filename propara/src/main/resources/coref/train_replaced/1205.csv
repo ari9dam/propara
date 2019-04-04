@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5
+Wound,Bandaid,Blood clot,Scab,Skin
+SENTENCE,PHRASE,REFERENCE
+You wash the wound.,you,
+You wash the wound.,the wound,p1
+You apply a bandaid or other covering if needed.,you,
+You apply a bandaid or other covering if needed.,a bandaid or other covering,p2
+You apply a bandaid or other covering if needed.,if needed,
+You apply a bandaid or other covering if needed.,you,
+You apply a bandaid or other covering if needed.,you,
+You apply a bandaid or other covering if needed.,a bandaid or other covering,p2
+The blood clots.,the blood,
+A scab forms.,a scab,p4
+The skin repairs itself under the protective cover of the scab.,the skin,p5
+The skin repairs itself under the protective cover of the scab.,itself,
+The skin repairs itself under the protective cover of the scab.,under the protective cover of the scab,p4
+The scab falls off.,the scab,p4

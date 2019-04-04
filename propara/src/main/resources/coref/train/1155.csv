@@ -1,0 +1,26 @@
+p1,p2,p3,p4,p5
+organic layer,"kerogen, kerogen molecules",carbon and hydrogen atoms,petroleum,natural gas
+SENTENCE,PHRASE,REFERENCE
+"Dead organic material accumulates on the bottom of oceans, riverbeds or swamps, mixing with mud and sand.",dead organic material,
+"Dead organic material accumulates on the bottom of oceans, riverbeds or swamps, mixing with mud and sand.","on the bottom of oceans , riverbeds or swamps",
+"Dead organic material accumulates on the bottom of oceans, riverbeds or swamps, mixing with mud and sand.",dead organic material,
+"Dead organic material accumulates on the bottom of oceans, riverbeds or swamps, mixing with mud and sand.",mud and sand,
+"Over time, more sediment piles on top.",over time,
+"Over time, more sediment piles on top.",more sediment,
+"Over time, more sediment piles on top.",on top,
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,heat and pressure,
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,the resulting heat and pressure,
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,the organic layer,p1
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,a dark and waxy substance known as kerogen,p2
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,a dark and waxy substance,
+The resulting heat and pressure transforms the organic layer into a dark and waxy substance known as kerogen.,kerogen,p2
+"Left alone, the kerogen molecules eventually crack.",alone,
+"Left alone, the kerogen molecules eventually crack.",the kerogen molecules,p2
+"Left alone, the kerogen molecules eventually crack.",eventually,
+The molecules break up into shorter and lighter molecules composed almost solely of carbon and hydrogen atoms.,the molecules,
+The molecules break up into shorter and lighter molecules composed almost solely of carbon and hydrogen atoms.,shorter and lighter molecules,
+The molecules break up into shorter and lighter molecules composed almost solely of carbon and hydrogen atoms.,shorter and lighter molecules,
+The molecules break up into shorter and lighter molecules composed almost solely of carbon and hydrogen atoms.,almost solely of carbon and hydrogen atoms,p3
+The molecules break up into shorter and lighter molecules composed almost solely of carbon and hydrogen atoms.,carbon and hydrogen atoms,p3
+It will turn into either petroleum or natural gas.,it,
+It will turn into either petroleum or natural gas.,either petroleum or natural gas,"p4,p5"

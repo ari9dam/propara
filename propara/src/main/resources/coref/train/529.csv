@@ -1,0 +1,20 @@
+p1
+rabbits
+SENTENCE,PHRASE,REFERENCE
+Baby rabbits are born alive.,baby rabbits,p1
+Baby rabbits are born alive.,alive,
+Rabbits are (only occasionally) nursed by their mothers.,rabbits,p1
+Rabbits are (only occasionally) nursed by their mothers.,their mothers,
+Many of the babies do not survive.,many of the babies,
+Larger and stronger rabbit do manage to survive.,larger and stronger rabbit,p1
+Larger and stronger rabbit do manage to survive.,to survive,
+Larger and stronger rabbit do manage to survive.,larger and stronger rabbit,p1
+Rabbits quickly become able to have babies of their own.,rabbits,p1
+Rabbits quickly become able to have babies of their own.,quickly,
+Rabbits quickly become able to have babies of their own.,able to have babies of their own,
+Rabbits quickly become able to have babies of their own.,rabbits,p1
+Rabbits quickly become able to have babies of their own.,babies of their own,
+The rabbit lifecycle continues.,the rabbit lifecycle,p1
+The amount of rabbits stays reasonable because of predators and low survival rates for their young.,the amount of rabbits,p1
+The amount of rabbits stays reasonable because of predators and low survival rates for their young.,reasonable,
+The amount of rabbits stays reasonable because of predators and low survival rates for their young.,because of predators and low survival rates for their young,

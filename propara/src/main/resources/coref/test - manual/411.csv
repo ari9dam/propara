@@ -1,0 +1,46 @@
+p1,p2,
+electrochemical signals,light,
+SENTENCE,PHRASE,REFERENCE
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",visual perception,
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",as soon as the eye focuses light onto the retina,p2
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",the eye,
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",light,p2
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",onto the retina,
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",the retina,
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",it,p2
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",by a layer of photoreceptor cells,
+"Visual perception begins as soon as the eye focuses light onto the retina, where it is absorbed by a layer of photoreceptor cells.",a layer of photoreceptor cells,
+"These cells convert light into electrochemical signals, and are divided into two types, rods.",these cells,
+"These cells convert light into electrochemical signals, and are divided into two types, rods.",light,p2
+"These cells convert light into electrochemical signals, and are divided into two types, rods.",into electrochemical signals,p1
+"These cells convert light into electrochemical signals, and are divided into two types, rods.",these cells,
+"These cells convert light into electrochemical signals, and are divided into two types, rods.","into two types , rods",
+"These cells convert light into electrochemical signals, and are divided into two types, rods.","two types , rods",
+Cones.,Cones.,
+Signals from the photoreceptor cells pass through a network of interneurons in the second layer of the retina to ganglion cells in the third layer.,signals from the photoreceptor cells,p1
+Signals from the photoreceptor cells pass through a network of interneurons in the second layer of the retina to ganglion cells in the third layer.,through a network of interneurons in the second layer of the retina,
+Signals from the photoreceptor cells pass through a network of interneurons in the second layer of the retina to ganglion cells in the third layer.,a network of interneurons,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,the neurons in these two retinal layers,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,complex receptive fields,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,complex receptive fields,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,to detect contrast changes within an image,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,them,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,contrast changes,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,within an image,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,these changes,
+The neurons in these two retinal layers exhibit complex receptive fields that enable them to detect contrast changes within an image; these changes might indicate edges or shadows.,edges or shadows,
+The optic nerve primarily routes information via the thalamus to the cerebral cortex.,the optic nerve,
+The optic nerve primarily routes information via the thalamus to the cerebral cortex.,information,p1
+The optic nerve primarily routes information via the thalamus to the cerebral cortex.,via the thalamus to the cerebral cortex,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",information,p1
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",moving targets,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",targets,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",information,p1
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",scanning of the eyes,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",information concerning moving targets and information governing scanning of the eyes,p1
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",to a second site in the brainstem,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",a second site in the brainstem,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",a nucleus,
+"Information concerning moving targets and information governing scanning of the eyes travels to a second site in the brainstem, a nucleus called the superior colliculus.",the superior colliculus,
+"Most projections from the retina travel via the optic nerve to a part of the thalamus called the lateral geniculate nucleus (LGN), deep in the center of the brain.",a part of the thalamus,
+"Most projections from the retina travel via the optic nerve to a part of the thalamus called the lateral geniculate nucleus (LGN), deep in the center of the brain.",the lateral geniculate nucleus ( lgn ),

@@ -1,0 +1,39 @@
+observedAt("plant","what is v ?","a seed",1).
+observedAt("become","what v something ?","the seed",2).
+observedAt("become","what does something v ?","a small tree",2).
+lvalue("a small tree","tree").
+observedAt("become","what v something ?","the small tree",3).
+lvalue("the small tree","tree").
+observedAt("become","what does something v ?","larger and grows",3).
+observedAt("grow","what v ?","the small tree",3).
+lvalue("the small tree","tree").
+observedAt("bear","what v something ?","some trees",4).
+lvalue("some trees","tree").
+observedAt("bear","what does something v ?","fruit",4).
+observedAt("noverb","noquestion","Flowers.",5).
+observedAt("stop","when will something v doing something ?","after awhile",6).
+observedAt("stop","what will v doing something ?","the tree",6).
+lvalue("the tree","tree").
+observedAt("stop","what will something v doing ?","growing",6).
+observedAt("grow","when is something be v ?","after awhile",6).
+observedAt("grow","what is be v ?","the tree",6).
+lvalue("the tree","tree").
+observedAt("die","when does someone v ?","eventually",7).
+time(1..7).
+participant(p1;p2;p3;p4).
+description(p1,"seed").
+description(p2,"small tree").
+description(p2,"tree").
+description(p3,"fruit").
+description(p4,"flowers").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a seed").
+refers(2,p1,"the seed").
+refers(2,p2,"a small tree").
+refers(3,p2,"the small tree").
+refers(3,p2,"the small tree").
+refers(4,p2,"some trees").
+refers(4,p3,"fruit").
+refers(5,p4,"Flowers.").
+refers(6,p2,"the tree").
+refers(6,p2,"the tree").

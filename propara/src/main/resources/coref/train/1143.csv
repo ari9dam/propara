@@ -1,0 +1,18 @@
+p1,p2,p3,p4,p5
+forest fire,trees,plants,animals' home,animals
+SENTENCE,PHRASE,REFERENCE
+A forest fire starts.,a forest fire,p1
+The trees and plants burn.,the trees and plants,"p2,p3"
+The animals lose their homes.,the animals,p5
+The animals lose their homes.,their homes,
+"If the animals can not escape, they may die from smoke inhalation.",the animals,p5
+"If the animals can not escape, they may die from smoke inhalation.",the animals,p5
+"If the animals can not escape, they may die from smoke inhalation.",they,
+"If the animals can not escape, they may die from smoke inhalation.",from smoke inhalation,
+"If the animals can not escape, they may die from smoke inhalation.",smoke inhalation,
+The plants that provide food are gone.,the plants,p3
+The plants that provide food are gone.,food,
+The plants that provide food are gone.,the plants that provide food,p3
+The animals have little to eat.,the animals,p5
+The animals have little to eat.,little to eat,
+The animals have little to eat.,the animals,p5

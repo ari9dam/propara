@@ -1,0 +1,13 @@
+p1,p2,p3,p4,p5
+paper,pens,letter,envelope,stamp
+SENTENCE,PHRASE,REFERENCE
+Get some paper and pens.,some paper and pens,"p1,p2"
+Write the letter.,the letter,p3
+Fold the letter.,the letter,p3
+Insert in an envelope.,in an envelope,p4
+Insert in an envelope.,an envelope,p4
+Seal the envelope.,the envelope,p4
+Address the outside.,the outside,
+Put on a stamp.,on a stamp,p5
+Put on a stamp.,a stamp,p5
+Mail the letter.,the letter,p3

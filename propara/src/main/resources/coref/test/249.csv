@@ -1,0 +1,30 @@
+p1,p2,p3
+"rocks, smaller pieces",oxygen,"new types of rocks, new substance, certain types of rocks"
+SENTENCE,PHRASE,REFERENCE
+Chemical reactions break down the bonds holding the rocks together.,chemical reactions,
+Chemical reactions break down the bonds holding the rocks together.,the bonds holding the rocks together,p1
+Chemical reactions break down the bonds holding the rocks together.,the bonds,
+Chemical reactions break down the bonds holding the rocks together.,bonds,
+Chemical reactions break down the bonds holding the rocks together.,the rocks,p1
+Chemical reactions break down the bonds holding the rocks together.,together,
+The rocks fall apart.,the rocks,p1
+The rocks fall apart.,apart,
+They form smaller and smaller pieces.,they,
+They form smaller and smaller pieces.,smaller and smaller pieces,p1
+Oxidation takes place when oxygen combines with other elements in rocks.,oxidation,
+Oxidation takes place when oxygen combines with other elements in rocks.,place,
+Oxidation takes place when oxygen combines with other elements in rocks.,when oxygen combines with other elements in rocks,"p1,p2"
+Oxidation takes place when oxygen combines with other elements in rocks.,oxygen,p2
+Oxidation takes place when oxygen combines with other elements in rocks.,other elements in rocks,p1
+Oxidation takes place when oxygen combines with other elements in rocks.,in rocks,p1
+They form new types of rocks.,they,
+They form new types of rocks.,new types of rocks,"p1,p3"
+The new substance is softer.,the new substance,p3
+The new substance is softer.,softer,
+Carbonation takes place when carbon dioxide reactions with certain types of rocks.,carbonation,
+Carbonation takes place when carbon dioxide reactions with certain types of rocks.,place,
+Carbonation takes place when carbon dioxide reactions with certain types of rocks.,when carbon dioxide reactions with certain types of rocks,"p1,p3"
+A solution is formed that can easily be carried away by water.,a solution,
+A solution is formed that can easily be carried away by water.,a solution,
+A solution is formed that can easily be carried away by water.,by water,
+A solution is formed that can easily be carried away by water.,water,

@@ -1,0 +1,99 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Input predicates:
+% 1. time(1..n).
+% 2. entity(1..m): the set of entities.
+% 3. description(I,V) : string description of i-th entity  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% you observe the location at certain timepoints which are critical points
+% for the points that are not critical points you decide the location based 
+% on the neighbour critical points 
+
+criticalPoint(E,T)	:- before(locationOf(E,L),T), L!=D,description(E,D).
+criticalPoint(E,T+1):- initiate(locationOf(E,L),T).
+criticalPoint(E,T+1):- terminate(locationOf(E),T).
+criticalPoint(E,T+1):- destroy(E,T).
+criticalPoint(E,T+1):- create(E,T).
+
+% assume the leftmost point is a critical point
+criticalPoint(E,0)	:- entity(E).
+
+% define non critical point
+nonCriticalPoint(E,T):- entity(E), time(T), not criticalPoint(E,T).
+
+% define the left endpoint of a non critical point
+leftCriticalPoint(E,T,T1):- nonCriticalPoint(E,T), criticalPoint(E,T1), T1<T, not nleftCriticalPoint(E,T,T1).
+nleftCriticalPoint(E,T,T1):- nonCriticalPoint(E,T), criticalPoint(E,T1), T1<T, criticalPoint(E,T2), T1<T2, T2<T.
+
+% define the right endpoint of a entity at each point
+rightCriticalPoint(E,T,T1):- entity(E), time(T), T1>T, before(locationOf(E,L),T1), 
+							not nRightCriticalPoint(E,T,T1).
+nRightCriticalPoint(E,T,T1):- entity(E), time(T), before(locationOf(E,L),T1), T1>T, 
+							 criticalPoint(E,T2), T1>T2, T2>T.
+nRightCriticalPoint(E,T,T1):- entity(E), time(T), initiate(locationOf(E,L),T1-1), T1>T, time(T1).
+
+% define has a right critical point
+hasARightCriticalPoint(E,T):- rightCriticalPoint(E,T,T1).
+hasNoRightCriticalPoint(E,T):- not hasARightCriticalPoint(E,T), entity(E), time(T). %, nonCriticalPoint(E,T)
+
+% define first critical point is not created type 
+firstCriticalPoint(E,T):- criticalPoint(E,T), time(T), not nFirstCriticalPoint(E,T).
+nFirstCriticalPoint(E,T):- criticalPoint(E,T), criticalPoint(E,T1), T1<T, time(T1), time(T).
+nUsedBeforeCreation(E):- firstCriticalPoint(E,T), create(E,T-1).
+nUsedBeforeCreation(E):- before(locationOf(E,L),T), create(E,T).
+isUsedBeforeCreation(E):- entity(E), not nUsedBeforeCreation(E).
+firstCriticalPointTypeBefore(E):- firstCriticalPoint(E,T), before(locationOf(E,L),T), not initiate(locationOf(E,L1),T-1):location(L1).
+
+% initialization (we can do this better with checking if it has a before)
+holdsAt(locationOf(E,"?"),0):- isUsedBeforeCreation(E), not firstCriticalPointTypeBefore(E).
+holdsAt(locationOf(E,L),1):- isUsedBeforeCreation(E),firstCriticalPointTypeBefore(E),before(locationOf(E,L),T).
+holdsAt(locationOf(E,"-"),0):- entity(E), not isUsedBeforeCreation(E).
+
+% define location at critical point
+holdsAt(locationOf(E,L),T):- criticalPoint(E,T), before(locationOf(E,L),T).
+%what about does not exist?
+holdsAt(locationOf(E,L),T):- criticalPoint(E,T), initiate(locationOf(E,L),T-1),  
+                             not before(locationOf(E,L1),T):location(L1):L1!=L. 
+holdsAt(locationOf(E,"-"),T):-criticalPoint(E,T), destroy(E,T-1), time(T-1).
+holdsAt(locationOf(E,"?"),T):-criticalPoint(E,T), terminate(locationOf(E),T-1), time(T-1), time(T),
+                              not initiate(locationOf(E,L),T-1):location(L), 
+							  hasNoRightCriticalPoint(E,T-1).
+holdsAt(locationOf(E,"?"),T):-criticalPoint(E,T), create(E,T-1), time(T-1), time(T),
+							  not initiate(locationOf(E,L),T-1):location(L), hasNoRightCriticalPoint(E,T-1).
+% fix this : the value when terminate || create followed by before
+holdsAt(locationOf(E,L),T):-criticalPoint(E,T), terminate(locationOf(E),T-1), time(T-1),
+                              not initiate(locationOf(E,L1),T-1):location(L1), 
+							  rightCriticalPoint(E,T,T1), holdsAt(locationOf(E,L),T1).
+holdsAt(locationOf(E,L),T):-criticalPoint(E,T), create(E,T-1), time(T-1),
+							not initiate(locationOf(E,L1),T-1):location(L1), 
+							rightCriticalPoint(E,T,T1), holdsAt(locationOf(E,L),T1).
+
+% define propagation
+% If the right critical point is not backward type
+% propagate the value from left (i.e. also why left must exist)
+holdsAt(locationOf(E,L),T+1):- nonCriticalPoint(E,T+1), hasNoRightCriticalPoint(E,T+1),
+							   holdsAt(locationOf(E,L),T). 
+							   
+% If the right is backward type
+     % if the left type is termination  || creation with no initiation Then propagate back
+holdsAt(locationOf(E,L),T):- nonCriticalPoint(E,T), rightCriticalPoint(E,T,T1),holdsAt(locationOf(E,L),T1),leftCriticalPoint(E,T,T2), T2>0, create(E,T2-1), not initiate(locationOf(E,L1),T2-1):location(L1).
+
+holdsAt(locationOf(E,L),T):- nonCriticalPoint(E,T), rightCriticalPoint(E,T,T1), holdsAt(locationOf(E,L),T1),leftCriticalPoint(E,T,T2), T2>0, terminate(locationOf(E),T2-1), not initiate(locationOf(E,L1),T2-1):location(L1).
+ 
+% If the left has a known value then there are possibilities
+% case 3: conflicting propagation
+% base case (the point before the right critical can take any value of left/right)
+holdsAt(locationOf(E,L),T-1):- nonCriticalPoint(E,T-1), rightCriticalPoint(E,T-1,T), holdsAt(locationOf(E,L),T),not holdsAt(locationOf(E,L1),T-1):location(L1):L1!=L.
+
+holdsAt(locationOf(E,L),T-1):- nonCriticalPoint(E,T-1), rightCriticalPoint(E,T-1,T), holdsAt(locationOf(E,L),T1), not holdsAt(locationOf(E,L1),T-1):location(L1):L1!=L, leftCriticalPoint(E,T-1,T1).
+
+% if V_t+1 = V_r if V_t \in {V_l, V_r}
+% if V_t+1 = V_l then V_t = V_l
+holdsAt(locationOf(E,L),T):- nonCriticalPoint(E,T), rightCriticalPoint(E,T,T1), T<T1-1,  holdsAt(locationOf(E,L),T+1), holdsAt(locationOf(E,L),T1), not holdsAt(locationOf(E,L1),T):location(L1):L1!=L.
+holdsAt(locationOf(E,L),T):- nonCriticalPoint(E,T), rightCriticalPoint(E,T,T1), T<T1-1, leftCriticalPoint(E,T,T2), holdsAt(locationOf(E,L),T2), not holdsAt(locationOf(E,L1),T):location(L1):L1!=L.
+
+%%%% constraints %%%%%
+%:- initiate(locationOf(E,L),T), destroy(E,T), time(T), entity(E).
+%:- before(locationOf(E,L),T+1), destroy(E,T), time(T), entity(E).
+
+
+

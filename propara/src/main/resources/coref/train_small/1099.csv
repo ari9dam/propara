@@ -1,0 +1,26 @@
+p1,p2,
+virus or bacteria,antibodies,
+SENTENCE,PHRASE,REFERENCE
+You receive a vaccination through an injection or a nasal spray.,you,
+You receive a vaccination through an injection or a nasal spray.,a vaccination,p1
+You receive a vaccination through an injection or a nasal spray.,through an injection or a nasal spray,
+The vaccine contains a weakened version of the virus or bacteria responsible for the disease.,the vaccine,p1
+The vaccine contains a weakened version of the virus or bacteria responsible for the disease.,a weakened version of the virus or bacteria responsible for the disease,p1
+The vaccine contains a weakened version of the virus or bacteria responsible for the disease.,version,
+The body's immune system reacts to the virus or bacteria.,the body 's immune system,
+The body's immune system reacts to the virus or bacteria.,the virus or bacteria,p1
+The immune system creates antibodies to fight the virus or bacteria.,the immune system,
+The immune system creates antibodies to fight the virus or bacteria.,antibodies,p2
+The immune system creates antibodies to fight the virus or bacteria.,to fight the virus or bacteria,p1
+The immune system creates antibodies to fight the virus or bacteria.,antibodies,p2
+The immune system creates antibodies to fight the virus or bacteria.,the virus or bacteria,p1
+The antibodies remain in the body.,the antibodies,p2
+The antibodies remain in the body.,in the body,
+The antibodies are ready to fight the disease if the person is infected with the disease.,the antibodies,p2
+The antibodies are ready to fight the disease if the person is infected with the disease.,ready to fight the disease,
+The antibodies are ready to fight the disease if the person is infected with the disease.,if the person is infected with the disease,
+The antibodies are ready to fight the disease if the person is infected with the disease.,the antibodies,p2
+The antibodies are ready to fight the disease if the person is infected with the disease.,the disease,
+The antibodies are ready to fight the disease if the person is infected with the disease.,if the person is infected with the disease,
+The antibodies are ready to fight the disease if the person is infected with the disease.,the person,
+The antibodies are ready to fight the disease if the person is infected with the disease.,the disease,

@@ -1,0 +1,108 @@
+observedAt("be","what v something ?","fixation",1).
+observedAt("be","what does something v ?","the first step in the process of making nitrogen usable by plants",1).
+lvalue("the first step in the process of making nitrogen usable by plants","plant").
+observedAt("make","what is being v ?","nitrogen usable by plants",1).
+lvalue("nitrogen usable by plants","plant").
+observedAt("change","what v something ?","bacteria",1).
+observedAt("change","what does something v ?","nitrogen",1).
+observedAt("change","what does something v something into ?","ammonium",1).
+observedAt("be","what v something ?","nitrification",2).
+observedAt("be","what does something v ?","the process by which ammonium gets changed into nitrates by bacteria",2).
+observedAt("change","what is v into something ?","ammonium",2).
+observedAt("change","what is something v into ?","nitrates",2).
+observedAt("change","how is something v ?","by bacteria",2).
+observedAt("change","what is something v by ?","bacteria",2).
+observedAt("be","what v something ?","nitrates",3).
+observedAt("be","what does something v ?","what the plants can then absorb",3).
+lvalue("what the plants can then absorb","plant").
+observedAt("absorb","what can v something ?","the plants",3).
+lvalue("the plants","plant").
+observedAt("be","what v something ?","assimilation",4).
+observedAt("be","what does something v ?","how plants get nitrogen",4).
+lvalue("how plants get nitrogen","plant").
+observedAt("get","what v something ?","plants",4).
+lvalue("plants","plant").
+observedAt("get","what does something v ?","nitrogen",4).
+observedAt("absorb","what v something ?","they",5).
+observedAt("absorb","what does something v ?","nitrates",5).
+observedAt("absorb","where does something v something ?","into their roots",5).
+lvalue("into their roots","root").
+observedAt("absorb","what does something v something from ?","the soil",5).
+lvalue("the soil","soil").
+observedAt("get","what v something ?","the nitrogen",5).
+observedAt("get","what does something v ?","used in amino acids , nucleic acids , and chlorophyll",5).
+lvalue("used in amino acids , nucleic acids , and chlorophyll","amino acid , nucleic acid , and chlorophyll").
+observedAt("use","what is v in something ?","the nitrogen",5).
+observedAt("use","how is something v ?","in amino acids , nucleic acids , and chlorophyll",5).
+lvalue("in amino acids , nucleic acids , and chlorophyll","amino acid , nucleic acid , and chlorophyll").
+observedAt("use","what is something v in ?","amino acids , nucleic acids , and chlorophyll",5).
+lvalue("amino acids , nucleic acids , and chlorophyll","amino acid , nucleic acid , and chlorophyll").
+observedAt("be","what v something ?","ammonification",6).
+observedAt("be","what does something v ?","part of the decaying process",6).
+observedAt("die","what v ?","a plant or animal",7).
+lvalue("a plant or animal","plant").
+observedAt("turn","when does something v something ?","when a plant or animal dies",7).
+lvalue("when a plant or animal dies","plant").
+observedAt("turn","what v something ?","decomposers like fungi and bacteria",7).
+observedAt("turn","what does something v ?","the nitrogen",7).
+observedAt("turn","where does something v something ?","back into ammonium",7).
+observedAt("turn","what does something v something into ?","ammonium",7).
+observedAt("turn","why does something v something somewhere ?","so it can reenter the nitrogen cycle",7).
+lvalue("so it can reenter the nitrogen cycle","nitrogen cycle").
+observedAt("reenter","when can something v something ?","when a plant or animal dies",7).
+lvalue("when a plant or animal dies","plant").
+observedAt("reenter","what can v something ?","ammonium",7).
+observedAt("reenter","what can something v ?","the nitrogen cycle",7).
+lvalue("the nitrogen cycle","nitrogen cycle").
+observedAt("be","what v something ?","denitrification",8).
+observedAt("be","when does something v something ?","when extra nitrogen in the soil gets put back out into the air",8).
+lvalue("when extra nitrogen in the soil gets put back out into the air","soil").
+observedAt("put","what is v ?","extra nitrogen in the soil",8).
+lvalue("extra nitrogen in the soil","soil").
+observedAt("put","where is something v ?","back out into the air",8).
+lvalue("back out into the air","air").
+observedAt("be","what does something v ?","special bacteria",9).
+observedAt("perform","what v something ?","special bacteria",9).
+observedAt("perform","what does something v ?","this task",9).
+time(1..9).
+participant(p1;p2;p3;p4;p5).
+description(p1,"nitrogen").
+description(p2,"ammonium").
+description(p3,"nitrates").
+description(p4,"plant").
+description(p5,"animal").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"the first step in the process of making nitrogen usable by plants").
+refers(1,p4,"the first step in the process of making nitrogen usable by plants").
+refers(1,p1,"nitrogen usable by plants").
+refers(1,p4,"nitrogen usable by plants").
+refers(1,p1,"nitrogen").
+refers(1,p2,"ammonium").
+refers(2,p2,"the process by which ammonium gets changed into nitrates by bacteria").
+refers(2,p3,"the process by which ammonium gets changed into nitrates by bacteria").
+refers(2,p2,"ammonium").
+refers(2,p3,"nitrates").
+refers(3,p3,"nitrates").
+refers(3,p4,"what the plants can then absorb").
+refers(3,p4,"the plants").
+refers(4,p1,"how plants get nitrogen").
+refers(4,p4,"how plants get nitrogen").
+refers(4,p4,"plants").
+refers(4,p1,"nitrogen").
+refers(5,p3,"nitrates").
+refers(5,p1,"the nitrogen").
+refers(5,p1,"the nitrogen").
+refers(7,p4,"a plant or animal").
+refers(7,p5,"a plant or animal").
+refers(7,p4,"when a plant or animal dies").
+refers(7,p5,"when a plant or animal dies").
+refers(7,p1,"the nitrogen").
+refers(7,p2,"back into ammonium").
+refers(7,p2,"ammonium").
+refers(7,p1,"so it can reenter the nitrogen cycle").
+refers(7,p4,"when a plant or animal dies").
+refers(7,p5,"when a plant or animal dies").
+refers(7,p2,"ammonium").
+refers(7,p1,"the nitrogen cycle").
+refers(8,p1,"when extra nitrogen in the soil gets put back out into the air").
+refers(8,p1,"extra nitrogen in the soil").

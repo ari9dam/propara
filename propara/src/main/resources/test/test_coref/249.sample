@@ -1,0 +1,60 @@
+observedAt("break","what v up something ?","chemical reactions",1).
+observedAt("break","what does something v up ?","the bonds holding the rocks together",1).
+lvalue("the bonds holding the rocks together","rock").
+observedAt("hold","what is v something ?","the bonds",1).
+observedAt("hold","what v something ?","bonds",1).
+observedAt("hold","what is being v ?","the rocks",1).
+lvalue("the rocks","rock").
+observedAt("hold","how is something being v ?","together",1).
+observedAt("fall","what v ?","the rocks",2).
+lvalue("the rocks","rock").
+observedAt("fall","how does something v ?","apart",2).
+observedAt("form","what v something ?","they",3).
+observedAt("form","what does something v ?","smaller and smaller pieces",3).
+observedAt("take","what v something ?","oxidation",4).
+observedAt("take","what does something v ?","place",4).
+observedAt("take","when does something v something ?","when oxygen combines with other elements in rocks",4).
+lvalue("when oxygen combines with other elements in rocks","element in rock").
+observedAt("combine","what v with something ?","oxygen",4).
+observedAt("combine","what does something v with ?","other elements in rocks",4).
+lvalue("other elements in rocks","element in rock").
+observedAt("combine","where does something v with something ?","in rocks",4).
+lvalue("in rocks","rock").
+observedAt("form","what v something ?","they",5).
+observedAt("form","what does something v ?","new types of rocks",5).
+lvalue("new types of rocks","new type of rock").
+observedAt("be","what v something ?","the new substance",6).
+observedAt("be","what does something v ?","softer",6).
+observedAt("take","what v something ?","carbonation",7).
+observedAt("take","what does something v ?","place",7).
+observedAt("take","when does something v something ?","when carbon dioxide reactions with certain types of rocks",7).
+lvalue("when carbon dioxide reactions with certain types of rocks","rock").
+observedAt("form","what is v ?","a solution",8).
+observedAt("carry","what can be v ?","a solution",8).
+observedAt("carry","how can something be v ?","by water",8).
+lvalue("by water","water").
+observedAt("carry","what can something be v by ?","water",8).
+lvalue("water","water").
+time(1..8).
+participant(p1;p2;p3).
+description(p1,"rocks").
+description(p1,"smaller pieces").
+description(p2,"oxygen").
+description(p3,"new types of rocks").
+description(p3,"new substance").
+description(p3,"certain types of rocks").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"the bonds holding the rocks together").
+refers(1,p1,"the rocks").
+refers(2,p1,"the rocks").
+refers(3,p1,"smaller and smaller pieces").
+refers(4,p1,"when oxygen combines with other elements in rocks").
+refers(4,p2,"when oxygen combines with other elements in rocks").
+refers(4,p2,"oxygen").
+refers(4,p1,"other elements in rocks").
+refers(4,p1,"in rocks").
+refers(5,p1,"new types of rocks").
+refers(5,p3,"new types of rocks").
+refers(6,p3,"the new substance").
+refers(7,p1,"when carbon dioxide reactions with certain types of rocks").
+refers(7,p3,"when carbon dioxide reactions with certain types of rocks").

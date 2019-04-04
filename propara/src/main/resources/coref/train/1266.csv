@@ -1,0 +1,17 @@
+p1,p2,p3
+sticks and grass,"leaves, mud and spider webs, mud, leaves and webs",nest
+SENTENCE,PHRASE,REFERENCE
+"A bird picks a spot high spot, often in a tree.",a bird,
+"A bird picks a spot high spot, often in a tree.",a spot high spot,
+"A bird picks a spot high spot, often in a tree.",in a tree,
+The bird collects bits of sticks and grass.,the bird,
+The bird collects bits of sticks and grass.,bits of sticks and grass,p1
+The sicks and grasses are placed between support branches.,the sicks and grasses,
+The sicks and grasses are placed between support branches.,between support branches,
+"Leaves, mud and spider webs are added to the sticks.",mud and spider webs,p2
+"Leaves, mud and spider webs are added to the sticks.",spider webs,
+"Leaves, mud and spider webs are added to the sticks.","leaves , mud and spider webs",p2
+"Leaves, mud and spider webs are added to the sticks.",to the sticks,
+"Leaves, mud and spider webs are added to the sticks.",the sticks,
+The solid nest supports the eggs.,the solid nest,p3
+The solid nest supports the eggs.,the eggs,

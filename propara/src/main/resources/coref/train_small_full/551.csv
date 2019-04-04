@@ -1,0 +1,13 @@
+p1,p2,p3
+carbs,food,water
+SENTENCE,PHRASE,REFERENCE
+Food.,Food.,p2
+Water enter the body.,water,p3
+Water enter the body.,the body,
+Bloodstream.,Bloodstream.,
+Food and water enter the pancreas.,food and water,"p2,p3"
+Food and water enter the pancreas.,the pancreas,
+The pancreas breaks down carbs.,the pancreas,
+The pancreas breaks down carbs.,carbs,p1
+Helps digest other foods and liquids.,digest other foods and liquids,p2
+Helps digest other foods and liquids.,other foods and liquids,p2

@@ -1,0 +1,31 @@
+p1,p2,p3,p4,p5
+water,"steam, invisible vapor",clouds,air,"droplets, rain"
+SENTENCE,PHRASE,REFERENCE
+"Oceans, lakes, and rivers contain water.","oceans , lakes , and rivers",
+"Oceans, lakes, and rivers contain water.",water,p1
+The sun heats up the water.,the sun,
+The sun heats up the water.,the water,p1
+The water evaporates from the heat.,the water,p1
+The water evaporates from the heat.,from the heat,
+The water evaporates from the heat.,the heat,
+The water moves to the sky as steam or as invisible vapor.,the water,p1
+The water moves to the sky as steam or as invisible vapor.,to the sky,
+The water moves to the sky as steam or as invisible vapor.,the sky,
+The water moves to the sky as steam or as invisible vapor.,as steam or as invisible vapor,p2
+The water forms clouds in the sky.,the water,p1
+The water forms clouds in the sky.,clouds,p3
+The water forms clouds in the sky.,in the sky,
+The clouds become larger as they are filled with more water.,the clouds,p3
+The clouds become larger as they are filled with more water.,larger,
+The clouds become larger as they are filled with more water.,as they are filled with more water,p1
+The clouds become larger as they are filled with more water.,the clouds,p3
+The clouds become larger as they are filled with more water.,with more water,p1
+The clouds become larger as they are filled with more water.,more water,p1
+The air is cooled.,the air,p4
+Water forms droplets in the clouds.,water,p1
+Water forms droplets in the clouds.,droplets,p5
+Water forms droplets in the clouds.,in the clouds,p3
+The droplets fall to earth as rain.,the droplets,p5
+The droplets fall to earth as rain.,to earth,
+The droplets fall to earth as rain.,earth,
+The droplets fall to earth as rain.,as rain,p5

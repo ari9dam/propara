@@ -1,0 +1,18 @@
+p1,p2,
+red giant,white dwarf,
+SENTENCE,PHRASE,REFERENCE
+A red giant burns mass.,a red giant,p1
+A red giant burns mass.,mass,
+This mass creates high core temperatures.,this mass,
+This mass creates high core temperatures.,high core temperatures,
+The mass decreases.,the mass,
+The red giant can no longer fuse the carbon and oxygen in its center.,the red giant,p1
+The red giant can no longer fuse the carbon and oxygen in its center.,the carbon and oxygen,
+The red giant can no longer fuse the carbon and oxygen in its center.,in its center,p1
+The gravity of the star can no longer hold the outside layers.,the gravity of the star,p1
+The gravity of the star can no longer hold the outside layers.,the outside layers,
+The layers break away.,the layers,
+The layers break away.,away,
+Only the inner core remains.,the inner core,
+This inner core is known as a white dwarf.,this inner core,
+This inner core is known as a white dwarf.,a white dwarf,p2

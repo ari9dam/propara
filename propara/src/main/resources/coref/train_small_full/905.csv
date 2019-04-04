@@ -1,0 +1,30 @@
+p1,p2,
+chemicals,food,
+SENTENCE,PHRASE,REFERENCE
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",the saliva breaks down the chemicals in the food a bit,"p1,p2"
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",make the food mushy and easy to swallow,p2
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",the saliva breaks down the chemicals in the food a bit,"p1,p2"
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",the food mushy and easy to swallow,p2
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",mushy and easy to swallow,
+"The saliva breaks down the chemicals in the food a bit, which helps make the food mushy and easy to swallow.",the food,p2
+"Your tongue helps out, pushing the food around while you chew with your teeth.",your tongue,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",out,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",your tongue,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",the food,p2
+"Your tongue helps out, pushing the food around while you chew with your teeth.",around,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",while you chew with your teeth,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",you,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",with your teeth,
+"Your tongue helps out, pushing the food around while you chew with your teeth.",your teeth,
+The esophagus moves food from the back of your throat to your stomach.,the esophagus,
+The esophagus moves food from the back of your throat to your stomach.,food,p2
+The esophagus moves food from the back of your throat to your stomach.,from the back of your throat to your stomach,
+Strong muscles in the walls of the stomach and gastric juices break down food in your stomach.,strong muscles in the walls of the stomach and gastric juices,
+Strong muscles in the walls of the stomach and gastric juices break down food in your stomach.,food,p2
+Strong muscles in the walls of the stomach and gastric juices break down food in your stomach.,in your stomach,
+Your stomach moves the food into the intestines to complete digestion.,your stomach,
+Your stomach moves the food into the intestines to complete digestion.,the food,p2
+Your stomach moves the food into the intestines to complete digestion.,into the intestines,
+Your stomach moves the food into the intestines to complete digestion.,to complete digestion,
+Your stomach moves the food into the intestines to complete digestion.,your stomach,
+Your stomach moves the food into the intestines to complete digestion.,digestion,

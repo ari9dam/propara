@@ -1,0 +1,37 @@
+p1,p2,p3,p4,p5
+food,"saliva, spit",acid,nutrients,waste
+SENTENCE,PHRASE,REFERENCE
+Food is put into mouth.,food,p1
+Food is put into mouth.,into mouth,
+Food is put into mouth.,mouth,
+The waste is eventually removed from the body.,the waste,p5
+The waste is eventually removed from the body.,eventually,
+The waste is eventually removed from the body.,from the body,
+The waste is eventually removed from the body.,the body,
+Food is chewed and mixed with saliva (spit).,food,p1
+Food is chewed and mixed with saliva (spit).,saliva,p2
+Food is chewed and mixed with saliva (spit).,food,p1
+Food is chewed and mixed with saliva (spit).,saliva,p2
+Food travels down the esophagus (throat).,food,p1
+Food travels down the esophagus (throat).,down the esophagus ( throat ),
+Food travels down the esophagus (throat).,the esophagus,
+Food travels into the stomach.,food,p1
+Food travels into the stomach.,into the stomach,
+Food travels into the stomach.,the stomach,
+Acid in the stomach breaks the food down further.,acid,p3
+Acid in the stomach breaks the food down further.,in the stomach,
+Acid in the stomach breaks the food down further.,the food,p1
+Acid in the stomach breaks the food down further.,further,
+Food travels into the small intestine.,food,p1
+Food travels into the small intestine.,into the small intestine,
+Food travels into the small intestine.,the small intestine,
+Nutrients from food are absorbed into the blood stream.,nutrients from food,"p1,p4"
+Nutrients from food are absorbed into the blood stream.,into the blood stream,
+Nutrients from food are absorbed into the blood stream.,the blood stream,
+Food travels into the large intestine.,food,p1
+Food travels into the large intestine.,into the large intestine,
+Food travels into the large intestine.,the large intestine,
+Most of the remaining material is now waste.,material,
+Most of the remaining material is now waste.,most of the remaining material,
+Most of the remaining material is now waste.,waste,p5
+Nutrients from food are absorbed into the blood stream.,food,p1

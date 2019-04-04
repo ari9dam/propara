@@ -1,0 +1,24 @@
+p1,p2,p3
+satellite,capsule,rocket
+SENTENCE,PHRASE,REFERENCE
+A satellite's need is determined.,a satellite 's need,p1
+A group of people work to design a satellite capable of accomplishing the need.,a group of people,
+A group of people work to design a satellite capable of accomplishing the need.,to design a satellite capable of accomplishing the need,p1
+A group of people work to design a satellite capable of accomplishing the need.,design a satellite,p1
+A group of people work to design a satellite capable of accomplishing the need.,a group of people,
+A group of people work to design a satellite capable of accomplishing the need.,a satellite,p1
+A group of people work to design a satellite capable of accomplishing the need.,a satellite,p1
+A group of people work to design a satellite capable of accomplishing the need.,the need,
+A team designs the physical structure of the satellite.,a team,
+A team designs the physical structure of the satellite.,the physical structure of the satellite,p1
+A crew builds the physical satellite.,a crew,
+A crew builds the physical satellite.,the physical satellite,p1
+The satellite is packed into a capsule.,the satellite,p1
+The satellite is packed into a capsule.,into a capsule,p2
+The satellite is packed into a capsule.,a capsule,p2
+The satellite capsule is loaded onto a rocket.,the satellite capsule,"p1,p2"
+The satellite capsule is loaded onto a rocket.,onto a rocket,p3
+The satellite capsule is loaded onto a rocket.,a rocket,p3
+The rocket is launched into space.,the rocket,p3
+The rocket is launched into space.,into space,
+The rocket is launched into space.,space,

@@ -1,0 +1,15 @@
+p1,p2
+stamen and pistils,pollen
+SENTENCE,PHRASE,REFERENCE
+A flowering plant has stamen and pistils.,a flowering plant,
+An insect ot bird lands on the plant.,an insect ot bird,
+An insect ot bird lands on the plant.,on the plant,
+An insect ot bird lands on the plant.,the plant,
+Some of the pollen sticks to it.,some of the pollen,p2
+Some of the pollen sticks to it.,it,
+The insect or bird travels to another plant of the same species.,the insect or bird,
+The insect or bird travels to another plant of the same species.,to another plant of the same species,
+The insect or bird travels to another plant of the same species.,another plant of the same species,
+The pollen is tranferred to the new plant.,the pollen,p2
+The pollen is tranferred to the new plant.,to the new plant,
+The pollen is tranferred to the new plant.,the new plant,

@@ -1,0 +1,23 @@
+p1,p2,p3,p4
+paper,writing tool,message,letter
+SENTENCE,PHRASE,REFERENCE
+You take some paper.,you,
+You take some paper.,some paper,p1
+The writing tools.,The writing tools.,
+You write a message describing what's on your mind.,you,
+You write a message describing what's on your mind.,a message,p3
+You write a message describing what's on your mind.,describing what 's on your mind,
+You write a message describing what's on your mind.,a message,p3
+You write a message describing what's on your mind.,what 's on your mind,
+You write a message describing what's on your mind.,on your mind,
+You write a message describing what's on your mind.,your mind,
+You put the letter into an envelope.,you,
+You put the letter into an envelope.,the letter,p4
+You put the letter into an envelope.,into an envelope,
+You put the letter into an envelope.,an envelope,
+You take the letter to the post office.,you,
+You take the letter to the post office.,the letter,p4
+You take the letter to the post office.,to the post office,
+Send it to its recipient.,it,
+Send it to its recipient.,to its recipient,
+Send it to its recipient.,its recipient,

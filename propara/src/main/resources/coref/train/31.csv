@@ -1,0 +1,36 @@
+p1,p2,p3,p4
+carbon dioxide,acid,limestone,caves
+SENTENCE,PHRASE,REFERENCE
+Limestone is located under the soil.,limestone,p3
+Limestone is located under the soil.,under the soil,
+Rain picks up carbon dioxide as it falls to earth.,rain,
+Rain picks up carbon dioxide as it falls to earth.,carbon dioxide,p1
+Rain picks up carbon dioxide as it falls to earth.,as it falls to earth,
+Rain picks up carbon dioxide as it falls to earth.,carbon dioxide,p1
+Rain picks up carbon dioxide as it falls to earth.,it,
+Rain picks up carbon dioxide as it falls to earth.,to earth,
+Rain picks up carbon dioxide as it falls to earth.,earth,
+The rain falls on the soil over the limestone.,the rain,
+The rain falls on the soil over the limestone.,on the soil over the limestone,p3
+The rain falls on the soil over the limestone.,the soil,
+The carbon dioxide in the rain washes through the soil.,the carbon dioxide in the rain,p1
+The carbon dioxide in the rain washes through the soil.,through the soil,
+The carbon dioxide in the rain washes through the soil.,the soil,
+The carbon dioxide turns into acid.,the carbon dioxide,p1
+The carbon dioxide turns into acid.,acid,p2
+The acid in the rain gets to the limestone below the soil.,the acid in the rain,p2
+The acid in the rain gets to the limestone below the soil.,to the limestone below the soil,p3
+The acid in the rain gets to the limestone below the soil.,the limestone below the soil,p3
+The acid in the rain gets to the limestone below the soil.,below the soil,
+The acid dissolves the limestone.,the acid,p2
+The acid dissolves the limestone.,the limestone,p3
+Acid continues to erode the limestone with more rain over time.,acid,p2
+Acid continues to erode the limestone with more rain over time.,erode the limestone with more rain over time,p3
+Acid continues to erode the limestone with more rain over time.,acid,p2
+Acid continues to erode the limestone with more rain over time.,the limestone,p3
+Acid continues to erode the limestone with more rain over time.,with more rain,
+Acid continues to erode the limestone with more rain over time.,over time,
+The eroded limestone sometimes forms caves.,limestone,p3
+The eroded limestone sometimes forms caves.,the eroded limestone,p3
+The eroded limestone sometimes forms caves.,sometimes,
+The eroded limestone sometimes forms caves.,caves,p4

@@ -1,0 +1,15 @@
+p1,p2,p3,p4
+air,"petrol, fuel",energy,hot gas
+SENTENCE,PHRASE,REFERENCE
+Fuel is converted to energy when air and petrol mix.,fuel,p2
+Fuel is converted to energy when air and petrol mix.,to energy,p3
+Fuel is converted to energy when air and petrol mix.,when air and petrol mix,"p1,p2"
+The car engine burns the mix of air and petrol.,the car engine,
+The car engine burns the mix of air and petrol.,the mix of air and petrol,"p1,p2"
+Hot gas from the burning pushes the pistons.,hot gas from the burning,p4
+Hot gas from the burning pushes the pistons.,the pistons,
+The resulting energy powers the crankshaft.,energy,p3
+Crankshaft powers the gears.,crankshaft,
+Crankshaft powers the gears.,the gears,
+The gears make the wheels roll.,the gears,
+The gears make the wheels roll.,the wheels roll,

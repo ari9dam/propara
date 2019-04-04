@@ -1,0 +1,41 @@
+observedAt("introduce","what is v to something ?","water",1).
+lvalue("water","water").
+observedAt("introduce","what is something v to ?","carbon dioxide",1).
+lvalue("carbon dioxide","carbon dioxide").
+observedAt("become","what v something ?","the water",2).
+lvalue("the water","water").
+observedAt("become","what does something v ?","acidic",2).
+observedAt("seep","what v ?","the water",3).
+lvalue("the water","water").
+observedAt("seep","how does something v ?","down",3).
+observedAt("seep","where does something v ?","down to a mineral based material",3).
+lvalue("down to a mineral based material","mineral base material").
+observedAt("seep","what does something v on to ?","a mineral based material",3).
+lvalue("a mineral based material","mineral base material").
+observedAt("base","what is v ?","material",3).
+observedAt("carve","what v something ?","the acidity of the water",4).
+lvalue("the acidity of the water","water").
+observedAt("carve","what does something v ?","the rock",4).
+lvalue("the rock","rock").
+observedAt("shape","what v something ?","the acidity of the water",4).
+lvalue("the acidity of the water","water").
+observedAt("shape","what does something v ?","the rock",4).
+lvalue("the rock","rock").
+observedAt("form","what might something v ?","geological phenomenon",5).
+time(1..5).
+participant(p1;p2;p3;p4).
+description(p1,"water").
+description(p2,"carbon dioxide").
+description(p3,"mineral based material").
+description(p4,"rock").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"water").
+refers(1,p2,"carbon dioxide").
+refers(2,p1,"the water").
+refers(3,p1,"the water").
+refers(3,p3,"down to a mineral based material").
+refers(3,p3,"a mineral based material").
+refers(4,p1,"the acidity of the water").
+refers(4,p4,"the rock").
+refers(4,p1,"the acidity of the water").
+refers(4,p4,"the rock").

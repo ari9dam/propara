@@ -1,0 +1,29 @@
+p1,p2
+water,ground coffee
+SENTENCE,PHRASE,REFERENCE
+The coffee pot is filled with water.,the coffee pot,
+The coffee pot is filled with water.,water,p1
+Water is poured into the well of the machine.,water,p1
+Water is poured into the well of the machine.,into the well of the machine,
+Water is poured into the well of the machine.,the well of the machine,
+A filter is placed in the basket.,a filter,
+A filter is placed in the basket.,in the basket,
+A filter is placed in the basket.,the basket,
+Ground coffee is measured into the filter.,ground coffee,p2
+Ground coffee is measured into the filter.,into the filter,
+Ground coffee is measured into the filter.,the filter,
+Turning on the machine starts the water heating.,the machine,
+Turning on the machine starts the water heating.,turning on the machine,
+Turning on the machine starts the water heating.,the water heating,p1
+The hot water rises up.,the hot water,p1
+The hot water rises up.,up,
+The water drops into the ground coffee.,the water,p1
+The water drops into the ground coffee.,into the ground coffee,p2
+The water drops into the ground coffee.,the ground coffee,p2
+The hot water passes through the grounds.,the hot water,p1
+The hot water passes through the grounds.,through the grounds,
+The hot water passes through the grounds.,the grounds,
+The coffee drips into the pot from the basket.,the coffee,
+The coffee drips into the pot from the basket.,into the pot from the basket,
+The coffee drips into the pot from the basket.,the pot,
+The coffee drips into the pot from the basket.,from the basket,

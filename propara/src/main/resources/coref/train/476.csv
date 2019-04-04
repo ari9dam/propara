@@ -1,0 +1,35 @@
+p1,p2,p3
+fossil fuels,carbon dioxide,trees
+SENTENCE,PHRASE,REFERENCE
+"Human beings burn fossil fuels (oil, gas, etc.).",human beings,
+"Human beings burn fossil fuels (oil, gas, etc.).",fossil fuels,p1
+Eventually the long-term climate patterns start to change.,eventually,
+Eventually the long-term climate patterns start to change.,the long-term climate patterns,
+Eventually the long-term climate patterns start to change.,to change,
+Eventually the long-term climate patterns start to change.,eventually,
+Eventually the long-term climate patterns start to change.,the long-term climate patterns,
+Carbon dioxide from the burning fossil fuels enter the atmosphere.,carbon dioxide from the burning fossil fuels,"p1,p2"
+Carbon dioxide from the burning fossil fuels enter the atmosphere.,the atmosphere,
+The make-up of the atmosphere changes.,the make-up of the atmosphere,
+Some energy from the sun cannot escape back through the changed atmosphere.,some energy from the sun,
+Some energy from the sun cannot escape back through the changed atmosphere.,back through the changed atmosphere,
+Some energy from the sun cannot escape back through the changed atmosphere.,atmosphere,
+The earth begins to heat because of the extra trapped energy.,the earth,
+The earth begins to heat because of the extra trapped energy.,to heat,
+The earth begins to heat because of the extra trapped energy.,because of the extra trapped energy,
+The earth begins to heat because of the extra trapped energy.,energy,
+Human beings cut down trees.,human beings,
+Human beings cut down trees.,trees,p3
+Human beings do not re-plant the trees.,human beings,
+Human beings do not re-plant the trees.,the trees,p3
+Trees cannot help take the extra carbon dioxide from the atmosphere.,trees,p3
+Trees cannot help take the extra carbon dioxide from the atmosphere.,take the extra carbon dioxide from the atmosphere,p2
+Trees cannot help take the extra carbon dioxide from the atmosphere.,trees,p3
+Trees cannot help take the extra carbon dioxide from the atmosphere.,the extra carbon dioxide,p2
+Trees cannot help take the extra carbon dioxide from the atmosphere.,from the atmosphere,
+Trees cannot help take the extra carbon dioxide from the atmosphere.,the atmosphere,
+The extra trapped energy starts to change the earth's short term weather.,the extra trapped energy,
+The extra trapped energy starts to change the earth's short term weather.,to change the earth 's short term weather,
+The extra trapped energy starts to change the earth's short term weather.,the extra trapped energy,
+The extra trapped energy starts to change the earth's short term weather.,the earth 's short term weather,
+Carbon dioxide from the burning fossil fuels enter the atmosphere.,burning fossil fuels,p1

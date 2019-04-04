@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5
+rock,tiny rocks,sediment,minerals,"sedimentary rock, single rock"
+SENTENCE,PHRASE,REFERENCE
+Wind or water breaks small pieces off of a rock.,wind or water,
+Wind or water breaks small pieces off of a rock.,small pieces,
+Wind or water breaks small pieces off of a rock.,off of a rock,p1
+The wind or water deposits tiny rocks.,the wind or water,
+The wind or water deposits tiny rocks.,tiny rocks,"p1,p2"
+The rocks become known as sediment.,the rocks,p1
+The rocks become known as sediment.,known as sediment,p3
+The rocks become known as sediment.,the rocks,p1
+The rocks become known as sediment.,sediment,p3
+The layers of sediment are pressed together by other layers of sediment on top.,the layers of sediment,p3
+The layers of sediment are pressed together by other layers of sediment on top.,by other layers of sediment on top,p3
+The layers of sediment are pressed together by other layers of sediment on top.,other layers of sediment on top,p3
+Minerals from the rocks in the sediment dissolve.,minerals from the rocks in the sediment,"p1,p3,p4"
+Minerals glue the sediment together into a single rock.,minerals,p4
+Minerals glue the sediment together into a single rock.,the sediment,p3
+Minerals glue the sediment together into a single rock.,together,
+Minerals glue the sediment together into a single rock.,into a single rock,"p1,p5"
+Minerals glue the sediment together into a single rock.,a single rock,"p1,p5"
+Minerals from the rocks in the sediment dissolve.,rocks,p1

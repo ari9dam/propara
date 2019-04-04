@@ -1,0 +1,14 @@
+p1,p2,
+"suns heat, heat",green house gases,
+SENTENCE,PHRASE,REFERENCE
+Suns heat enters atmosphere.,suns heat,p1
+Suns heat enters atmosphere.,atmosphere,
+Green house gases enter from the earth.,green house gases,p2
+Green house gases enter from the earth.,from the earth,
+Green house gases enter from the earth.,the earth,
+Heat is trapped in atmosphere.,heat,p1
+Heat is trapped in atmosphere.,in atmosphere,
+Different things on earth are hotter.,different things on earth,
+Different things on earth are hotter.,hotter,
+The overall planet is hotter.,the overall planet,
+The overall planet is hotter.,hotter,

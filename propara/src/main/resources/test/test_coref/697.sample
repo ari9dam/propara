@@ -1,0 +1,50 @@
+observedAt("evaporate","what v ?","water beings",1).
+observedAt("evaporate","where does something v ?","from bodies of water",1).
+lvalue("from bodies of water","body of water").
+observedAt("evaporate","what does something v from ?","bodies of water",1).
+lvalue("bodies of water","body of water").
+observedAt("condense","what v into something ?","the water",2).
+observedAt("condense","what does something v into ?","clouds",2).
+lvalue("clouds","cloud").
+observedAt("accumulate","what v something ?","the clouds",3).
+lvalue("the clouds","cloud").
+observedAt("accumulate","what does something v ?","more water",3).
+observedAt("reach","what v something ?","the clouds",4).
+lvalue("the clouds","cloud").
+observedAt("reach","what does something v ?","a point where they can not hold any more water",4).
+observedAt("hold","what can not v something ?","the clouds",4).
+lvalue("the clouds","cloud").
+observedAt("hold","what can not something v ?","any more water",4).
+observedAt("hold","what can not be v ?","water",4).
+observedAt("begin","what v to do something ?","it",5).
+observedAt("begin","what does something v to do ?","to rain",5).
+lvalue("to rain","rain").
+observedAt("begin","where does something v to do something ?","on areas below the clouds",5).
+lvalue("on areas below the clouds","area below the cloud").
+observedAt("rain","what v ?","it",5).
+observedAt("rain","where does something v ?","on areas below the clouds",5).
+lvalue("on areas below the clouds","area below the cloud").
+observedAt("rain","what does something v on ?","areas below the clouds",5).
+lvalue("areas below the clouds","area below the cloud").
+time(1..5).
+participant(p1;p2;p3).
+description(p1,"water").
+description(p2,"clouds").
+description(p3,"rain").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"water beings").
+refers(1,p1,"from bodies of water").
+refers(1,p1,"bodies of water").
+refers(2,p1,"the water").
+refers(2,p2,"clouds").
+refers(3,p2,"the clouds").
+refers(3,p1,"more water").
+refers(4,p2,"the clouds").
+refers(4,p1,"a point where they can not hold any more water").
+refers(4,p2,"the clouds").
+refers(4,p1,"any more water").
+refers(4,p1,"water").
+refers(5,p3,"to rain").
+refers(5,p2,"on areas below the clouds").
+refers(5,p2,"on areas below the clouds").
+refers(5,p2,"areas below the clouds").

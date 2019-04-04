@@ -1,0 +1,61 @@
+observedAt("bring","what v something ?","two large veins",1).
+lvalue("two large veins","two large vein").
+observedAt("bring","what does something v ?","blood",1).
+lvalue("blood","blood").
+observedAt("bring","where does something v something ?","to the heart",1).
+lvalue("to the heart","heart").
+observedAt("deoxygenate","what is v ?","blood",10).
+lvalue("blood","blood").
+observedAt("enter","what v something ?","the blood",2).
+lvalue("the blood","blood").
+observedAt("enter","what does something v ?","the right atrium",2).
+lvalue("the right atrium","right atrium").
+observedAt("flow","what v ?","the blood",3).
+lvalue("the blood","blood").
+observedAt("flow","where does something v ?","through the tricuspid valve",3).
+lvalue("through the tricuspid valve","tricuspid valve").
+observedAt("flow","what does something v into ?","the tricuspid valve",3).
+lvalue("the tricuspid valve","tricuspid valve").
+observedAt("travel","what v into something ?","the blood",4).
+lvalue("the blood","blood").
+observedAt("travel","where does something v ?","into the right ventricle",4).
+lvalue("into the right ventricle","right ventricle").
+observedAt("travel","what does something v into ?","the right ventricle",4).
+lvalue("the right ventricle","right ventricle").
+observedAt("go","what v ?","the blood",5).
+lvalue("the blood","blood").
+observedAt("go","where does something v ?","through the pulmonary arteries to the lungs",5).
+lvalue("through the pulmonary arteries to the lungs","pulmonary artery").
+observedAt("go","what does something v into ?","the pulmonary arteries",5).
+lvalue("the pulmonary arteries","pulmonary artery").
+observedAt("pick","what v up something ?","blood",6).
+lvalue("blood","blood").
+observedAt("pick","what does something v up ?","oxygen",6).
+observedAt("pick","where does something v up something ?","in the lungs",6).
+lvalue("in the lungs","lung").
+observedAt("oxygenate","what is v ?","blood",7).
+lvalue("blood","blood").
+observedAt("enter","what v something ?","oxygenated blood",7).
+lvalue("oxygenated blood","blood").
+observedAt("enter","what does something v ?","the left atrium",7).
+lvalue("the left atrium","left atrium").
+observedAt("go","what v somewhere ?","blood",8).
+lvalue("blood","blood").
+observedAt("go","where does something v ?","to the left ventricle",8).
+lvalue("to the left ventricle","left ventricle").
+observedAt("go","what does something v to ?","the left ventricle",8).
+lvalue("the left ventricle","left ventricle").
+observedAt("leave","what v something ?","blood",9).
+lvalue("blood","blood").
+observedAt("leave","what does something v ?","the heart",9).
+lvalue("the heart","heart").
+observedAt("leave","how does something v something ?","via the aorta to the rest of the body",9).
+lvalue("via the aorta to the rest of the body","aorta").
+time(1..9).
+participant(p1;p2;p3).
+description(p1,"oxygenated blood").
+description(p2,"deoxygenated blood").
+description(p3,"oxygen").
+annotator(a1;a2;a3;a4;a5).
+refers(6,p3,"oxygen").
+refers(7,p1,"oxygenated blood").

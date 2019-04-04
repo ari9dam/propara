@@ -1,0 +1,16 @@
+p1,p2,p3,p4,p5
+tadpole,hind leg,tail,frog,offspring
+SENTENCE,PHRASE,REFERENCE
+A tadpole is hatched.,a tadpole,p1
+The tadpole eventually grows hind legs.,the tadpole,p1
+The tadpole eventually grows hind legs.,eventually,
+The tadpole eventually grows hind legs.,hind legs,p2
+The tadpole loses its tail.,the tadpole,p1
+The tadpole loses its tail.,its tail,p3
+The tadpole becomes a frog.,the tadpole,p1
+The tadpole becomes a frog.,a frog,p4
+The frog mates with another frog to produce more offspring.,the frog,p4
+The frog mates with another frog to produce more offspring.,more offspring,p5
+A tadpole is hatched.,a tadpole,p1
+The cycle begins again.,the cycle,
+The cycle begins again.,again,

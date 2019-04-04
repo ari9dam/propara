@@ -1,0 +1,29 @@
+p1,p2,p3,p4
+minerals,sediment,"big rock, rocks",smaller rocks
+SENTENCE,PHRASE,REFERENCE
+Minerals fill spaces between bits of sediment.,minerals,p1
+Minerals fill spaces between bits of sediment.,spaces between bits of sediment,p2
+Minerals fill spaces between bits of sediment.,between bits of sediment,p2
+The sediments become glued together.,the sediments,p2
+The sediments become glued together.,glued together,
+The sediments become glued together.,together,
+The sediments become glued together.,the sediments,p2
+The sediments become glued together.,together,
+The glued together parts become hard like cement.,together parts,
+The glued together parts become hard like cement.,the glued together parts,
+The glued together parts become hard like cement.,hard like cement,
+The sediment becomes a big rock.,the sediment,p2
+The sediment becomes a big rock.,a big rock,p3
+The rocks erode slowly.,the rocks,p3
+The rocks erode slowly.,slowly,
+The rocks come apart.,the rocks,p3
+The rocks come apart.,apart,
+The rocks become smaller rocks.,the rocks,p3
+The rocks become smaller rocks.,smaller rocks,"p3,p4"
+The rocks continue to erode into smaller rocks.,the rocks,p3
+The rocks continue to erode into smaller rocks.,to erode into smaller rocks,"p3,p4"
+The rocks continue to erode into smaller rocks.,the rocks,p3
+The rocks continue to erode into smaller rocks.,into smaller rocks,"p3,p4"
+The rocks continue to erode into smaller rocks.,smaller rocks,"p3,p4"
+The process starts again.,the process,
+The process starts again.,again,

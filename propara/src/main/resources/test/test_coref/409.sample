@@ -1,0 +1,29 @@
+observedAt("enter","what v something ?","light",1).
+observedAt("enter","what does something v ?","the eyes",1).
+observedAt("focus","what v something ?","the lens",2).
+observedAt("focus","what does something v ?","light",2).
+observedAt("focus","where does something v something ?","through the vitreous humor",2).
+observedAt("focus","what v into something ?","the cornea",3).
+observedAt("focus","where does something v ?","through the eye 's internal lens",3).
+observedAt("focus","what does something v through ?","the eye 's internal lens",3).
+observedAt("receive","what v something ?","the retina",4).
+lvalue("the retina","retina").
+observedAt("receive","what does something v ?","the image",4).
+observedAt("transform","what v something ?","the retina",5).
+lvalue("the retina","retina").
+observedAt("transform","what does something v ?","this image",5).
+observedAt("transform","what does something v something into ?","into electrical impulses",5).
+observedAt("travel","what v ?","the impulses",6).
+observedAt("travel","where does something v ?","along the optic nerve to the brain",6).
+lvalue("along the optic nerve to the brain","brain").
+observedAt("decode","what v something ?","the brain",7).
+lvalue("the brain","brain").
+observedAt("decode","what does something v ?","the impuses",7).
+time(1..7).
+participant(p1;p2).
+description(p1,"image").
+description(p2,"electrical impulses").
+annotator(a1;a2;a3;a4;a5).
+refers(4,p1,"the image").
+refers(5,p1,"this image").
+refers(5,p2,"into electrical impulses").

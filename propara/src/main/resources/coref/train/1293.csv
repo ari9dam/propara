@@ -1,0 +1,32 @@
+p1,p2,p3,p4
+water,coffee beans,ground coffee,salt
+SENTENCE,PHRASE,REFERENCE
+The carafe is filled with water.,the carafe,
+The carafe is filled with water.,water,p1
+The water passes through the grounds and becomes coffee.,the water,p1
+The water passes through the grounds and becomes coffee.,through the grounds,
+The water passes through the grounds and becomes coffee.,the grounds,
+The water passes through the grounds and becomes coffee.,the water,p1
+The water passes through the grounds and becomes coffee.,coffee,
+The water is poured into the machine at the back.,the water,p1
+The water is poured into the machine at the back.,into the machine,
+The water is poured into the machine at the back.,the machine,
+Coffee beans are put into a grinder.,coffee beans,p2
+Coffee beans are put into a grinder.,into a grinder,
+Coffee beans are put into a grinder.,a grinder,
+The grinder is activated.,the grinder,
+A filter is put into the coffee maker.,a filter,
+A filter is put into the coffee maker.,into the coffee maker,
+A filter is put into the coffee maker.,the coffee maker,
+The ground coffee is put into the filter.,the ground coffee,p3
+The ground coffee is put into the filter.,into the filter,
+The ground coffee is put into the filter.,the filter,
+Sometimes a bit of salt is added to the grounds to bring out flavor.,sometimes,
+Sometimes a bit of salt is added to the grounds to bring out flavor.,a bit of salt,p4
+Sometimes a bit of salt is added to the grounds to bring out flavor.,to the grounds,
+Sometimes a bit of salt is added to the grounds to bring out flavor.,the grounds,
+Sometimes a bit of salt is added to the grounds to bring out flavor.,to bring out flavor,
+Sometimes a bit of salt is added to the grounds to bring out flavor.,a bit of salt,p4
+Sometimes a bit of salt is added to the grounds to bring out flavor.,flavor,
+The top of the machine is closed.,the top of the machine,
+The power is turned on.,the power,

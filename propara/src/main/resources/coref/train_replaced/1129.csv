@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5
+"thunderstorms, storm",rotation,warm ocean water,rising air,hurricane
+SENTENCE,PHRASE,REFERENCE
+Thunderstorms form over the ocean.,thunderstorms,p1
+Thunderstorms form over the ocean.,over the ocean,
+An area of low pressure causes rotation.,an area of low pressure,
+An area of low pressure causes rotation.,rotation,p2
+Several thunderstorms come together around this area.,several thunderstorms,p1
+Several thunderstorms come together around this area.,together,
+Several thunderstorms come together around this area.,around this area,
+The storm is fed by rising air from warm ocean water evaporating.,the storm,p1
+The storm is fed by rising air from warm ocean water evaporating.,by rising air from warm ocean water evaporating,"p3,p4"
+The storm is fed by rising air from warm ocean water evaporating.,rising air from warm ocean water evaporating,"p3,p4"
+The storm is fed by rising air from warm ocean water evaporating.,air,
+The storm is fed by rising air from warm ocean water evaporating.,rising air from warm ocean water,"p3,p4"
+When the wind speeds reach 74 mph the storm is considered a hurricane.,the wind speeds,
+When the wind speeds reach 74 mph the storm is considered a hurricane.,74 mph,
+When the wind speeds reach 74 mph the storm is considered a hurricane.,when the wind speeds reach 74 mph,
+When the wind speeds reach 74 mph the storm is considered a hurricane.,the storm,p1
+When the wind speeds reach 74 mph the storm is considered a hurricane.,a hurricane,p5
+The storm is fed by rising air from warm ocean water evaporating.,warm ocean water,p3

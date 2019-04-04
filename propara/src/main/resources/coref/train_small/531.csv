@@ -1,0 +1,15 @@
+p1,p2,p3,p4
+"seed, seeds",seedling,mature plant,flower
+SENTENCE,PHRASE,REFERENCE,
+A seed or seeds planted into the ground.,a seed or seeds,p1,
+A seed or seeds planted into the ground.,into the ground,,
+A seed or seeds planted into the ground.,the ground,,
+The seed becomes a seeding and grows with water.,the seed,p1,
+The seed becomes a seeding and grows with water.,a seeding,p2,
+The seed becomes a seeding and grows with water.,the seed,p1,
+The seed becomes a seeding and grows with water.,with water,,
+The seed becomes a seeding and grows with water.,water,,
+The sun.,The sun.,,
+The seeding grows into a mature plant.,the seeding,p2,
+The seeding grows into a mature plant.,into a mature plant,p3,
+Becomes a flower.,a flower,p4,

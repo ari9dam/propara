@@ -1,0 +1,24 @@
+p1,p2,p3,p4
+particles,"rock, rocks",small pieces of the rock,small rocks
+SENTENCE,PHRASE,REFERENCE
+Particles in the environment interact with rocks.,particles in the environment,p1
+Particles in the environment interact with rocks.,rocks,p2
+The particles remove small pieces of the rock each time they touch the rocks.,the particles,p1
+The particles remove small pieces of the rock each time they touch the rocks.,small pieces of the rock,"p2,p3"
+The particles remove small pieces of the rock each time they touch the rocks.,each time they touch the rocks,p2
+The particles remove small pieces of the rock each time they touch the rocks.,the particles,p1
+The particles remove small pieces of the rock each time they touch the rocks.,the rocks,p2
+"The particles continue to hit, brush against, or grow against the rocks.",the particles,p1
+"The particles continue to hit, brush against, or grow against the rocks.","to hit , brush against , or grow against the rocks",p2
+"The particles continue to hit, brush against, or grow against the rocks.",the particles,p1
+"The particles continue to hit, brush against, or grow against the rocks.",the particles,p1
+"The particles continue to hit, brush against, or grow against the rocks.",against the rocks,p2
+"The particles continue to hit, brush against, or grow against the rocks.",the rocks,p2
+The rock eventually is broken apart by this contact.,the rock,p2
+The rock eventually is broken apart by this contact.,eventually,
+The rock eventually is broken apart by this contact.,broken apart by this contact,
+The pieces of the rock are now small rocks.,the pieces of the rock,p2
+The pieces of the rock are now small rocks.,small rocks,"p2,p4"
+The rock pieces are worn away into smaller and smaller pieces by the same forces.,the rock pieces,p2
+The rock pieces are worn away into smaller and smaller pieces by the same forces.,away into smaller and smaller pieces,
+The rock pieces are worn away into smaller and smaller pieces by the same forces.,smaller and smaller pieces,

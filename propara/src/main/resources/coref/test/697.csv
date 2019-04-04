@@ -1,0 +1,21 @@
+p1,p2,p3
+water,clouds,rain
+SENTENCE,PHRASE,REFERENCE
+Water beings to evaporate from bodies of water.,water beings,p1
+Water beings to evaporate from bodies of water.,from bodies of water,p1
+Water beings to evaporate from bodies of water.,bodies of water,p1
+The water condenses into clouds.,the water,p1
+The water condenses into clouds.,clouds,p2
+The clouds travel and accumulate more water.,the clouds,p2
+The clouds travel and accumulate more water.,more water,p1
+The clouds reach a point where they cannot hold any more water.,the clouds,p2
+The clouds reach a point where they cannot hold any more water.,a point where they can not hold any more water,p1
+The clouds reach a point where they cannot hold any more water.,the clouds,p2
+The clouds reach a point where they cannot hold any more water.,any more water,p1
+The clouds reach a point where they cannot hold any more water.,water,p1
+It begins to rain on areas below the clouds.,it,
+It begins to rain on areas below the clouds.,to rain,p3
+It begins to rain on areas below the clouds.,on areas below the clouds,p2
+It begins to rain on areas below the clouds.,it,
+It begins to rain on areas below the clouds.,on areas below the clouds,p2
+It begins to rain on areas below the clouds.,areas below the clouds,p2

@@ -1,0 +1,28 @@
+p1,p2,p3
+animal,food,"suitable place to hibernate, den"
+SENTENCE,PHRASE,REFERENCE
+An animal eats a lot of food to fatten up.,an animal,p1
+An animal eats a lot of food to fatten up.,a lot of food,p2
+An animal eats a lot of food to fatten up.,to fatten up,
+An animal eats a lot of food to fatten up.,a lot of food,p2
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,the animal,p1
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,a suitable place to hibernate where they can stay warm and protected,p3
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,the animal,p1
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,a suitable place to hibernate,p3
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,a suitable place,
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,where they can stay warm and protected,
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,the animal,p1
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,they,
+The animal finds or builds a suitable place to hibernate where they can stay warm and protected.,warm and protected,
+The animal moves into their den.,the animal,p1
+The animal moves into their den.,into their den,p3
+The animal moves into their den.,their den,p3
+Their heart rate and breathing slow down to conserve energy.,their heart rate and breathing,
+Their heart rate and breathing slow down to conserve energy.,to conserve energy,
+Their heart rate and breathing slow down to conserve energy.,their heart rate and breathing slow down,
+Their heart rate and breathing slow down to conserve energy.,energy,
+They emerge from the den when the weather is warming up again.,they,
+They emerge from the den when the weather is warming up again.,from the den,p3
+They emerge from the den when the weather is warming up again.,the den,p3
+They emerge from the den when the weather is warming up again.,when the weather is warming up again,
+They emerge from the den when the weather is warming up again.,the weather,

@@ -1,0 +1,30 @@
+p1,p2,p3
+oxygenated blood,deoxygenated blood,oxygen
+SENTENCE,PHRASE,REFERENCE
+Two large veins bring blood to the heart.,two large veins,
+Two large veins bring blood to the heart.,blood,
+Two large veins bring blood to the heart.,to the heart,
+The deoxygenated blood returns to the heart.,blood,
+The blood enters the right atrium.,the blood,
+The blood enters the right atrium.,the right atrium,
+The blood flows through the tricuspid valve.,the blood,
+The blood flows through the tricuspid valve.,through the tricuspid valve,
+The blood flows through the tricuspid valve.,the tricuspid valve,
+The blood travels into the right ventricle.,the blood,
+The blood travels into the right ventricle.,into the right ventricle,
+The blood travels into the right ventricle.,the right ventricle,
+The blood goes through the pulmonary arteries to the lungs.,the blood,
+The blood goes through the pulmonary arteries to the lungs.,through the pulmonary arteries to the lungs,
+The blood goes through the pulmonary arteries to the lungs.,the pulmonary arteries,
+Blood picks up oxygen in the lungs.,blood,
+Blood picks up oxygen in the lungs.,oxygen,p3
+Blood picks up oxygen in the lungs.,in the lungs,
+Oxygenated blood enters the left atrium.,blood,
+Oxygenated blood enters the left atrium.,oxygenated blood,p1
+Oxygenated blood enters the left atrium.,the left atrium,
+Blood goes to the left ventricle.,blood,p1
+Blood goes to the left ventricle.,to the left ventricle,
+Blood goes to the left ventricle.,the left ventricle,
+Blood leaves the heart via the aorta to the rest of the body.,blood,p1
+Blood leaves the heart via the aorta to the rest of the body.,the heart,
+Blood leaves the heart via the aorta to the rest of the body.,via the aorta to the rest of the body,

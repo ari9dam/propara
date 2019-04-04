@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5,p6,p7
+magma,crystals,igneous rocks,sediment,sedimentary rocks,metamorphic rocks,rock
+SENTENCE,PHRASE,REFERENCE
+Rock begins as magma from a volcano.,rock,p7
+Rock begins as magma from a volcano.,as magma,p1
+Rock begins as magma from a volcano.,magma,p1
+Rock begins as magma from a volcano.,from a volcano,
+Rock begins as magma from a volcano.,a volcano,
+The magma cools.,the magma,p1
+Crystals form and the magma become igneous rocks.,crystals,p2
+Crystals form and the magma become igneous rocks.,the magma,p1
+Crystals form and the magma become igneous rocks.,igneous rocks,"p3,p7"
+The igneous rocks break down into sediment.,the igneous rocks,"p3,p7"
+The igneous rocks break down into sediment.,into sediment,p4
+The igneous rocks break down into sediment.,sediment,p4
+Become sedimentary rocks.,sedimentary rocks,"p5,p7"
+If subjected to heat and/or pressure from plate-tectonic activity the sedimentary rocks become metamorphic rock.,heat and/or pressure,
+If subjected to heat and/or pressure from plate-tectonic activity the sedimentary rocks become metamorphic rock.,if subjected to heat and/or pressure from plate-tectonic activity,
+If subjected to heat and/or pressure from plate-tectonic activity the sedimentary rocks become metamorphic rock.,the sedimentary rocks,"p5,p7"
+If subjected to heat and/or pressure from plate-tectonic activity the sedimentary rocks become metamorphic rock.,metamorphic rock,"p6,p7"
+The metamorphic rocks melt.,the metamorphic rocks,"p6,p7"
+Become magma again.,magma,p1

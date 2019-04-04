@@ -1,0 +1,9 @@
+p1,p2,p3
+"air, rising air",water vapor,clouds
+SENTENCE,PHRASE,REFERENCE
+Air rises.,air,p1
+Rising air cools.,air cool,p1
+Rising air cools.,rising air,p1
+Water vapor forms.,water vapor,p2
+Water vapor condenses.,water vapor,p2
+Clouds form.,clouds,p3

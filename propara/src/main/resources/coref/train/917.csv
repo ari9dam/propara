@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+energy,fault lines,earth's plates,seismic wave
+SENTENCE,PHRASE,REFERENCE
+Energy builds up in the crust of the earth.,energy,p1
+Energy builds up in the crust of the earth.,in the crust of the earth,
+The energy causes the fault lines give way.,the energy,p1
+The energy causes the fault lines give way.,the fault lines give way,p2
+The energy causes the fault lines give way.,the fault lines,p2
+The energy causes the fault lines give way.,way,
+The earth's plates move.,the earth 's plates,p3
+The energy radiates outward from the fault in all directions.,the energy,p1
+The energy radiates outward from the fault in all directions.,fault,
+The energy radiates outward from the fault in all directions.,outward from the fault in all directions,
+The energy radiates outward from the fault in all directions.,in all directions,
+The seismic waves shake the earth as they move through it.,the seismic waves,p4
+The seismic waves shake the earth as they move through it.,the earth,
+The seismic waves shake the earth as they move through it.,as they move through it,
+The seismic waves shake the earth as they move through it.,seismic waves,p4
+The seismic waves shake the earth as they move through it.,it,

@@ -1,0 +1,17 @@
+p1,p2,p3
+"blood, clean blood",waste,urine
+SENTENCE,PHRASE,REFERENCE
+Blood enters the kidney.,blood,p1
+Blood enters the kidney.,the kidney,
+The blood travels into the neophrons.,the blood,p1
+The blood travels into the neophrons.,into the neophrons,
+The blood travels into the neophrons.,the neophrons,
+Waste is expelled via the neophrons.,waste,p2
+Waste is expelled via the neophrons.,via the neophrons,
+Waste is expelled via the neophrons.,the neophrons,
+The waste goes to the bladder in the form of urine.,the waste,p2
+The waste goes to the bladder in the form of urine.,to the bladder,
+The waste goes to the bladder in the form of urine.,the bladder,
+The waste goes to the bladder in the form of urine.,in the form of urine,p3
+The clean blood exits the kidneys.,the clean blood,p1
+The clean blood exits the kidneys.,the kidneys,

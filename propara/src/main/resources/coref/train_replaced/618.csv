@@ -1,0 +1,22 @@
+p1,p2,p3
+air,oxygen,red blood cells
+SENTENCE,PHRASE,REFERENCE
+Air goes into the lungs.,air,p1
+Air goes into the lungs.,into the lungs,
+Air goes into the lungs.,the lungs,
+The lungs remove oxygen from the air.,the lungs,
+The lungs remove oxygen from the air.,oxygen,p2
+The lungs remove oxygen from the air.,from the air,p1
+The lungs remove oxygen from the air.,the air,p1
+Oxygen diffuses from alveoli in the lungs to the bloodstream.,oxygen,p2
+Oxygen diffuses from alveoli in the lungs to the bloodstream.,from alveoli,
+Oxygen diffuses from alveoli in the lungs to the bloodstream.,from alveoli in the lungs to the bloodstream,
+Oxygen diffuses from alveoli in the lungs to the bloodstream.,to the bloodstream,
+Hemoglobin in red blood cells attaches to the oxygen.,hemoglobin in red blood cells,p3
+Hemoglobin in red blood cells attaches to the oxygen.,the oxygen,p2
+Red blood cells carry oxygen all around the body.,red blood cells,p3
+Red blood cells carry oxygen all around the body.,oxygen,p2
+Red blood cells carry oxygen all around the body.,all around the body,
+Oxygen diffuses into cells from capillaries.,oxygen,p2
+Oxygen diffuses into cells from capillaries.,capillaries,
+Oxygen diffuses into cells from capillaries.,from capillaries,

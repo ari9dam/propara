@@ -1,0 +1,33 @@
+p1,p2,p3,p4,p5,p6
+bees,wax,chewed up wax,honeycomb,hive,"nectary, honey, and pollen"
+SENTENCE,PHRASE,REFERENCE
+"Bees first secure the perfect spot, such as hollow areas of trees.",bees,p1
+"Bees first secure the perfect spot, such as hollow areas of trees.",the perfect spot,
+Bees will begin to chew max until it becomes softened.,bees,p1
+Bees will begin to chew max until it becomes softened.,to chew max,
+Bees will begin to chew max until it becomes softened.,until it becomes softened,
+Bees will begin to chew max until it becomes softened.,bees,p1
+Bees will begin to chew max until it becomes softened.,max,
+Bees will begin to chew max until it becomes softened.,until it becomes softened,
+Bees will begin to chew max until it becomes softened.,bees,p1
+Bees will begin to chew max until it becomes softened.,softened,
+The chewed up wax will be stored inside of a honeycomb.,wax,p2
+The chewed up wax will be stored inside of a honeycomb.,the chewed up wax,"p2,p3"
+The chewed up wax will be stored inside of a honeycomb.,inside of a honeycomb,p4
+Worker bees continue chewing and softening wax from within.,worker bees,p1
+Worker bees continue chewing and softening wax from within.,chewing and softening wax from within,p2
+Worker bees continue chewing and softening wax from within.,worker bees,p1
+Worker bees continue chewing and softening wax from within.,wax,p2
+Worker bees continue chewing and softening wax from within.,worker bees,p1
+Worker bees continue chewing and softening wax from within.,wax,p2
+Worker bees continue chewing and softening wax from within.,from within,
+"The chewed up wax is steadily added, making the hive bigger and bigger.",wax,p2
+"The chewed up wax is steadily added, making the hive bigger and bigger.",the chewed up wax,"p2,p3"
+"The chewed up wax is steadily added, making the hive bigger and bigger.",steadily,
+"The chewed up wax is steadily added, making the hive bigger and bigger.",the chewed up wax is steadily added,"p2,p3"
+"The chewed up wax is steadily added, making the hive bigger and bigger.",the hive,p5
+"The chewed up wax is steadily added, making the hive bigger and bigger.",the hive bigger and bigger,p5
+"The chewed up wax is steadily added, making the hive bigger and bigger.",bigger and bigger,
+"The bees will house nectar, honey and pollen within the honeycomb's cells.",the bees,p1
+"The bees will house nectar, honey and pollen within the honeycomb's cells.","nectar , honey and pollen",p6
+"The bees will house nectar, honey and pollen within the honeycomb's cells.",within the honeycomb 's cells,p4

@@ -1,0 +1,18 @@
+p1,p2,p3
+chemicals,acid rain,vegetation
+SENTENCE,PHRASE,REFERENCE
+Acid rain is produced by chemicals that reach into the atmosphere.,acid rain,p2
+Acid rain is produced by chemicals that reach into the atmosphere.,by chemicals that reach into the atmosphere,p1
+Acid rain is produced by chemicals that reach into the atmosphere.,chemicals that reach into the atmosphere,p1
+Acid rain is produced by chemicals that reach into the atmosphere.,chemicals,p1
+Acid rain is produced by chemicals that reach into the atmosphere.,into the atmosphere,
+Acid rain is produced by chemicals that reach into the atmosphere.,the atmosphere,
+Falls onto the ground.,onto the ground,
+Falls onto the ground.,the ground,
+The acid rain starts scouring rocks.,the acid rain,p2
+The acid rain starts scouring rocks.,scouring rocks,
+The acid rain starts scouring rocks.,the acid rain,p2
+The acid rain starts scouring rocks.,rocks,
+Destroys vegetation.,vegetation,p3
+The lack of vegetation alters the surrounding environment.,the lack of vegetation,p3
+The lack of vegetation alters the surrounding environment.,the surrounding environment,

@@ -1,0 +1,25 @@
+p1,p2,p3
+fruit,seeds,waste
+SENTENCE,PHRASE,REFERENCE
+Animals pull a fruit off a plant or pick a fruit up from the ground.,animals,
+Animals pull a fruit off a plant or pick a fruit up from the ground.,a fruit,p1
+Animals pull a fruit off a plant or pick a fruit up from the ground.,off a plant,
+Animals pull a fruit off a plant or pick a fruit up from the ground.,animals,
+Animals pull a fruit off a plant or pick a fruit up from the ground.,a fruit,p1
+Animals pull a fruit off a plant or pick a fruit up from the ground.,up from the ground,
+Animals pull a fruit off a plant or pick a fruit up from the ground.,the ground,
+Animals eat the fruit.,animals,
+Animals eat the fruit.,the fruit,p1
+Animals drop some seeds onto the ground.,animals,
+Animals drop some seeds onto the ground.,some seeds,p2
+Animals drop some seeds onto the ground.,onto the ground,
+Animals eat some seeds.,animals,
+Animals eat some seeds.,some seeds,p2
+The seeds are in the animal's waste.,the seeds,p2
+The seeds are in the animal's waste.,in the animal 's waste,p3
+The seeds are in the animal's waste.,the animal 's waste,p3
+The waste goes onto the ground.,the waste,p3
+The waste goes onto the ground.,onto the ground,
+The waste goes onto the ground.,the ground,
+There are seeds on the ground in different areas away from the plant.,seeds,p2
+There are seeds on the ground in different areas away from the plant.,in different areas away from the plant,

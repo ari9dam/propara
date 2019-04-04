@@ -1,0 +1,25 @@
+p1,p2,p3,p4,p5,p6
+primary root,shoot,leaf,flowers,fruit,seeds
+SENTENCE,PHRASE,REFERENCE
+The primary root breaks from the seed.,the primary root,p1
+The primary root breaks from the seed.,the seed,p6
+A shoot develops with a leaf.,a shoot,p2
+A shoot develops with a leaf.,with a leaf,p3
+A shoot develops with a leaf.,a leaf,p3
+The shoot breaks through the soil as a seedling.,the shoot,p2
+The shoot breaks through the soil as a seedling.,through the soil,
+The shoot breaks through the soil as a seedling.,the soil,
+The shoot breaks through the soil as a seedling.,as a seedling,
+The tree becomes a sapling when it gets taller than 3 ft.,the tree,
+The tree becomes a sapling when it gets taller than 3 ft.,a sapling,
+The tree becomes a sapling when it gets taller than 3 ft.,when it gets taller than 3 ft.,
+The tree becomes a sapling when it gets taller than 3 ft.,the tree,
+The tree becomes a sapling when it gets taller than 3 ft.,taller than 3 ft.,
+The mature tree produces flowers or fruit.,the mature tree,
+The mature tree produces flowers or fruit.,flowers or fruit,"p4,p5"
+Seeds are produced from the flowers or fruit.,seeds,p6
+Seeds are produced from the flowers or fruit.,from the flowers or fruit,"p4,p5"
+Seeds are produced from the flowers or fruit.,the flowers or fruit,"p4,p5"
+A dead or dying tree is known as a snag.,tree,
+A dead or dying tree is known as a snag.,a dead or dying tree,
+A dead or dying tree is known as a snag.,a snag,

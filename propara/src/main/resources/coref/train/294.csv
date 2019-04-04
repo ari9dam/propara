@@ -1,0 +1,19 @@
+p1,p2,p3
+oxygen,glucose,carbon dioxide
+SENTENCE,PHRASE,REFERENCE
+A person takes in oxygen through their nose or mouth.,a person,
+A person takes in oxygen through their nose or mouth.,in oxygen,p1
+A person takes in oxygen through their nose or mouth.,oxygen,p1
+A person takes in oxygen through their nose or mouth.,through their nose or mouth,
+The oxygen travels into the body.,the oxygen,p1
+The oxygen travels into the body.,into the body,
+The oxygen travels into the body.,the body,
+Breaks down into glucose.,into glucose,p2
+Breaks down into glucose.,glucose,p2
+Carbon dioxide is produced by the glucose breakdown.,carbon dioxide,p3
+Carbon dioxide is produced by the glucose breakdown.,by the glucose breakdown,p2
+Carbon dioxide is produced by the glucose breakdown.,the glucose breakdown,p2
+The carbon dioxide is exhaled out of the body through the nose or mouth.,the carbon dioxide,p3
+The carbon dioxide is exhaled out of the body through the nose or mouth.,out of the body,
+The carbon dioxide is exhaled out of the body through the nose or mouth.,the body,
+The carbon dioxide is exhaled out of the body through the nose or mouth.,through the nose or mouth,

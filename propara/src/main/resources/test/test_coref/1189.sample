@@ -1,0 +1,45 @@
+observedAt("break","what v into something ?","chunks of rocks",1).
+observedAt("break","what does something v into ?","meteorites",1).
+lvalue("meteorites","meteorite").
+observedAt("pass","what v ?","the rock",2).
+observedAt("pass","where does something v ?","through the atmosphere",2).
+lvalue("through the atmosphere","atmosphere").
+observedAt("pass","what does something v into ?","the atmosphere",2).
+lvalue("the atmosphere","atmosphere").
+observedAt("be","what v something ?","the rock",3).
+observedAt("be","what does something v ?","too big to be slowed down",3).
+observedAt("slow","what is not be v ?","the rock",3).
+observedAt("smash","what v into something ?","the chunks",4).
+observedAt("smash","where is something v ?","into the earth",4).
+lvalue("into the earth","earth").
+observedAt("smash","what does something v into ?","the earth",4).
+lvalue("the earth","earth").
+observedAt("smash","how does something v into something ?","at a high velocity",4).
+observedAt("hit","what v something ?","the meteorite",5).
+lvalue("the meteorite","meteorite").
+observedAt("hit","what v ?","meteorite",5).
+lvalue("meteorite","meteorite").
+observedAt("impact","what can v something ?","the angle the meteorite hits",5).
+lvalue("the angle the meteorite hits","meteorite").
+observedAt("impact","what can something v ?","how large the crater is",5).
+observedAt("be","what v something ?","the crater",5).
+observedAt("hit","what does something v ?","the material",6).
+observedAt("hit","what v something ?","it",6).
+observedAt("help","what v doing something ?","the material it hits",6).
+observedAt("help","what does something v do ?","determine the size of the crater",6).
+observedAt("determine","what v something ?","the material it hits",6).
+observedAt("determine","what does something v ?","the size of the crater",6).
+time(1..6).
+participant(p1;p2).
+description(p1,"chunks of rock").
+description(p2,"crater").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"chunks of rocks").
+refers(2,p1,"the rock").
+refers(3,p1,"the rock").
+refers(3,p1,"the rock").
+refers(4,p1,"the chunks").
+refers(5,p2,"how large the crater is").
+refers(5,p2,"the crater").
+refers(6,p2,"determine the size of the crater").
+refers(6,p2,"the size of the crater").

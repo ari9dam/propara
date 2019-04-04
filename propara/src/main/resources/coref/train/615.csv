@@ -1,0 +1,19 @@
+p1,p2
+waste,red blood cells
+SENTENCE,PHRASE,REFERENCE
+Kidneys filter waste out of blood.,kidneys,
+Kidneys filter waste out of blood.,waste,p1
+Kidneys filter waste out of blood.,out of blood,
+Kidneys filter waste out of blood.,blood,
+Composition of blood is regulated.,composition of blood,
+Volume of water in blood is kept constant.,volume of water in blood,
+Volume of water in blood is kept constant.,constant,
+PH is kept at a constant level.,ph,
+PH is kept at a constant level.,at a constant level,
+Kidneys help regulate blood pressure.,kidneys,
+Kidneys help regulate blood pressure.,regulate blood pressure,
+Kidneys help regulate blood pressure.,kidneys,
+Kidneys help regulate blood pressure.,blood pressure,
+Kidneys stimulate the making of red blood cells.,kidneys,
+Kidneys stimulate the making of red blood cells.,the making of red blood cells,p2
+Calcium levels are maintained.,calcium levels,

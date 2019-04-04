@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+water,rocks,chemicals,oxygen
+SENTENCE,PHRASE,REFERENCE,
+Water flows by rocks.,water,p1,
+Water flows by rocks.,by rocks,p2,
+Water flows by rocks.,rocks,p2,
+Chemicals are in the waters.,chemicals,p3,
+Chemicals are in the waters.,in the waters,p1,
+Chemicals react with rocks.,chemicals,p3,
+Chemicals react with rocks.,rocks,p2,
+Rocks change to a different kind of rock.,rocks,p2,
+Rocks change to a different kind of rock.,to a different kind of rock,p2,
+Oxygen in the air reacts with rocks.,oxygen in the air,p4,
+Oxygen in the air reacts with rocks.,in the air,,
+Oxygen in the air reacts with rocks.,rocks,p2,
+Rocks change to a different kind of rock.,rocks,p2,
+Rocks change to a different kind of rock.,to a different kind of rock,p2,

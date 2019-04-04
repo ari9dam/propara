@@ -1,0 +1,22 @@
+p1,p2
+bee,pollen sac
+SENTENCE,PHRASE,REFERENCE
+A bee lands on the flower.,a bee,p1
+A bee lands on the flower.,on the flower,
+A bee lands on the flower.,the flower,
+Their feet slip into little grooves that hold pollen sacs.,their feet,
+Their feet slip into little grooves that hold pollen sacs.,little grooves that hold pollen sacs,p2
+Their feet slip into little grooves that hold pollen sacs.,little grooves,
+Their feet slip into little grooves that hold pollen sacs.,pollen sacs,p2
+"When the bee flies off, it carries off the pollen sac.",the bee,p1
+"When the bee flies off, it carries off the pollen sac.",off,
+"When the bee flies off, it carries off the pollen sac.",when the bee flies off,p1
+"When the bee flies off, it carries off the pollen sac.",the bee,p1
+"When the bee flies off, it carries off the pollen sac.",the pollen sac,p2
+The bee lands on another plant.,the bee,p1
+The bee lands on another plant.,on another plant,
+The bee lands on another plant.,another plant,
+The pollen sac falls off and pollinates the plant.,the pollen sac,p2
+The pollen sac falls off and pollinates the plant.,off,
+The pollen sac falls off and pollinates the plant.,the pollen sac,p2
+The pollen sac falls off and pollinates the plant.,the plant,

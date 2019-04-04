@@ -1,0 +1,39 @@
+p1,p2,p3,p4,p5
+ingredients,eggs,vegetable oil,batter,cake
+SENTENCE,PHRASE,REFERENCE
+To bake a cake you first need to gather your ingredients.,a cake,p5
+To bake a cake you first need to gather your ingredients.,to bake a cake,p5
+To bake a cake you first need to gather your ingredients.,you,
+To bake a cake you first need to gather your ingredients.,to gather your ingredients,p1
+To bake a cake you first need to gather your ingredients.,gather your ingredients,p1
+To bake a cake you first need to gather your ingredients.,to bake a cake,p5
+To bake a cake you first need to gather your ingredients.,you,
+To bake a cake you first need to gather your ingredients.,your ingredients,p1
+Preheat the oven to desired baking temperature.,the oven,
+Preheat the oven to desired baking temperature.,to desired baking temperature,
+Preheat the oven to desired baking temperature.,desired baking temperature,
+Preheat the oven to desired baking temperature.,baking temperature,
+Preheat the oven to desired baking temperature.,temperature,
+Grease your preferred cake pan with crisco or butter or other non-stick spray.,your preferred cake pan,p5
+Grease your preferred cake pan with crisco or butter or other non-stick spray.,with crisco or butter or other non-stick spray,
+Add eggs and vegetable oil to the dry ingredients.,eggs and vegetable oil,"p2,p3"
+Add eggs and vegetable oil to the dry ingredients.,to the dry ingredients,p1
+Add eggs and vegetable oil to the dry ingredients.,the dry ingredients,p1
+Stir or whisk until all the dry flour has been absorbed.,until all the dry flour has been absorbed,
+Stir or whisk until all the dry flour has been absorbed.,until all the dry flour has been absorbed,
+Stir or whisk until all the dry flour has been absorbed.,the dry flour,
+Pour the batter into the greased cake pan.,the batter,p4
+Pour the batter into the greased cake pan.,into the greased cake pan,p5
+Pour the batter into the greased cake pan.,the greased cake pan,p5
+Place cake pan into the oven for the required time.,time,
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",a toothpick,
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",into the cake,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",the cake,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",a toothpick inserted into the cake,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",out clean,
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",clean,
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",when a toothpick inserted into the cake comes out clean,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",the cake,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",baking,
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",when a toothpick inserted into the cake comes out clean,p5
+"When a toothpick inserted into the cake comes out clean, the cake is done baking.",the cake,p5

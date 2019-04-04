@@ -1,0 +1,15 @@
+p1,p2,p3
+fruit,seed,new plant
+SENTENCE,PHRASE,REFERENCE
+A plant produces a fruit with seeds in it.,a plant,
+A plant produces a fruit with seeds in it.,a fruit with seeds,"p1,p2"
+An animal eats the fruit.,an animal,
+An animal eats the fruit.,the fruit,p1
+The animal wanders to another area.,the animal,
+The animal wanders to another area.,to another area,
+The animal defecates.,the animal,
+The seeds are included in the waste.,the seeds,p2
+The seeds are included in the waste.,in the waste,
+The seeds are included in the waste.,the waste,
+The seeds produce a new plant.,the seeds,p2
+The seeds produce a new plant.,a new plant,p3

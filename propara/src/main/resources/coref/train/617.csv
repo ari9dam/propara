@@ -1,0 +1,37 @@
+p1,p2,p3
+air,oxygen,red blood cells
+SENTENCE,PHRASE,REFERENCE
+The human body takes a breath inward.,the human body,
+The human body takes a breath inward.,a breath,
+The human body takes a breath inward.,inward,
+The oxygen can then reach the cells within the tissue.,the oxygen,p2
+The oxygen can then reach the cells within the tissue.,the cells,
+The oxygen can then reach the cells within the tissue.,within the tissue,
+Air is transported to the lungs.,air,p1
+Air is transported to the lungs.,to the lungs,
+Air is transported to the lungs.,the lungs,
+"Air reaches the alveoli, the smallest air sacs in the lungs.",air,p1
+"Air reaches the alveoli, the smallest air sacs in the lungs.",the alveoli,
+"In the alveoli, air passes into the blood within small capillaries.",within small capillaries,
+"In the alveoli, air passes into the blood within small capillaries.",air,p1
+"In the alveoli, air passes into the blood within small capillaries.",into the blood,
+"In the alveoli, air passes into the blood within small capillaries.",the blood,
+The gaseous oxygen in the air dissolves into the capillary blood.,the gaseous oxygen in the air,"p1,p2"
+The gaseous oxygen in the air dissolves into the capillary blood.,into the capillary blood,
+The gaseous oxygen in the air dissolves into the capillary blood.,the capillary blood,
+The dissolved oxygen is picked-up by red blood cells.,oxygen,p2
+The dissolved oxygen is picked-up by red blood cells.,the dissolved oxygen,p2
+The dissolved oxygen is picked-up by red blood cells.,picked-up by red blood cells,p3
+The red blood cells bind the oxygen via a protein called heme.,the red blood cells,p3
+The red blood cells bind the oxygen via a protein called heme.,the oxygen,p2
+The red blood cells bind the oxygen via a protein called heme.,via a protein called heme,
+The red blood cells bind the oxygen via a protein called heme.,a protein,
+The red blood cells bind the oxygen via a protein called heme.,heme,
+Red blood cells circulate throughout the body and reach the various tissues.,red blood cells,p3
+Red blood cells circulate throughout the body and reach the various tissues.,throughout the body,
+Red blood cells circulate throughout the body and reach the various tissues.,red blood cells,p3
+Red blood cells circulate throughout the body and reach the various tissues.,throughout the body,
+Red blood cells circulate throughout the body and reach the various tissues.,the various tissues,
+"Within small capillaries, the heme release the oxygen.",within small capillaries,
+"Within small capillaries, the heme release the oxygen.",the heme,
+"Within small capillaries, the heme release the oxygen.",the oxygen,p2

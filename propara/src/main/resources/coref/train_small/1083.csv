@@ -1,0 +1,20 @@
+p1,p2,p3
+pumpkin seed,vine,flower
+SENTENCE,PHRASE,REFERENCE
+First you dig a whole.,first,
+First you dig a whole.,you,
+First you dig a whole.,a whole,
+You place a pumpkin seed in the hole.,you,
+You place a pumpkin seed in the hole.,a pumpkin seed,p1
+You place a pumpkin seed in the hole.,in the hole,
+You put some dirt over the seed.,you,
+You put some dirt over the seed.,some dirt,
+You put some dirt over the seed.,over the seed,
+You water the seed.,you,
+You water the seed.,the seed,
+The seed will sprout.,the seed,
+A vine will grow.,a vine,p2
+The vine will flower.,the vine,p2
+Pumpkins will appear where the flowers were.,pumpkins,
+Pumpkins will appear where the flowers were.,where the flowers were,p3
+Pumpkins will appear where the flowers were.,the flowers,p3

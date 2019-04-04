@@ -1,0 +1,12 @@
+p1,p2,p3,p4
+earth,moon,sun,solar eclipse
+SENTENCE,PHRASE,REFERENCE
+The moon orbits the earth.,the moon,p2
+The moon orbits the earth.,the earth,p1
+The earth orbits the sun.,the earth,p1
+The earth orbits the sun.,the sun,p3
+The moon comes between the sun and the earth.,the moon,p2
+The moon comes between the sun and the earth.,between the sun and the earth,"p1,p3"
+The sun is totally blocked.,the sun,p3
+The sun is totally blocked.,totally,
+A solar eclipse is occurring.,a solar eclipse,p4

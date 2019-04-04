@@ -1,0 +1,20 @@
+p1,p2,p3
+blood,waste,urine
+SENTENCE,PHRASE,REFERENCE
+The kidneys receive blood from the renal artery.,the kidneys,
+The kidneys receive blood from the renal artery.,blood,p1
+The kidneys receive blood from the renal artery.,from the renal artery,
+The kidneys receive blood from the renal artery.,the renal artery,
+They process it with millions of tiny nephrons.,they,
+They process it with millions of tiny nephrons.,it,
+They process it with millions of tiny nephrons.,with millions of tiny nephrons,
+They process it with millions of tiny nephrons.,millions of tiny nephrons,
+Remove all the waste.,all the waste,p2
+The kidneys return the blood back to the body through the renal artery.,the kidneys,
+The kidneys return the blood back to the body through the renal artery.,the blood,p1
+The kidneys return the blood back to the body through the renal artery.,back to the body,
+The kidneys return the blood back to the body through the renal artery.,through the renal artery,
+Send the urine with the waste to the bladder through the ureters.,the urine,p3
+Send the urine with the waste to the bladder through the ureters.,with the waste,p2
+Send the urine with the waste to the bladder through the ureters.,the waste,p2
+Send the urine with the waste to the bladder through the ureters.,through the ureters,

@@ -1,0 +1,21 @@
+p1,p2,p3
+crops,fertilizer,seeds
+SENTENCE,PHRASE,REFERENCE
+The planter must select a crop.,the planter,
+The planter must select a crop.,a crop,p1
+The soil is prepared properly for that specific crop.,the soil,
+The soil is prepared properly for that specific crop.,prepared properly for that specific crop,p1
+Fertilizer is added to the soil.,fertilizer,p2
+Fertilizer is added to the soil.,to the soil,
+Fertilizer is added to the soil.,the soil,
+Seeds are planted in the field.,seeds,p3
+Seeds are planted in the field.,in the field,
+Irrigation is set up to keep the crops properly watered.,irrigation,
+Irrigation is set up to keep the crops properly watered.,to keep the crops properly watered,p1
+Irrigation is set up to keep the crops properly watered.,irrigation,
+Irrigation is set up to keep the crops properly watered.,the crops,p1
+Irrigation is set up to keep the crops properly watered.,properly watered,
+Irrigation is set up to keep the crops properly watered.,the crops,p1
+Irrigation is set up to keep the crops properly watered.,properly,
+The crops grow.,the crops,p1
+The crops are harvested.,the crops,p1

@@ -1,0 +1,17 @@
+p1,p2,p3
+egg,bird,its own nest
+SENTENCE,PHRASE,REFERENCE
+A bird hatches from an egg.,a bird,p2
+A bird hatches from an egg.,from an egg,p1
+A bird hatches from an egg.,an egg,p1
+The bird is nurtured by its parents.,the bird,p2
+The bird is nurtured by its parents.,its parents,
+And is fed food for growth.,food,
+The bird grows.,the bird,p2
+Begins to learn how to fly.,to learn how to fly,
+Begins to learn how to fly.,how to fly,
+The bird matures.,the bird,p2
+The bird leaves its nest.,the bird,p2
+The bird leaves its nest.,its nest,
+The bird makes its own nest.,the bird,p2
+The bird makes its own nest.,its own nest,p3

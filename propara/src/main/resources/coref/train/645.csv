@@ -1,0 +1,29 @@
+p1,p2,p3,p4,p5,p6,p7,p8
+sperm,egg,"fertilized egg, zygote",embryo,fetus,baby,child,adult
+SENTENCE,PHRASE,REFERENCE
+A sperm and egg meet inside a woman's fallopian tube.,a sperm and egg,"p1,p2"
+A sperm and egg meet inside a woman's fallopian tube.,inside a woman 's fallopian tube,
+The adult mates with another adult.,the adult,p8
+The adult mates with another adult.,adult,p8
+The adult mates with another adult.,another adult,p8
+"The fertilized egg, now a zygote, travels to the uterus.",egg,p2
+"The fertilized egg, now a zygote, travels to the uterus.",the fertilized egg,"p2,p3"
+"The fertilized egg, now a zygote, travels to the uterus.",to the uterus,
+"The fertilized egg, now a zygote, travels to the uterus.",the uterus,
+The zygote implants in the uterus.,the zygote,p3
+The zygote implants in the uterus.,zygote,p3
+The zygote implants in the uterus.,in the uterus,
+The zygote implants in the uterus.,the uterus,
+The zygote becomes an embryo.,the zygote,p3
+The zygote becomes an embryo.,an embryo,p4
+The embryo becomes a fetus.,the embryo,p4
+The embryo becomes a fetus.,a fetus,p5
+The fetus grows for approximately 9 months.,the fetus,p5
+The fetus grows for approximately 9 months.,for approximately 9 months,
+The woman gives birth to a baby.,the woman,
+The woman gives birth to a baby.,birth to a baby,p6
+The woman gives birth to a baby.,a baby,p6
+The baby grows into a child.,the baby,p6
+The baby grows into a child.,into a child,p7
+The child becomes an adult.,the child,p7
+The child becomes an adult.,an adult,p8

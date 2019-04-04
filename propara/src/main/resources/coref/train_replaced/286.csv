@@ -1,0 +1,16 @@
+p1,p2,p3
+water,ice cube tray,ice cubes
+SENTENCE,PHRASE,REFERENCE
+Put water in an ice cube tray.,water,p1
+Put water in an ice cube tray.,in an ice cube tray,p2
+Put the ice cube tray in the freezer.,the ice cube tray,p2
+Put the ice cube tray in the freezer.,in the freezer,
+Wait 5 to 6 hours.,5 to 6 hours,
+Take the ice cube tray out of the freezer.,the ice cube tray,p2
+Take the ice cube tray out of the freezer.,out of the freezer,
+Bend the tray slightly to get the ice cubes out and into a drink.,bend the tray slightly,
+Bend the tray slightly to get the ice cubes out and into a drink.,the ice cubes,p3
+Bend the tray slightly to get the ice cubes out and into a drink.,out and into a drink,
+Bend the tray slightly to get the ice cubes out and into a drink.,the ice,p3
+Bend the tray slightly to get the ice cubes out and into a drink.,ice,p3
+Bend the tray slightly to get the ice cubes out and into a drink.,out,

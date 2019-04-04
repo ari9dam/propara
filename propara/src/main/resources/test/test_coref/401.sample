@@ -1,0 +1,48 @@
+observedAt("make","what is v of something ?","solar panels",1).
+lvalue("solar panels","solar panel").
+observedAt("make","what is something v of ?","two types of silicon",1).
+observedAt("shine","what v ?","sun",2).
+lvalue("sun","sun").
+observedAt("shine","where does something v ?","on solar panels",2).
+lvalue("on solar panels","solar panel").
+observedAt("shine","what does something v on ?","solar panels",2).
+lvalue("solar panels","solar panel").
+observedAt("go","what v into something ?","sunlight",3).
+lvalue("sunlight","sun").
+observedAt("go","where does something v ?","into the top half of the solar panel",3).
+lvalue("into the top half of the solar panel","top half of the solar panel").
+observedAt("go","what does something v into ?","the top half of the solar panel",3).
+lvalue("the top half of the solar panel","top half of the solar panel").
+observedAt("travel","what v into something ?","sunlight",4).
+lvalue("sunlight","sun").
+observedAt("travel","where does something v ?","into the bottom half of the solar panel",4).
+lvalue("into the bottom half of the solar panel","bottom half of the solar panel").
+observedAt("travel","what does something v into ?","the bottom half of the solar panel",4).
+lvalue("the bottom half of the solar panel","bottom half of the solar panel").
+observedAt("use","what can be v ?","the jump between the two halves",5).
+observedAt("use","what can something be v to do ?","to make direct current",5).
+observedAt("make","what can v something ?","the jump between the two halves",5).
+observedAt("make","what can something v ?","direct current",5).
+observedAt("change","what v something ?","a solar inverter",6).
+lvalue("a solar inverter","inverter").
+observedAt("change","what does something v ?","the direct current to alternating current",6).
+observedAt("alternate","what is v ?","current",6).
+observedAt("alternate","what is v ?","current",7).
+observedAt("use","what can be v ?","alternating current",7).
+observedAt("use","what can something be v to do ?","to power things in your house",7).
+lvalue("to power things in your house","power").
+observedAt("use","where can something be v ?","in your house",7).
+lvalue("in your house","house").
+time(1..7).
+participant(p1;p2;p3).
+description(p1,"sunlight").
+description(p2,"direct current").
+description(p3,"alternating current").
+annotator(a1;a2;a3;a4;a5).
+refers(3,p1,"sunlight").
+refers(4,p1,"sunlight").
+refers(5,p2,"to make direct current").
+refers(5,p2,"direct current").
+refers(6,p2,"the direct current to alternating current").
+refers(6,p3,"the direct current to alternating current").
+refers(7,p3,"alternating current").

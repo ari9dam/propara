@@ -1,0 +1,20 @@
+p1,p2,p3,p4
+bacteria,cells,toxins,disease symptoms
+SENTENCE,PHRASE,REFERENCE
+Someone is infected with bacteria.,someone,
+Someone is infected with bacteria.,bacteria,p1
+That bacteria begins to grow and reproduce inside the cells.,that bacteria,p1
+That bacteria begins to grow and reproduce inside the cells.,to grow and reproduce inside the cells,p2
+That bacteria begins to grow and reproduce inside the cells.,inside the cells,p2
+That bacteria begins to grow and reproduce inside the cells.,that bacteria,p1
+That bacteria begins to grow and reproduce inside the cells.,inside the cells,p2
+That bacteria begins to grow and reproduce inside the cells.,that bacteria,p1
+That bacteria begins to grow and reproduce inside the cells.,inside the cells,p2
+The dividing bacteria begin to make toxins.,bacteria,p1
+The dividing bacteria begin to make toxins.,the dividing bacteria,p1
+The dividing bacteria begin to make toxins.,to make toxins,p3
+The dividing bacteria begin to make toxins.,the dividing bacteria,p1
+The dividing bacteria begin to make toxins.,toxins,p3
+Those toxins damage your cells.,those toxins,p3
+Those toxins damage your cells.,your cells,p2
+Disease symptoms may begin.,disease symptoms,p4

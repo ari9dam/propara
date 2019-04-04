@@ -1,0 +1,31 @@
+p1,p2,p3
+waves,rocks,tiny parts of rocks
+SENTENCE,PHRASE,REFERENCE
+Water from the ocean washes onto beaches in waves.,water from the ocean,
+Water from the ocean washes onto beaches in waves.,onto beaches,
+Water from the ocean washes onto beaches in waves.,in waves,p1
+The waves contain sediment from the ocean.,the waves,p1
+The waves contain sediment from the ocean.,sediment,
+The waves contain sediment from the ocean.,from the ocean,
+The water and particles in it hit rocks and sand on the beach.,the water and particles in it,
+The water and particles in it hit rocks and sand on the beach.,rocks and sand,p2
+The water and particles in it hit rocks and sand on the beach.,on the beach,
+The wind and current sometimes push the water and particles harder.,the wind and current,
+The wind and current sometimes push the water and particles harder.,sometimes,
+The wind and current sometimes push the water and particles harder.,the water and particles,
+The wind and current sometimes push the water and particles harder.,harder,
+Tiny parts of the rocks on the shore come off the larger rocks.,tiny parts of the rocks on the shore,p3
+Tiny parts of the rocks on the shore come off the larger rocks.,off the larger rocks,p2
+Tiny parts of the rocks on the shore come off the larger rocks.,the larger rocks,p2
+The waves pick up sand and small rocks from the beach.,the waves,p1
+The waves pick up sand and small rocks from the beach.,sand and small rocks,p3
+The waves pick up sand and small rocks from the beach.,from the beach,
+The waves pick up sand and small rocks from the beach.,the beach,
+The waves go back out into the ocean.,the waves,p1
+The waves go back out into the ocean.,back out into the ocean,
+The waves carry the new particles with them.,the waves,p1
+The waves carry the new particles with them.,the new particles,p3
+The waves carry the new particles with them.,them,p1
+Rocks and the beach look a little different.,rocks and the beach,p2
+Rocks and the beach look a little different.,a little different,
+Water from the ocean washes onto beaches in waves.,ocean,

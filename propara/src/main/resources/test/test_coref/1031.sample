@@ -1,0 +1,40 @@
+observedAt("die","what v ?","a plant or animal",1).
+lvalue("a plant or animal","animal").
+observedAt("die","where does something v ?","in mud or soil",1).
+lvalue("in mud or soil","mud or soil").
+observedAt("die","what does something v in ?","mud or soil",1).
+lvalue("mud or soil","mud or soil").
+observedAt("be","what v something ?","the bones",2).
+observedAt("be","what does something v ?","all that remains",2).
+observedAt("remain","what v ?","the bones",2).
+observedAt("cover","when is something v ?","over time",3).
+observedAt("cover","what is v in something ?","the bones",3).
+observedAt("cover","how is something v ?","in sediment",3).
+lvalue("in sediment","sediment").
+observedAt("cover","what is something v in ?","sediment",3).
+lvalue("sediment","sediment").
+observedAt("become","what v something ?","the sediment",4).
+lvalue("the sediment","sediment").
+observedAt("become","what does something v ?","rock",4).
+lvalue("rock","rock").
+observedAt("become","what v something ?","the rock",5).
+lvalue("the rock","rock").
+observedAt("become","what does something v ?","a fossil",5).
+time(1..5).
+participant(p1;p2;p3;p4;p5).
+description(p1,"plant or animal").
+description(p2,"bones").
+description(p3,"sediment").
+description(p4,"rock").
+description(p5,"fossil").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a plant or animal").
+refers(2,p2,"the bones").
+refers(2,p2,"the bones").
+refers(3,p2,"the bones").
+refers(3,p3,"in sediment").
+refers(3,p3,"sediment").
+refers(4,p3,"the sediment").
+refers(4,p4,"rock").
+refers(5,p4,"the rock").
+refers(5,p5,"a fossil").

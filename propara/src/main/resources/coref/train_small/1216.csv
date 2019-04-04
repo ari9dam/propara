@@ -1,0 +1,19 @@
+p1,p2,p3
+Food,Sugar,Energy
+SENTENCE,PHRASE,REFERENCE
+You eat food.,you,
+You eat food.,food,p1
+Your stomach digests the food.,your stomach,
+Your stomach digests the food.,the food,p1
+Sugars from food enter your bloodstream.,sugars from food,"p1,p2"
+Sugars from food enter your bloodstream.,your bloodstream,
+Insulin helps turn sugars into energy.,insulin,
+Insulin helps turn sugars into energy.,turn sugars into energy,"p2,p3"
+Insulin helps turn sugars into energy.,insulin,
+Insulin helps turn sugars into energy.,helps,
+Insulin helps turn sugars into energy.,sugars,p2
+Insulin helps turn sugars into energy.,energy,p3
+"Insulin helps your body store the energy in fat, muscle and liver cells.",insulin,
+"Insulin helps your body store the energy in fat, muscle and liver cells.","your body store the energy in fat , muscle and liver cells",p3
+"Insulin helps your body store the energy in fat, muscle and liver cells.","store the energy in fat , muscle and liver cells",p3
+Sugars from food enter your bloodstream.,food,p1

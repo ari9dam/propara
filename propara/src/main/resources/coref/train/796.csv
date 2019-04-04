@@ -1,0 +1,13 @@
+p1,p2,p3
+air,carbon dioxide,oxygen
+SENTENCE,PHRASE,REFERENCE
+Air is brought in through the mouth.,air,p1
+Air is brought in through the mouth.,in through the mouth,
+Passes through the lungs.,through the lungs,
+Passes through the lungs.,the lungs,
+And into the bronchial tissue.,And into the bronchial tissue.,
+The carbon dioxide is removed.,the carbon dioxide,p2
+The lungs bring the oxygen to the rest of the body.,the lungs,
+The lungs bring the oxygen to the rest of the body.,the oxygen,p3
+The lungs bring the oxygen to the rest of the body.,to the rest of the body,
+The lungs bring the oxygen to the rest of the body.,the rest of the body,

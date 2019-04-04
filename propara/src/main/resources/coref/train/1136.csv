@@ -1,0 +1,30 @@
+p1,p2
+owls,rodent
+SENTENCE,PHRASE,REFERENCE
+Owls have specially adapted eyes that see better at night.,owls,p1
+Owls have specially adapted eyes that see better at night.,specially,
+Owls have specially adapted eyes that see better at night.,eyes,
+Owls have specially adapted eyes that see better at night.,specially adapted eyes,
+Owls have specially adapted eyes that see better at night.,better at night,
+Owls have specially adapted eyes that see better at night.,at night,
+Owls sit at high points in trees and look around.,owls,p1
+Owls sit at high points in trees and look around.,at high points in trees,
+Owls sit at high points in trees and look around.,owls,p1
+Owls sit at high points in trees and look around.,around,
+When an owl spots a rodent they track it.,an owl,p1
+When an owl spots a rodent they track it.,a rodent,p2
+When an owl spots a rodent they track it.,an owl,p1
+When an owl spots a rodent they track it.,a rodent,p2
+When the rodent is standing still the owl swoops down.,the rodent,p2
+When the rodent is standing still the owl swoops down.,when the rodent is standing still,p2
+When the rodent is standing still the owl swoops down.,the owl,p1
+When the rodent is standing still the owl swoops down.,down,
+The owl grabs the rodent with their tallons.,the owl,p1
+The owl grabs the rodent with their tallons.,the rodent,p2
+The owl grabs the rodent with their tallons.,with their tallons,
+The owl grabs the rodent with their tallons.,their tallons,
+The owl uses their beak to eat the rodent.,the owl,p1
+The owl uses their beak to eat the rodent.,their beak,
+The owl uses their beak to eat the rodent.,to eat the rodent,p2
+The owl uses their beak to eat the rodent.,the owl,p1
+The owl uses their beak to eat the rodent.,the rodent,p2

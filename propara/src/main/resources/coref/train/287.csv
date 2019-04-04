@@ -1,0 +1,17 @@
+p1,p2,p3
+"ice tray, tray",ice cubes,cold water
+SENTENCE,PHRASE,REFERENCE
+Get the ice tray.,the ice tray,p1
+Remove any ice cubes currently in the tray.,any ice cubes,p2
+Remove any ice cubes currently in the tray.,in the tray,p1
+Fill the tray with cold water.,the tray,p1
+Fill the tray with cold water.,with cold water,p3
+Fill the tray with cold water.,cold water,p3
+Ensure the tray is evenly filled to an appropriate level.,the tray,p1
+Ensure the tray is evenly filled to an appropriate level.,the tray,p1
+Ensure the tray is evenly filled to an appropriate level.,to an appropriate level,
+Ensure the tray is evenly filled to an appropriate level.,an appropriate level,
+Open the freezer.,the freezer,
+Place the tray in the freezer.,the tray,p1
+Place the tray in the freezer.,in the freezer,
+Close the freezer door.,the freezer door,

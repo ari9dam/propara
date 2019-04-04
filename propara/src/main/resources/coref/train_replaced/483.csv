@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+paper,stamp,utensil or computer,evelop
+SENTENCE,PHRASE,REFERENCE
+A utensil or computer is chosen for wording.,a utensil or computer,p3
+A utensil or computer is chosen for wording.,for wording,
+A utensil or computer is chosen for wording.,wording,
+A paper is chosen to write or type on.,a paper,p1
+A paper is chosen to write or type on.,to write or type on,
+A paper is chosen to write or type on.,write or type on,
+A paper is chosen to write or type on.,a paper,p1
+You write what you need to on the paper.,you,
+You write what you need to on the paper.,what you need to on the paper,p1
+You write what you need to on the paper.,you,
+You write what you need to on the paper.,the paper,p1
+Put the paper in an evelop.,the paper,p1
+Put the paper in an evelop.,in an evelop,p4
+Find a stamp.,a stamp,p2
+Find a post office or your own mail box.,a post office or your own mail box,
+The letter is mailed.,the letter,

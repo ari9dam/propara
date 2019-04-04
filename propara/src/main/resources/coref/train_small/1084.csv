@@ -1,0 +1,20 @@
+p1,p2,
+pumpkin seeds,flowers,
+SENTENCE,PHRASE,REFERENCE
+Get some pumpkin seeds.,some pumpkin seeds,p1
+Plant the pumpkin seeds in soil.,the pumpkin seeds,p1
+Plant the pumpkin seeds in soil.,in soil,
+Water the plant if it starts to dry out.,the plant,
+Water the plant if it starts to dry out.,to dry out,
+Water the plant if it starts to dry out.,the plant,
+Don't water directly on the leaves.,directly,
+Don't water directly on the leaves.,on the leaves,
+Don't water directly on the leaves.,the leaves,
+Male flowers appear.,male flowers,p2
+Female flowers are open for one day.,female flowers,p2
+Female flowers are open for one day.,open,
+Female flowers are open for one day.,for one day,
+Female flowers are open for one day.,one day,
+Pumpkins mature 85-125 days after planting.,pumpkins,p1
+Pumpkins mature 85-125 days after planting.,85-125 days after planting,
+Pumpkins mature 85-125 days after planting.,pumpkins,p1

@@ -1,0 +1,68 @@
+observedAt("move","what v ?","warm , moist air",1).
+observedAt("move","where does something v ?","from south to north",1).
+lvalue("from south to north","north").
+observedAt("move","what does something v from ?","south to north",1).
+lvalue("south to north","south").
+observedAt("move","what v ?","cool , dry air",2).
+observedAt("move","where does something v ?","from north to south",2).
+lvalue("from north to south","south").
+observedAt("move","what does something v from ?","north to south",2).
+lvalue("north to south","south").
+observedAt("meet","what v ?","the air masses",3).
+lvalue("the air masses","air mass").
+observedAt("form","what v ?","the conditions",4).
+observedAt("form","why does something v ?","because the air masses are so different",4).
+lvalue("because the air masses are so different","air mass").
+observedAt("be","what v something ?","the conditions that form",4).
+observedAt("be","what does something v ?","not stable",4).
+observedAt("be","why does something v something ?","because the air masses are so different",4).
+lvalue("because the air masses are so different","air mass").
+observedAt("be","what v something ?","the air masses",4).
+lvalue("the air masses","air mass").
+observedAt("be","what does something v ?","so different",4).
+observedAt("direct","what is v ?","winds",5).
+observedAt("direct","how is something v ?","in a certain way",5).
+observedAt("direct","why is something v somewhere ?","because of how the masses interact",5).
+observedAt("interact","what v ?","the masses",5).
+observedAt("result","what v ?","an updraft",6).
+lvalue("an updraft","updraft").
+observedAt("start","what v to do something ?","winds",7).
+observedAt("start","what does something v to do ?","to form circular patterns in the updraft",7).
+lvalue("to form circular patterns in the updraft","updraft").
+observedAt("start","where does something v to do something ?","in the updraft",7).
+lvalue("in the updraft","updraft").
+observedAt("form","what v something ?","winds",7).
+observedAt("form","what does something v ?","circular patterns",7).
+observedAt("form","where does something v something ?","in the updraft",7).
+lvalue("in the updraft","updraft").
+observedAt("result","what can v ?","a tornado",8).
+lvalue("a tornado","tornado").
+time(1..8).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"warm, moist air").
+description(p2,"cool, dry air").
+description(p3,"air masses").
+description(p3,"masses").
+description(p4,"wind").
+description(p5,"updraft").
+description(p6,"circular patterns").
+description(p7,"tornado").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"warm , moist air").
+refers(2,p2,"cool , dry air").
+refers(3,p3,"the air masses").
+refers(4,p3,"because the air masses are so different").
+refers(4,p3,"because the air masses are so different").
+refers(4,p3,"the air masses").
+refers(5,p4,"winds").
+refers(5,p3,"because of how the masses interact").
+refers(5,p3,"the masses").
+refers(6,p5,"an updraft").
+refers(7,p4,"winds").
+refers(7,p5,"to form circular patterns in the updraft").
+refers(7,p6,"to form circular patterns in the updraft").
+refers(7,p5,"in the updraft").
+refers(7,p4,"winds").
+refers(7,p6,"circular patterns").
+refers(7,p5,"in the updraft").
+refers(8,p7,"a tornado").

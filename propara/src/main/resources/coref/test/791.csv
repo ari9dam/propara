@@ -1,0 +1,29 @@
+p1,p2,
+DC electricity,AC electricity,
+SENTENCE,PHRASE,REFERENCE
+Photovoltaic cells are solar cells.,photovoltaic cells,
+Photovoltaic cells are solar cells.,solar cells,
+Photovoltaic cell is made from silicon.,photovoltaic cell,
+Photovoltaic cell is made from silicon.,silicon,
+Sun shines on the solar cells which generates DC electricity.,sun,
+Sun shines on the solar cells which generates DC electricity.,the solar cells,
+Sun shines on the solar cells which generates DC electricity.,the solar cells,
+Sun shines on the solar cells which generates DC electricity.,dc electricity,p1
+Electricity is fed into an inverter to change it to AC electricity.,electricity,
+Electricity is fed into an inverter to change it to AC electricity.,into an inverter,
+Electricity is fed into an inverter to change it to AC electricity.,an inverter,
+Electricity is fed into an inverter to change it to AC electricity.,to change it to ac electricity,p2
+Electricity is fed into an inverter to change it to AC electricity.,electricity,
+Electricity is fed into an inverter to change it to AC electricity.,it,
+Electricity is fed into an inverter to change it to AC electricity.,to ac electricity,p2
+Electricity is fed into an inverter to change it to AC electricity.,ac electricity,p2
+Electricity is then sent into the home to be used.,electricity,
+Electricity is then sent into the home to be used.,into the home,
+Electricity is then sent into the home to be used.,the home,
+Electricity is then sent into the home to be used.,to be used,
+Electricity is then sent into the home to be used.,electricity,
+Extra electricity can be sent to the main power grid for others.,extra electricity,
+Extra electricity can be sent to the main power grid for others.,to the main power grid,
+Extra electricity can be sent to the main power grid for others.,the main power grid,
+Extra electricity can be sent to the main power grid for others.,for others,
+Extra electricity can be sent to the main power grid for others.,others,

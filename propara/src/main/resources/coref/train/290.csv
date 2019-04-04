@@ -1,0 +1,26 @@
+p1,p2
+pollution,plants and animals
+SENTENCE,PHRASE,REFERENCE
+Pollution enters natural water sources such as rivers and lakes.,pollution,p1
+Pollution enters natural water sources such as rivers and lakes.,natural water sources such as rivers and lakes,
+The pollution negatively affects the water quality.,the pollution,p1
+The pollution negatively affects the water quality.,negatively,
+The pollution negatively affects the water quality.,the water quality,
+The pollution negatively affects the health of plants and animals.,the pollution,p1
+The pollution negatively affects the health of plants and animals.,negatively,
+The pollution negatively affects the health of plants and animals.,the health of plants and animals,p2
+"The plants and animals have shorter, less healthy lives.",the plants and animals,p2
+"The plants and animals have shorter, less healthy lives.","shorter , less healthy lives",
+The plants and animals do not reproduce very well.,the plants and animals,p2
+The plants and animals do not reproduce very well.,very well,
+The number of plants and animals decreases over time.,the number of plants and animals,p2
+The number of plants and animals decreases over time.,over time,
+The quality of water gets worse and worse as there are no plants or animals to clean it.,the quality of water,
+The quality of water gets worse and worse as there are no plants or animals to clean it.,worse and worse,
+The quality of water gets worse and worse as there are no plants or animals to clean it.,as there are no plants or animals to clean it,
+The quality of water gets worse and worse as there are no plants or animals to clean it.,no plants or animals to clean it,
+The quality of water gets worse and worse as there are no plants or animals to clean it.,plants or animals,
+Eventually there is nothing living in the water and it is unusable.,eventually,
+Eventually there is nothing living in the water and it is unusable.,nothing living in the water and it is unusable,
+Eventually there is nothing living in the water and it is unusable.,it,
+Eventually there is nothing living in the water and it is unusable.,unusable,

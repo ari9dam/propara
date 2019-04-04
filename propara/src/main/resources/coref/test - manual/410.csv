@@ -1,0 +1,38 @@
+p1,p2,
+electric signal,light,
+SENTENCE,PHRASE,REFERENCE
+The cornea helps to focus light.,the cornea,
+The cornea helps to focus light.,to focus light,p2
+The cornea helps to focus light.,the cornea,
+The cornea helps to focus light.,light,p2
+Light passes to the iris.,light,p2
+Light passes to the iris.,to the iris,
+Light passes to the iris.,the iris,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil within the iris,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,within the iris,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,to control the amount of light entering the eye,p2
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil within the iris,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,to control the amount of light entering the eye,p2
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,control the amount of light entering the eye,p2
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the pupil within the iris,
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the amount of light entering the eye,p2
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,light,p2
+The pupil within the iris expands or contracts to control the amount of light entering the eye.,the eye,
+The retina converts the light that reaches the retina into an electric signal.,the retina,
+The retina converts the light that reaches the retina into an electric signal.,the light that reaches the retina into an electric signal,"p1,p2"
+The retina converts the light that reaches the retina into an electric signal.,the light,p2
+The retina converts the light that reaches the retina into an electric signal.,the retina,
+The retina converts the light that reaches the retina into an electric signal.,into an electric signal,p1
+The retina converts the light that reaches the retina into an electric signal.,an electric signal,p1
+Sends the signal to the brain.,the signal,p1
+Sends the signal to the brain.,to the brain,
+Sends the signal to the brain.,the brain,
+The brain translates the electrical signals into the images a person sees.,the brain,
+The brain translates the electrical signals into the images a person sees.,the electrical signals,p1
+The brain translates the electrical signals into the images a person sees.,into the images a person sees,
+The brain translates the electrical signals into the images a person sees.,the images a person sees,
+The brain translates the electrical signals into the images a person sees.,the images,
+The brain translates the electrical signals into the images a person sees.,a person,

@@ -1,0 +1,14 @@
+p1,p2,p3,p4
+gases,pressure,"magma, molten magma",volcano
+SENTENCE,PHRASE,REFERENCE
+Gases cause pressure beneath the earth.,gases,p1
+Gases cause pressure beneath the earth.,pressure,p2
+Gases cause pressure beneath the earth.,beneath the earth,
+The gases come to a head and push molten magma to the surface.,the gases,p1
+The gases come to a head and push molten magma to the surface.,to a head,
+The gases come to a head and push molten magma to the surface.,a head,
+The magma cools.,the magma,p3
+With enough time the pressure builds up greatly.,the pressure,p2
+With enough time the pressure builds up greatly.,greatly,
+The resulting volcano may explode.,volcano,p4
+The resulting volcano may explode.,the resulting volcano,p4

@@ -1,0 +1,21 @@
+p1,p2,p3,p4
+magma,gas bubbles,pressure,lava
+SENTENCE,PHRASE,REFERENCE
+Magma rises through surrounding rock.,magma,p1
+Magma rises through surrounding rock.,through surrounding rock,
+Magma rises through surrounding rock.,surrounding rock,
+Magma rises through surrounding rock.,rock,
+"Gas bubbles form and expand, causing lots of pressure.",gas bubbles,p2
+"Gas bubbles form and expand, causing lots of pressure.",gas bubbles,p2
+"Gas bubbles form and expand, causing lots of pressure.",gas bubbles,p2
+"Gas bubbles form and expand, causing lots of pressure.",gas bubbles form and expand,p2
+"Gas bubbles form and expand, causing lots of pressure.",lots of pressure,p3
+"This pressure pushes the magma through weak spots in the earth's surface,.",this pressure,p3
+"This pressure pushes the magma through weak spots in the earth's surface,.",the magma,p1
+"This pressure pushes the magma through weak spots in the earth's surface,.",through weak spots in the earth 's surface,
+Magma flows out as lava.,magma,p1
+Magma flows out as lava.,out as lava,p4
+Magma flows out as lava.,as lava,p4
+Magma flows out as lava.,lava,p4
+This can happen slowly or in a huge explosion.,this,
+This can happen slowly or in a huge explosion.,slowly or in a huge explosion,

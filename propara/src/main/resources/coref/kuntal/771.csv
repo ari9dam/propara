@@ -1,0 +1,27 @@
+p1,p2,
+air,carbon dioxide,
+SENTENCE,PHRASE,REFERENCE
+Air is taken into the body via the nose or mouth.,air,p1
+Air is taken into the body via the nose or mouth.,into the body,
+Air is taken into the body via the nose or mouth.,the body,
+Air is taken into the body via the nose or mouth.,via the nose or mouth,
+The air travels into the windpipe.,the air,p1
+The air travels into the windpipe.,into the windpipe,
+The air travels into the windpipe.,the windpipe,
+The windpipe divides the air to the two lungs via the bronchial tubes.,the windpipe,
+The windpipe divides the air to the two lungs via the bronchial tubes.,the air,p1
+The windpipe divides the air to the two lungs via the bronchial tubes.,to the two lungs,
+The windpipe divides the air to the two lungs via the bronchial tubes.,the two lungs,
+The windpipe divides the air to the two lungs via the bronchial tubes.,via the bronchial tubes,
+The lungs oxygenate the blood in the body.,the lungs,
+The lungs oxygenate the blood in the body.,the blood,
+The lungs oxygenate the blood in the body.,in the body,
+Carbon dioxide is filtered out by every cell in the body.,carbon dioxide,p2
+Carbon dioxide is filtered out by every cell in the body.,by every cell in the body,
+Carbon dioxide is filtered out by every cell in the body.,out by every cell in the body,
+Carbon dioxide is filtered out by every cell in the body.,every cell,
+Carbon dioxide is filtered out by every cell in the body.,every cell in the body,
+The carbon dioxide is carried back to the lungs via the bloodstream.,the carbon dioxide,p2
+The carbon dioxide is carried back to the lungs via the bloodstream.,back to the lungs,
+The carbon dioxide is carried back to the lungs via the bloodstream.,via the bloodstream,
+The carbon dioxide is exhaled.,the carbon dioxide,p2

@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5
+warm air,vapor,"tiny pieces of dust, dust particle",droplet,cloud
+SENTENCE,PHRASE,REFERENCE,,
+Warm air rises.,warm air,p1,,
+Then it expandes and cools.,it,p1,,
+Then it expandes and cools.,it,p1,,
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,some of the vapor,p2,,
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,onto tiny pieces of dust,p3,,
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,tiny pieces of dust,p3,,
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,tiny pieces of dust,p3,,
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.,in the air,,,
+Forms a tiny droplet around each dust particle.,a tiny droplet,p4,,
+Forms a tiny droplet around each dust particle.,around each dust particle,p3,,
+Billions of these droplets come together they become a visible cloud.,billions of these droplets,p4,,
+Billions of these droplets come together they become a visible cloud.,together,,,
+Billions of these droplets come together they become a visible cloud.,billions of these droplets,p4,,
+Billions of these droplets come together they become a visible cloud.,a visible cloud,p5,,

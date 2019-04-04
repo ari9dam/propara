@@ -1,0 +1,16 @@
+p1,p2
+magma,minerals
+SENTENCE,PHRASE,REFERENCE
+Magma moves closer to the Earth's crust.,magma,p1
+Magma moves closer to the Earth's crust.,closer,
+Magma moves closer to the Earth's crust.,closer to the earth 's crust,
+The magma starts to cool.,the magma,p1
+The magma starts to cool.,to cool,
+The magma starts to cool.,the magma,p1
+The cooling causes atoms in the magma to condense.,the cooling,
+The cooling causes atoms in the magma to condense.,atoms in the magma,p1
+The cooling causes atoms in the magma to condense.,to condense,
+The cooling causes atoms in the magma to condense.,condense,
+The cooling causes atoms in the magma to condense.,atoms in the magma,p1
+The condensed magma solidifies.,the condensed magma,p1
+The solidified magma forms minerals.,magma,p1

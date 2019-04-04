@@ -1,0 +1,23 @@
+p1,p2,p3,p4
+water vapor,clouds,dust and impurities,rain
+SENTENCE,PHRASE,REFERENCE
+Water evaporates because of the sun.,water,
+Water evaporates because of the sun.,because of the sun,
+Water vapor rises into the air as it evaporates.,water vapor,p1
+Water vapor rises into the air as it evaporates.,into the air,
+Water vapor rises into the air as it evaporates.,the air,
+Water vapor rises into the air as it evaporates.,as it evaporates,
+Water vapor rises into the air as it evaporates.,water vapor,p1
+Water vapor forms clouds as it mixes with dust and impurities.,clouds,p2
+Water vapor forms clouds as it mixes with dust and impurities.,dust and impurities,p3
+Clouds become heavier and larger over time.,clouds,p2
+Clouds become heavier and larger over time.,heavier and larger,
+Clouds become heavier and larger over time.,over time,
+Clouds eventually become too heavy to stay in the sky.,clouds,p2
+Clouds eventually become too heavy to stay in the sky.,eventually,
+Clouds eventually become too heavy to stay in the sky.,too heavy to stay in the sky,
+Clouds eventually become too heavy to stay in the sky.,clouds,p2
+Clouds eventually become too heavy to stay in the sky.,in the sky,
+Some water vapor exits clouds as rain.,water vapor,p1
+Some water vapor exits clouds as rain.,clouds,p2
+Some water vapor exits clouds as rain.,as rain,p4

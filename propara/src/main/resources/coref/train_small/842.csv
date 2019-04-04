@@ -1,0 +1,23 @@
+p1,p2,p3
+magnetic field,conductive copper wire,electric current
+SENTENCE,PHRASE,REFERENCE
+Electromagnet creates magnetic field with electricity.,electromagnet,
+Electromagnet creates magnetic field with electricity.,magnetic field,p1
+Electromagnet creates magnetic field with electricity.,with electricity,
+Electromagnet creates magnetic field with electricity.,electricity,
+Conductive copper wire is wrapped around a piece of metal.,conductive copper wire,p2
+Conductive copper wire is wrapped around a piece of metal.,around a piece of metal,
+Conductive copper wire is wrapped around a piece of metal.,a piece of metal,
+An electric current gets introduced from power source.,an electric current,p3
+An electric current gets introduced from power source.,from power source,
+An electric current gets introduced from power source.,power source,
+Flows through the wire.,through the wire,
+Flows through the wire.,the wire,
+Magnetic field gets created in the wire.,magnetic field,p1
+Magnetic field gets created in the wire.,in the wire,
+Magnetic field gets created in the wire.,the wire,
+And the metal gets magnetized.,the metal,
+When turned off it is no longer magnetic.,it,
+When turned off it is no longer magnetic.,when turned off,
+When turned off it is no longer magnetic.,it,
+When turned off it is no longer magnetic.,no longer magnetic,

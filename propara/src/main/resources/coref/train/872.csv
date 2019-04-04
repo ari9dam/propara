@@ -1,0 +1,28 @@
+p1,p2
+"oil, crude oil",motor oil
+SENTENCE,PHRASE,REFERENCE
+A rig drills into the earth where oil is present.,oil,p1
+A rig drills into the earth where oil is present.,present,
+Shipped to gas stations.,to gas stations,
+Shipped to gas stations.,gas stations,
+A pipe is placed in the hole.,a pipe,
+A pipe is placed in the hole.,in the hole,
+A pump is added to the pipe.,a pump,
+A pump is added to the pipe.,to the pipe,
+A pump is added to the pipe.,the pipe,
+Oil is pumped out.,oil,p1
+Oil is pumped out.,out,
+Oil is placed in barrels.,oil,p1
+Oil is placed in barrels.,in barrels,
+Oil is placed in barrels.,barrels,
+Barrels are loaded on trucks.,barrels,
+Barrels are loaded on trucks.,on trucks,
+Barrels are loaded on trucks.,trucks,
+Trucks go to a refinery.,trucks,
+Trucks go to a refinery.,to a refinery,
+Trucks go to a refinery.,a refinery,
+Crude oil is refined to motor oil.,crude oil,p1
+Crude oil is refined to motor oil.,to motor oil,"p1,p2"
+Crude oil is refined to motor oil.,motor oil,"p1,p2"
+Motor oil is bottle.,motor oil,"p1,p2"
+Motor oil is bottle.,bottle,

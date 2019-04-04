@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5
+water,a slightly too large cover,water vapor,fresh water,salt
+SENTENCE,PHRASE,REFERENCE
+Place the water in a pot.,the water,p1
+Place the water in a pot.,in a pot,
+Cover the pot with a slightly too large cover.,the pot,
+Cover the pot with a slightly too large cover.,with a slightly too large cover,p2
+Cover the pot with a slightly too large cover.,a slightly too large cover,p2
+Place a larger pot under the first.,a larger pot,
+Place a larger pot under the first.,under the first,
+Heat water to evaporation.,heat,
+Heat water to evaporation.,evaporation,
+Water vapor will collect on the lid.,water vapor,"p1,p3"
+Water vapor will collect on the lid.,on the lid,
+Water vapor will collect on the lid.,the lid,
+Drip into the second pot as fresh water.,into the second pot,
+Drip into the second pot as fresh water.,the second pot,
+Drip into the second pot as fresh water.,as fresh water,"p1,p4"
+Salt is left behind in the original pot.,salt,p5
+Salt is left behind in the original pot.,behind,
+Salt is left behind in the original pot.,in the original pot,

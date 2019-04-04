@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+frogs,tadpoles,eggs,legs
+SENTENCE,PHRASE,REFERENCE,
+A frog lays eggs in the water.,a frog,p1,
+A frog lays eggs in the water.,eggs,p3,
+A frog lays eggs in the water.,in the water,,
+Tadpoles develop inside of the eggs.,tadpoles,p2,
+Tadpoles develop inside of the eggs.,inside of the eggs,p3,
+The eggs hatch.,the eggs,p3,
+The tadpoles eat and grow.,the tadpoles,p2,
+The tadpoles eat and grow.,the tadpoles,p2,
+The tadpoles grow legs and form into frogs.,the tadpoles,p2,
+The tadpoles grow legs and form into frogs.,legs,p4,
+The tadpoles grow legs and form into frogs.,the tadpoles,p2,
+The tadpoles grow legs and form into frogs.,frogs,p1,
+The frogs leave the water.,the frogs,p1,
+The frogs leave the water.,the water,,

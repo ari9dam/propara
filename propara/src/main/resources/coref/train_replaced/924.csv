@@ -1,0 +1,23 @@
+p1,p2,p3,p4
+air,oxygen,blood,body
+SENTENCE,PHRASE,REFERENCE
+You inhale.,you,
+The air enters the mouth and nose.,the air,p1
+The air enters the mouth and nose.,the mouth and nose,
+The diaphragm contracts.,the diaphragm,
+The diaphragm contracts.,diaphragm,
+Air fills all the sacks in the lungs.,air,p1
+Air fills all the sacks in the lungs.,all the sacks,
+Air fills all the sacks in the lungs.,in the lungs,
+Oxygen passes through the sacks into capillaries.,oxygen,p2
+Oxygen passes through the sacks into capillaries.,through the sacks into capillaries,
+Oxygen passes through the sacks into capillaries.,the sacks,
+The blood is passed to the blood in the capillaries.,the blood,p3
+The blood is passed to the blood in the capillaries.,to the blood,p3
+The blood is passed to the blood in the capillaries.,the blood,p3
+The blood is passed to the blood in the capillaries.,in the capillaries,
+The blood carries the oxygen to the heart.,the blood,p3
+The blood carries the oxygen to the heart.,the oxygen,p2
+The blood carries the oxygen to the heart.,to the heart,
+The blood carries the oxygen to the heart.,the heart,
+The heart pumps the oxygenated blood to the body.,blood,p3

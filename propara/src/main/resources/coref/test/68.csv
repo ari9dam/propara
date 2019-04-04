@@ -1,0 +1,31 @@
+p1,p2,p3,p4,p5,p6
+"plants, trees",plant and tree remains,"peat, burial peat",water,heat,coal
+SENTENCE,PHRASE,REFERENCE
+300 millions years ago plants and trees died.,300 millions years ago,
+300 millions years ago plants and trees died.,plants and trees,p1
+"The plant and tree remains sank to the bottom of steamy, swampy areas.",the plant and tree,p1
+"The plant and tree remains sank to the bottom of steamy, swampy areas.",sank,
+"The plant and tree remains sank to the bottom of steamy, swampy areas.","to the bottom of steamy , swampy areas",
+"The plant and tree remains sank to the bottom of steamy, swampy areas.",the plant and tree remains,"p1,p2"
+"The plant and tree remains sank to the bottom of steamy, swampy areas.","to the bottom of steamy , swampy areas",
+"The plant and tree remains sank to the bottom of steamy, swampy areas.","the bottom of steamy , swampy areas",
+Layer upon layer of remains accumulated.,layer upon layer of remains,
+"Eventually forming a soggy, dense material called peat.",eventually,
+"Eventually forming a soggy, dense material called peat.","a soggy , dense material called peat",p3
+"Eventually forming a soggy, dense material called peat.","a soggy , dense material",
+"Eventually forming a soggy, dense material called peat.",peat,p3
+"The peat was buried over millions of years by sand, clay, and other mineral material.",the peat,p3
+"The peat was buried over millions of years by sand, clay, and other mineral material.",over millions of years,
+"The peat was buried over millions of years by sand, clay, and other mineral material.","by sand , clay , and other mineral material",
+"The peat was buried over millions of years by sand, clay, and other mineral material.","sand , clay , and other mineral material",
+Pressure caused by the wait of the materials squeezed water from the peat.,pressure,
+Pressure caused by the wait of the materials squeezed water from the peat.,the wait of the materials,
+Pressure caused by the wait of the materials squeezed water from the peat.,the materials,
+Pressure caused by the wait of the materials squeezed water from the peat.,water,p4
+Pressure caused by the wait of the materials squeezed water from the peat.,from the peat,p3
+Pressure caused by the wait of the materials squeezed water from the peat.,the peat,p3
+With the heat caused by increased burial peat slowly became coal.,the heat,p5
+With the heat caused by increased burial peat slowly became coal.,increased burial peat,p3
+With the heat caused by increased burial peat slowly became coal.,burial peat,p3
+With the heat caused by increased burial peat slowly became coal.,slowly,
+With the heat caused by increased burial peat slowly became coal.,coal,p6

@@ -1,0 +1,43 @@
+p1,p2,
+receptors,copies,
+SENTENCE,PHRASE,REFERENCE
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",the flu virus,
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",receptors,p1
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",receptors,p1
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",like viral velcro,
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",viral velcro,
+"The flu virus has receptors, which are like viral Velcro, on the surface of the virus particle.",on the surface of the virus particle,
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",the receptors,p1
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",onto a target cell,
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",a target cell,
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",using these chemical receptors on the surface,p1
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",these chemical receptors,p1
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",on the surface,
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",onto the cell surface,
+"The receptors will lock onto a target cell using these chemical receptors on the surface, which docks onto the cell surface.",the cell surface,
+The receptors  then go into the cell.,the receptors,p1
+The receptors  then go into the cell.,into the cell,
+The receptors  then go into the cell.,the cell,
+The receptors use it like a factory.,the receptors,p1
+The receptors use it like a factory.,it,
+The receptors use it like a factory.,like a factory,
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,the receptors,p1
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,it,
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,the receptors,p1
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,produce thousands or in some cases millions of copies of new viruses,p2
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,the receptors,p1
+The receptors take it over and make it produce thousands or in some cases millions of copies of new viruses.,thousands or in some cases millions of copies of new viruses,p2
+The copies come streaming out of the cell.,the copies,p2
+The copies come streaming out of the cell.,streaming out of the cell,
+The copies come streaming out of the cell.,out of the cell,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",the copies,p2
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",other cells,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",to make more viruses,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",other cells,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",more viruses,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",the copies,p2
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",they,p2
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",from the body,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",the body,
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",the copies,p2
+"The copies infect other cells to make more viruses, or they escape from the body and infect a new victim.",a new victim,

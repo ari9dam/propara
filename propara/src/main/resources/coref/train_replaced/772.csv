@@ -1,0 +1,19 @@
+p1,p2,p3
+air,carbon dioxide,oxygen
+SENTENCE,PHRASE,REFERENCE
+Air is drawn in through the mouth.,air,p1
+Air is drawn in through the mouth.,in through the mouth,
+The air goes down the esophagus.,the air,p1
+The air goes down the esophagus.,down the esophagus,
+The air goes down the esophagus.,the esophagus,
+The air moves into the lungs.,the air,p1
+The air moves into the lungs.,into the lungs,
+The air moves into the lungs.,the lungs,
+The carbon dioxide is removed.,the carbon dioxide,p2
+The remaining oxygen enters the body.,oxygen,p3
+The remaining oxygen enters the body.,the remaining oxygen,p3
+The remaining oxygen enters the body.,the body,
+The remaining carbon dioxide is expelled through the mouth.,carbon dioxide,p2
+The remaining carbon dioxide is expelled through the mouth.,the remaining carbon dioxide,p2
+The remaining carbon dioxide is expelled through the mouth.,through the mouth,
+The remaining carbon dioxide is expelled through the mouth.,the mouth,

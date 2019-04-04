@@ -1,0 +1,31 @@
+p1,p2,p3,p4,p5
+coal,hot air,water,steam,electricity
+SENTENCE,PHRASE,REFERENCE
+Coal is mixed with hot air in a power station.,coal,p1
+Coal is mixed with hot air in a power station.,hot air,p2
+Coal is mixed with hot air in a power station.,in a power station,
+Electricity is produced.,electricity,p5
+Water is sent through pipes in the power station.,water,p3
+Water is sent through pipes in the power station.,through pipes in the power station,
+Water is sent through pipes in the power station.,pipes,
+The water pipes go through a firebox in the power station.,the water pipes,p3
+The water pipes go through a firebox in the power station.,through a firebox in the power station,
+The water pipes go through a firebox in the power station.,a firebox,
+The coal is put in the air in the firebox.,the coal,p1
+The coal is put in the air in the firebox.,in the firebox,
+The water heats up so it's very hot.,the water,p3
+The water heats up so it's very hot.,so it 's very hot,
+The water heats up so it's very hot.,it,
+The water heats up so it's very hot.,very hot,
+The water turns into steam.,the water,p3
+The water turns into steam.,steam,p4
+The steam is pushed out of the pipes into a separate area.,the steam,p4
+The steam is pushed out of the pipes into a separate area.,into a separate area,
+The steam is pushed out of the pipes into a separate area.,the pipes,
+The steam powers turbines.,steam,p4
+The steam powers turbines.,turbines,
+Magnets in the turbines spin in wire coils.,magnets,
+Magnets in the turbines spin in wire coils.,magnets in the turbines,
+Magnets in the turbines spin in wire coils.,in the turbines,
+Magnets in the turbines spin in wire coils.,in wire coils,
+Magnets in the turbines spin in wire coils.,wire coils,

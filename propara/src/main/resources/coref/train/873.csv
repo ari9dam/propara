@@ -1,0 +1,23 @@
+p1,p2
+oil,gasoline
+SENTENCE,PHRASE,REFERENCE
+The oil is extracted either onshore or offshore by large oil rigs.,the oil,p1
+The oil is extracted either onshore or offshore by large oil rigs.,either onshore or offshore,
+The oil is extracted either onshore or offshore by large oil rigs.,by large oil rigs,p1
+The oil is extracted either onshore or offshore by large oil rigs.,large oil rigs,p1
+Crude oil is transported to a refinery.,crude oil,p1
+Crude oil is transported to a refinery.,to a refinery,
+Crude oil is transported to a refinery.,a refinery,
+The refinery turns the crude oil into gasoline.,the refinery,
+The refinery turns the crude oil into gasoline.,the crude oil,p1
+The refinery turns the crude oil into gasoline.,into gasoline,p2
+The gasoline is loaded onto tank trucks.,the gasoline,p2
+The gasoline is loaded onto tank trucks.,onto tank trucks,
+The gasoline is loaded onto tank trucks.,tank trucks,
+The tank trucks go to gas stations all over the place.,the tank trucks,
+The tank trucks go to gas stations all over the place.,to gas stations,
+The tank trucks go to gas stations all over the place.,gas stations,
+The tank trucks go to gas stations all over the place.,all over the place,
+The gasoline is delivered to the gas station.,the gasoline,p2
+The gasoline is delivered to the gas station.,to the gas station,
+The gasoline is delivered to the gas station.,the gas station,

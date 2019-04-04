@@ -1,0 +1,28 @@
+p1,p2,p3,p4
+waste products,blood,water,urine
+SENTENCE,PHRASE,REFERENCE
+Waste products are deposited in the blood.,waste products,p1
+Waste products are deposited in the blood.,in the blood,p2
+Waste products are deposited in the blood.,the blood,p2
+Blood is carried to the kidneys through the renal arteries.,blood,p2
+Blood is carried to the kidneys through the renal arteries.,through the renal arteries,
+Blood is carried to the kidneys through the renal arteries.,the kidneys,
+The kidneys contain filters inside.,the kidneys,
+The kidneys contain filters inside.,filters,
+The kidneys contain filters inside.,inside,
+The filters capture the waste products.,the filters,
+The filters capture the waste products.,the waste products,p1
+The waste is combined with water to make urine.,the waste,
+The waste is combined with water to make urine.,water,p3
+The waste is combined with water to make urine.,to make urine,p4
+The waste is combined with water to make urine.,the waste,
+The waste is combined with water to make urine.,urine,p4
+The urine leaves the kidney and is collected in the bladder.,the urine,p4
+The urine leaves the kidney and is collected in the bladder.,the kidney,
+The urine leaves the kidney and is collected in the bladder.,the urine,p4
+The urine leaves the kidney and is collected in the bladder.,in the bladder,
+The urine leaves the kidney and is collected in the bladder.,the bladder,
+The cleaned blood is returned to the body.,blood,p2
+The cleaned blood is returned to the body.,the cleaned blood,p2
+The cleaned blood is returned to the body.,to the body,
+The cleaned blood is returned to the body.,the body,

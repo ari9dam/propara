@@ -1,0 +1,32 @@
+p1,p2,p3
+wind,rotor,electricity
+SENTENCE,PHRASE,REFERENCE
+Wind passes the turbines and moves the blades.,wind,p1
+Wind passes the turbines and moves the blades.,the turbines,
+Wind passes the turbines and moves the blades.,wind,p1
+Wind passes the turbines and moves the blades.,the blades,
+The shaft of the turbine spins.,the shaft of the turbine,
+Shaft is connected to a generator.,shaft,
+Shaft is connected to a generator.,to a generator,
+The generator uses the spins of the shaft to rotate a rotor.,the generator,
+The generator uses the spins of the shaft to rotate a rotor.,the spins of the shaft,
+The generator uses the spins of the shaft to rotate a rotor.,to rotate a rotor,p2
+The generator uses the spins of the shaft to rotate a rotor.,the generator,
+The generator uses the spins of the shaft to rotate a rotor.,the shaft,
+The generator uses the spins of the shaft to rotate a rotor.,to rotate a rotor,p2
+The generator uses the spins of the shaft to rotate a rotor.,the spins of the shaft,
+The generator uses the spins of the shaft to rotate a rotor.,a rotor,p2
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",the rotor,p2
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",inside the core,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",the core,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",magnets,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",inside surrounded by wire loops inside,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",magnets,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",magnets inside,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",by wire loops,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",wire loops,
+"The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.",inside,
+The spinning of the rotor in the core generates electricity.,the rotor,p2
+The spinning of the rotor in the core generates electricity.,in the core,
+The spinning of the rotor in the core generates electricity.,the spinning of the rotor in the core,p2
+The spinning of the rotor in the core generates electricity.,electricity,p3

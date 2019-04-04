@@ -1,0 +1,26 @@
+p1,p2,p3,p4,p5,p6
+coal powder,water,steam,turbine shaft,magnets,electricity
+SENTENCE,PHRASE,REFERENCE
+The coal is pulverized to a very fine powder.,the coal,
+The coal is pulverized to a very fine powder.,to a very fine powder,
+The coal is pulverized to a very fine powder.,a very fine powder,
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,the coal powder,p1
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,with hot air,
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,hot air,
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,the coal powder,p1
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,into the firebox of the boiler,
+The coal powder is mixed with hot air and blown into the firebox of the boiler.,the firebox of the boiler,
+Water pumped through pipes inside the boiler is turned into steam by the heat.,water,p2
+Water pumped through pipes inside the boiler is turned into steam by the heat.,inside the boiler,
+Water pumped through pipes inside the boiler is turned into steam by the heat.,pipes,
+Water pumped through pipes inside the boiler is turned into steam by the heat.,water pumped through pipes inside the boiler,p2
+Water pumped through pipes inside the boiler is turned into steam by the heat.,steam,p3
+Water pumped through pipes inside the boiler is turned into steam by the heat.,by the heat,
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.,the steam,p3
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.,a series of giant blades,
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.,the pressure of the steam pushing against a series of giant blades,p3
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.,the turbine shaft,p4
+Turbine shaft is connected to the shaft of the generator.,turbine shaft,p4
+Turbine shaft is connected to the shaft of the generator.,to the shaft of the generator,
+Turbine shaft is connected to the shaft of the generator.,the shaft of the generator,
+The magnets inside the generator spin within wire coils to produce electricity.,electricity,p6

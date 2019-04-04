@@ -1,0 +1,25 @@
+p1,p2,p3
+water,chemicals,sweat
+SENTENCE,PHRASE,REFERENCE
+The body's temperature increases over 98.6 degrees F.,the body 's temperature,
+The body's temperature increases over 98.6 degrees F.,over 98.6 degrees f.,
+The hypothalamus in the brain sends a message to the body.,the hypothalamus in the brain,
+The hypothalamus in the brain sends a message to the body.,in the brain,
+The hypothalamus in the brain sends a message to the body.,a message,
+The hypothalamus in the brain sends a message to the body.,the body,
+Sweat glands in the skin receive the message.,sweat glands in the skin,
+Sweat glands in the skin receive the message.,in the skin,
+Sweat glands in the skin receive the message.,the message,
+The sweat glands start combining water and chemicals to make sweat.,the sweat glands,
+The sweat glands start combining water and chemicals to make sweat.,combining water and chemicals,"p1,p2"
+The sweat glands start combining water and chemicals to make sweat.,to make sweat,p3
+The sweat glands start combining water and chemicals to make sweat.,the sweat glands,
+The sweat glands start combining water and chemicals to make sweat.,water and chemicals,"p1,p2"
+The sweat glands start combining water and chemicals to make sweat.,to make sweat,p3
+The sweat glands start combining water and chemicals to make sweat.,the sweat glands,
+The sweat glands start combining water and chemicals to make sweat.,combining water and chemicals,"p1,p2"
+The sweat glands start combining water and chemicals to make sweat.,sweat,p3
+The sweat leaves the skin through pores.,the sweat,p3
+The sweat leaves the skin through pores.,the skin,
+The sweat leaves the skin through pores.,through pores,
+The sweat leaves the skin through pores.,the sweat,p3

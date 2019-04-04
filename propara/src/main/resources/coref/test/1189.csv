@@ -1,0 +1,26 @@
+p1,p2,
+chunks of rock,crater,
+SENTENCE,PHRASE,REFERENCE
+Chunks of rocks break off of meteorites.,chunks of rocks,p1
+Chunks of rocks break off of meteorites.,meteorites,
+The rock passes through the atmosphere.,the rock,p1
+The rock passes through the atmosphere.,through the atmosphere,
+The rock passes through the atmosphere.,the atmosphere,
+The rock is too big to be slowed down.,the rock,p1
+The rock is too big to be slowed down.,too big to be slowed down,
+The rock is too big to be slowed down.,the rock,p1
+The chunks smash into the earth at a high velocity.,the chunks,p1
+The chunks smash into the earth at a high velocity.,into the earth,
+The chunks smash into the earth at a high velocity.,the earth,
+The chunks smash into the earth at a high velocity.,at a high velocity,
+The angle the meteorite hits can impact how large the crater is.,the meteorite,
+The angle the meteorite hits can impact how large the crater is.,meteorite,
+The angle the meteorite hits can impact how large the crater is.,the angle the meteorite hits,
+The angle the meteorite hits can impact how large the crater is.,how large the crater is,p2
+The angle the meteorite hits can impact how large the crater is.,the crater,p2
+The material it hits also helps determine the size of the crater.,the material,
+The material it hits also helps determine the size of the crater.,it,
+The material it hits also helps determine the size of the crater.,the material it hits,
+The material it hits also helps determine the size of the crater.,determine the size of the crater,p2
+The material it hits also helps determine the size of the crater.,the material it hits,
+The material it hits also helps determine the size of the crater.,the size of the crater,p2

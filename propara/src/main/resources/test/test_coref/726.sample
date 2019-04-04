@@ -1,0 +1,76 @@
+observedAt("live","what v something ?","an animal",1).
+lvalue("an animal","animal").
+observedAt("live","what does something v ?","a happy life",1).
+observedAt("preserve","what is v ?","a hole",10).
+observedAt("preserve","where is something v ?","in rock",10).
+lvalue("in rock","rock").
+observedAt("preserve","what is something v in ?","rock",10).
+lvalue("rock","rock").
+observedAt("be","what does something v ?","the shape of the skeleton",10).
+lvalue("the shape of the skeleton","skeleton").
+observedAt("get","what v something ?","the animal",2).
+lvalue("the animal","animal").
+observedAt("get","what does something v ?","very old",2).
+observedAt("die","what v ?","the animal",3).
+lvalue("the animal","animal").
+observedAt("sink","what v somewhere ?","the animal 's skeleton",4).
+lvalue("the animal 's skeleton","skeleton").
+observedAt("sink","where does something v ?","to the bottom of an ocean",4).
+lvalue("to the bottom of an ocean","bottom of a ocean").
+observedAt("sink","what does something v to ?","the bottom of an ocean",4).
+lvalue("the bottom of an ocean","bottom of a ocean").
+observedAt("bury","what is v by something ?","the skeleton",5).
+lvalue("the skeleton","skeleton").
+observedAt("bury","how is something v ?","by mud",5).
+lvalue("by mud","mud").
+observedAt("bury","what is something v by ?","mud",5).
+lvalue("mud","mud").
+observedAt("fall","what v ?","more sand and mud",6).
+lvalue("more sand and mud","mud").
+observedAt("fall","where does something v ?","on the skeleton",6).
+lvalue("on the skeleton","skeleton").
+observedAt("fall","what does something v on ?","the skeleton",6).
+lvalue("the skeleton","skeleton").
+observedAt("increase","what v on something ?","pressure",7).
+observedAt("increase","what is something v on ?","the skeleton",7).
+lvalue("the skeleton","skeleton").
+observedAt("increase","how is something being v ?","from the weight of more mud",7).
+lvalue("from the weight of more mud","mud").
+observedAt("increase","what is something v at ?","the weight of more mud",7).
+lvalue("the weight of more mud","mud").
+observedAt("turn","what v into something ?","the sand and mud",8).
+lvalue("the sand and mud","mud").
+observedAt("turn","what does something v into ?","rock",8).
+lvalue("rock","rock").
+observedAt("dissolve","what v ?","the skeleton",9).
+lvalue("the skeleton","skeleton").
+observedAt("dissolve","where does something v ?","in the water",9).
+observedAt("dissolve","what does something v in ?","the water",9).
+time(1..9).
+participant(p1;p2;p3;p4;p5).
+description(p1,"animal").
+description(p2,"animal's skeleton").
+description(p3,"mud").
+description(p3,"sand").
+description(p4,"rock").
+description(p5,"hole").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"an animal").
+refers(10,p5,"a hole").
+refers(10,p4,"in rock").
+refers(10,p4,"rock").
+refers(2,p1,"the animal").
+refers(3,p1,"the animal").
+refers(4,p2,"the animal 's skeleton").
+refers(5,p2,"the skeleton").
+refers(5,p3,"by mud").
+refers(5,p3,"mud").
+refers(6,p3,"more sand and mud").
+refers(6,p2,"on the skeleton").
+refers(6,p2,"the skeleton").
+refers(7,p2,"the skeleton").
+refers(7,p3,"from the weight of more mud").
+refers(7,p3,"the weight of more mud").
+refers(8,p3,"the sand and mud").
+refers(8,p4,"rock").
+refers(9,p2,"the skeleton").

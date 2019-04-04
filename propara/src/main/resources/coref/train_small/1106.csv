@@ -1,0 +1,15 @@
+p1,p2,p3
+seed,plant,flowers
+SENTENCE,PHRASE,REFERENCE
+A plant produces a seed.,a plant,
+A plant produces a seed.,a seed,p1
+The seed falls to the ground.,the seed,p1
+The seed falls to the ground.,to the ground,
+The seed falls to the ground.,the ground,
+The seed is buried.,the seed,p1
+The seed germinates.,the seed,p1
+A plant grows.,a plant,p2
+The plant produces flowers.,the plant,p2
+The plant produces flowers.,flowers,p3
+The flowers produce more seeds.,the flowers,p3
+The flowers produce more seeds.,more seeds,p1

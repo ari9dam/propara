@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5,p6
+egg,egg clusters,tadpole with gills,leg,froglet,frog
+SENTENCE,PHRASE,REFERENCE
+Frogs lay thousands of eggs.,frogs,p6
+Frogs lay thousands of eggs.,thousands of eggs,p1
+Egg clusters float around in water.,egg clusters,"p1,p2"
+Egg clusters float around in water.,around in water,
+Tadpoles with gills hatch from the eggs.,tadpoles with gills,p3
+Tadpoles with gills hatch from the eggs.,from the eggs,p1
+Tadpoles with gills hatch from the eggs.,the eggs,p1
+Tadpoles swim in water until they grow legs.,tadpoles,
+Tadpoles swim in water until they grow legs.,in water,
+Tadpoles swim in water until they grow legs.,water,
+Tadpoles swim in water until they grow legs.,until they grow legs,p4
+Tadpoles swim in water until they grow legs.,tadpoles,
+Tadpoles swim in water until they grow legs.,water,
+Tadpoles swim in water until they grow legs.,legs,p4
+Absorbs their tails.,their tails,
+Then the tadpole becomes a froglet.,the tadpole,
+Then the tadpole becomes a froglet.,a froglet,p5
+Then the froglet becomes a frog.,the froglet,p5
+Then the froglet becomes a frog.,a frog,p6

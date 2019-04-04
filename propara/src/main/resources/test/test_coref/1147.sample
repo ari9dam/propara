@@ -1,0 +1,57 @@
+observedAt("combine","what v ?","hydrogen atoms in a star",1).
+lvalue("hydrogen atoms in a star","star").
+observedAt("combine","where does something v ?","in a star",1).
+lvalue("in a star","star").
+observedAt("combine","how does something v ?","together",1).
+observedAt("combine","why does something v ?","to form helium atoms",1).
+observedAt("form","what v something ?","hydrogen atoms",1).
+observedAt("form","what does something v ?","helium atoms",1).
+observedAt("turn","what v into something ?","all of the hydrogen in a star",2).
+lvalue("all of the hydrogen in a star","star").
+observedAt("turn","what does something v into ?","helium",2).
+observedAt("begin","what v to do something ?","the star",3).
+lvalue("the star","star").
+observedAt("begin","what does something v to do ?","to collapse",3).
+observedAt("combine","what v ?","helium atoms",4).
+observedAt("combine","how does something v ?","together",4).
+observedAt("combine","why does something v ?","to form carbon atoms",4).
+observedAt("form","what v something ?","helium atoms",4).
+observedAt("form","how does something v something ?","combine together",4).
+observedAt("form","what does something v ?","carbon atoms",4).
+observedAt("get","what v something ?","the star",5).
+lvalue("the star","star").
+observedAt("get","what does something v ?","much bigger than it was before",5).
+observedAt("be","what v something ?","the star",5).
+lvalue("the star","star").
+observedAt("be","what be v ?","it",5).
+observedAt("be","when v something v ?","before",5).
+observedAt("be","what v something ?","the star",6).
+lvalue("the star","star").
+observedAt("be","what does something v ?","a red giant",6).
+lvalue("a red giant","red giant").
+time(1..6).
+participant(p1;p2;p3;p4;p5;p6;p7).
+description(p1,"hydrogen atoms").
+description(p2,"helium atoms").
+description(p3,"hydrogen").
+description(p4,"helium").
+description(p5,"star").
+description(p6,"carbon atoms").
+description(p7,"red giant star").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"hydrogen atoms in a star").
+refers(1,p5,"in a star").
+refers(1,p2,"to form helium atoms").
+refers(1,p1,"hydrogen atoms").
+refers(1,p2,"helium atoms").
+refers(2,p3,"all of the hydrogen in a star").
+refers(2,p4,"helium").
+refers(3,p5,"the star").
+refers(4,p2,"helium atoms").
+refers(4,p6,"to form carbon atoms").
+refers(4,p2,"helium atoms").
+refers(4,p6,"carbon atoms").
+refers(5,p5,"the star").
+refers(5,p5,"the star").
+refers(6,p5,"the star").
+refers(6,p7,"a red giant").

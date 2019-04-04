@@ -1,0 +1,18 @@
+p1,p2,p3,p4
+seed,seedling,full-grown plant,pollenating product
+SENTENCE,PHRASE,REFERENCE
+A seed is planted.,a seed,p1
+It becomes a seedling.,it,
+It becomes a seedling.,a seedling,
+The seedling grows into a full-grown plant.,the seedling,
+The seedling grows into a full-grown plant.,into a full-grown plant,p3
+The plant releases some kind of pollenating product.,the plant,
+The plant releases some kind of pollenating product.,some kind of pollenating product,p4
+The plant releases some kind of pollenating product.,the plant,
+The plant releases some kind of pollenating product.,product,
+The plant either self-pollinates or is spread by insects or birds.,the plant,
+The plant either self-pollinates or is spread by insects or birds.,by insects or birds,
+The plant either self-pollinates or is spread by insects or birds.,insects or birds,
+Seeds are planted.,seeds,p1
+The cycle begins again.,the cycle,
+The cycle begins again.,again,

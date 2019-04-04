@@ -1,0 +1,16 @@
+p1,p2,p3,p4
+chemical compounds,elements in clouds,affected rain,natural and man-made objects
+SENTENCE,PHRASE,REFERENCE
+Human industry produces chemical compounds.,human industry,
+Human industry produces chemical compounds.,chemical compounds,p1
+Chemical compounds rise into the air.,chemical compounds,p1
+Chemical compounds rise into the air.,into the air,
+Chemical compounds rise into the air.,the air,
+Chemical compounds mix with elements in clouds.,chemical compounds,p1
+Chemical compounds mix with elements in clouds.,elements in clouds,p2
+The affected rain falls to the earth.,the affected rain,p3
+The affected rain falls to the earth.,to the earth,
+The affected rain falls to the earth.,the earth,
+The affected rain can harm natural and man-made objects because of its acidic content.,the affected rain,p3
+The affected rain can harm natural and man-made objects because of its acidic content.,natural and man-made objects,p4
+The affected rain can harm natural and man-made objects because of its acidic content.,because of its acidic content,

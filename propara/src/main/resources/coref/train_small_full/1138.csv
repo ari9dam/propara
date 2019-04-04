@@ -1,0 +1,25 @@
+p1,p2,
+owl,mouse,
+SENTENCE,PHRASE,REFERENCE
+An owl leaves his nest.,an owl,p1
+An owl leaves his nest.,his nest,
+The owl flys out into the night.,the owl,p1
+The owl flys out into the night.,out into the night,
+The owl looks down at the ground.,the owl,p1
+The owl looks down at the ground.,down,
+The owl looks down at the ground.,down at the ground,
+The owls keen eyesight allows him to see in the dark.,the owls keen eyesight,p1
+The owls keen eyesight allows him to see in the dark.,him to see in the dark,p1
+The owls keen eyesight allows him to see in the dark.,to see in the dark,
+The owls keen eyesight allows him to see in the dark.,the owls,p1
+The owls keen eyesight allows him to see in the dark.,in the dark,
+The owls sensitive hearing allows him to locate hidden prey.,the owls sensitive hearing,p1
+The owls sensitive hearing allows him to locate hidden prey.,him to locate hidden prey,p1
+The owls sensitive hearing allows him to locate hidden prey.,to locate hidden prey,
+The owls sensitive hearing allows him to locate hidden prey.,the owls,p1
+The owls sensitive hearing allows him to locate hidden prey.,hidden prey,
+The owl swoops down.,the owl,p1
+The owl swoops down.,down,
+The owl catches a mouse in his talons.,the owl,p1
+The owl catches a mouse in his talons.,a mouse,p2
+The owl catches a mouse in his talons.,in his talons,

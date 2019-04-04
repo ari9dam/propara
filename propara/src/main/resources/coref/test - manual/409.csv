@@ -1,0 +1,20 @@
+p1,p2,
+image,electrical impulses,
+SENTENCE,PHRASE,REFERENCE
+Light enters the eyes.,light,
+Light enters the eyes.,the eyes,
+The lens focuses light through the vitreous humor.,the lens,
+The lens focuses light through the vitreous humor.,light,
+The lens focuses light through the vitreous humor.,through the vitreous humor,
+The cornea focuses through the eye's internal lens.,the cornea,
+The cornea focuses through the eye's internal lens.,through the eye 's internal lens,
+The cornea focuses through the eye's internal lens.,the eye 's internal lens,
+The retina receives the image.,the retina,
+The retina receives the image.,the image,p1
+The retina transforms this image into electrical impulses.,the retina,
+The retina transforms this image into electrical impulses.,this image,p1
+The retina transforms this image into electrical impulses.,into electrical impulses,p2
+The impulses travel along the optic nerve to the brain.,the impulses,p2
+The impulses travel along the optic nerve to the brain.,along the optic nerve to the brain,
+The brain decodes the impuses.,the brain,
+The brain decodes the impuses.,the impuses,p2

@@ -1,0 +1,27 @@
+p1,p2,p3,p4,p5,p6,p7
+coal,sulfur,oxygen,"sulfur oxides, sulfides",sulfur trioxide,water,sulfuric acid
+SENTENCE,PHRASE,REFERENCE
+Coal is burned.,coal,p1
+Sulfur in the coal combines with oxygen to form sulfur oxides.,sulfur in the coal,"p1,p2"
+Sulfur in the coal combines with oxygen to form sulfur oxides.,oxygen,p3
+Sulfur in the coal combines with oxygen to form sulfur oxides.,to form sulfur oxides,"p2,p4"
+Sulfur in the coal combines with oxygen to form sulfur oxides.,sulfur in the coal,"p1,p2"
+Sulfur in the coal combines with oxygen to form sulfur oxides.,sulfur oxides,"p2,p4"
+The sulfur oxides are released into the atmosphere.,the sulfur oxides,"p2,p4"
+The sulfur oxides are released into the atmosphere.,into the atmosphere,
+The sulfur oxides are released into the atmosphere.,the atmosphere,
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,the sulfides,p4
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,oxygen,p3
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,in the atmosphere,
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,to form sulfur trioxide,"p2,p5"
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,the sulfides,p4
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,the sulfides combine with oxygen in the atmosphere,"p3,p4"
+The sulfides combine with oxygen in the atmosphere to form sulfur trioxide.,sulfur trioxide,"p2,p5"
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",the sulfur trioxide,"p2,p5"
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",water in the atmosphere,p6
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",in the atmosphere,
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",to form sulfuric acid,p7
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",the sulfur trioxide,"p2,p5"
+"The sulfur trioxide reacts with water in the atmosphere to form sulfuric acid, a very strong acid.",sulfuric acid,p7
+The sulfuric acid makes the rain acidic.,the sulfuric acid,p7
+The sulfuric acid makes the rain acidic.,the rain acidic,

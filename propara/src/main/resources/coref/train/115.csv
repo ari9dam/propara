@@ -1,0 +1,13 @@
+p1,p2,p3
+magma,tectonic plates,volcano
+SENTENCE,PHRASE,REFERENCE
+Tectonic plates smash together.,tectonic plates,p2
+Tectonic plates smash together.,together,
+The edges of the plates crumple up.,the edges of the plates,
+The ridges are mountain ranges.,the ridges,
+The ridges are mountain ranges.,mountain ranges,
+Magma is forced to the surface.,magma,p1
+Magma is forced to the surface.,to the surface,
+Magma is forced to the surface.,the surface,
+Magma forms a volcano.,magma,p1
+Magma forms a volcano.,a volcano,p3

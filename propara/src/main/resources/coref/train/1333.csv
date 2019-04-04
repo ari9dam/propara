@@ -1,0 +1,25 @@
+p1,p2
+electricity,radio waves
+SENTENCE,PHRASE,REFERENCE
+The magnetron converts electricity into radio waves.,the magnetron,
+The magnetron converts electricity into radio waves.,electricity,p1
+The magnetron converts electricity into radio waves.,into radio waves,p2
+The magnetron converts electricity into radio waves.,radio waves,p2
+The radio waves go through a wave guide.,the radio waves,p2
+The radio waves go through a wave guide.,through a wave guide,
+The radio waves go through a wave guide.,a wave guide,
+The radio waves go into the food compartment.,the radio waves,p2
+The radio waves go into the food compartment.,into the food compartment,
+The radio waves go into the food compartment.,the food compartment,
+Microwaves bounces off the metal walls of the food compartment.,microwaves,
+Microwaves bounces off the metal walls of the food compartment.,off the metal walls of the food compartment,
+Microwaves bounces off the metal walls of the food compartment.,the metal walls of the food compartment,
+Microwaves pass through the food.,microwaves,
+Microwaves pass through the food.,through the food,
+Microwaves pass through the food.,the food,
+Microwaves make the molecules in the food move more quickly.,microwaves,
+Microwaves make the molecules in the food move more quickly.,the molecules in the food move more quickly,
+Microwaves make the molecules in the food move more quickly.,move more quickly,
+Microwaves make the molecules in the food move more quickly.,the molecules in the food,
+Microwaves make the molecules in the food move more quickly.,more quickly,
+The food heats up.,the food,

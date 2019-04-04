@@ -1,0 +1,15 @@
+p1,p2,p3,p4,p5
+seed,seedling,tree,flower,fruit
+SENTENCE,PHRASE,REFERENCE,,
+A seed is planted.,a seed,p1,,
+It becomes a seedling.,it,,,
+It becomes a seedling.,a seedling,p2,,
+It grows into a tree.,it,,,
+It grows into a tree.,into a tree,p3,,
+The tree grows flowers.,the tree,p3,,
+The tree grows flowers.,flowers,p4,,
+The flowers become fruit.,the flowers,p4,,
+The flowers become fruit.,fruit,p5,,
+The fruits contain seeds for new trees.,the fruits,p5,,
+The fruits contain seeds for new trees.,seeds for new trees,"p1,p3",,
+The fruits contain seeds for new trees.,new trees,p3,,

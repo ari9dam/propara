@@ -1,0 +1,13 @@
+p1,p2,p3,p4
+"stream, river","soil, bedrock",gash,dry ravine
+SENTENCE,PHRASE,REFERENCE
+A stream or river must occur.,a stream or river,p1
+"Through erosion, the stream cuts into the soil and bedrock.",through erosion,
+"Through erosion, the stream cuts into the soil and bedrock.",the stream,p1
+"Through erosion, the stream cuts into the soil and bedrock.",into the soil and bedrock,p2
+"Through erosion, the stream cuts into the soil and bedrock.",the soil and bedrock,p2
+"Through continuous erosion, a deep gash is cut through.",through continuous erosion,
+"Through continuous erosion, a deep gash is cut through.",a deep gash,p3
+After many years the river may dry up.,after many years,
+After many years the river may dry up.,the river,p1
+A dry ravine is left.,a dry ravine,p4

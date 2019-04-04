@@ -1,0 +1,17 @@
+p1,p2,p3
+roots,water,nutrients
+SENTENCE,PHRASE,REFERENCE
+The roots are within the soil.,the roots,p1
+The roots are within the soil.,within the soil,
+Water and nutrients move from the soil into the root structure.,water and nutrients,"p2,p3"
+Water and nutrients move from the soil into the root structure.,from the soil,
+Water and nutrients move from the soil into the root structure.,the root structure,p1
+Water and nutrients move from the soil into the root structure.,into the root structure,p1
+The roots are selective on what can go through.,the roots,p1
+The roots are selective on what can go through.,selective,
+The roots are selective on what can go through.,through,
+Only wanted elements are passed to within the plant.,elements,
+Only wanted elements are passed to within the plant.,to within the plant,
+The nutrients travels through the plants circulatory system.,the nutrients,p3
+The nutrients travels through the plants circulatory system.,through the plants circulatory system,
+The nutrients travels through the plants circulatory system.,the plants circulatory system,

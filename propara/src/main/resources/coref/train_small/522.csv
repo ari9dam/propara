@@ -1,0 +1,39 @@
+p1,p2,p3
+eggs,bird,flight feathers
+SENTENCE,PHRASE,REFERENCE
+A male and female bird mate.,a male and female bird,
+The female lays eggs.,the female,
+The female lays eggs.,eggs,p1
+"The eggs are incubated by the parents, by sitting on them, for weeks.",the eggs,p1
+"The eggs are incubated by the parents, by sitting on them, for weeks.",the parents,
+"The eggs are incubated by the parents, by sitting on them, for weeks.","by sitting on them , for weeks",p1
+"The eggs are incubated by the parents, by sitting on them, for weeks.",for weeks,
+"The eggs are incubated by the parents, by sitting on them, for weeks.",the eggs,p1
+"The eggs are incubated by the parents, by sitting on them, for weeks.",the parents,
+"The eggs are incubated by the parents, by sitting on them, for weeks.",them,p1
+"The eggs are incubated by the parents, by sitting on them, for weeks.",for weeks,
+The bird hatches from an egg.,the bird,p2
+The bird hatches from an egg.,from an egg,p1
+The bird hatches from an egg.,an egg,p1
+The parents feed them as the continue to grow.,the parents,
+The parents feed them as the continue to grow.,them,p2
+The parents feed them as the continue to grow.,as the continue to grow,p2
+The parents feed them as the continue to grow.,to grow,
+Develop flight feathers.,flight feathers,p3
+The parents teach them to fly.,the parents,
+The parents teach them to fly.,them,p2
+The parents teach them to fly.,to fly,
+The parents teach them to fly.,the parents,
+After learning to fly they leave the nest to live on their own.,to fly,
+After learning to fly they leave the nest to live on their own.,fly,
+After learning to fly they leave the nest to live on their own.,they,p2
+After learning to fly they leave the nest to live on their own.,the nest,
+After learning to fly they leave the nest to live on their own.,to live on their own,
+After learning to fly they leave the nest to live on their own.,they,p2
+After learning to fly they leave the nest to live on their own.,on their own,p2
+The next year they breed beginning the cycle again.,the next year,
+The next year they breed beginning the cycle again.,they,p2
+The next year they breed beginning the cycle again.,beginning the cycle again,
+The next year they breed beginning the cycle again.,the next year,
+The next year they breed beginning the cycle again.,they,p2
+The next year they breed beginning the cycle again.,the cycle,

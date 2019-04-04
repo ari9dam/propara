@@ -1,0 +1,17 @@
+p1,p2,p3,p4
+different kinds of rocks,magma,lava,igneous rock
+SENTENCE,PHRASE,REFERENCE
+Different kinds of rocks melt into magma.,different kinds of rocks,p1
+Different kinds of rocks melt into magma.,into magma,p2
+Magma cools in the crust.,magma,p2
+Magma cools in the crust.,in the crust,
+Magma cools in the crust.,the crust,
+Magma goes to the surface and becomes lava.,magma,p2
+Magma goes to the surface and becomes lava.,to the surface,
+Magma goes to the surface and becomes lava.,the surface,
+Magma goes to the surface and becomes lava.,magma,p2
+Magma goes to the surface and becomes lava.,lava,p3
+Lava cools.,lava,p3
+Cooled magma and lava become igneous rock.,magma and lava,"p2,p3"
+Cooled magma and lava become igneous rock.,cooled magma and lava,"p2,p3"
+Cooled magma and lava become igneous rock.,igneous rock,p4

@@ -1,0 +1,35 @@
+observedAt("rise","what v ?","warm , humid low-pressure air",1).
+lvalue("warm , humid low-pressure air","air").
+observedAt("create","what is being v ?","a strong updraft",2).
+lvalue("a strong updraft","updraft").
+observedAt("punch","what is v ?","dry , cold high-pressure air",3).
+lvalue("dry , cold high-pressure air","air").
+observedAt("punch","how is something v ?","through",3).
+observedAt("create","what v something ?","the opposing winds",4).
+lvalue("the opposing winds","oppose wind").
+observedAt("create","what does something v ?","rotation",4).
+lvalue("rotation","rotation").
+observedAt("be","what v something ?","the rotation",5).
+lvalue("the rotation","rotation").
+observedAt("be","what does something v ?","violent",5).
+observedAt("funnel","what v something ?","the rotation",5).
+lvalue("the rotation","rotation").
+observedAt("drop","where does something v ?","to the ground",6).
+lvalue("to the ground","ground").
+observedAt("drop","what does something v to ?","the ground",6).
+lvalue("the ground","ground").
+time(1..6).
+participant(p1;p2;p3;p4;p5).
+description(p1,"warm, humd low-presure air").
+description(p2,"updraft").
+description(p3,"dry, cold high-pressure air").
+description(p4,"rotation").
+description(p5,"funnel").
+description(p5,"tornado").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"warm , humid low-pressure air").
+refers(2,p2,"a strong updraft").
+refers(3,p3,"dry , cold high-pressure air").
+refers(4,p4,"rotation").
+refers(5,p4,"the rotation").
+refers(5,p4,"the rotation").

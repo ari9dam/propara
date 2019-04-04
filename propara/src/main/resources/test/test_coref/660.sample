@@ -1,0 +1,72 @@
+observedAt("convert","what v something ?","nitrogen-fixing bacteria",1).
+lvalue("nitrogen-fixing bacteria","bacterium").
+observedAt("convert","what does something v ?","atmospheric nitrogen",1).
+observedAt("convert","what does something v something to ?","organic nitrogen",1).
+observedAt("absorb","what v something ?","plants",2).
+lvalue("plants","plant").
+observedAt("absorb","what does something v ?","organic nitrogen",2).
+observedAt("absorb","where does something v something from ?","from the soil",2).
+lvalue("from the soil","soil").
+observedAt("absorb","how does something v something ?","through their roots",2).
+lvalue("through their roots","root").
+observedAt("eat","what v something ?","animals",3).
+lvalue("animals","animal").
+observedAt("eat","what does something v ?","the plants",3).
+lvalue("the plants","plant").
+observedAt("die","what v ?","plants and animals",4).
+lvalue("plants and animals","animal").
+observedAt("expel","what v something ?","animals",5).
+lvalue("animals","animal").
+observedAt("expel","what does something v ?","wastes",5).
+lvalue("wastes","waste").
+observedAt("convert","what v something ?","fungi",6).
+lvalue("fungi","fungus").
+observedAt("convert","what does something v ?","organic nitrogen",6).
+observedAt("convert","what does something v something to ?","ammonium",6).
+observedAt("nitrify","what is v ?","bacteria",7).
+lvalue("bacteria","bacterium").
+observedAt("convert","what v something ?","nitrifying bacteria",7).
+lvalue("nitrifying bacteria","bacterium").
+observedAt("convert","what does something v ?","ammonium",7).
+observedAt("convert","what does something v something to ?","nitrate",7).
+observedAt("nitrate","what v something ?","nitrifying bacteria",7).
+lvalue("nitrifying bacteria","bacterium").
+observedAt("convert","what v something ?","bacteria",8).
+lvalue("bacteria","bacterium").
+observedAt("convert","what does something v ?","nitrate",8).
+observedAt("convert","what does something v something to ?","nitrogen gas",8).
+observedAt("escape","what v from something ?","nitrogen gas",9).
+observedAt("escape","where does something v ?","from soil",9).
+lvalue("from soil","soil").
+observedAt("escape","what does something v from ?","soil",9).
+lvalue("soil","soil").
+observedAt("escape","where does something v from something ?","into the atmosphere",9).
+lvalue("into the atmosphere","atmosphere").
+time(1..9).
+participant(p1;p2;p3;p4;p5;p6;p7;p8).
+description(p1,"atmospheric nitrogen").
+description(p2,"organic nitrogen").
+description(p3,"animals").
+description(p4,"plants").
+description(p5,"wastes").
+description(p6,"ammonium").
+description(p7,"nitrate").
+description(p8,"nitrogen gas").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"atmospheric nitrogen").
+refers(1,p2,"organic nitrogen").
+refers(2,p4,"plants").
+refers(2,p2,"organic nitrogen").
+refers(3,p3,"animals").
+refers(3,p4,"the plants").
+refers(4,p3,"plants and animals").
+refers(4,p4,"plants and animals").
+refers(5,p3,"animals").
+refers(5,p5,"wastes").
+refers(6,p2,"organic nitrogen").
+refers(6,p6,"ammonium").
+refers(7,p6,"ammonium").
+refers(7,p7,"nitrate").
+refers(8,p7,"nitrate").
+refers(8,p8,"nitrogen gas").
+refers(9,p8,"nitrogen gas").

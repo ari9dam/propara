@@ -1,0 +1,23 @@
+p1,p2,
+oxygen,carbon dioxide,
+SENTENCE,PHRASE,REFERENCE
+A person breathes in oxygen.,a person,
+A person breathes in oxygen.,in oxygen,p1
+The oxygen passes through the bronchial tubes to the lungs.,the oxygen,p1
+The oxygen passes through the bronchial tubes to the lungs.,through the bronchial tubes,
+The oxygen passes through the bronchial tubes to the lungs.,the bronchial tubes,
+The oxygen is moved into the bloodstream.,the oxygen,p1
+The oxygen is moved into the bloodstream.,into the bloodstream,
+The oxygen is moved into the bloodstream.,the bloodstream,
+Circulates through the body.,through the body,
+Circulates through the body.,the body,
+The cells in the body exchange the oxygen with carbon dioxide.,the cells in the body,
+The cells in the body exchange the oxygen with carbon dioxide.,the oxygen,p1
+The cells in the body exchange the oxygen with carbon dioxide.,with carbon dioxide,p2
+The cells in the body exchange the oxygen with carbon dioxide.,carbon dioxide,p2
+The bloodstream carries the carbon dioxide back to the lungs.,the bloodstream,
+The bloodstream carries the carbon dioxide back to the lungs.,the carbon dioxide,p2
+The bloodstream carries the carbon dioxide back to the lungs.,back to the lungs,
+The lungs expel the carbon dioxide through the nose and mouth.,the lungs,
+The lungs expel the carbon dioxide through the nose and mouth.,the carbon dioxide,p2
+The lungs expel the carbon dioxide through the nose and mouth.,through the nose and mouth,

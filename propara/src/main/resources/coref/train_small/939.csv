@@ -1,0 +1,22 @@
+p1,p2,p3
+carbon dioxide,water,sunlight
+SENTENCE,PHRASE,REFERENCE
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,carbon dioxide,p1
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,carbon dioxide from the air,p1
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,through small pores ( holes ) in the leaves,
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,small pores ( holes ) in the leaves,
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,in the leaves,
+These pores are called stomata.,stomata,
+These pores are called stomata.,these pores,
+These pores are called stomata.,stomata,
+Water is absorbed by the roots.,water,p2
+Water is absorbed by the roots.,by the roots,
+Water is absorbed by the roots.,the roots,
+It passes through vessels in the stem on its way to the leaves.,it,p2
+It passes through vessels in the stem on its way to the leaves.,through vessels,
+It passes through vessels in the stem on its way to the leaves.,vessels,
+It passes through vessels in the stem on its way to the leaves.,on its way to the leaves,p2
+Sunlight is absorbed by a green chemical in the leaves.,sunlight,p3
+Sunlight is absorbed by a green chemical in the leaves.,a green chemical,
+Sunlight is absorbed by a green chemical in the leaves.,in the leaves,
+Carbon dioxide from the air passes through small pores (holes) in the leaves.,air,

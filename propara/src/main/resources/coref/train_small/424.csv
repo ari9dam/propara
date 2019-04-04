@@ -1,0 +1,22 @@
+p1,p2,
+crude oil,"bottled oil, the oil",
+SENTENCE,PHRASE,REFERENCE
+Crude oil is pumped from the ground.,crude oil,p1
+Crude oil is pumped from the ground.,from the ground,
+Crude oil is pumped from the ground.,the ground,
+The crude oil is put into a tanker truck.,the crude oil,p1
+The crude oil is put into a tanker truck.,into a tanker truck,
+The crude oil is put into a tanker truck.,a tanker truck,
+The crude oil is delivered to an oil refinery.,the crude oil,p1
+The crude oil is delivered to an oil refinery.,to an oil refinery,
+The crude oil is delivered to an oil refinery.,an oil refinery,
+Impurities are removed from the oil.,impurities,
+Impurities are removed from the oil.,from the oil,p1
+Impurities are removed from the oil.,the oil,p1
+The oil is bottled.,the oil,p2
+The oil is bottled.,bottled,
+The bottled oil is delivered to gas stations by trucks.,the bottled oil,p2
+The bottled oil is delivered to gas stations by trucks.,to gas stations,
+The bottled oil is delivered to gas stations by trucks.,gas stations,
+The bottled oil is delivered to gas stations by trucks.,by trucks,
+The bottled oil is delivered to gas stations by trucks.,trucks,

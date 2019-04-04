@@ -1,0 +1,40 @@
+observedAt("exist","what is v ?","star",1).
+lvalue("star","star").
+observedAt("occur","what v ?","formation",2).
+observedAt("occur","when does something v ?","when the star runs out of hydrogen fuel",2).
+lvalue("when the star runs out of hydrogen fuel","star").
+observedAt("run","what v into something ?","the star",2).
+lvalue("the star","star").
+observedAt("run","what does something v into ?","hydrogen fuel",2).
+observedAt("combine","what is v ?","hydrogen atoms",3).
+observedAt("combine","how is something v ?","together",3).
+observedAt("combine","why is something v ?","to form helium atoms",3).
+observedAt("form","what v something ?","hydrogen atoms",3).
+observedAt("form","what does something v ?","helium atoms",3).
+observedAt("produce","what is v ?","energy",4).
+observedAt("produce","how is something v ?","by helium fusion",4).
+observedAt("produce","what is something v by ?","helium fusion",4).
+observedAt("cause","what v something ?","energy produced by helium fusion",4).
+observedAt("cause","what does something v ?","the star to expand",4).
+lvalue("the star to expand","star").
+observedAt("cause","what does something v something to do ?","expand",4).
+observedAt("expand","why does something v ?","energy produced by helium fusion",4).
+observedAt("expand","what v ?","the star",4).
+lvalue("the star","star").
+observedAt("be","what v something ?","a red giant star",5).
+lvalue("a red giant star","red giant star").
+observedAt("be","what does something v ?","the last stage of stellar evolution",5).
+time(1..5).
+participant(p1;p2;p3;p4).
+description(p1,"hydrogen fuel").
+description(p2,"hydrogen atoms").
+description(p3,"helium atoms").
+description(p4,"red giant star").
+annotator(a1;a2;a3;a4;a5).
+refers(2,p1,"when the star runs out of hydrogen fuel").
+refers(2,p1,"hydrogen fuel").
+refers(3,p2,"hydrogen atoms").
+refers(3,p3,"to form helium atoms").
+refers(3,p2,"hydrogen atoms").
+refers(3,p3,"helium atoms").
+refers(5,p4,"a red giant star").

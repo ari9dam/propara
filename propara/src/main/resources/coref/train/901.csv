@@ -1,0 +1,20 @@
+p1,p2,p3
+sound,electrical impulses,sound
+SENTENCE,PHRASE,REFERENCE
+Sound enters the ears of a person.,sound,"p1,p3"
+Sound enters the ears of a person.,the ears of a person,
+The sound hits a drum that is inside the ear.,inside the ear,
+The sound hits a drum that is inside the ear.,a drum,
+The sound hits a drum that is inside the ear.,inside the ear,
+The drum inside the ear converts the sound to electrical impulses.,inside the ear,
+The drum inside the ear converts the sound to electrical impulses.,the drum inside the ear,
+The drum inside the ear converts the sound to electrical impulses.,inside the ear,
+The drum inside the ear converts the sound to electrical impulses.,the sound,"p1,p3"
+The drum inside the ear converts the sound to electrical impulses.,electrical impulses,p2
+The electrical impulses are sent to the brain.,the electrical impulses,p2
+The electrical impulses are sent to the brain.,to the brain,
+The electrical impulses are sent to the brain.,the brain,
+The brain can decode the impulses into sound.,the brain,
+The brain can decode the impulses into sound.,the impulses,
+The brain can decode the impulses into sound.,into sound,"p1,p3"
+The brain can decode the impulses into sound.,sound,"p1,p3"

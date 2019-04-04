@@ -1,0 +1,21 @@
+p1,p2,p3
+"can, melted metal",bars,material for other products
+SENTENCE,PHRASE,REFERENCE
+A can is thrown away into a recycling bin.,a can,p1
+A can is thrown away into a recycling bin.,away,
+A can is thrown away into a recycling bin.,away into a recycling bin,
+A can is thrown away into a recycling bin.,a recycling bin,
+A can is thrown away into a recycling bin.,bin,
+The can is taken to a recycling center.,the can,p1
+The can is taken to a recycling center.,to a recycling center,
+The can is taken to a recycling center.,a recycling center,
+The can is taken to a recycling center.,center,
+Melted down along with other cans.,down,
+Melted down along with other cans.,along with other cans,
+Melted down along with other cans.,other cans,
+The melted metal is turned into bars.,metal,
+The melted metal is turned into bars.,the melted metal,p1
+The melted metal is turned into bars.,into bars,p2
+The melted metal is turned into bars.,bars,p2
+Becomes material for other products.,material,p3
+Becomes material for other products.,other products,

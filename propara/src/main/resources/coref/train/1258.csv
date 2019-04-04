@@ -1,0 +1,38 @@
+p1,p2,p3
+Mass,Fuel,Gravity
+SENTENCE,PHRASE,REFERENCE
+Stars burn mass.,stars,
+Stars burn mass.,mass,p1
+Light can not escape.,light,
+The star burns until it runs out of fuel.,the star,
+The star burns until it runs out of fuel.,fuel,p2
+The star can no longer support its weight.,the star,
+The star can no longer support its weight.,its weight,
+The star can no longer support its weight.,weight,
+The layers of hydrogen press down on the core.,the layers of hydrogen,
+The layers of hydrogen press down on the core.,layers of hydrogen,
+The layers of hydrogen press down on the core.,down,
+The layers of hydrogen press down on the core.,down on the core,
+The layers of hydrogen press down on the core.,on the core,
+The layers of hydrogen press down on the core.,the core,
+The core gets smaller and smaller under the pressure.,the core,
+The core gets smaller and smaller under the pressure.,smaller and smaller,
+The core gets smaller and smaller under the pressure.,under the pressure,
+The pressure causes gravity to get stronger.,the pressure,
+The pressure causes gravity to get stronger.,gravity to get stronger,p3
+The pressure causes gravity to get stronger.,to get stronger,
+The pressure causes gravity to get stronger.,gravity,p3
+The pressure causes gravity to get stronger.,stronger,
+The gravity becomes so powerful that nothing can escape it.,the gravity,p3
+The gravity becomes so powerful that nothing can escape it.,so powerful,
+The gravity becomes so powerful that nothing can escape it.,the gravity,p3
+The gravity becomes so powerful that nothing can escape it.,nothing,
+The gravity becomes so powerful that nothing can escape it.,it,
+"Anything that gets close to it, is drawn into it by its gravity.",anything,
+"Anything that gets close to it, is drawn into it by its gravity.",close to it,
+"Anything that gets close to it, is drawn into it by its gravity.",anything that gets close to it,
+"Anything that gets close to it, is drawn into it by its gravity.",it,
+"Anything that gets close to it, is drawn into it by its gravity.",by its gravity,p3
+"Anything that gets close to it, is drawn into it by its gravity.",its gravity,p3
+Light is drawn into it.,light,
+Light is drawn into it.,it,

@@ -1,0 +1,19 @@
+p1,p2,p3,p4
+blood,waste,water,urine
+SENTENCE,PHRASE,REFERENCE
+Blood carried into kidney by the renal artery.,blood,p1
+Blood carried into kidney by the renal artery.,into kidney,
+Blood carried into kidney by the renal artery.,kidney,
+Blood carried into kidney by the renal artery.,by the renal artery,
+Blood carried into kidney by the renal artery.,the renal artery,
+Nephrons in the kidney filter the blood.,nephrons in the kidney,
+Nephrons in the kidney filter the blood.,in the kidney,
+Nephrons in the kidney filter the blood.,the blood,p1
+The waste that is filtered out mixes with water.,the waste,p2
+The waste that is filtered out mixes with water.,out,
+The waste that is filtered out mixes with water.,the waste that is filtered out,p2
+The waste that is filtered out mixes with water.,water,p3
+Become urine.,urine,p4
+Ureters carry urine out of the kidneys.,ureters,
+Ureters carry urine out of the kidneys.,urine,p4
+Ureters carry urine out of the kidneys.,out of the kidneys,

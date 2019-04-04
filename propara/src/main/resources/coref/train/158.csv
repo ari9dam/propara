@@ -1,0 +1,26 @@
+p1,p2,p3
+"aluminum can, cans",molten metal,sheets
+SENTENCE,PHRASE,REFERENCE
+Put the aluminum can into a recycle bin.,the aluminum,
+Put the aluminum can into a recycle bin.,into a recycle bin,
+Put the aluminum can into a recycle bin.,a recycle bin,
+Put the aluminum can into a recycle bin.,bin,
+The cans are transported to a facility.,the cans,p1
+The cans are transported to a facility.,to a facility,
+The cans are transported to a facility.,a facility,
+The cans are shredded by a machine.,the cans,p1
+The cans are shredded by a machine.,by a machine,
+The cans are shredded by a machine.,a machine,
+The cans are heated to 1400 degrees to melt them.,the cans,p1
+The cans are heated to 1400 degrees to melt them.,to 1400 degrees,
+The cans are heated to 1400 degrees to melt them.,to melt them,
+The cans are heated to 1400 degrees to melt them.,the cans,p1
+The cans are heated to 1400 degrees to melt them.,them,
+The molten metal is poured into molds.,the molten metal,p2
+The molten metal is poured into molds.,molds,
+The molds are flattened and rolled into sheets to reuse.,the molds,
+The molds are flattened and rolled into sheets to reuse.,the molds,
+The molds are flattened and rolled into sheets to reuse.,into sheets,p3
+The molds are flattened and rolled into sheets to reuse.,sheets,p3
+The molds are flattened and rolled into sheets to reuse.,to reuse,
+The molds are flattened and rolled into sheets to reuse.,the molds,

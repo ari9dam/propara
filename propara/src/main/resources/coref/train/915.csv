@@ -1,0 +1,31 @@
+p1,p2,p3
+sediment,particles,fluid
+SENTENCE,PHRASE,REFERENCE
+Sediment transport is the movement of solid particles (sediment).,sediment transport,p1
+Sediment transport is the movement of solid particles (sediment).,the movement of solid particles ( sediment ),"p1,p2"
+"The movement is due to a combination of gravity acting on the sediment, and/or the movement of the fluid in which the sediment is entrained.",the movement,
+"The movement is due to a combination of gravity acting on the sediment, and/or the movement of the fluid in which the sediment is entrained.",due to a combination of gravity acting on the sediment,p1
+"The movement is due to a combination of gravity acting on the sediment, and/or the movement of the fluid in which the sediment is entrained.",a combination of gravity,
+"The movement is due to a combination of gravity acting on the sediment, and/or the movement of the fluid in which the sediment is entrained.",the sediment,p1
+"The movement is due to a combination of gravity acting on the sediment, and/or the movement of the fluid in which the sediment is entrained.",the sediment,p1
+"Sediment transport occurs in natural systems where the particles are clastic rocks (sand, gravel, boulders, etc.), mud, or clay.",sediment transport,p1
+"Sediment transport occurs in natural systems where the particles are clastic rocks (sand, gravel, boulders, etc.), mud, or clay.",in natural systems,
+"Sediment transport occurs in natural systems where the particles are clastic rocks (sand, gravel, boulders, etc.), mud, or clay.",the particles,p2
+"Sediment transport occurs in natural systems where the particles are clastic rocks (sand, gravel, boulders, etc.), mud, or clay.",clastic rocks,
+"The fluid is air, water, or ice.",the fluid,p3
+"The fluid is air, water, or ice.","air , water , or ice",
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,the force of gravity,
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,to move the particles along the sloping surface on which they are resting,p2
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,the force of gravity,
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,the particles,p2
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,along the sloping surface,
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,along the sloping surface on which they are resting,
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,the particles,p2
+And the force of gravity acts to move the particles along the sloping surface on which they are resting.,they,
+"Sediment transport due to fluid motion occurs in rivers, oceans, lakes, seas, and other bodies of water due to currents and tides.",sediment transport due to fluid motion,"p1,p3"
+"Sediment transport due to fluid motion occurs in rivers, oceans, lakes, seas, and other bodies of water due to currents and tides.","in rivers , oceans , lakes , seas , and other bodies of water",
+"Sediment transport due to fluid motion occurs in rivers, oceans, lakes, seas, and other bodies of water due to currents and tides.",due to currents and tides,
+Transport is also caused by glaciers as they flow.,transport,
+Transport is also caused by glaciers as they flow.,glaciers,
+Transport is also caused by glaciers as they flow.,as they flow,
+Transport is also caused by glaciers as they flow.,glaciers,

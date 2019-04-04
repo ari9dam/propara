@@ -1,0 +1,27 @@
+p1,p2,p3,p4,p5,p6,p7
+water,iron,carbon dioxide,carbon acid,hydrogen,oxygen,"iron oxide, rust"
+SENTENCE,PHRASE,REFERENCE
+Water comes into contact with something made of iron.,water,p1
+Water comes into contact with something made of iron.,contact with something made of iron,p2
+Water comes into contact with something made of iron.,something,
+Water comes into contact with something made of iron.,iron,p2
+The water combines with carbon dioxide in the air to form carbonic acid.,the water,p1
+The water combines with carbon dioxide in the air to form carbonic acid.,carbon dioxide,p3
+The water combines with carbon dioxide in the air to form carbonic acid.,in the air,
+The water combines with carbon dioxide in the air to form carbonic acid.,to form carbonic acid,
+The water combines with carbon dioxide in the air to form carbonic acid.,the water,p1
+The water combines with carbon dioxide in the air to form carbonic acid.,the water combines with carbon dioxide in the air,"p1,p3"
+The water combines with carbon dioxide in the air to form carbonic acid.,carbonic acid,
+"As the acid is formed, the iron starts to dissolve.",the acid,
+"As the acid is formed, the iron starts to dissolve.",as the acid is formed,
+"As the acid is formed, the iron starts to dissolve.",the iron,p2
+"As the acid is formed, the iron starts to dissolve.",to dissolve,
+"As the acid is formed, the iron starts to dissolve.",as the acid is formed,
+"As the acid is formed, the iron starts to dissolve.",the iron,p2
+Some of the water breaks down into hydrogen and oxygen.,some of the water,p1
+Some of the water breaks down into hydrogen and oxygen.,hydrogen and oxygen,"p5,p6"
+The free oxygen and dissolved iron bond together.,iron bond,p2
+"They form iron oxide, which is rust.",they,
+"They form iron oxide, which is rust.",iron oxide,"p2,p7"
+"They form iron oxide, which is rust.",iron oxide,"p2,p7"
+"They form iron oxide, which is rust.",rust,p7

@@ -1,0 +1,21 @@
+p1,p2,
+water,ice,
+SENTENCE,PHRASE,REFERENCE
+Take out an ice cube tray.,an ice cube tray,
+Fill the tray with water from the faucet.,the tray,
+Fill the tray with water from the faucet.,with water,p1
+Fill the tray with water from the faucet.,water,p1
+Fill the tray with water from the faucet.,from the faucet,
+Put the ice cube tray in the freezer.,the ice cube tray,
+Put the ice cube tray in the freezer.,in the freezer,
+Wait for several hours.,for several hours,
+Wait for several hours.,several hours,
+The water will freeze and become ice.,the water,p1
+The water will freeze and become ice.,the water,p1
+The water will freeze and become ice.,ice,p2
+Remove the ice cube tray from the freezer.,the ice cube tray,p2
+Remove the ice cube tray from the freezer.,from the freezer,
+Remove the ice cube tray from the freezer.,the freezer,
+Remove the ice cubes from the tray.,the ice cubes,p2
+Remove the ice cubes from the tray.,from the tray,
+Remove the ice cubes from the tray.,the tray,

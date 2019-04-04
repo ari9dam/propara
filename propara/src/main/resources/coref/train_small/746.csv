@@ -1,0 +1,17 @@
+p1,p2,p3
+rain,limestone,"gap, cave"
+SENTENCE,PHRASE,REFERENCE
+Some of the rock in the ground is made of limestone.,some of the rock in the ground,
+Some of the rock in the ground is made of limestone.,limestone,p2
+Over long periods of time rain can hit the limestone.,over long periods of time,
+Over long periods of time rain can hit the limestone.,rain,p1
+Over long periods of time rain can hit the limestone.,the limestone,p2
+And cause a acidic reaction.,a acidic reaction,
+The limestone will slowly disintegrate.,the limestone,p2
+The limestone will slowly disintegrate.,slowly,
+A large gap with be where the limestone was.,a large gap,p3
+A large gap with be where the limestone was.,where the limestone was,p2
+A large gap with be where the limestone was.,the limestone,p2
+A large gap with be where the limestone was.,limestone,p2
+Result in the cave.,in the cave,p3
+Result in the cave.,the cave,p3

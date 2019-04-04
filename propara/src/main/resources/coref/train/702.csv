@@ -1,0 +1,24 @@
+p1,p2,p3,p4,p5
+several types of gases,atmosphere,earth,heat,energy
+SENTENCE,PHRASE,REFERENCE
+Several types of gases form in the atmosphere.,several types of gases,p1
+Several types of gases form in the atmosphere.,in the atmosphere,p2
+May come from different sources.,may,
+May come from different sources.,from different sources,
+May come from different sources.,different sources,
+The gases remain trapped in the atmosphere.,the gases,
+The gases remain trapped in the atmosphere.,trapped,
+The gases remain trapped in the atmosphere.,in the atmosphere,p2
+The gases remain trapped in the atmosphere.,the gases,
+The gases remain trapped in the atmosphere.,in the atmosphere,p2
+The gases remain trapped in the atmosphere.,the atmosphere,p2
+Through the suns light the gases hold in heat and energy.,the gases,
+Through the suns light the gases hold in heat and energy.,suns,
+Through the suns light the gases hold in heat and energy.,through the suns light,
+Through the suns light the gases hold in heat and energy.,the gases,
+Through the suns light the gases hold in heat and energy.,heat and energy,"p4,p5"
+Trap them in our atmosphere.,them,
+Trap them in our atmosphere.,in our atmosphere,p2
+The earth may become warmer this way.,the earth,p3
+The earth may become warmer this way.,warmer,
+The earth may become warmer this way.,this way,

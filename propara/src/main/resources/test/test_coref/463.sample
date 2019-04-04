@@ -1,0 +1,53 @@
+observedAt("carry","what v something ?","updrafts in a thunderstorm",1).
+lvalue("updrafts in a thunderstorm","thunderstorm").
+observedAt("carry","where does something v something ?","in a thunderstorm",1).
+lvalue("in a thunderstorm","thunderstorm").
+observedAt("carry","what does something v ?","raindrops",1).
+observedAt("carry","how does something v something ?","upwards",1).
+lvalue("upwards","upward").
+observedAt("condense","what v into something ?","the raindrops",2).
+observedAt("condense","how does something v ?","onto dust or other small parti",2).
+observedAt("condense","what does something v into ?","dust or other small parti",2).
+observedAt("condense","what v into something ?","the supercooled water molecules",3).
+observedAt("condense","where does something v ?","onto the condensation nucleus",3).
+observedAt("condense","how does something v ?","onto the condensation nucleus and freeze",3).
+observedAt("condense","what does something v into ?","the condensation nucleus",3).
+observedAt("keep","what v doing something ?","the tiny ice particle",4).
+observedAt("keep","what does something v doing ?","moving up and down",4).
+observedAt("move","what is v ?","the tiny ice particle",4).
+observedAt("move","how is something v ?","up and down",4).
+observedAt("gather","what v something ?","the tiny ice particle",4).
+observedAt("gather","what is being v ?","more ice",4).
+observedAt("gather","where is something being v ?","on the surface",4).
+lvalue("on the surface","surface").
+observedAt("fall","when does something v somewhere ?","eventually",5).
+observedAt("fall","what v ?","the hailstone",5).
+observedAt("fall","where does something v ?","to earth",5).
+lvalue("to earth","earth").
+observedAt("fall","what does something v to ?","earth",5).
+lvalue("earth","earth").
+observedAt("fall","how does something v somewhere ?","either because it 's too heavy to remain aloft or because a drowndraft pushes it down",5).
+lvalue("either because it 's too heavy to remain aloft or because a drowndraft pushes it down","aloft").
+observedAt("be","what v something ?","the hailstone",5).
+observedAt("be","what does something v ?","too heavy to remain aloft",5).
+lvalue("too heavy to remain aloft","aloft").
+observedAt("remain","what v ?","the hailstone",5).
+observedAt("remain","how is something v ?","aloft",5).
+lvalue("aloft","aloft").
+observedAt("push","what v something ?","a drowndraft",5).
+observedAt("push","what does something v ?","it",5).
+observedAt("push","how is something being v ?","down",5).
+time(1..5).
+participant(p1;p2;p3).
+description(p1,"raindrops").
+description(p2,"ice particle").
+description(p3,"hailstone").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"raindrops").
+refers(2,p1,"the raindrops").
+refers(4,p2,"the tiny ice particle").
+refers(4,p2,"the tiny ice particle").
+refers(4,p2,"the tiny ice particle").
+refers(5,p3,"the hailstone").
+refers(5,p3,"the hailstone").
+refers(5,p3,"the hailstone").

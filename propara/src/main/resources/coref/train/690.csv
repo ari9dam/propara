@@ -1,0 +1,21 @@
+p1,p2
+seeds,crops
+SENTENCE,PHRASE,REFERENCE
+The farmer chooses a crop that will grow well in his region.,the farmer,
+The farmer chooses a crop that will grow well in his region.,a crop that will grow well in his region,p2
+The farmer chooses a crop that will grow well in his region.,a crop,p2
+The farmer chooses a crop that will grow well in his region.,well,
+The farmer chooses a crop that will grow well in his region.,in his region,
+The farmer tills the soil to loosen it.,the farmer,
+The farmer tills the soil to loosen it.,the soil,
+The farmer tills the soil to loosen it.,to loosen it,
+The farmer tills the soil to loosen it.,the farmer,
+The farmer tills the soil to loosen it.,the soil,
+The farmer tills the soil to loosen it.,it,
+The farmer spreads seeds.,the farmer,
+The farmer spreads seeds.,seeds,p1
+The farmer tills again to plant the seeds.,the farmer,
+The farmer tills again to plant the seeds.,to plant the seeds,p1
+The farmer tills again to plant the seeds.,the farmer,
+The farmer tills again to plant the seeds.,the seeds,p1
+Crops grow.,crops,p2

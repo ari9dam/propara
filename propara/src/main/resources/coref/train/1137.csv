@@ -1,0 +1,45 @@
+p1,p2
+owls,prey
+SENTENCE,PHRASE,REFERENCE
+Owls hunt around their hunting territory away from where they roost during the day.,owls,p1
+Owls hunt around their hunting territory away from where they roost during the day.,during the day,
+"They sit still on a perch, like a stump of branch, and wait for prey.",they,
+"They sit still on a perch, like a stump of branch, and wait for prey.",still,
+"They sit still on a perch, like a stump of branch, and wait for prey.",still on a perch,
+"They sit still on a perch, like a stump of branch, and wait for prey.",they,
+"They sit still on a perch, like a stump of branch, and wait for prey.",prey,p2
+They use their highly sensitive hearing to locate prey that cannot be seen.,they,
+They use their highly sensitive hearing to locate prey that cannot be seen.,their highly sensitive hearing,
+They use their highly sensitive hearing to locate prey that cannot be seen.,to locate prey that can not be seen,p2
+They use their highly sensitive hearing to locate prey that cannot be seen.,they,
+They use their highly sensitive hearing to locate prey that cannot be seen.,highly sensitive hearing,
+They use their highly sensitive hearing to locate prey that cannot be seen.,prey,p2
+They use their highly sensitive hearing to locate prey that cannot be seen.,prey,p2
+They use their very keen vision to see prey in the dark.,they,
+They use their very keen vision to see prey in the dark.,their very keen vision,
+They use their very keen vision to see prey in the dark.,to see prey in the dark,p2
+They use their very keen vision to see prey in the dark.,they,
+They use their very keen vision to see prey in the dark.,prey,p2
+They use their very keen vision to see prey in the dark.,in the dark,
+"They fly silently, without flapping their wings, in order to surprise the prey.",they,
+"They fly silently, without flapping their wings, in order to surprise the prey.",silently,
+"They fly silently, without flapping their wings, in order to surprise the prey.",in order to surprise the prey,p2
+"They fly silently, without flapping their wings, in order to surprise the prey.",they,
+"They fly silently, without flapping their wings, in order to surprise the prey.",their wings,
+"They fly silently, without flapping their wings, in order to surprise the prey.",in order to surprise the prey,p2
+"They fly silently, without flapping their wings, in order to surprise the prey.",they,
+"They fly silently, without flapping their wings, in order to surprise the prey.",the prey,p2
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",the owl,p1
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",silently,
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",its prey,p2
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",the owl,p1
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",its prey,p2
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",the owl,p1
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",it,
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",with its talons and beak,
+"The owl silently glides or drops on its prey, grabbing it with its talons and beak.",its talons and beak,
+"The owl eats the prey, or carries it back to its perch.",the owl,p1
+"The owl eats the prey, or carries it back to its perch.",the prey,p2
+"The owl eats the prey, or carries it back to its perch.",the prey,p2
+"The owl eats the prey, or carries it back to its perch.",it,
+"The owl eats the prey, or carries it back to its perch.",back to its perch,

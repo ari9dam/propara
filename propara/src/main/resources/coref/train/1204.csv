@@ -1,0 +1,49 @@
+p1,p2,p3,p4,p5
+MRNA,DNA's genetic information,protein,mRNA,ribosome
+SENTENCE,PHRASE,REFERENCE
+"MRNA is made during the first step of protein synthesis, which is transcription.",mrna,"p1,p4"
+"MRNA is made during the first step of protein synthesis, which is transcription.",during the first step of protein synthesis,p3
+"MRNA is made during the first step of protein synthesis, which is transcription.",the first step of protein synthesis,p3
+"MRNA is made during the first step of protein synthesis, which is transcription.",transcription,
+"The DNA's genetic information, or secret code, gets written onto a strand of mRNA.","the dna 's genetic information , or secret code",p2
+"The DNA's genetic information, or secret code, gets written onto a strand of mRNA.",onto a strand of mrna,"p1,p4"
+"The DNA's genetic information, or secret code, gets written onto a strand of mRNA.",a strand of mrna,"p1,p4"
+Transcription takes place in the nucleus.,transcription,
+Transcription takes place in the nucleus.,place,
+Transcription takes place in the nucleus.,in the nucleus,
+The next step in making a protein is called translation.,translation,
+The next step in making a protein is called translation.,the next step in making a protein,p3
+The next step in making a protein is called translation.,translation,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,the mrna,"p1,p4"
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,itself,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,to the ribosome,p5
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,the ribosome,p5
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,more,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,at : http://www.ducksters.com/science/biology/proteins_and_amino_acids.php,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,this text,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,copyright ducksters,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,not use without permission,
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.,without permission,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",the ribosome,p5
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",where to start on the mrna,"p1,p4"
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",by find a special three letter begin sequence called a codon,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",the ribosome,p5
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",on the mrna,"p1,p4"
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",the mrna,"p1,p4"
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",by find a special three letter begin sequence called a codon,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",the ribosome,p5
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",a special three letter begin sequence called a codon,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",a special three letter,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",sequence called a codon,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",a special three letter begin sequence,
+"The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.",a codon,
+The ribosome then moves down the strand of mRNA.,the ribosome,p5
+The ribosome then moves down the strand of mRNA.,down the strand of mrna,"p1,p4"
+The ribosome then moves down the strand of mRNA.,the strand of mrna,"p1,p4"
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",the ribosome,p5
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",the stop code,
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",when the ribosome see the stop code,p5
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",it,
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",the translation,
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",the protein,p3
+"When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.",complete,

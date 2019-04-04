@@ -1,0 +1,29 @@
+p1,p2,p3
+signal,"heating oil, oil","air, heated air"
+SENTENCE,PHRASE,REFERENCE
+The thermostat senses that the temperature has dropped.,the temperature,
+A signal is sent to the heating system.,a signal,p1
+A signal is sent to the heating system.,to the heating system,
+A signal is sent to the heating system.,the heating system,
+Heating oil travels from the tank to the burner.,heating oil,p2
+Heating oil travels from the tank to the burner.,from the tank to the burner,
+Heating oil travels from the tank to the burner.,the tank,
+Heating oil travels from the tank to the burner.,to the burner,
+The oil becomes a fine mist mixed with air.,the oil,p2
+The oil becomes a fine mist mixed with air.,a fine mist mixed with air,p3
+The oil becomes a fine mist mixed with air.,a fine mist,
+The oil becomes a fine mist mixed with air.,air,p3
+The oil/air combination is injected into the burner.,the oil/air combination,p3
+The oil/air combination is injected into the burner.,into the burner,
+The oil/air combination is injected into the burner.,the burner,
+The burner is ignited in the combustion chamber.,the burner,
+The burner is ignited in the combustion chamber.,in the combustion chamber,
+The burner is ignited in the combustion chamber.,the combustion chamber,
+The furnace heats the air.,the furnace,
+The furnace heats the air.,the air,p3
+The blower sends the heated air through the ducts.,the blower,
+The blower sends the heated air through the ducts.,the heated air,p3
+The blower sends the heated air through the ducts.,through the ducts,
+The heated air comes out the vents and into the room.,the heated air,p3
+The heated air comes out the vents and into the room.,out the vents and into the room,
+The heated air comes out the vents and into the room.,the vents,

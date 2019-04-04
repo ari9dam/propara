@@ -1,0 +1,22 @@
+p1,p2,p3,p4,p5,p6,p7
+tectonic plates,fissures,upheavals in the crust,lava,volcanoes,mountains,their own mountains
+SENTENCE,PHRASE,REFERENCE
+Techtonic plates in the earths crust move.,techtonic plates,
+Techtonic plates in the earths crust move.,in the earths crust,
+Movement creates fissures.,movement,
+Movement creates fissures.,fissures,p2
+Upheavals in the crust.,Upheavals in the crust.,p3
+Fissures allow lava to erupt into volcanoes at the surface.,fissures,p2
+Fissures allow lava to erupt into volcanoes at the surface.,lava to erupt into volcanoes at the surface,"p4,p5"
+Fissures allow lava to erupt into volcanoes at the surface.,at the surface,
+Fissures allow lava to erupt into volcanoes at the surface.,lava,p4
+Fissures allow lava to erupt into volcanoes at the surface.,into volcanoes,p5
+Fissures allow lava to erupt into volcanoes at the surface.,volcanoes,p5
+Fissures allow lava to erupt into volcanoes at the surface.,at the surface,
+"Volcanoes erupt, accumulating lava, forming mountains.",volcanoes,p5
+"Volcanoes erupt, accumulating lava, forming mountains.",volcanoes,p5
+"Volcanoes erupt, accumulating lava, forming mountains.",lava,p4
+"Volcanoes erupt, accumulating lava, forming mountains.",volcanoes,p5
+"Volcanoes erupt, accumulating lava, forming mountains.",mountains,p6
+Upheavals in the crust become their own mountains.,upheavals in the crust,p3
+Upheavals in the crust become their own mountains.,their own mountains,"p6,p7"

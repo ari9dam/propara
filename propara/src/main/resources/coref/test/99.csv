@@ -1,0 +1,27 @@
+p1,p2,p3,p4,p5
+rain clouds,rain,clouds,a very different ecosystem,desert
+SENTENCE,PHRASE,REFERENCE
+Rain clouds travel across the sky.,rain clouds,"p1,p2,p3"
+Rain clouds travel across the sky.,across the sky,
+Rain clouds are stopped or slowed by mountains or wind.,rain clouds,"p1,p2,p3"
+Rain clouds are stopped or slowed by mountains or wind.,mountains or wind,
+Rain clouds are stopped or slowed by mountains or wind.,rain clouds,"p1,p2,p3"
+Rain clouds are stopped or slowed by mountains or wind.,by mountains or wind,
+Rain clouds are stopped or slowed by mountains or wind.,mountains or wind,
+The rain clouds drop the rain.,the rain clouds,"p1,p2,p3"
+The rain clouds drop the rain.,the rain,p2
+The clouds are no longer raining when or if they reach the other side of the obstacle.,the clouds,p3
+The clouds are no longer raining when or if they reach the other side of the obstacle.,when or if they reach the other side of the obstacle,
+The clouds are no longer raining when or if they reach the other side of the obstacle.,the clouds,p3
+The clouds are no longer raining when or if they reach the other side of the obstacle.,the other side of the obstacle,
+"On the other side of the mountains or rain, there isn't much rain.",on the other side of the mountains or rain,p2
+"On the other side of the mountains or rain, there isn't much rain.",there,
+"On the other side of the mountains or rain, there isn't much rain.",n't much rain,p2
+The area that receives little rain develops a very different ecosystem.,the area,
+The area that receives little rain develops a very different ecosystem.,little rain,p2
+The area that receives little rain develops a very different ecosystem.,the area that receives little rain,p2
+The area that receives little rain develops a very different ecosystem.,a very different ecosystem,p4
+The area that receives little rain becomes a desert.,the area,
+The area that receives little rain becomes a desert.,little rain,p2
+The area that receives little rain becomes a desert.,the area that receives little rain,p2
+The area that receives little rain becomes a desert.,a desert,p5

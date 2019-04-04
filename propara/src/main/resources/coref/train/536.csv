@@ -1,0 +1,18 @@
+p1,p2,p3
+blood,waste,urine
+SENTENCE,PHRASE,REFERENCE
+Blood is full of different waste.,blood,p1
+Blood is full of different waste.,full of different waste,p2
+Blood travels through the body.,blood,p1
+Blood travels through the body.,through the body,
+Blood travels through the body.,the body,
+The blood enters the kidneys.,the blood,p1
+The blood enters the kidneys.,the kidneys,
+The kidneys filter the blood.,the kidneys,
+The kidneys filter the blood.,the blood,p1
+The waste is seperated.,the waste,p2
+The urine contains the waste.,the urine,p3
+The urine contains the waste.,the waste,p2
+The urine is expelled from the body.,the urine,p3
+The urine is expelled from the body.,from the body,
+The urine is expelled from the body.,the body,

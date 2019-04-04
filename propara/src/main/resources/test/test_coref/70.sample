@@ -1,0 +1,51 @@
+observedAt("be","what does something v ?","a lot of rain",1).
+lvalue("a lot of rain","rain").
+observedAt("get","what v something ?","water levels of a river or lake",2).
+lvalue("water levels of a river or lake","river or lake").
+observedAt("get","what does something v ?","higher",2).
+lvalue("higher","higher").
+observedAt("build","what v up ?","water",3).
+lvalue("water","water").
+observedAt("build","where does something v up ?","on the ground",3).
+lvalue("on the ground","ground").
+observedAt("build","what does something v off ?","the ground",3).
+lvalue("the ground","ground").
+observedAt("cover","what v something ?","water",4).
+lvalue("water","water").
+observedAt("cover","what does something v ?","streets",4).
+lvalue("streets","street").
+observedAt("go","what v into something ?","water",5).
+lvalue("water","water").
+observedAt("go","where is something v ?","into houses",5).
+lvalue("into houses","house").
+observedAt("go","what does something v into ?","houses",5).
+lvalue("houses","house").
+observedAt("stop","what v ?","the rain or other source of water",6).
+lvalue("the rain or other source of water","water").
+observedAt("flow","what v into something ?","water",7).
+lvalue("water","water").
+observedAt("flow","where is something v ?","into streams",7).
+lvalue("into streams","stream").
+observedAt("flow","what does something v into ?","streams",7).
+lvalue("streams","stream").
+observedAt("evaporate","what v ?","the rest of the water",8).
+lvalue("the rest of the water","water").
+time(1..8).
+participant(p1;p2;p3;p4).
+description(p1,"rain").
+description(p2,"water").
+description(p3,"streams").
+description(p4,"water levels").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"a lot of rain").
+refers(2,p2,"water levels of a river or lake").
+refers(2,p4,"water levels of a river or lake").
+refers(3,p2,"water").
+refers(4,p2,"water").
+refers(5,p2,"water").
+refers(6,p1,"the rain or other source of water").
+refers(6,p2,"the rain or other source of water").
+refers(7,p2,"water").
+refers(7,p3,"into streams").
+refers(7,p3,"streams").
+refers(8,p2,"the rest of the water").

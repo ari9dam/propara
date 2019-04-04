@@ -1,0 +1,28 @@
+p1,p2,p3,p4,p5,p6
+light energy,chlorophyll,carbon dioxide,nutrients,glucose,oxygen
+SENTENCE,PHRASE,REFERENCE
+Light energy is absorbed by chlorophyll in a plant.,light energy,p1
+Light energy is absorbed by chlorophyll in a plant.,chlorophyll,p2
+Light energy is absorbed by chlorophyll in a plant.,in a plant,
+The light energy is used to convert carbon dioxide.,the light energy,p1
+The light energy is used to convert carbon dioxide.,to convert carbon dioxide,p3
+The light energy is used to convert carbon dioxide.,convert carbon dioxide,p3
+The light energy is used to convert carbon dioxide.,the light energy,p1
+The light energy is used to convert carbon dioxide.,carbon dioxide,p3
+The plant uses nutrients in the soil.,the plant,
+The plant uses nutrients in the soil.,nutrients,p4
+The plant uses nutrients in the soil.,in the soil,
+The plant uses carbon dioxide in the air to produce glucose.,the plant,
+The plant uses carbon dioxide in the air to produce glucose.,carbon dioxide,p3
+The plant uses carbon dioxide in the air to produce glucose.,in the air,
+The plant uses carbon dioxide in the air to produce glucose.,to produce glucose,p5
+The plant uses carbon dioxide in the air to produce glucose.,carbon dioxide in the air,p3
+The plant uses carbon dioxide in the air to produce glucose.,glucose,p5
+The plant uses the glucose to give itself energy.,the plant,
+The plant uses the glucose to give itself energy.,the glucose,p5
+The plant uses the glucose to give itself energy.,to give itself energy,
+The plant uses the glucose to give itself energy.,the glucose,p5
+The plant uses the glucose to give itself energy.,energy,
+Oxygen is released as a by product.,oxygen,p6
+Oxygen is released as a by product.,as a by product,
+Oxygen is released as a by product.,a by product,

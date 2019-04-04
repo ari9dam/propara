@@ -1,0 +1,14 @@
+p1,p2
+bee,pollen
+SENTENCE,PHRASE,REFERENCE
+A bee visits a flower.,a bee,p1
+A bee visits a flower.,a flower,
+The hairs on the bees legs collect pollen.,the hairs on the bees legs,p1
+The hairs on the bees legs collect pollen.,pollen,p2
+The bee moves on to a different flower.,the bee,p1
+The bee moves on to a different flower.,on to a different flower,
+The bee moves on to a different flower.,a different flower,
+Some pollen falls off the bee.,some pollen,p2
+Some pollen falls off the bee.,off the bee,p1
+Some pollen falls off the bee.,the bee,p1
+The flower is pollinated.,the flower,

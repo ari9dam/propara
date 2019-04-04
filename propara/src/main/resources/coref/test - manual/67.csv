@@ -1,0 +1,29 @@
+p1,p2,p3
+"plants, dead plants",peat,coal
+SENTENCE,PHRASE,REFERENCE
+Plants die.,plants,p1
+The dead plants end up in swamps.,the dead plants,p1
+The dead plants end up in swamps.,dead plants,p1
+The dead plants end up in swamps.,in swamps,
+The dead plants sink to the bottom of the swamps.,the dead plants,p1
+The dead plants sink to the bottom of the swamps.,to the bottom of the swamps,
+The dead plants sink to the bottom of the swamps.,the bottom of the swamps,
+Many more dead plants sink in the same area.,many more dead plants,
+Many more dead plants sink in the same area.,in the same area,
+The dead plants join together forming peat.,the dead plants,p1
+The dead plants join together forming peat.,together forming peat,p2
+The dead plants join together forming peat.,forming peat,p2
+The dead plants join together forming peat.,peat,p2
+Sediment covers the peat.,sediment,
+Sediment covers the peat.,the peat,p2
+The peat continues to decompose.,the peat,p2
+The peat continues to decompose.,to decompose,
+The peat continues to decompose.,the peat,p2
+The peat keeps carbon while eliminating other elements.,the peat,p2
+The peat keeps carbon while eliminating other elements.,carbon,
+The peat keeps carbon while eliminating other elements.,while eliminating other elements,
+The peat keeps carbon while eliminating other elements.,the peat,p2
+The peat keeps carbon while eliminating other elements.,other elements,
+The peat turns into coal after a long time.,the peat,p2
+The peat turns into coal after a long time.,coal,p3
+The peat turns into coal after a long time.,after a long time,

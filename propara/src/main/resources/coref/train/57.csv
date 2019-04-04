@@ -1,0 +1,18 @@
+p1,p2,p3,p4
+"water, droplets",air,ice crystals,snowflakes
+SENTENCE,PHRASE,REFERENCE
+Water evaporates from the ground up to the sky.,water,p1
+Water evaporates from the ground up to the sky.,from the ground up to the sky,
+Water evaporates from the ground up to the sky.,the ground,
+Water evaporates from the ground up to the sky.,up to the sky,
+Water droplets are in clouds.,water droplets,p1
+Water droplets are in clouds.,in clouds,
+The air gets cold.,the air,p2
+The air gets cold.,cold,
+Water droplets turn into ice crystals.,water droplets,p1
+Water droplets turn into ice crystals.,ice crystals,p3
+Ice crystals in clouds stick together and become snowflakes.,ice crystals in clouds,p3
+Ice crystals in clouds stick together and become snowflakes.,in clouds,
+Ice crystals in clouds stick together and become snowflakes.,together,
+Ice crystals in clouds stick together and become snowflakes.,ice crystals in clouds,p3
+Ice crystals in clouds stick together and become snowflakes.,snowflakes,p4

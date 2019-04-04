@@ -1,0 +1,15 @@
+p1,p2,p3,p4
+animal,skeleton,rock,mold
+SENTENCE,PHRASE,REFERENCE,
+An animal dies.,an animal,p1,
+The animal is buried fast under mud.,the animal,p1,
+The animal is buried fast under mud.,fast under mud,,
+The soft parts of the animal's body rot away.,the soft parts of the animal 's body,p1,
+The soft parts of the animal's body rot away.,away,,
+The mud around the skeleton turns into rock.,the mud around the skeleton,p2,
+The mud around the skeleton turns into rock.,rock,p3,
+The skeleton dissolves.,the skeleton,p2,
+A mold is left in the mud where the skeleton was.,a mold,p4,
+A mold is left in the mud where the skeleton was.,in the mud,,
+A mold is left in the mud where the skeleton was.,in the mud,,
+A mold is left in the mud where the skeleton was.,the skeleton,p2,

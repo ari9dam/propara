@@ -1,0 +1,10 @@
+p1,p2,p3
+bacteria,cells,sickness
+SENTENCE,PHRASE,REFERENCE
+Bacteria enters the body.,bacteria,p1
+Bacteria enters the body.,the body,
+Bloodstream.,Bloodstream.,
+Cells in the body are attacked.,cells,p2
+Cells in the body are attacked.,in the body,
+Cells are killed.,cells,p2
+Different kinds of sickness are formed.,different kinds of sickness,p3

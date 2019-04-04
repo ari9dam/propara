@@ -1,0 +1,29 @@
+p1,p2,p3,p4,p5
+envelope,flag on your mailbox,letter,nice things,stamp
+SENTENCE,PHRASE,REFERENCE
+Choose what you want to write your letter on.,what you want to write your letter on,p3
+Choose what you want to write your letter on.,you,
+Choose what you want to write your letter on.,to write your letter on,p3
+Choose what you want to write your letter on.,you,
+Choose what you want to write your letter on.,your letter,p3
+Think of what you want to say.,what you want to say,
+Think of what you want to say.,you,
+Think of what you want to say.,to say,
+Think of what you want to say.,say,
+Think of what you want to say.,you,
+Write some nice things!.,some nice things,p4
+Place the letter into an envelope.,the letter,p3
+Place the letter into an envelope.,into an envelope,p1
+Place the letter into an envelope.,an envelope,p1
+Put a stamp on the top right corner of the face of the envelope.,a stamp,p5
+Put a stamp on the top right corner of the face of the envelope.,on the top right corner of the face of the envelope,p1
+Write the address of the recipient on the envelope.,the address of the recipient,
+Write the address of the recipient on the envelope.,on the envelope,p1
+Put the envelope in your mailbox.,the envelope,p1
+Put the envelope in your mailbox.,in your mailbox,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",the flag,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",on your mailbox,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",the mailman,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",that you have outgoing mail,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",you,
+"Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.",outgoing mail,

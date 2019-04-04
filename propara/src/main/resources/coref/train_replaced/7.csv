@@ -1,0 +1,24 @@
+p1,p2,p3
+magma,lava,new rock
+SENTENCE,PHRASE,REFERENCE
+Magma rises from deep in the earth.,magma,p1
+Magma rises from deep in the earth.,from deep in the earth,
+Magma rises from deep in the earth.,deep in the earth,
+The magma goes into volcanos.,the magma,p1
+The magma goes into volcanos.,into volcanos,
+The magma goes into volcanos.,volcanos,
+The volcanos pressure the magma upwards.,the volcanos,
+The volcanos pressure the magma upwards.,the magma,p1
+The volcanos pressure the magma upwards.,upwards,
+The pressure causes the magma to push through the surface of the volcano.,the pressure,
+The pressure causes the magma to push through the surface of the volcano.,the magma to push through the surface of the volcano,p1
+The pressure causes the magma to push through the surface of the volcano.,the magma,p1
+The pressure causes the magma to push through the surface of the volcano.,through the surface of the volcano,
+The pressure causes the magma to push through the surface of the volcano.,the surface of the volcano,
+The lava cools.,the lava,p2
+The lava forms new rock.,the lava,p2
+The lava forms new rock.,new rock,p3
+New magma is pressured to the surface of the volcano.,new magma,
+New magma is pressured to the surface of the volcano.,to the surface of the volcano,
+New magma is pressured to the surface of the volcano.,the surface of the volcano,
+The volcano bursts through the rock the formed after the last eruption.,after the last eruption,

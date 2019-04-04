@@ -1,0 +1,21 @@
+p1,p2,p3,p4
+blood clot,cells,callous,excess bone
+SENTENCE,PHRASE,REFERENCE
+A blood clot forms in the break.,a blood clot,p1
+A blood clot forms in the break.,in the break,
+Cells in the clot keep foreign objects out.,cells in the clot,p2
+Cells in the clot keep foreign objects out.,in the clot,
+Cells in the clot keep foreign objects out.,foreign objects,
+Cells in the clot keep foreign objects out.,out,
+Cells create a soft callous.,cells,p2
+Cells create a soft callous.,a soft callous,p3
+Minerals are added to the callous.,minerals,
+Minerals are added to the callous.,the callous,p3
+The callous hardens because of the minerals.,callous,p3
+The callous hardens because of the minerals.,because of the minerals,
+The callous is removed by other cells.,the callous,p3
+The callous is removed by other cells.,other cells,p2
+Excess bone is removed.,excess bone,p4
+The bone is restored to its initial shape and strength.,the bone,
+The bone is restored to its initial shape and strength.,to its initial shape and strength,
+The bone is restored to its initial shape and strength.,its initial shape and strength,

@@ -1,0 +1,15 @@
+p1,p2,p3,p4,p5
+Grass,Small plants,organic material,larger plants,trees
+SENTENCE,PHRASE,REFERENCE,,
+Grass and small plants grow in an area.,grass and small plants,"p1,p2",,
+Grass and small plants grow in an area.,in an area,,,
+These plants die.,these plants,,,
+The soil gains organic material.,the soil,,,
+The soil gains organic material.,organic material,p3,,
+The soil becomes more fertile.,the soil,,,
+The soil becomes more fertile.,more fertile,,,
+Larger plants are able to be supported.,larger plants,p4,,
+Larger plants are able to be supported.,able to be supported,,,
+Larger plants are able to be supported.,larger plants,p4,,
+Trees eventually grow.,trees,p5,,
+Trees eventually grow.,eventually,,,

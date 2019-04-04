@@ -1,0 +1,23 @@
+p1,p2,
+oil,"more useful product, gas",
+SENTENCE,PHRASE,REFERENCE
+The oil is extracted from the ground by drilling.,the oil,p1
+The oil is extracted from the ground by drilling.,from the ground,
+The oil is extracted from the ground by drilling.,the ground,
+The oil is extracted from the ground by drilling.,by drilling,
+Oil is transported to a refinery.,oil,p1
+Oil is transported to a refinery.,to a refinery,
+Oil is transported to a refinery.,a refinery,
+The oil is refined into a more useful product.,the oil,p1
+The oil is refined into a more useful product.,into a more useful product,p2
+The oil is refined into a more useful product.,a more useful product,p2
+The gas made from the refining is loaded onto tank trucks.,the gas,p2
+The gas made from the refining is loaded onto tank trucks.,from the refining,
+The gas made from the refining is loaded onto tank trucks.,the refinery,
+The gas made from the refining is loaded onto tank trucks.,the gas made from the refining,p2
+The gas made from the refining is loaded onto tank trucks.,onto tank trucks,
+The gas made from the refining is loaded onto tank trucks.,tank trucks,
+The trucks deliver the gas to gas stations.,the trucks,
+The trucks deliver the gas to gas stations.,the gas,p2
+The trucks deliver the gas to gas stations.,to gas stations,
+The trucks deliver the gas to gas stations.,gas stations,

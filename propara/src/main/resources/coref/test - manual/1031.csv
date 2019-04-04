@@ -1,0 +1,17 @@
+p1,p2,p3,p4,p5
+plant or animal,bones,sediment,rock,fossil
+SENTENCE,PHRASE,REFERENCE,,
+A plant or animal dies in mud or soil.,a plant or animal,p1,,
+A plant or animal dies in mud or soil.,in mud or soil,,,
+A plant or animal dies in mud or soil.,mud or soil,,,
+The bones are all that remains.,the bones,p2,,
+The bones are all that remains.,all that remains,,,
+The bones are all that remains.,the bones,p2,,
+Over time the bones are covered in sediment.,over time,,,
+Over time the bones are covered in sediment.,the bones,p2,,
+Over time the bones are covered in sediment.,in sediment,p3,,
+Over time the bones are covered in sediment.,sediment,p3,,
+The sediment becomes rock.,the sediment,p3,,
+The sediment becomes rock.,rock,p4,,
+The rock becomes a fossil.,the rock,p4,,
+The rock becomes a fossil.,a fossil,p5,,

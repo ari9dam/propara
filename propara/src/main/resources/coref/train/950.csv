@@ -1,0 +1,15 @@
+p1,p2
+water,ice
+SENTENCE,PHRASE,REFERENCE
+Water gets into cracks in rocks.,water,p1
+Water gets into cracks in rocks.,cracks in rocks,
+Water gets into cracks in rocks.,in rocks,
+The water freezes into ice.,the water,p1
+The water freezes into ice.,into ice,p2
+The cracks expand.,the cracks,
+Over time the rocks split.,over time,
+Over time the rocks split.,the rocks,
+The rocks are now in smaller pieces.,the rocks,
+The rocks are now in smaller pieces.,now,
+The rocks are now in smaller pieces.,in smaller pieces,
+The rocks are now in smaller pieces.,smaller pieces,

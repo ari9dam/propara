@@ -1,0 +1,40 @@
+observedAt("refract","what v something ?","the cornea and lens",1).
+lvalue("the cornea and lens","cornea and lens").
+observedAt("refract","what does something v ?","light",1).
+observedAt("refract","where is something v ?","into a small image",1).
+observedAt("refract","what does something v something into ?","a small image",1).
+observedAt("shine","what is being v ?","it",2).
+observedAt("shine","where is something being v ?","on the retina",2).
+lvalue("on the retina","retina").
+observedAt("shine","what is something being v on ?","the retina",2).
+lvalue("the retina","retina").
+observedAt("convert","what v something ?","the retina 's rods and cones",3).
+lvalue("the retina 's rods and cones","retina 's rod").
+observedAt("convert","what does something v ?","it",3).
+observedAt("convert","what does something v something to ?","to electrical pulses",3).
+observedAt("convert","what does something v to ?","electrical pulses",3).
+observedAt("carry","what v something ?","the optic nerve",4).
+lvalue("the optic nerve","optic nerve").
+observedAt("carry","what does something v ?","electrical pulses",4).
+observedAt("carry","where does something v something ?","through the optic canal",4).
+lvalue("through the optic canal","optic canal").
+observedAt("end","what v ?","nerve fibers",5).
+lvalue("nerve fibers","nerve fiber").
+observedAt("end","where does something v ?","in the lateral geniculate nucleus and the visual cortex",5).
+lvalue("in the lateral geniculate nucleus and the visual cortex","lateral geniculate nucleus and the visual cortex").
+observedAt("end","what does something v in ?","the lateral geniculate nucleus and the visual cortex",5).
+lvalue("the lateral geniculate nucleus and the visual cortex","lateral geniculate nucleus and the visual cortex").
+time(1..5).
+participant(p1;p2;p3;p4).
+description(p1,"light").
+description(p2,"small image").
+description(p3,"retina's rods and cones").
+description(p4,"electrical pulses").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p1,"light").
+refers(1,p2,"into a small image").
+refers(1,p2,"a small image").
+refers(3,p3,"the retina 's rods and cones").
+refers(3,p4,"to electrical pulses").
+refers(3,p4,"electrical pulses").
+refers(4,p4,"electrical pulses").

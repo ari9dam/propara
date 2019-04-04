@@ -1,0 +1,25 @@
+p1,p2,p3
+sunlight,direct current,alternating current
+SENTENCE,PHRASE,REFERENCE
+Solar panels are made up of two types of silicon.,solar panels,
+Solar panels are made up of two types of silicon.,two types of silicon,
+Sun shines on solar panels.,sun,
+Sun shines on solar panels.,on solar panels,
+Sun shines on solar panels.,solar panels,
+Sunlight goes into the top half of the solar panel.,sunlight,p1
+Sunlight goes into the top half of the solar panel.,into the top half of the solar panel,
+Sunlight goes into the top half of the solar panel.,the top half of the solar panel,
+Sunlight travels into the bottom half of the solar panel.,sunlight,p1
+Sunlight travels into the bottom half of the solar panel.,into the bottom half of the solar panel,
+Sunlight travels into the bottom half of the solar panel.,the bottom half of the solar panel,
+"The ""jump"" between the two halves can be used to make direct current.","the "" jump "" between the two halves",
+"The ""jump"" between the two halves can be used to make direct current.",to make direct current,p2
+"The ""jump"" between the two halves can be used to make direct current.","the "" jump "" between the two halves",
+"The ""jump"" between the two halves can be used to make direct current.",direct current,p2
+"A solar ""inverter"" changes the direct current to alternating current.","a solar "" inverter """,
+"A solar ""inverter"" changes the direct current to alternating current.",the direct current to alternating current,"p2,p3"
+"A solar ""inverter"" changes the direct current to alternating current.",current,
+Alternating current can be used to power things in your house.,current,
+Alternating current can be used to power things in your house.,alternating current,p3
+Alternating current can be used to power things in your house.,to power things in your house,
+Alternating current can be used to power things in your house.,in your house,

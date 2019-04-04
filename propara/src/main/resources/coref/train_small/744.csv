@@ -1,0 +1,16 @@
+p1,p2,p3
+bee,nectar,pollen
+SENTENCE,PHRASE,REFERENCE
+Bees land on flowers and eat the nectar of the plants.,bees,p1
+Bees land on flowers and eat the nectar of the plants.,the nectar of the plants,p2
+While on the flowers pollen gets on the bee's fur.,pollen,p3
+While on the flowers pollen gets on the bee's fur.,the bee 's fur,p1
+The bee flies to another area with other flowers.,the bee,p1
+The bee flies to another area with other flowers.,to another area,
+The bee flies to another area with other flowers.,another area,
+The bee flies to another area with other flowers.,with other flowers,
+The pollen is deposited in that area.,the pollen,p3
+The pollen is deposited in that area.,in that area,
+A plant is able to reproduce.,a plant,
+A plant is able to reproduce.,able to reproduce,
+A plant is able to reproduce.,a plant,

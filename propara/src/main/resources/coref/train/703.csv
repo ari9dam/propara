@@ -1,0 +1,30 @@
+p1,p2,p3,p4,p5,p6,p7
+greenhouse gas,air,earth,energy from sun,heat,greenhouse gas molecules,polar ice cap
+SENTENCE,PHRASE,REFERENCE
+Greenhouse gases are released into the air by human activities.,greenhouse gases,p1
+Greenhouse gases are released into the air by human activities.,into the air,p2
+Greenhouse gases are released into the air by human activities.,the air,p2
+Greenhouse gases are released into the air by human activities.,by human activities,
+Greenhouse gases are released into the air by human activities.,human activities,
+The earth changes energy from the sun into heat.,the earth,p3
+The earth changes energy from the sun into heat.,energy,
+The earth changes energy from the sun into heat.,into heat,p5
+Heat rises from the ground.,heat,p5
+Heat rises from the ground.,from the ground,
+Heat rises from the ground.,the ground,
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,greenhouse gas molecules in the atmosphere,"p1,p6"
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,in the atmosphere,
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,the heat from going into space,p5
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,going into space,
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,the heat,p5
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,heat,p5
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,into space,
+Greenhouse gas molecules in the atmosphere prevent the heat from going into space.,space,
+The temperature of the earth increases.,the temperature of the earth,p3
+The temperature continues to rise and melts the polar ice caps.,the temperature,
+The temperature continues to rise and melts the polar ice caps.,to rise,
+The temperature continues to rise and melts the polar ice caps.,the temperature,
+The temperature continues to rise and melts the polar ice caps.,the temperature,
+The temperature continues to rise and melts the polar ice caps.,the polar ice caps,p7
+The temperature rises even faster.,the temperature,
+The temperature rises even faster.,even faster,

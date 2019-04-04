@@ -1,0 +1,28 @@
+p1,p2,p3
+"digestive juices, digestive juice",insulin,glucagon
+SENTENCE,PHRASE,REFERENCE
+Over 99% of the exocrine pancreas cells produce digestive juices.,over 99 % of the exocrine pancreas cells,
+Over 99% of the exocrine pancreas cells produce digestive juices.,digestive juices,p1
+"They secrete digestive juice ""externally"" into the small intestine.",they,
+"They secrete digestive juice ""externally"" into the small intestine.",digestive juice,p1
+"They secrete digestive juice ""externally"" into the small intestine.",externally into the small intestine,
+"They secrete digestive juice ""externally"" into the small intestine.",into the small intestine,
+"They secrete digestive juice ""externally"" into the small intestine.",the small intestine,
+"There are enzymes for breaking down fats, proteins , and carbohydrates.",enzymes,
+"There are enzymes for breaking down fats, proteins , and carbohydrates.","for breaking down fats , proteins , and carbohydrates",
+"There are enzymes for breaking down fats, proteins , and carbohydrates.",enzymes,
+"There are enzymes for breaking down fats, proteins , and carbohydrates.","fats , proteins , and carbohydrates",
+Digestive juices flows from the pancreas through an excretory duct into the small intestine.,digestive juices,p1
+Digestive juices flows from the pancreas through an excretory duct into the small intestine.,from the pancreas,
+Digestive juices flows from the pancreas through an excretory duct into the small intestine.,the pancreas,
+Digestive juices flows from the pancreas through an excretory duct into the small intestine.,through an excretory duct into the small intestine,
+"When the blood sugar levels rise, as they might after a meal, insulin is released.",the blood sugar levels,
+"When the blood sugar levels rise, as they might after a meal, insulin is released.","when the blood sugar levels rise , as they might after a meal",
+"When the blood sugar levels rise, as they might after a meal, insulin is released.",insulin,p2
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",blood sugar levels,
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",too low,
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",when blood sugar levels are too low,
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",the pancreas,
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",glucagon,p3
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",into the bloodstream,
+"When blood sugar levels are too low, the pancreas releases glucagon into the bloodstream.",the bloodstream,

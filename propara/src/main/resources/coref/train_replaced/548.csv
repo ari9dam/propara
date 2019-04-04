@@ -1,0 +1,42 @@
+p1,p2,p3,p4,p5,p6
+blood,toxins,"vitamins and minerals, good stuff","waste, stuff your body doesn't need",bile,glycogen
+SENTENCE,PHRASE,REFERENCE
+The liver removes toxins from the blood.,the liver,
+The liver removes toxins from the blood.,toxins,p2
+The liver removes toxins from the blood.,from the blood,p1
+The liver removes toxins from the blood.,the blood,p1
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,liver,
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,blood,p1
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,during digestion,
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,blood,p1
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,with vitamins and minerals,p3
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,vitamins and minerals,p3
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.,during digestion,
+Liver processes the good stuff into forms that the rest of the body can use.,liver,
+Liver processes the good stuff into forms that the rest of the body can use.,the good stuff,p3
+Liver processes the good stuff into forms that the rest of the body can use.,into forms that the rest of the body can use,
+Liver processes the good stuff into forms that the rest of the body can use.,forms that the rest of the body can use,
+Liver processes the good stuff into forms that the rest of the body can use.,forms,
+Liver processes the good stuff into forms that the rest of the body can use.,the rest of the body,
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,your body,
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,waste or stuff your body,p4
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,waste or stuff your body does n't need,p4
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,by bile,p5
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,bile,p5
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.,back into the intestine or into the kidneys,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,the liver,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,a digestive juice called bile,p5
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,a digestive juice,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,bile,p5
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,a digestive juice called bile,p5
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,the body absorb fat into the bloodstream,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,absorb fat into the bloodstream,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,the body,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,fat,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,into the bloodstream,
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.,the bloodstream,
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.,the body,
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.,as fuel,
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.,fuel,
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.,when needed,
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.,the liver,

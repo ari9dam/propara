@@ -1,0 +1,72 @@
+observedAt("begin","what v ?","visual perception",1).
+observedAt("begin","when does something v ?","as soon as the eye focuses light onto the retina",1).
+lvalue("as soon as the eye focuses light onto the retina","retina").
+observedAt("focus","what v something ?","the eye",1).
+lvalue("the eye","eye").
+observedAt("focus","what does something v ?","light",1).
+observedAt("focus","where does something v something ?","onto the retina",1).
+lvalue("onto the retina","retina").
+observedAt("absorb","where is something v ?","the retina",1).
+lvalue("the retina","retina").
+observedAt("absorb","what is v by something ?","it",1).
+observedAt("absorb","how is something v ?","by a layer of photoreceptor cells",1).
+lvalue("by a layer of photoreceptor cells","photoreceptor cell").
+observedAt("absorb","what is something v by ?","a layer of photoreceptor cells",1).
+lvalue("a layer of photoreceptor cells","photoreceptor cell").
+observedAt("convert","what v something ?","these cells",2).
+observedAt("convert","what does something v ?","light",2).
+observedAt("convert","what does something v something into ?","into electrochemical signals",2).
+observedAt("divide","what is v into something ?","these cells",2).
+observedAt("divide","how is something v ?","into two types , rods",2).
+lvalue("into two types , rods","rod").
+observedAt("divide","what is something v into ?","two types , rods",2).
+lvalue("two types , rods","rod").
+observedAt("noverb","noquestion","Cones.",3).
+lvalue("Cones.","cone").
+observedAt("pass","what v ?","signals from the photoreceptor cells",4).
+lvalue("signals from the photoreceptor cells","photoreceptor cell").
+observedAt("pass","where does something v ?","through a network of interneurons in the second layer of the retina",4).
+lvalue("through a network of interneurons in the second layer of the retina","retina").
+observedAt("pass","what does something v into ?","a network of interneurons",4).
+observedAt("exhibit","what v something ?","the neurons in these two retinal layers",5).
+lvalue("the neurons in these two retinal layers","retina").
+observedAt("exhibit","what does something v ?","complex receptive fields",5).
+observedAt("enable","what v something ?","complex receptive fields",5).
+observedAt("enable","what does something v something to do ?","to detect contrast changes within an image",5).
+observedAt("detect","what v something ?","them",5).
+observedAt("detect","what is being v ?","contrast changes",5).
+observedAt("detect","where is something being v ?","within an image",5).
+observedAt("indicate","what might v something ?","these changes",5).
+observedAt("indicate","what might something v ?","edges or shadows",5).
+observedAt("route","what v something ?","the optic nerve",6).
+lvalue("the optic nerve","optic nerve").
+observedAt("route","what does something v ?","information",6).
+observedAt("route","where does something v something ?","via the thalamus to the cerebral cortex",6).
+lvalue("via the thalamus to the cerebral cortex","cerebral cortex").
+observedAt("concern","what v something ?","information",7).
+observedAt("concern","what is being v ?","moving targets",7).
+observedAt("move","what is v ?","targets",7).
+observedAt("govern","what v something ?","information",7).
+observedAt("govern","what is being v ?","scanning of the eyes",7).
+lvalue("scanning of the eyes","eye").
+observedAt("travel","what v somewhere ?","information concerning moving targets and information governing scanning of the eyes",7).
+lvalue("information concerning moving targets and information governing scanning of the eyes","eye").
+observedAt("travel","where does something v ?","to a second site in the brainstem",7).
+lvalue("to a second site in the brainstem","brain").
+observedAt("travel","what does something v to ?","a second site in the brainstem",7).
+lvalue("a second site in the brainstem","brain").
+observedAt("call","what is v something ?","a nucleus",7).
+observedAt("call","what is something v ?","the superior colliculus",7).
+lvalue("the superior colliculus","superior colliculus").
+observedAt("call","what is v something ?","a part of the thalamus",8).
+observedAt("call","what is something v ?","the lateral geniculate nucleus ( lgn )",8).
+lvalue("the lateral geniculate nucleus ( lgn )","lateral geniculate nucleus").
+time(1..8).
+participant(p1;p2).
+description(p1,"electrochemical signals").
+description(p2,"light").
+annotator(a1;a2;a3;a4;a5).
+refers(1,p2,"as soon as the eye focuses light onto the retina").
+refers(1,p2,"light").
+refers(2,p2,"light").
+refers(2,p1,"into electrochemical signals").

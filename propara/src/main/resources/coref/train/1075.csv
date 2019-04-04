@@ -1,0 +1,21 @@
+p1,p2,p3,p4,p5,p6,p7
+ice,cloud,electrostatic charges,thundercloud,negative charge,positive energy,lightning
+SENTENCE,PHRASE,REFERENCE
+Ice forms inside a cloud.,ice,p1
+Ice forms inside a cloud.,inside a cloud,p2
+Ice inside the cloud bumps around and causes electrostatic charges.,ice,p1
+Ice inside the cloud bumps around and causes electrostatic charges.,inside the cloud,p2
+Ice inside the cloud bumps around and causes electrostatic charges.,electrostatic charges,p3
+The cloud becomes a thundercloud.,the cloud,p2
+The cloud becomes a thundercloud.,a thundercloud,"p2,p4"
+Electrostatic energy builds and forms a strong negative charge.,electrostatic energy,
+Electrostatic energy builds and forms a strong negative charge.,electrostatic energy,
+Electrostatic energy builds and forms a strong negative charge.,a strong negative charge,p5
+Positive energy is attracted to the negative energy in the cloud.,positive energy,p6
+Positive energy is attracted to the negative energy in the cloud.,the negative energy in the cloud,p2
+Positive energy is attracted to the negative energy in the cloud.,in the cloud,p2
+This positive energy gathers on the ground.,this positive energy,p6
+This positive energy gathers on the ground.,on the ground,
+This positive energy gathers on the ground.,the ground,
+The positive energy connects with the negative energy and forms lightning.,the positive energy,p6
+The positive energy connects with the negative energy and forms lightning.,the negative energy,

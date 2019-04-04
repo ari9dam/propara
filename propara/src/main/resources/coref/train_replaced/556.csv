@@ -1,0 +1,11 @@
+p1,,
+sugar,,
+SENTENCE,PHRASE,REFERENCE
+Sugar enters the body.,sugar,p1
+Sugar enters the body.,the body,
+Bloodstream.,Bloodstream.,
+The pancreas.,The pancreas.,
+Insulin lower sugar levels.,insulin,
+Insulin lower sugar levels.,sugar levels,p1
+Bloo sugar goes back to normal.,bloo sugar,p1
+Bloo sugar goes back to normal.,back to normal,

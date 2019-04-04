@@ -1,0 +1,26 @@
+p1,p2,p3,p4
+seeds,seedlings,plants,weeds
+SENTENCE,PHRASE,REFERENCE
+Seeds are sown into the ground.,seeds,p1
+Seeds are sown into the ground.,into the ground,
+Seeds are sown into the ground.,the ground,
+The earth where the seeds are planted is given water and fertilizer.,the earth,
+The earth where the seeds are planted is given water and fertilizer.,the earth where the seeds are planted,"p1,p3"
+The earth where the seeds are planted is given water and fertilizer.,water and fertilizer,
+The seeds start to grow and become seedlings.,the seeds,p1
+The seeds start to grow and become seedlings.,to grow,
+The seeds start to grow and become seedlings.,the seeds,p1
+The seeds start to grow and become seedlings.,the seeds,p1
+The seeds start to grow and become seedlings.,seedlings,p2
+The plants are given water.,the plants,p3
+The plants are given water.,water,
+The seedlings grow into plants.,the seedlings,p2
+The seedlings grow into plants.,into plants,p3
+The seedlings grow into plants.,plants,p3
+Weeds growing near the plants are removed.,weeds,p4
+Weeds growing near the plants are removed.,near the plants,p3
+Weeds growing near the plants are removed.,weeds,p4
+Weeds growing near the plants are removed.,near the plants,p3
+The plants grow to maturity.,the plants,p3
+The plants grow to maturity.,to maturity,
+The plants grow to maturity.,maturity,

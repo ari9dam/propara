@@ -1,0 +1,52 @@
+p1,p2,p3,p4,p5,p6
+Cut,Tissue,Skin,Blood Clots,skin,veins
+SENTENCE,PHRASE,REFERENCE
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",your body,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",rapid hemostasis,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",through a process called vasoconstriction,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",your body,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",the bleed,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",through a process called vasoconstriction,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",through a process called vasoconstriction,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",a process,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",vasoconstriction,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",your blood vessels,
+"Your body accomplishes ""rapid hemostasis"" (stops the bleeding) through a process called vasoconstriction, in which your blood vessels are closed tight.",tight,
+Inflammation is your body's way of alerting you of an injury.,inflammation,
+Inflammation is your body's way of alerting you of an injury.,your body 's way of alerting you of an injury,
+Inflammation is your body's way of alerting you of an injury.,inflammation,
+Inflammation is your body's way of alerting you of an injury.,you,
+Inflammation is your body's way of alerting you of an injury.,an injury,
+Proliferation and migration is when cells move in a certain orderto been to heel and to further contract blood vessels. and.,proliferation and migration,
+Proliferation and migration is when cells move in a certain orderto been to heel and to further contract blood vessels. and.,when cells move in a certain orderto been to heel and to further contract blood vessels,
+Proliferation and migration is when cells move in a certain orderto been to heel and to further contract blood vessels. and.,cells,
+Proliferation and migration is when cells move in a certain orderto been to heel and to further contract blood vessels. and.,in a certain orderto,
+Proliferation and migration is when cells move in a certain orderto been to heel and to further contract blood vessels. and.,to heel,
+The body then begins the process of rebuilding tissue and is called angiogenesis.,the body,
+The body then begins the process of rebuilding tissue and is called angiogenesis.,the process of rebuilding tissue,p2
+The body then begins the process of rebuilding tissue and is called angiogenesis.,the body,
+The body then begins the process of rebuilding tissue and is called angiogenesis.,tissue,p2
+The body then begins the process of rebuilding tissue and is called angiogenesis.,the body,
+The body then begins the process of rebuilding tissue and is called angiogenesis.,angiogenesis,
+It's time to begin regrowing damaged skin which is called reepithelialization.,it,
+It's time to begin regrowing damaged skin which is called reepithelialization.,time,
+It's time to begin regrowing damaged skin which is called reepithelialization.,regrowing damaged skin,"p3,p5"
+It's time to begin regrowing damaged skin which is called reepithelialization.,damaged skin,"p3,p5"
+It's time to begin regrowing damaged skin which is called reepithelialization.,skin,"p3,p5"
+It's time to begin regrowing damaged skin which is called reepithelialization.,regrowing damaged skin,"p3,p5"
+It's time to begin regrowing damaged skin which is called reepithelialization.,reepithelialization,
+Synthesis often happens almost simultaneously as it form blood clots.,synthesis,
+Synthesis often happens almost simultaneously as it form blood clots.,as it form blood clots,p4
+Synthesis often happens almost simultaneously as it form blood clots.,almost simultaneously,
+Synthesis often happens almost simultaneously as it form blood clots.,synthesis,
+Synthesis often happens almost simultaneously as it form blood clots.,blood clots,p4
+Synthesis helps further prevent bleeding as new skin and veins are formed.,synthesis,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,further prevent bleeding,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,prevent bleeding,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,as new skin and veins are formed,"p3,p5,p6"
+Synthesis helps further prevent bleeding as new skin and veins are formed.,synthesis,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,bleeding,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,as new skin and veins are formed,"p3,p5,p6"
+Synthesis helps further prevent bleeding as new skin and veins are formed.,synthesis,
+Synthesis helps further prevent bleeding as new skin and veins are formed.,as new skin and veins are formed,"p3,p5,p6"
+Synthesis helps further prevent bleeding as new skin and veins are formed.,new skin and veins,"p3,p5,p6"

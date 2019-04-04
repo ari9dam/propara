@@ -1,0 +1,20 @@
+p1,p2,p3,p4,p5
+Trees,Networks of trees,dead material,nutrients,shelter
+SENTENCE,PHRASE,REFERENCE
+Networks of trees start forming.,networks of trees,"p1,p2"
+Networks of trees start forming.,forming,
+Networks of trees start forming.,networks of trees,"p1,p2"
+The trees die off.,the trees,p1
+The dead material provides nutrients for more trees.,the dead material,p3
+The dead material provides nutrients for more trees.,nutrients,p4
+The dead material provides nutrients for more trees.,for more trees,p1
+The dead material provides nutrients for more trees.,more trees,p1
+The rising trees provide shelter.,trees,p1
+The rising trees provide shelter.,the rising trees,p1
+The rising trees provide shelter.,shelter,p5
+And more organisms begin to thrive.,more organisms,
+And more organisms begin to thrive.,to thrive,
+And more organisms begin to thrive.,more organisms,
+The ecosystem known as a forest is made.,the ecosystem,
+The ecosystem known as a forest is made.,a forest,
+The ecosystem known as a forest is made.,the ecosystem known as a forest,
