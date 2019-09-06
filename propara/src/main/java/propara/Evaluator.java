@@ -58,7 +58,7 @@ public class Evaluator {
 		Pattern locPattern = Pattern.compile("prediction\\((.+?),\"(.+?)\",(.+?)\\)");
 		Pattern namePattern = Pattern.compile("description\\((..),\"(.+?)\"\\)");
 
-		BufferedWriter writer = Files.newBufferedWriter(new File("predictions_proKM.tsv").toPath());
+		BufferedWriter writer = Files.newBufferedWriter(new File("predictions_proKM_reproduce.tsv").toPath());
 		CSVPrinter printer = new CSVPrinter(writer, CSVFormat.DEFAULT.withDelimiter('\t'));
 		File[] fnames = testData.listFiles();
 		Arrays.sort(fnames, new Comparator<File>(){
